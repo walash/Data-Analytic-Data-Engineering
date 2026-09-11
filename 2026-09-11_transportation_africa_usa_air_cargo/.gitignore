@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/processed/
+data/air_cargo.db
+data/pipeline_report.txt

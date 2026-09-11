@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  pipeline:
+    build:
+      # Build context is the project root so that src/, config/ and
+      # requirements.txt are available to the Dockerfile.
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-air-cargo:latest
+    container_name: air_cargo_pipeline
+    environment:
+      - PYTHONUNBUFFERED=1
+      - LOG_LEVEL=INFO
+      - CONFIG_PATH=/app/config/config.yaml
+    volumes:
+      # Persist raw, processed and database outputs on the host.
+      - ../data:/app/data
+      # Mount config read-only so runtime edits stay on the host.
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"

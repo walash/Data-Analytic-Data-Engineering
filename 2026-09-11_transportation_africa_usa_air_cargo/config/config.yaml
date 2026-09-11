@@ -1,0 +1,42 @@
+# =====================================================================
+# Africa-USA Air Cargo & Freight Routes -- Project Configuration
+# All data sources are public and free; no API keys are required.
+# The api_keys section is included only as a placeholder structure for
+# teams that later swap in authenticated data providers.
+# =====================================================================
+
+data_sources:
+  # OurAirports global airport reference data (CSV).
+  ourairports_airports: "https://davidmegginson.github.io/ourairports-data/airports.csv"
+  # OpenFlights route network (header-less .dat, comma-separated).
+  openflights_routes: "https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat"
+  # OpenFlights airport reference data (header-less .dat).
+  openflights_airports: "https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat"
+  # World Bank air-freight indicator (million ton-km).
+  worldbank_air_freight: "https://api.worldbank.org/v2/country/all/indicator/IS.AIR.GOOD.MT.K1?format=json&per_page=500"
+  # World Bank air-passengers-carried indicator.
+  worldbank_air_passengers: "https://api.worldbank.org/v2/country/all/indicator/IS.AIR.PSGR?format=json&per_page=500"
+
+paths:
+  raw: "data/raw"
+  processed: "data/processed"
+  database: "data/air_cargo.db"
+
+worldbank:
+  base_url: "https://api.worldbank.org/v2"
+  response_format: "json"
+  per_page: 500
+  indicators:
+    air_freight: "IS.AIR.GOOD.MT.K1"      # Air transport, freight (million ton-km)
+    air_passengers: "IS.AIR.PSGR"         # Air transport, passengers carried
+
+pipeline:
+  batch_size: 5000
+  log_level: "INFO"
+  request_timeout: 60
+  max_retries: 4
+
+# Placeholder structure only -- not required for the public datasets above.
+api_keys:
+  worldbank: ""      # World Bank API is open; leave blank.
+  ourairports: ""    # OurAirports is open; leave blank.
