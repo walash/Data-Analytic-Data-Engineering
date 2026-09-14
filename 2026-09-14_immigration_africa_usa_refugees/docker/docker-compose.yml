@@ -1,0 +1,29 @@
+# Docker Compose definition for the Africa-to-USA immigration data pipeline.
+#
+# Build & run the full ETL:
+#     docker compose -f docker/docker-compose.yml up --build
+#
+# Data is persisted to the host via the ../data bind mount so the SQLite
+# database and processed CSVs survive container restarts.
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: immigration-africa-usa:latest
+    container_name: immigration_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "${LOG_LEVEL:-INFO}"
+      CONFIG_PATH: "/app/config/config.yaml"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+      - ../sql:/app/sql:ro
+    # Run the three ETL stages in sequence.
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
