@@ -1,0 +1,394 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.593917449513598
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.534823180349513
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.45157652011053
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.399382380284272
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.178274598062049
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.137379985514274
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0574013129864174
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.523809621083991
+ETH,Ethiopia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.460203316477344
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,3.04382666975517
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,2.38882511128724
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.47646942688922
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.48254108303764
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.29112489733773
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.959288829892146
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.739931101786048
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.586008315906052
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.275660288360412
+KEN,Kenya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.286921276745847
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.124487385085979
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.10748996107107
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.104182794544746
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.110521830202826
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.106309263427764
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.0989673512851062
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0935555068196559
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.101092139939568
+MDG,Madagascar,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.0931855023903611
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.141999688956087
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.149001818335337
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.197784521833894
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.206558007808804
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.227393157051228
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.234152423439938
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.241713568697421
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.218845913283962
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.170460624854022
+MOZ,Mozambique,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.160353647407002
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.0863853749149284
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.079556560544817
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.0724060330808983
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.0670814931398598
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.0627371263723842
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0596980345376099
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.0613015454757565
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0599566013099431
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0495052352697577
+MWI,Malawi,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.034268649944541
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.595648307197658
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.445556123195211
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.349951615372613
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.238872174708692
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.135352981978881
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0695438976971303
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.0600656822760033
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.178494450936973
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.182235644842436
+RWA,Rwanda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.181485911280924
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.246433216306666
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.10501728326893
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.110774196881278
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.97842
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.86248
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,1.75692
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,1.49944
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,1.37184
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.591695
+TZA,Tanzania,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.203764013437506
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.207613333991268
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.0912969650305002
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.0850849430150062
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.0838841644026815
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.077818750062982
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0752797052682096
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.237414982677972
+UGA,Uganda,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.215083639463292
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,38.8571729185246
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,38.0939254696383
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,37.4887954801437
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,37.0074278936277
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,35.7156999293054
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,33.835216356436
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,33.0559177307939
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,32.5702836317829
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,32.1144006365866
+USA,United States,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,31.3412129772455
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.789797548725881
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.681389878819039
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.428949863290405
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.411108017009319
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.431897234933218
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.48013272665923
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.401856748651311
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.205901846878562
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.18791063697532
+ZMB,Zambia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.142629874135082
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,1.93865437549104
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,1.5745780720211
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.62150159909829
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.29980547197891
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.31037848666133
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,1.33860961244598
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,1.35060459802592
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,1.26454162104636
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,1.17009972538909
+ZWE,Zimbabwe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,1.13887667161631
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.277382047807868
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.170880461346773
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.153072411564925
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.154166533404575
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.229384945213792
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.199854558369357
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.218309314921079
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.237670455772448
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.190616354708843
+BEN,Benin,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.644882115781616
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.851360416490348
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.459463342299517
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.214398323020291
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.0740660150924452
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.0650831126106853
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0573181352576325
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.0676084024258783
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.062133040708376
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0640501279140636
+BFA,Burkina Faso,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.049814972578599
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,1.60153227430253
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,1.36336622359986
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.25179133069312
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.13037781443128
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.903911262107671
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.768711846259475
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.640536308885034
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.534257331996876
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.524752298099937
+CIV,Cote d'Ivoire,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.434546121572781
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,2.12862474053
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,2.23385126289217
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,2.75682417749367
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,1.57189487453881
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,1.59560948486525
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,1.58466709279995
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,1.55529332300567
+CMR,Cameroon,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.0898239605008282
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.664728986034211
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.555476730525596
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.62494509663475
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.352237707175248
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.245771040587956
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.187204014722826
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.199976597372149
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.189313949042323
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.294978237026438
+GHA,Ghana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.254850246382187
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.00627528568380372
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.00729367311055392
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.00747876982911684
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.00959004770933655
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.00954759210986358
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.00909923323417833
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.00911121731661397
+GIN,Guinea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.00849829226816871
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.774220028570636
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.648338018002888
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.12281404354348
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.676472661314418
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.591594866067607
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0777267019132024
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.111738195386459
+MLI,Mali,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.018818888075322
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.111273829357144
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.107619048674827
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.0505953107507067
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0479349681103909
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0403537206550309
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0372575269558715
+NER,Niger,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.136352479886906
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.0787379280608494
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.051283785190682
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.0433814077089791
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.0301639204550369
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.0305206381229766
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0397927035008571
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.0360912702919465
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.0553465496536786
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0552235758942345
+NGA,Nigeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.00822774714580616
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,4.03828584004829
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,1.97393200956788
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.40365165848276
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.20966034985347
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.05641006886622
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.929784903272944
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.815734181499159
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.722423169961464
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.654181134204409
+SEN,Senegal,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.689431357378244
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,1.41538265577438
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,1.22815843837127
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.03723561669214
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.749325974933037
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.607931974735055
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.376920048379618
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.316705449644003
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.627393839501362
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.620529481672155
+TGO,Togo,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.862199121906724
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.362845240712436
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.373668982990052
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.386698155907211
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.39092529517689
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.363264238710965
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.367770426844486
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.350066962955579
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.32055404693903
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.290319010302891
+AGO,Angola,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.545394210158053
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,7.4409622000215
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,6.16495796381324
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,4.53192190474005
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,5.5483769953124
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,3.58604400704343
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,2.10301262862428
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,1.74169396309317
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,1.43086105330679
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,2.64263621946898
+BWA,Botswana,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,1.67228482353299
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,13.3173088877016
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,12.0086836084024
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,10.3517244580598
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,9.33184191925225
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,8.6064465013707
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,8.27526635803041
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,7.21566750856693
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,7.70045809597326
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,7.00004046440209
+DZA,Algeria,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,5.67060147059702
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,11.6871225241757
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,10.8642477216638
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,10.6832498285136
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,9.76582299335252
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,8.5396308016812
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,7.04130696004296
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,6.26825297386708
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,5.04732016956055
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,4.39685382563749
+EGY,"Egypt, Arab Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,3.84187963570353
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,4.51840823499527
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,4.65300430613124
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,4.71229521564357
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,4.5748595928116
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,4.71896206577758
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,2.54699624223062
+LBY,Libya,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.933889931732646
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,7.30282126551091
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,7.02184328513844
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,6.47150166958379
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,6.14617858388986
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,5.74683480916137
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,4.83650253578356
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,4.33205746913484
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,3.89000663311516
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,3.58453478764246
+MAR,Morocco,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,3.31584217888863
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,2.83462992194067
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,3.52006938690795
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,3.29190749644768
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,3.1781346555903
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,2.88695019939445
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,2.60177914003955
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,2.43865058644091
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,2.623967181163
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,2.63785901436242
+NAM,Namibia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,2.96542138735627
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.0604394040047428
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.0632992450276202
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.0615141548276354
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0719282386176834
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.070883060223742
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.071519364027593
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0639264882225092
+SDN,Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.0701896299287803
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.00174164840403178
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.00181468821342766
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.00184064098481655
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.00191876265903664
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.00197570339239139
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.00194947848526301
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.00138502850665672
+SSD,South Sudan,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.00135043147636101
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,14.9741523024679
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,14.0829860846719
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,13.9309222767522
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,12.4220429522978
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,11.1467984493476
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,10.0541966829532
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,8.6185014951323
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,6.8819804955977
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,5.55369160408213
+TUN,Tunisia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,5.03388625276524
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,5.34791194620067
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,3.4056617766544
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,3.12297476001713
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,2.75540858002384
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,2.15159473337087
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,2.09833928490665
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,1.88868165955195
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,1.94879126044618
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,2.00974331775672
+ZAF,South Africa,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,2.48458942184794
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.387941019794517
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.219375008990779
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.150456993255713
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.148099575772006
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.162475940084772
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.198421441439106
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.217268052477371
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.220292527984836
+COM,Comoros,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.220178840263004
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,8.30537440200276
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,7.23008973237277
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,6.56769429388869
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,5.90962142576488
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,4.82611491823059
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,3.93928076809362
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,3.04957977464624
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,2.9232218025982
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,3.0320707671777
+CPV,Cabo Verde,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,3.23344925974933
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,1.47205761945073
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,1.41245769926198
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.39112845686235
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,2.26685414608193
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,2.24265621024535
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,2.3797395608845
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,2.31210201347881
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,2.33941404303751
+DJI,Djibouti,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,2.36839087613311
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.165393390775689
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.149245578525113
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.151916994984612
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.0925870488001644
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.031742535028681
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.0192018556673317
+ERI,Eritrea,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.016100228430041
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,0.518552979215852
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.502141524068284
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.215818879031432
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.194098625393535
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.198749231337348
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.203513124968455
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.184736659621142
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.17078041097452
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.164202246374305
+GMB,"Gambia, The",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.160618270204614
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.274673226516174
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.247180102838331
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.252453508259017
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.21809295161251
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.185608150260109
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.168222443902021
+LBR,Liberia,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.150232936167528
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,27.9742504733832
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,26.9082309192612
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,26.1963906498554
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,25.7028828022003
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,25.1865809761826
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,23.8830105654334
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,21.3138552473439
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,19.0600896444054
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,16.4576177636993
+MUS,Mauritius,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,15.2753864309067
+SLE,Sierra Leone,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.00227311979020093
+SLE,Sierra Leone,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.00227486484143307
+SLE,Sierra Leone,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.00222452405855102
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,0.722963033976147
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,0.668468085170923
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,0.68899907598855
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,0.714663593733325
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.611316681940227
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.656984899202092
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.641171280544494
+SOM,"Somalia, Fed. Rep.",IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.593903235635527
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2024,2.9940221452347
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2023,2.50139688397417
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,2.02470117761428
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2021,1.54216281238596
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2020,1.15528778715478
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2019,0.769475894129115
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2018,0.740768934329906
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2017,0.714596318307001
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2016,0.69959595265331
+STP,Sao Tome and Principe,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2015,0.656045453864627

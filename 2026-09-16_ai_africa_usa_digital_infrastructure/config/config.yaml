@@ -1,0 +1,93 @@
+# =============================================================================
+# Configuration for the AI Adoption & Digital Infrastructure pipeline
+# (43 African countries + USA). Loaded by ingest.py, transform.py, load.py.
+# =============================================================================
+
+world_bank_api:
+  base_url: "https://api.worldbank.org/v2"
+  per_page: 500
+  mrv: 10                       # most-recent-values (last N years) per series
+  format: "json"
+  timeout_seconds: 30
+  # The World Bank Open Data API is free and requires no key. This is kept only
+  # so downstream code can optionally pass an authenticated proxy if needed.
+  api_key: "YOUR_WORLD_BANK_API_KEY_HERE"
+
+# 43 African countries + USA (ISO-3 codes)
+countries:
+  - KEN
+  - ETH
+  - TZA
+  - UGA
+  - RWA
+  - MOZ
+  - MDG
+  - ZMB
+  - ZWE
+  - MWI
+  - NGA
+  - GHA
+  - SEN
+  - CIV
+  - CMR
+  - BEN
+  - TGO
+  - MLI
+  - BFA
+  - NER
+  - GIN
+  - ZAF
+  - EGY
+  - MAR
+  - TUN
+  - DZA
+  - LBY
+  - SDN
+  - SSD
+  - AGO
+  - NAM
+  - BWA
+  - ERI
+  - DJI
+  - SOM
+  - COM
+  - MUS
+  - STP
+  - CPV
+  - GMB
+  - SLE
+  - LBR
+  - USA
+
+# Indicator code -> output file stem + human readable name
+indicators:
+  IT.NET.USER.ZS:
+    name: "Individuals using the Internet (% of population)"
+    file: "internet_users"
+    column: "internet_users_pct"
+  IT.CEL.SETS.P2:
+    name: "Mobile cellular subscriptions (per 100 people)"
+    file: "mobile_subscriptions"
+    column: "mobile_subscriptions_per100"
+  IT.NET.BBND.P2:
+    name: "Fixed broadband subscriptions (per 100 people)"
+    file: "fixed_broadband"
+    column: "fixed_broadband_per100"
+  TX.VAL.TECH.MF.ZS:
+    name: "High-technology exports (% of manufactured exports)"
+    file: "hightech_exports"
+    column: "hightech_exports_pct"
+  GB.XPD.RSDV.GD.ZS:
+    name: "Research and development expenditure (% of GDP)"
+    file: "rnd_expenditure"
+    column: "rnd_expenditure_pct"
+
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  database: "data/digital_infrastructure.db"
+
+pipeline:
+  retry_attempts: 3
+  retry_delay_seconds: 5
+  log_level: "INFO"

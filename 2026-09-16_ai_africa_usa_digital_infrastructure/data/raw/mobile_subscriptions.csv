@@ -1,0 +1,407 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,65.0825091944922
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,59.8748744402242
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,56.9642988837987
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,52.8088633217211
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,37.4208472347226
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,36.2199307720652
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,36.1094836260863
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,47.9993274246983
+ETH,Ethiopia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,40.7363012371526
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,126.477706000949
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,120.612416887959
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,121.168999135357
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,122.297519656734
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,117.602526394779
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,106.547822056778
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,98.5944679106884
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,87.026530838819
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,80.9772361004341
+KEN,Kenya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,80.0958263165851
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,75.4562966735535
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,64.7494924066919
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,53.9177233784298
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,54.8084663590199
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,46.077978411707
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,38.7515500132643
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,32.5906255978573
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,30.6447038676546
+MDG,Madagascar,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,42.0572239372609
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,49.5047696961223
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,47.5003032540948
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,45.8178199662019
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,43.1636190464176
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,50.2318825476662
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,49.4350694242276
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,48.5007087167822
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,42.1619694080105
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,54.9641156223382
+MOZ,Mozambique,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,75.8447213176406
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,69.260530662121
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,61.0866071008045
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,59.6495709408963
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,59.5599408158462
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,51.2170439392301
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,46.7841008334388
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,38.1955692011493
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,43.0855088342582
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,40.8844441758703
+MWI,Malawi,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,38.4341901744435
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,93.201462876722
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,91.4622704078141
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,80.5952224850433
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,81.6381635400584
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,81.2378724761376
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,75.5985451901883
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,77.679469147812
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,72.2764598764471
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,74.8502057565523
+RWA,Rwanda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,75.2543165296423
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,126.559163217786
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,105.40028112088
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,93.0159746238635
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,86.0162814148027
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,84.0050558283384
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,80.5835569684446
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,75.7301934140355
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,71.7911684370749
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,74.3983656514054
+TZA,Tanzania,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,76.2492627491202
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,83.165031466902
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,76.2966796632588
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,70.1401117953081
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,65.6220730009172
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,62.2824129624858
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,59.0598078769828
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,58.8753608703264
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,62.0968142578109
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,58.8633638178484
+UGA,Uganda,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,53.8755501186925
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,113.190481805755
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,112.410910606372
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,108.785640656159
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,106.324514306135
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,103.855170008567
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,105.32074052965
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,103.935307364
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,102.380562632686
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,102.751864866695
+USA,United States,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,101.831958781319
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,108.704779873813
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,102.06156495632
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,98.4372601156219
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,103.28257957834
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,100.235122888213
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,93.0147820773422
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,86.0723321005416
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,77.0500111230113
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,71.0460770668914
+ZMB,Zambia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,70.4778478853307
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,94.2451753366358
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,91.6344110473757
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,88.9958314912836
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,90.2538486226365
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,84.9604118996672
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,86.4094297249598
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,85.8627371320218
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,95.136682697741
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,88.2100456333277
+ZWE,Zimbabwe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,88.5991977366782
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,125.940873932186
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,116.036046685168
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,105.745019386968
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,94.9182598289459
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,85.2390738023357
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,81.3235345537806
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,76.4080341122638
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,72.867145412956
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,76.0182091705462
+BEN,Benin,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,82.0193349324746
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,116.5895933212
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,116.16313821519
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,113.996146792235
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,112.198419449151
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,102.972844247019
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,97.1498646690919
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,94.6219614871852
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,90.2081424191231
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,79.6697942824089
+BFA,Burkina Faso,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,76.9373292602998
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,183.875985110648
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,171.988943341282
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,161.231833444196
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,150.343798608733
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,138.663750301785
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,132.574011521792
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,123.098008449044
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,118.755063895419
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,105.624772864173
+CIV,Cote d'Ivoire,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,100.638777689061
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,108.213130152497
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,96.4817325902196
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,89.8274190453067
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,80.8081013360278
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,85.2721639882676
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,83.9044001051513
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,74.3995446655806
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,83.4502920413828
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,79.8046154795305
+CMR,Cameroon,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,79.7800672605612
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,113.647966704673
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,98.8059221412722
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,120.803416027053
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,124.402625384529
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,126.887391353856
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,130.70523333401
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,133.609992432498
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,122.471765695646
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,130.481366086196
+GHA,Ghana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,121.997156544235
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,97.8794996455513
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,95.3174629318803
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,110.185519681138
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,107.776552007403
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,98.7621473298315
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,94.5550074326391
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,94.4640894763856
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,92.0232948978011
+GIN,Guinea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,91.475617974568
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,112.119852778009
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,108.693122357196
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,116.587405376001
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,108.814511587375
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,107.404034726492
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,111.210305187838
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,105.348301513254
+MLI,Mali,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,122.082978226993
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,60.5939862118112
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,65.735032215569
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,63.3770548032743
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,61.5063092448251
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,60.0355524816093
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,52.8112616845298
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,40.9549864276209
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,36.120522177752
+NER,Niger,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,44.9309205276883
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,70.7619057835431
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,98.4772822731425
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,99.5852151989567
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,89.2915858426408
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,95.4356648074949
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,88.1169010528984
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,84.2840110939485
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,72.3679681751497
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,78.970142296733
+NGA,Nigeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,79.1045279367312
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,123.894453697506
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,123.911572643075
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,118.150293497239
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,115.325093678501
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,113.638091206029
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,109.341890091569
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,104.055698143919
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,101.831108002442
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,101.010767153806
+SEN,Senegal,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,102.508995376039
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,80.8035554767112
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,75.7906769713952
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,72.2147547047011
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,70.4496733018494
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,75.164019137873
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,73.7224727486533
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,74.3997114343066
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,75.3357270694068
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,70.0588130571426
+TGO,Togo,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,63.3574638254671
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,69.7039467163584
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,70.0519587723571
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,66.6008073123779
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,44.3868689341257
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,43.7804317055698
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,45.8065312825399
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,42.4588784507729
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,44.0682088632918
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,44.5502272379157
+AGO,Angola,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,49.3097223014385
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,163.999922257361
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,179.027305378019
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,178.205018910673
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,173.25235140068
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,161.858815314634
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,160.661520194607
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,147.06483856362
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,142.962095019868
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,147.172960511479
+BWA,Botswana,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,157.734742812171
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,115.457278573892
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,111.60623555659
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,107.787115922596
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,105.037092587919
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,103.436671524065
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,104.922068012909
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,110.938066513767
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,109.96986300969
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,115.154200093555
+DZA,Algeria,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,108.016371207167
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,97.1295066037455
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,92.8261626420085
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,90.6794715776528
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,84.0866220906029
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,87.2316871725819
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,88.6447815879102
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,88.7420881346276
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,99.2884367821237
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,96.2091951594197
+EGY,"Egypt, Arab Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,94.3962460363651
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,192.97309381967
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,195.117849246865
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,164.987107188677
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,164.00440049702
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,89.333810176041
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,115.499434118109
+LBY,Libya,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,149.224588127748
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,153.057260079672
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,148.155101338402
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,141.870002419562
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,138.911268095998
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,135.088404811169
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,128.874798962456
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,124.827523956634
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,123.894319060738
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,118.531797132419
+MAR,Morocco,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,124.480492544005
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,85.1648988113055
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,87.6760954339972
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,100.557816104444
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,103.727351391971
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,106.206587456143
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,106.53315947895
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,107.060260494691
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,106.914765245509
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,109.049558197665
+NAM,Namibia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,107.392368276966
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,70.2084038614961
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,71.767230205952
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,75.2207425678785
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,72.4818502607404
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,68.0533719238149
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,67.0598253428254
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,67.3954575547604
+SDN,Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,69.8036331859409
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,46.6152369503945
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,48.4888320004297
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,30.151042999214
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,21.3171365460584
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,18.9297575209348
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,27.1848244017002
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,24.930513119821
+SSD,South Sudan,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,26.0993389998038
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,117.606816067203
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,132.653682480562
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,131.875365428496
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,129.846077003661
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,124.041976750236
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,124.386924181822
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,125.532926143303
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,123.034053994945
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,123.883093580407
+TUN,Tunisia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,128.008569175385
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,179.336329840585
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,171.508619260428
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,160.728511675754
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,163.12806305125
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,158.447269436121
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,162.73854828041
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,157.691905248121
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,153.547950468153
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,143.92861725374
+ZAF,South Africa,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,155.137526067883
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,109.855630436495
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,100.549036907747
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,104.311430086999
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,97.4339379901591
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,73.1291747290161
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,64.6590805998004
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,61.9708221164076
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,61.2597928387402
+COM,Comoros,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,58.4555555249752
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,111.84067886381
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,113.022968194497
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,113.247367438782
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,114.230551109167
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,105.838590655535
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,115.867801067488
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,118.876152819844
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,119.373631537182
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,117.442454843782
+CPV,Cabo Verde,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,119.335511344785
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,48.4504884885996
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,46.7770531248021
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,43.6423520933817
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,39.2725038635961
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,38.0143821719119
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,36.8545231657962
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,35.3657091447905
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,33.271816300825
+DJI,Djibouti,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,30.8091732634986
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,59.1248082166991
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,53.7582573847458
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,54.7205015934574
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,40.4605403256719
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,22.0610618449333
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,16.1935649461164
+ERI,Eritrea,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,15.2952170085389
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,126.243773523653
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,117.115660832998
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,106.782250509204
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,108.847403542688
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,106.448259811355
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,105.204644657943
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,132.57837035012
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,126.633674737607
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,124.273821038818
+GMB,"Gambia, The",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,122.078516396055
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,32.0638885570006
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,31.429900768597
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,32.1004345501657
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,38.4041861157665
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,54.8575199657656
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,65.5437117609357
+LBR,Liberia,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,78.3786689834016
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,172.68356921857
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,165.257524411348
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,164.309278835228
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,154.053185977432
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,149.06995900167
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,145.117277088014
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,148.816797831837
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,142.524532117413
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,140.423888162514
+MUS,Mauritius,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,136.371902265385
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,107.882000873042
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,101.636782141976
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,87.0034823125467
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,87.0384355077496
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,84.1233437327877
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,89.7781754066341
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,87.1475941136892
+SLE,Sierra Leone,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,80.3818885694169
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,53.9579646939598
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,49.6800986995936
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,51.2059481348129
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,53.1133178401473
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,51.3194116563494
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,49.5262671956948
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,47.725260177752
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,46.366719307758
+SOM,"Somalia, Fed. Rep.",IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,42.2685278435236
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,62.4367400312479
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2023,63.4540500972405
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2022,86.7784626941517
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2021,85.2577705092336
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2020,80.1172764274381
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2019,77.6791069955762
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2018,77.3644421396185
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2017,84.0522781079383
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2016,87.4112004084658
+STP,Sao Tome and Principe,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2015,92.3511291071491
