@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cvd_risk_ed_planning"
+version = "1.0.0"
+description = "CVD Risk Stratification and ED Capacity Planning System"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "walash" }]
+keywords = [
+    "cardiovascular-disease",
+    "risk-stratification",
+    "emergency-department",
+    "capacity-planning",
+    "data-engineering",
+    "machine-learning",
+    "healthcare-analytics",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Healthcare Industry",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "pandas>=1.5.0",
+    "numpy>=1.23.0",
+    "scipy>=1.10.0",
+    "pyarrow>=11.0.0",
+    "faker>=18.0.0",
+    "pydantic>=2.0.0",
+    "scikit-learn>=1.2.0",
+    "xgboost>=1.7.0",
+    "imbalanced-learn>=0.10.0",
+    "joblib>=1.2.0",
+    "statsmodels>=0.13.0",
+    "prophet>=1.1.0",
+    "pulp>=2.7.0",
+    "matplotlib>=3.6.0",
+    "seaborn>=0.12.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+notebooks = ["jupyter>=1.0.0", "notebook>=6.5.0", "ipykernel>=6.20.0"]
+dev = ["pytest>=7.0.0"]
+
+[project.urls]
+Repository = "https://github.com/walash/Data-Analytic-Data-Engineering"
+
+[project.scripts]
+cvd-pipeline = "main:main"
+
+[tool.setuptools]
+packages = [
+    "src",
+    "src.data_engineering",
+    "src.eda",
+    "src.modeling",
+    "src.ed_capacity",
+    "src.utils",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

@@ -1,0 +1,4 @@
+risk_level,count,proportion,disease_prevalence
+Low,7168,0.7168,0.1314
+Medium,1946,0.1946,0.4435
+High,886,0.0886,0.7472

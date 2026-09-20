@@ -1,0 +1,79 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+ETH,Ethiopia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.27437
+KEN,Kenya,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,0.81069
+KEN,Kenya,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.80427
+KEN,Kenya,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,0.40651
+MDG,Madagascar,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.01275
+MDG,Madagascar,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.01264
+MOZ,Mozambique,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.30814
+MWI,Malawi,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.17752
+RWA,Rwanda,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.78149
+RWA,Rwanda,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.75853
+RWA,Rwanda,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.64945
+UGA,Uganda,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.4383
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,3.44716
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,3.48736
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,3.4689
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2020,3.41788
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,3.14297
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,2.98956
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,2.88315
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,2.83677
+USA,United States,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,2.77328
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,0.10477
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.09845
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,0.25057
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2020,0.25116
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.17435
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.61361
+BFA,Burkina Faso,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2014,0.19719
+CIV,Cote d'Ivoire,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.06975
+MLI,Mali,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.14743
+MLI,Mali,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,0.14596
+MLI,Mali,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.13306
+MLI,Mali,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.24505
+MLI,Mali,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.26458
+NGA,Nigeria,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.28444
+SEN,Senegal,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.5772
+TGO,Togo,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,0.22229
+TGO,Togo,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2014,0.19074
+TGO,Togo,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2012,0.15973
+AGO,Angola,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.03229
+DZA,Algeria,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,0.44395
+DZA,Algeria,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.37787
+DZA,Algeria,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.47865
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,1.01757
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,1.03356
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,1.01968
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,0.91175
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2020,0.91564
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.79617
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,0.68839
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.64486
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.70848
+EGY,"Egypt, Arab Rep.",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.71858
+NAM,Namibia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,0.64636
+TUN,Tunisia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.74658
+TUN,Tunisia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,0.71645
+TUN,Tunisia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.69953
+TUN,Tunisia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.56539
+TUN,Tunisia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.59413
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,0.61479
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,0.6139
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2020,0.60296
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.61304
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,0.68586
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.76257
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2016,0.74992
+ZAF,South Africa,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2015,0.73147
+ETH,Ethiopia,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2013,0.60474
+GMB,"Gambia, The",GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,0.06933
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2024,0.26181
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2023,0.23892
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2022,0.30879
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2021,0.36784
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2020,0.40299
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2019,0.35699
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2018,0.33387
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2017,0.35423
+MUS,Mauritius,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),2012,0.17773

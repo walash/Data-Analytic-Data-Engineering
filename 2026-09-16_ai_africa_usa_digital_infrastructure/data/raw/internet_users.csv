@@ -1,0 +1,409 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,21.94129944
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,20.33749962
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,17.9836998
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,16.6981031
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,16.06959915
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,15.98460007
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,15.88619995
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,15.62440014
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,15.3669238595896
+ETH,Ethiopia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,13.8551755555556
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,34.97622513
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,32.07040024
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,29.40589905
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,26.96290016
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,24.7227993
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,22.6687733618171
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,19.5
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,17.82710075
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,16.6
+KEN,Kenya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,16.5878548475992
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,18.67790031
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,18.24080086
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,17.81170082
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,13.74590015
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,11.35470009
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,9.379400253
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,7.747799873
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,6.406000137
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,4.713699818
+MDG,Madagascar,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,4.173999786
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,20.52729988
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,19.94560051
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,18.96220016
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,16.35759926
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,14.28740025
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,12.47929955
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,10.89999962
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,7.7963266079129
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,7
+MOZ,Mozambique,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,6.5
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,18.96159935
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,17.98810346
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,16.84830093
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,15.30300045
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,13.89949989
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,11.05860043
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,8.798299789
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,7
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,6.300000191
+MWI,Malawi,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,6
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,31.70330048
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,28.80579948
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,28.01679993
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,24.4416008
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,23.8
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,21.3579998
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,19.16659927
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,17.2
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,14.63710022
+RWA,Rwanda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,12.45600033
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,31.16209984
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,28.43190002
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,26.86059952
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,22.87540054
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,19.48139954
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,16.59090042
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,15.49069977
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,14.46339989
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,13.5042328468919
+TZA,Tanzania,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,10
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,8.949831061
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,9.286999702
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,9.636899948
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,10
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,7.4
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,11.72579956
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,9.326299667
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,7.417900085
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,5.9
+UGA,Uganda,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,5.699999809
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,94.69380188
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,93.52559662
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,92.72850037
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,91.2684021
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,90.34470367
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,89.4302848575712
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,88.498903165152
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,87.2748891687657
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,85.5444212887222
+USA,United States,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,74.5542024462761
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,17.10099983
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,16.45070076
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,15
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,14.82190037
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,14.64579964
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,14.47189999
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,14.2999970950012
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,12.19999981
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,10.30000019
+ZMB,Zambia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,8.8
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,41.64279938
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,38.67480087
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,36.25650024
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,32.5923996
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,29.29856532
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,26.5883007
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,25
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,24.39999962
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,23.12000084
+ZWE,Zimbabwe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,22.74279976
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,33.98379898
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,32.39400101
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,30.53730011
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,28.20470047
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,22.12059975
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,20.50099945
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,19
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,18.7
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,14.5
+BEN,Benin,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,11.25500011
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,28.25270081
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,25.36120033
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,25.3987999
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,18.1522007
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,12.97319984
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,9.27180600953186
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,8.498900414
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,7.790400028
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,7.140999794
+BFA,Burkina Faso,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,6.545700073
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,41.43219902
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,40.65284979
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,38.41328122
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,35.95069885
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,36.01660156
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,36.2889545655205
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,37.5465361301281
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,43.8399208514876
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,41.2078149304414
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,38.4400001654616
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,46.25880051
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,42.24380112
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,40.12559891
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,38.89260101
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,37.69749832
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,36.53919983
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,29.70000076
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,23.2029719748646
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,20.60000038
+CMR,Cameroon,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,18.29999924
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,72.17569733
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,70.67430115
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,69.91329956
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,68.6
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,62.51760101
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,22.0732
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,43
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,37.88420105
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,28
+GHA,Ghana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,23
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,33.30469894
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,32.31560135
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,31.31399918
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,28.61330032
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,26.14550018
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,23.89049911
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,21.8300230430563
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,18.70000076
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,13.10000038
+GIN,Guinea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,9.199999809
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,36.80149841
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,36.03879929
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,35.19919968
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,33.95650101
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,29.11300087
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,24.96030045
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,21.39999962
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,18.89999962
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,14
+MLI,Mali,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,10.32999992
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,15.55760002
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,12.98079967
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,13.08749962
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,12.45689964
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,11.85680008
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,11.28549957
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,10.74180031
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,10.2243115586561
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,4.322800159
+NER,Niger,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,2.476200104
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,41.21139908
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,40.06399918
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,39.14720154
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,35.50979996
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,31.88879967
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,29.74410057
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,27.74370003
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,25.87789917
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,24.13750076
+NGA,Nigeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,22.51420021
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,60.11780167
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,59.18740082
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,56.82830048
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,55.04040146
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,53.30879974
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,43.37969971
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,35.29999924
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,29.64310074
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,25.66480064
+SEN,Senegal,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,21.70000076
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,39.48320007
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,37.57020187
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,35.60749817
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,30.33839989
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,29.02370071
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,20.72730064
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,15.5
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,12.3602249692905
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,11.31000042
+TGO,Togo,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,7.119999886
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,40.70479965
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,37.88589859
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,35.83800125
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,34.55649948
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,33.32089996
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,32.12939835
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,29
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,26
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,23.20000076
+AGO,Angola,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,22
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,57.45950036
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,57.9
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,54.70069885
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,51.67819977
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,48.82279968
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,46.12509918
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,43.57640076
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,41.16859818
+BWA,Botswana,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,38.89379883
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,77.4178009
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,76.19760132
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,74.78150177
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,72.21240234
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,63.47269821
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,55.79069901
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,49.0384680793271
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,47.69110107
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,42.94549942
+DZA,Algeria,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,38.20000076
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,74.64839935
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,74.01190186
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,72.19806556
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,72.05599976
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,71.91420096
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,57.2828663990195
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,46.92433676792
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,44.9502042452857
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,41.2480670885772
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,37.8193834276939
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,81.95449829
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,82.10469818
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,80.64720154
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,77.438797
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,74.35810089
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,71.40409851
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,47.5
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,47.5
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,35
+LBY,Libya,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,25
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,91.2
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,91
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,89.9
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,88.13031937
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,84.12036305
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,84.1203630467602
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,64.8038651924043
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,61.7622120123071
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,58.271236420398
+MAR,Morocco,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,57.0799993486116
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,64.87460327
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,63.69549942
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,62.99720001
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,60.25999832
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,57.8608017
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,49.77590179
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,42.8207016
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,36.83739853
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,31.0333004
+NAM,Namibia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,25.68790054
+SDN,Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,18.60000038
+SDN,Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,14.0999999446534
+SDN,Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,12
+SSD,South Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,6.671000004
+SSD,South Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,4.800000191
+SSD,South Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,4.1
+SSD,South Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,3.5
+SSD,South Sudan,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,3
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,76.5
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,68.31552226
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,68.55639648
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,66.6999983024144
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,64.1908102327387
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,55.5001550633671
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,49.5999948415756
+TUN,Tunisia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,46.4999943435776
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,78.35759735
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,78.33670044
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,78.29319763
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,74.96859741
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,72.1128006
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,69.69689941
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,62.40000153
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,56.16740036
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,54
+ZAF,South Africa,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,51.91910172
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,32.51750183
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,31.92749977
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,31.37409973
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,30.68120003
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,22.42040062
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,16.38380051
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,8.478199959
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,7.938300133
+COM,Comoros,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,7.459199905
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,74.73519897
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,74.59919739
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,73.32740021
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,70.28250122
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,69.37339783
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,61.9433977593088
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,59.5
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,57.1621463484891
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,50.3228178676892
+CPV,Cabo Verde,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,42.6830141582781
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,65.29889679
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,64.75869751
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,63.77600098
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,61.41120148
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,59.92570114
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,58.4762001
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,57.06169891
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,55.6814092453962
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,30.79999924
+DJI,Djibouti,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,22.89999962
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,14.34939957
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,11.22379971
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,5.293000221
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,2.496099949
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,1.177099943
+ERI,Eritrea,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,1.083699942
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,49.49430084
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,48.72829819
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,48.22539902
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,41.67309952
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,36.01100159
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,31.11829948
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,28.30900002
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,22.5156002
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,19.90640068
+GMB,"Gambia, The",IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,17.59950066
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,32.23360062
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,31.22410011
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,30.38010025
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,26.38229942
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,22.91069984
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,19.89579964
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,17.27770042
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,16.29999924
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,15.69999981
+LBR,Liberia,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,10
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,73.30793533
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,79.5
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,75.5
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,71.59999847
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,67.73290684
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,61.7299551453346
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,58.596169704299
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,55.4032403002657
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,52.19129944
+MUS,Mauritius,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,50.1393184766711
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,25.10499954
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,23.71360016
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,21.50880051
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,18.65390015
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,17.12080002
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,15.71370029
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,14.42230034
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,9.297100067
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,7.680099964
+SLE,Sierra Leone,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,6.344399929
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,27.94020081
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,26.12010002
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,27.6
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,23.87479973
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,15.02369976
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,2.731400013
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,1.879999995
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,1.75999999
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,59.11759949
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2023,58.70130157
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2022,58.56779861
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2021,54.94950104
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2020,51.55469894
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2019,44.25790024
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2018,37.99380112
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2017,32.61640167
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2016,28
+STP,Sao Tome and Principe,IT.NET.USER.ZS,Individuals using the Internet (% of population),2015,25.81999969

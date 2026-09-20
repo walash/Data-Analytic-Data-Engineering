@@ -1,0 +1,123 @@
+# =============================================================================
+# Configuration for the Africa-to-USA Immigration & Refugee Flows pipeline.
+#
+# World Bank Open Data and UNHCR Refugee Statistics are fully public APIs,
+# so NO API keys are required. All keys below are intentionally empty.
+# =============================================================================
+
+project:
+  name: "immigration_africa_usa_refugees"
+  description: "Africa-to-USA immigration, remittance and refugee flow data pipeline"
+
+# -----------------------------------------------------------------------------
+# Data source API endpoints
+# -----------------------------------------------------------------------------
+data_sources:
+  worldbank:
+    base_url: "https://api.worldbank.org/v2"
+    format: "json"
+    per_page: 500
+    # Date range requested from the World Bank API
+    date_range: "1990:2025"
+    indicators:
+      net_migration: "SM.POP.NETM"            # Net migration (persons)
+      remittances_pct_gdp: "BX.TRF.PWKR.DT.GD.ZS"  # Personal remittances, received (% of GDP)
+      population: "SP.POP.TOTL"               # Population, total
+  unhcr:
+    base_url: "https://api.unhcr.org/population/v1"
+    population_endpoint: "/population/"
+    asylum_decisions_endpoint: "/asylum-decisions/"
+    # USA country of asylum ISO3 code
+    coa_iso: "USA"
+    year_start: 2010
+    year_end: 2023
+
+# -----------------------------------------------------------------------------
+# African countries of interest (ISO3 codes)
+# -----------------------------------------------------------------------------
+african_countries:
+  - SOM  # Somalia
+  - ETH  # Ethiopia
+  - COD  # DR Congo
+  - SSD  # South Sudan
+  - ERI  # Eritrea
+  - NGA  # Nigeria
+  - SDN  # Sudan
+  - KEN  # Kenya
+  - UGA  # Uganda
+  - GHA  # Ghana
+  - SEN  # Senegal
+  - CMR  # Cameroon
+  - ZWE  # Zimbabwe
+  - MLI  # Mali
+  - GIN  # Guinea
+  - DZA  # Algeria
+  - EGY  # Egypt
+  - MAR  # Morocco
+  - TUN  # Tunisia
+  - AGO  # Angola
+  - CIV  # Ivory Coast
+  - LBR  # Liberia
+  - MDG  # Madagascar
+  - MWI  # Malawi
+  - MRT  # Mauritania
+  - NER  # Niger
+  - RWA  # Rwanda
+  - SLE  # Sierra Leone
+  - TGO  # Togo
+  - BDI  # Burundi
+  - CAF  # Central African Republic
+  - GMB  # Gambia
+  - GNB  # Guinea-Bissau
+  - LSO  # Lesotho
+  - NAM  # Namibia
+  - ZMB  # Zambia
+
+# -----------------------------------------------------------------------------
+# North African countries used for regional segmentation
+# -----------------------------------------------------------------------------
+north_africa:
+  - DZA
+  - EGY
+  - MAR
+  - TUN
+  - SDN
+  - LBY
+
+# -----------------------------------------------------------------------------
+# Filesystem paths (relative to project root)
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  database: "data/immigration_analytics.db"
+
+# -----------------------------------------------------------------------------
+# Database configuration
+# -----------------------------------------------------------------------------
+database:
+  type: "sqlite"
+  path: "data/immigration_analytics.db"
+  tables:
+    - african_migration
+    - remittances
+    - population
+    - asylum_decisions
+    - country_summary
+
+# -----------------------------------------------------------------------------
+# Pipeline runtime parameters
+# -----------------------------------------------------------------------------
+pipeline:
+  log_level: "INFO"
+  request_timeout: 30
+  max_retries: 4
+  retry_backoff_seconds: 2
+  batch_size: 500
+
+# -----------------------------------------------------------------------------
+# API keys (public data sources - no keys required)
+# -----------------------------------------------------------------------------
+api_keys:
+  worldbank: ""
+  unhcr: ""

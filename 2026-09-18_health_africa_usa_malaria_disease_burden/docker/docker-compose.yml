@@ -1,0 +1,38 @@
+services:
+  # Main ETL pipeline: ingest -> transform -> load.
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: malaria-disease-burden:latest
+    container_name: malaria_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      DB_PATH: "/app/data/health_disease_burden.db"
+      DATA_DIR: "/app/data"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python -m src.ingestion.ingest &&
+             python -m src.transformation.transform &&
+             python -m src.loading.load"
+    restart: "no"
+
+  # Optional lightweight SQLite web viewer for exploring the resulting database.
+  sqlite-viewer:
+    image: coleifer/sqlite-web:latest
+    container_name: malaria_sqlite_viewer
+    depends_on:
+      - pipeline
+    environment:
+      SQLITE_DATABASE: "/data/health_disease_burden.db"
+    volumes:
+      - ../data:/data
+    ports:
+      - "8080:8080"
+    command: >
+      sqlite_web -H 0.0.0.0 -x /data/health_disease_burden.db
+    restart: "no"

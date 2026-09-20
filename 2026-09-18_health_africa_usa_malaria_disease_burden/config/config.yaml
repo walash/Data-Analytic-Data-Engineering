@@ -1,0 +1,44 @@
+# Configuration for the Malaria & Infectious Disease Burden pipeline.
+# WHO GHO and World Bank APIs are public — no API keys are required.
+
+api:
+  who_gho_base_url: "https://ghoapi.azureedge.net/api"
+  world_bank_base_url: "https://api.worldbank.org/v2"
+  # WHO GHO indicator codes
+  who_incidence_indicator: "MALARIA_EST_INCIDENCE"
+  who_deaths_indicator: "MALARIA_EST_DEATHS"
+  # World Bank indicator codes
+  wb_health_expenditure_indicator: "SH.XPD.CHEX.GD.ZS"
+  wb_life_expectancy_indicator: "SP.DYN.LE00.IN"
+  wb_under5_mortality_indicator: "SH.DYN.MORT"
+
+countries:
+  african_iso_codes:
+    - KEN   # Kenya
+    - ETH   # Ethiopia
+    - NGA   # Nigeria
+    - GHA   # Ghana
+    - ZAF   # South Africa
+    - UGA   # Uganda
+    - TZA   # Tanzania
+    - MOZ   # Mozambique
+    - ZMB   # Zambia
+    - MWI   # Malawi
+  usa_iso_code: USA
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  db_path: "data/health_disease_burden.db"
+
+pipeline:
+  years_from: 2010
+  years_to: 2024
+  retry_attempts: 5
+  retry_delay_seconds: 2
+  request_timeout_seconds: 60
+  world_bank_batch_size: 11   # max ISO codes per World Bank request (semicolon-separated)
+  log_level: INFO
+
+# No API keys needed — WHO GHO and World Bank endpoints are public.
+api_keys: {}

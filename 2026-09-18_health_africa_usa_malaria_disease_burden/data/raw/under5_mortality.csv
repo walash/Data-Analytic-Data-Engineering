@@ -1,0 +1,111 @@
+country_code,country_name,year,under5_mortality_per_1000
+ETH,Ethiopia,2024,44.5
+ETH,Ethiopia,2023,51.5
+ETH,Ethiopia,2022,68.1
+ETH,Ethiopia,2021,70.4
+ETH,Ethiopia,2020,51.5
+ETH,Ethiopia,2019,53.6
+ETH,Ethiopia,2018,55.8
+ETH,Ethiopia,2017,58.4
+ETH,Ethiopia,2016,61.3
+ETH,Ethiopia,2015,64.4
+GHA,Ghana,2024,35.9
+GHA,Ghana,2023,37.2
+GHA,Ghana,2022,38.6
+GHA,Ghana,2021,40.3
+GHA,Ghana,2020,42.2
+GHA,Ghana,2019,44.1
+GHA,Ghana,2018,46.1
+GHA,Ghana,2017,48.2
+GHA,Ghana,2016,50.3
+GHA,Ghana,2015,52.5
+KEN,Kenya,2024,38.8
+KEN,Kenya,2023,39.6
+KEN,Kenya,2022,40.5
+KEN,Kenya,2021,41.3
+KEN,Kenya,2020,42.1
+KEN,Kenya,2019,42.7
+KEN,Kenya,2018,43.7
+KEN,Kenya,2017,44.7
+KEN,Kenya,2016,45.5
+KEN,Kenya,2015,46.8
+MOZ,Mozambique,2024,59.4
+MOZ,Mozambique,2023,61.7
+MOZ,Mozambique,2022,63.9
+MOZ,Mozambique,2021,65.5
+MOZ,Mozambique,2020,67.6
+MOZ,Mozambique,2019,68.6
+MOZ,Mozambique,2018,70.2
+MOZ,Mozambique,2017,72
+MOZ,Mozambique,2016,73.3
+MOZ,Mozambique,2015,75.8
+MWI,Malawi,2024,48.8
+MWI,Malawi,2023,49.6
+MWI,Malawi,2022,50.1
+MWI,Malawi,2021,50
+MWI,Malawi,2020,50.4
+MWI,Malawi,2019,51.3
+MWI,Malawi,2018,52
+MWI,Malawi,2017,53.8
+MWI,Malawi,2016,55.8
+MWI,Malawi,2015,57.4
+NGA,Nigeria,2024,115.6
+NGA,Nigeria,2023,116.8
+NGA,Nigeria,2022,117.5
+NGA,Nigeria,2021,117.6
+NGA,Nigeria,2020,117.4
+NGA,Nigeria,2019,117.4
+NGA,Nigeria,2018,117.2
+NGA,Nigeria,2017,117.2
+NGA,Nigeria,2016,117.4
+NGA,Nigeria,2015,117.8
+TZA,Tanzania,2024,37
+TZA,Tanzania,2023,38.5
+TZA,Tanzania,2022,40.1
+TZA,Tanzania,2021,41.7
+TZA,Tanzania,2020,43.8
+TZA,Tanzania,2019,45.6
+TZA,Tanzania,2018,47.6
+TZA,Tanzania,2017,49.8
+TZA,Tanzania,2016,52
+TZA,Tanzania,2015,54.3
+UGA,Uganda,2024,48.7
+UGA,Uganda,2023,49.4
+UGA,Uganda,2022,50
+UGA,Uganda,2021,50.2
+UGA,Uganda,2020,50.9
+UGA,Uganda,2019,51.6
+UGA,Uganda,2018,52.7
+UGA,Uganda,2017,54
+UGA,Uganda,2016,55.6
+UGA,Uganda,2015,57.9
+USA,United States,2024,6.5
+USA,United States,2023,6.5
+USA,United States,2022,6.5
+USA,United States,2021,6.5
+USA,United States,2020,6.5
+USA,United States,2019,6.5
+USA,United States,2018,6.5
+USA,United States,2017,6.6
+USA,United States,2016,6.7
+USA,United States,2015,6.8
+ZAF,South Africa,2024,35.1
+ZAF,South Africa,2023,34.8
+ZAF,South Africa,2022,34.3
+ZAF,South Africa,2021,34
+ZAF,South Africa,2020,33.9
+ZAF,South Africa,2019,34.3
+ZAF,South Africa,2018,34.9
+ZAF,South Africa,2017,35.7
+ZAF,South Africa,2016,36.8
+ZAF,South Africa,2015,38.2
+ZMB,Zambia,2024,48.4
+ZMB,Zambia,2023,49.1
+ZMB,Zambia,2022,49.5
+ZMB,Zambia,2021,50.4
+ZMB,Zambia,2020,52.5
+ZMB,Zambia,2019,53.5
+ZMB,Zambia,2018,54.7
+ZMB,Zambia,2017,55.2
+ZMB,Zambia,2016,57.1
+ZMB,Zambia,2015,60.2

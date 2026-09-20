@@ -1,0 +1,38 @@
+services:
+  # Main ETL pipeline: ingest -> transform -> load.
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: ai-digital-infrastructure:latest
+    container_name: digital_infra_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      CONFIG_PATH: /app/config/config.yaml
+      DATA_DIR: /app/data
+      DB_PATH: /app/data/digital_infrastructure.db
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  # Optional lightweight SQLite web viewer to browse the produced database.
+  # Browse the DB at http://localhost:8080 once the pipeline has run.
+  sqlite-viewer:
+    image: coleifer/sqlite-web:latest
+    container_name: digital_infra_sqlite_viewer
+    depends_on:
+      - pipeline
+    environment:
+      SQLITE_DATABASE: /data/digital_infrastructure.db
+    volumes:
+      - ../data:/data
+    ports:
+      - "8080:8080"
+    command: >
+      sqlite_web -H 0.0.0.0 -p 8080 -x /data/digital_infrastructure.db
+    restart: "no"
