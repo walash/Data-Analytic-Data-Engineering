@@ -29,3 +29,7 @@ models/*
 
 # OS
 .DS_Store
+
+# auto-generated doc previews
+docs/*.pdf
+docs/*.docx
