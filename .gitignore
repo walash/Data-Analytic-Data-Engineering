@@ -1,0 +1,19 @@
+
+# --- CVD project ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+# Large data & model artifacts (keep dirs via .gitkeep)
+data/raw/*
+data/processed/*
+data/feature_store/*
+models/*
+outputs/figures/*
+outputs/reports/*
+!**/.gitkeep
