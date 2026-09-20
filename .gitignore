@@ -16,4 +16,6 @@ data/feature_store/*
 models/*
 outputs/figures/*
 outputs/reports/*
+# Runtime logs
+logs/
 !**/.gitkeep

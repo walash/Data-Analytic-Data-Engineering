@@ -1,0 +1,87 @@
+# =====================================================================
+# Central configuration — CVD Risk Stratification & ED Capacity Planning
+# Edit these values to change pipeline behaviour without touching code.
+# =====================================================================
+
+project:
+  name: "CVD Risk Stratification & ED Capacity Planning"
+  version: "1.0.0"
+  author: "walash"
+
+# --- Data paths (relative to project root) ---------------------------
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  feature_store_dir: "data/feature_store"
+  models_dir: "models"
+  outputs_dir: "outputs"
+  figures_dir: "outputs/figures"
+  reports_dir: "outputs/reports"
+  logs_dir: "logs"
+
+# --- Synthetic data generation ---------------------------------------
+data_generation:
+  n_patients: 10000
+  seed: 42
+  notes_per_patient_range: [1, 5]
+  ed_visits_per_patient_range: [0, 4]
+
+# --- Modeling --------------------------------------------------------
+modeling:
+  test_size: 0.30
+  random_state: 42
+  cv_folds: 5
+  selection_metric: "f1_macro"
+  target_encoding:
+    Low: 0
+    Medium: 1
+    High: 2
+  hyperparameters:
+    logistic_regression:
+      C: [0.5, 1.0, 2.0]
+      max_iter: 1000
+    random_forest:
+      n_estimators: [100, 200]
+      max_depth: [10, 20, null]
+      min_samples_leaf: [1, 2]
+    xgboost:
+      n_estimators: [200, 400]
+      max_depth: [3, 5]
+      learning_rate: [0.05, 0.1]
+    gradient_boosting:
+      n_estimators: [150, 250]
+      max_depth: [3, 5]
+      learning_rate: [0.05, 0.1]
+
+# --- ED capacity planning --------------------------------------------
+ed_capacity:
+  surge_buffer_pct: 0.20              # 20% surge buffer on all resources
+  high_demand_utilisation_threshold: 0.85
+  resource_intensity:                # relative intensity by risk group
+    High: 3
+    Medium: 2
+    Low: 1
+  staffing_cost_per_shift:           # USD per shift, used by LP optimiser
+    physician: 2500
+    nurse: 1200
+    technician: 700
+  optimisation_window_days: 7
+
+# --- Forecasting -----------------------------------------------------
+forecasting:
+  horizon_days: 60
+  training_window_months: 22
+  ensemble_weights:
+    prophet: 0.6
+    sarima: 0.4
+  sarima_order: [1, 1, 1]
+  sarima_seasonal_order: [1, 1, 1, 7]
+  seasonality:
+    weekly: true
+    yearly: true
+  confidence_interval: 0.95
+
+# --- Logging ---------------------------------------------------------
+logging:
+  level: "INFO"
+  file: "logs/pipeline.log"
