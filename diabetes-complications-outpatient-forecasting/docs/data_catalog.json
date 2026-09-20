@@ -1,0 +1,309 @@
+{
+  "datasets": [
+    {
+      "name": "clinical_notes.csv",
+      "path": "data/raw/clinical_notes.csv",
+      "rows": 25582,
+      "columns": 4,
+      "schema": {
+        "patient_id": "object",
+        "note_date": "object",
+        "note_type": "object",
+        "note_text": "object"
+      },
+      "size_kb": 2547.0,
+      "description": "Raw unstructured clinical notes.",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.344510+00:00"
+    },
+    {
+      "name": "complications.csv",
+      "path": "data/raw/complications.csv",
+      "rows": 12000,
+      "columns": 3,
+      "schema": {
+        "patient_id": "object",
+        "complication": "object",
+        "deteriorated_12m": "bool"
+      },
+      "size_kb": 262.1,
+      "description": "Complication labels and 12-month deterioration flag.",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.349783+00:00"
+    },
+    {
+      "name": "labs.csv",
+      "path": "data/raw/labs.csv",
+      "rows": 12000,
+      "columns": 12,
+      "schema": {
+        "patient_id": "object",
+        "sample_date": "object",
+        "hba1c": "float64",
+        "fasting_glucose": "float64",
+        "systolic_bp": "int64",
+        "diastolic_bp": "int64",
+        "ldl": "float64",
+        "hdl": "float64",
+        "triglycerides": "float64",
+        "creatinine": "float64",
+        "egfr": "float64",
+        "urine_acr": "float64"
+      },
+      "size_kb": 808.9,
+      "description": "Raw laboratory panels (glycemic, lipid, renal markers).",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.360168+00:00"
+    },
+    {
+      "name": "outpatient_visits.csv",
+      "path": "data/raw/outpatient_visits.csv",
+      "rows": 84951,
+      "columns": 7,
+      "schema": {
+        "encounter_id": "object",
+        "patient_id": "object",
+        "visit_date": "object",
+        "clinic": "object",
+        "visit_type": "object",
+        "duration_min": "int64",
+        "no_show": "bool"
+      },
+      "size_kb": 5065.9,
+      "description": "Raw outpatient encounters over 24 months.",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.417277+00:00"
+    },
+    {
+      "name": "patients.csv",
+      "path": "data/raw/patients.csv",
+      "rows": 12000,
+      "columns": 9,
+      "schema": {
+        "patient_id": "object",
+        "age": "int64",
+        "sex": "object",
+        "bmi": "float64",
+        "smoking_status": "object",
+        "years_since_diagnosis": "float64",
+        "family_history_diabetes": "bool",
+        "insurance_type": "object",
+        "region": "object"
+      },
+      "size_kb": 577.1,
+      "description": "Raw EHR demographic master for the diabetes cohort.",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.426129+00:00"
+    },
+    {
+      "name": "complications_clean.csv",
+      "path": "data/processed/complications_clean.csv",
+      "rows": 12000,
+      "columns": 3,
+      "schema": {
+        "patient_id": "object",
+        "complication": "object",
+        "deteriorated_12m": "int64"
+      },
+      "size_kb": 218.0,
+      "description": "",
+      "lineage": [
+        "complications.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.430886+00:00"
+    },
+    {
+      "name": "labs_clean.csv",
+      "path": "data/processed/labs_clean.csv",
+      "rows": 12000,
+      "columns": 12,
+      "schema": {
+        "patient_id": "object",
+        "sample_date": "object",
+        "hba1c": "float64",
+        "fasting_glucose": "float64",
+        "systolic_bp": "float64",
+        "diastolic_bp": "float64",
+        "ldl": "float64",
+        "hdl": "float64",
+        "triglycerides": "float64",
+        "creatinine": "float64",
+        "egfr": "float64",
+        "urine_acr": "float64"
+      },
+      "size_kb": 856.8,
+      "description": "",
+      "lineage": [
+        "labs.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.439386+00:00"
+    },
+    {
+      "name": "note_flags.csv",
+      "path": "data/processed/note_flags.csv",
+      "rows": 12000,
+      "columns": 7,
+      "schema": {
+        "patient_id": "object",
+        "flag_poor_control": "int64",
+        "flag_renal": "int64",
+        "flag_retinal": "int64",
+        "flag_neuro": "int64",
+        "flag_cardiac": "int64",
+        "flag_referral": "int64"
+      },
+      "size_kb": 246.2,
+      "description": "",
+      "lineage": [
+        "clinical_notes.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.444711+00:00"
+    },
+    {
+      "name": "patients_clean.csv",
+      "path": "data/processed/patients_clean.csv",
+      "rows": 12000,
+      "columns": 9,
+      "schema": {
+        "patient_id": "object",
+        "age": "float64",
+        "sex": "object",
+        "bmi": "float64",
+        "smoking_status": "object",
+        "years_since_diagnosis": "float64",
+        "family_history_diabetes": "bool",
+        "insurance_type": "object",
+        "region": "object"
+      },
+      "size_kb": 601.0,
+      "description": "",
+      "lineage": [
+        "patients.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.452546+00:00"
+    },
+    {
+      "name": "visits_clean.csv",
+      "path": "data/processed/visits_clean.csv",
+      "rows": 84951,
+      "columns": 7,
+      "schema": {
+        "encounter_id": "object",
+        "patient_id": "object",
+        "visit_date": "object",
+        "clinic": "object",
+        "visit_type": "object",
+        "duration_min": "int64",
+        "no_show": "bool"
+      },
+      "size_kb": 5065.9,
+      "description": "",
+      "lineage": [
+        "outpatient_visits.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.505844+00:00"
+    },
+    {
+      "name": "features.parquet",
+      "path": "data/feature_store/features.parquet",
+      "rows": 12000,
+      "columns": 43,
+      "schema": {
+        "patient_id": "object",
+        "age": "float64",
+        "sex": "object",
+        "bmi": "float64",
+        "smoking_status": "object",
+        "years_since_diagnosis": "float64",
+        "family_history_diabetes": "bool",
+        "insurance_type": "object",
+        "region": "object",
+        "sample_date": "object",
+        "hba1c": "float64",
+        "fasting_glucose": "float64",
+        "systolic_bp": "float64",
+        "diastolic_bp": "float64",
+        "ldl": "float64",
+        "hdl": "float64",
+        "triglycerides": "float64",
+        "creatinine": "float64",
+        "egfr": "float64",
+        "urine_acr": "float64",
+        "visit_count_12m": "float64",
+        "no_show_rate": "float64",
+        "avg_duration": "float64",
+        "n_urgent": "float64",
+        "flag_poor_control": "int64",
+        "flag_renal": "int64",
+        "flag_retinal": "int64",
+        "flag_neuro": "int64",
+        "flag_cardiac": "int64",
+        "flag_referral": "int64",
+        "complication": "object",
+        "deteriorated_12m": "int64",
+        "age_group": "object",
+        "comorbidity_index": "float64",
+        "pulse_pressure": "float64",
+        "tg_hdl_ratio": "float64",
+        "ckd_flag": "int64",
+        "obese_flag": "int64",
+        "poor_glycemic_flag": "int64",
+        "hypertension_flag": "int64",
+        "albuminuria_flag": "int64",
+        "high_risk_ldl_flag": "int64",
+        "flag_burden": "int64"
+      },
+      "size_kb": 428.0,
+      "description": "Modelling-ready wide feature matrix with targets.",
+      "lineage": [
+        "patients_clean.csv",
+        "labs_clean.csv",
+        "visits_clean.csv",
+        "note_flags.csv",
+        "complications_clean.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.539215+00:00"
+    },
+    {
+      "name": "weekly_demand.csv",
+      "path": "data/feature_store/weekly_demand.csv",
+      "rows": 102,
+      "columns": 7,
+      "schema": {
+        "week": "object",
+        "total_visits": "int64",
+        "cardiology": "int64",
+        "endocrinology": "int64",
+        "nephrology": "int64",
+        "ophthalmology": "int64",
+        "primary_care": "int64"
+      },
+      "size_kb": 3.3,
+      "description": "",
+      "lineage": [],
+      "created_at": "2026-09-20T14:26:19.540377+00:00"
+    },
+    {
+      "name": "weekly_demand.parquet",
+      "path": "data/feature_store/weekly_demand.parquet",
+      "rows": 102,
+      "columns": 7,
+      "schema": {
+        "week": "datetime64[ns]",
+        "total_visits": "int64",
+        "cardiology": "int64",
+        "endocrinology": "int64",
+        "nephrology": "int64",
+        "ophthalmology": "int64",
+        "primary_care": "int64"
+      },
+      "size_kb": 7.5,
+      "description": "Weekly outpatient visit counts (overall + by clinic).",
+      "lineage": [
+        "visits_clean.csv"
+      ],
+      "created_at": "2026-09-20T14:26:19.542063+00:00"
+    }
+  ],
+  "generated_at": "2026-09-20T14:26:19.327160+00:00"
+}
