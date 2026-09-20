@@ -1,0 +1,8 @@
+date,day_of_week,demand_total,physicians_required,physicians_scheduled,nurses_required,nurses_scheduled,techs_required,techs_scheduled,daily_cost,coverage_ok,solver_status
+2026-09-01,Tuesday,10.5,3,3,6,8,1,2,18200.0,True,Optimal
+2026-09-02,Wednesday,11.3,3,3,6,8,1,2,18200.0,True,Optimal
+2026-09-03,Thursday,10.4,3,3,6,8,1,2,18200.0,True,Optimal
+2026-09-04,Friday,11.3,3,3,6,8,1,2,18200.0,True,Optimal
+2026-09-05,Saturday,14.0,3,3,7,8,2,2,18200.0,True,Optimal
+2026-09-06,Sunday,13.6,3,3,7,8,2,2,18200.0,True,Optimal
+2026-09-07,Monday,11.7,3,3,6,8,1,2,18200.0,True,Optimal
