@@ -1,0 +1,96 @@
+# =============================================================================
+# Central configuration for the Type 2 Diabetes Complications &
+# Outpatient Clinic Load Forecasting framework.
+# All pipeline behaviour can be tuned here without touching source code.
+# =============================================================================
+
+project:
+  name: "T2D Complications & Outpatient Load Forecasting"
+  version: "1.0.0"
+  random_seed: 42
+
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  feature_store: "data/feature_store"
+  models: "models"
+  figures: "outputs/figures"
+  reports: "outputs/reports"
+  logs: "logs"
+
+# ---------------------------------------------------------------------------
+# Synthetic multi-source data generation
+# ---------------------------------------------------------------------------
+data_generation:
+  n_patients: 12000
+  months_of_visits: 24            # length of outpatient visit history
+  encounters_per_patient_year: 4  # average outpatient encounters/patient/year
+  labs_per_patient: 6             # average lab panels per patient
+  clinical_notes_per_patient: 2
+  # Complication prevalence (approx target proportions across the cohort)
+  complication_prevalence:
+    none: 0.55
+    retinopathy: 0.14
+    nephropathy: 0.12
+    neuropathy: 0.11
+    cardiovascular: 0.08
+
+# ---------------------------------------------------------------------------
+# ETL / data quality
+# ---------------------------------------------------------------------------
+etl:
+  missing_value_strategy: "median"   # median | mean | drop
+  outlier_z_threshold: 4.0
+  min_completeness: 0.80             # column-level completeness gate
+
+# ---------------------------------------------------------------------------
+# Modeling
+# ---------------------------------------------------------------------------
+modeling:
+  test_size: 0.15
+  val_size: 0.15
+  cv_folds: 5
+  # Binary deterioration target: 1-year risk of any new/worsening complication
+  deterioration_positive_rate_hint: 0.28
+  models:
+    logistic_regression:
+      C: [0.05, 0.1, 0.5, 1.0]
+      penalty: ["l2"]
+    random_forest:
+      n_estimators: [200, 400]
+      max_depth: [6, 10, null]
+      min_samples_leaf: [1, 5]
+    xgboost:
+      n_estimators: [200, 400]
+      max_depth: [3, 5, 7]
+      learning_rate: [0.05, 0.1]
+    gradient_boosting:
+      n_estimators: [200]
+      max_depth: [3, 5]
+      learning_rate: [0.05, 0.1]
+
+# ---------------------------------------------------------------------------
+# Outpatient clinic load forecasting
+# ---------------------------------------------------------------------------
+forecasting:
+  horizon_weeks: 12                 # forecast horizon
+  train_min_weeks: 78               # minimum history required
+  prophet_weight: 0.6
+  sarima_weight: 0.4
+  sarima_order: [1, 1, 1]
+  sarima_seasonal_order: [1, 1, 1, 52]
+  confidence_interval: 0.95
+
+# ---------------------------------------------------------------------------
+# Resource scheduling
+# ---------------------------------------------------------------------------
+scheduling:
+  visits_per_physician_per_week: 80
+  visits_per_nurse_per_week: 120
+  visits_per_admin_per_week: 200
+  surge_buffer: 0.15                # 15% buffer on staffing
+  high_load_utilization_threshold: 0.85
+  cost_per_week:
+    physician: 3800
+    nurse: 2100
+    admin: 1200

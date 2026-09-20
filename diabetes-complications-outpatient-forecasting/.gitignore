@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Large data & model artifacts (keep structure via .gitkeep)
+data/raw/*
+data/processed/*
+data/feature_store/*
+models/*
+!**/.gitkeep
+
+# Keep generated outputs so reviewers can see results
+!outputs/
+!outputs/figures/
+!outputs/reports/
+
+# OS
+.DS_Store
+
+# auto-generated doc previews
+docs/*.pdf
+docs/*.docx

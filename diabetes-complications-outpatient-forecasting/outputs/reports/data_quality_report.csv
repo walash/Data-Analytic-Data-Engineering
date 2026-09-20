@@ -1,0 +1,17 @@
+dataset,check,passed,detail
+patients,completeness,True,min column completeness=1.000 (threshold 0.8)
+labs,completeness,True,min column completeness=1.000 (threshold 0.8)
+outpatient_visits,completeness,True,min column completeness=1.000 (threshold 0.8)
+clinical_notes,completeness,True,min column completeness=1.000 (threshold 0.8)
+complications,completeness,True,min column completeness=1.000 (threshold 0.8)
+patients,unique_patient_id,True,0 duplicates
+outpatient_visits,unique_encounter_id,True,0 duplicates
+labs,referential_integrity,True,0 rows reference unknown patient_id
+outpatient_visits,referential_integrity,True,0 rows reference unknown patient_id
+clinical_notes,referential_integrity,True,0 rows reference unknown patient_id
+complications,referential_integrity,True,0 rows reference unknown patient_id
+labs,range[hba1c],True,"0 values outside [4.0,18.0]"
+labs,range[egfr],True,"0 values outside [5,150]"
+labs,range[systolic_bp],True,"0 values outside [80,240]"
+patients,range[age],True,"0 values outside [18,95]"
+patients,range[bmi],True,"0 values outside [12,70]"
