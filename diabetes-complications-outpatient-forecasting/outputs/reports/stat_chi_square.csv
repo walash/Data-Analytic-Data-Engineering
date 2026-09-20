@@ -1,0 +1,11 @@
+feature,test,statistic,p_value,dof,effect_size_cramers_v,significant
+sex,chi_square_vs_complication,2.461,0.651623463061292,4,0.014,False
+smoking_status,chi_square_vs_complication,84.543,5.926855831238992e-15,8,0.059,True
+insurance_type,chi_square_vs_complication,9.097,0.3341576645628427,8,0.019,False
+region,chi_square_vs_complication,15.127,0.5153265775891529,16,0.018,False
+age_group,chi_square_vs_complication,1427.35,2.1437562116532398e-294,16,0.172,True
+obese_flag,chi_square_vs_complication,59.36,3.953875270837409e-12,4,0.07,True
+poor_glycemic_flag,chi_square_vs_complication,823.2,7.242815046107731e-177,4,0.262,True
+hypertension_flag,chi_square_vs_complication,327.77,1.1034431942924558e-69,4,0.165,True
+albuminuria_flag,chi_square_vs_complication,11.675,0.019939862537156856,4,0.031,True
+high_risk_ldl_flag,chi_square_vs_complication,55.629,2.3979756600622375e-11,4,0.068,True

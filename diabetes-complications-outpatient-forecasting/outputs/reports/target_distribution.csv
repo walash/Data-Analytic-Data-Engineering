@@ -1,0 +1,8 @@
+target,proportion
+complication:none,0.6532
+complication:neuropathy,0.1167
+complication:cardiovascular,0.0974
+complication:retinopathy,0.0962
+complication:nephropathy,0.0365
+deteriorated_12m:0,0.7566
+deteriorated_12m:1,0.2434
