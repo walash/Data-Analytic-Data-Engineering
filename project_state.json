@@ -1,10 +1,11 @@
 {
-  "last_domain_index": 3,
-  "last_run_date": "2026-09-18",
+  "last_domain_index": 4,
+  "last_run_date": "2026-09-21",
   "projects_generated": [
     "2026-09-11_transportation_africa_usa_air_cargo",
     "2026-09-14_immigration_africa_usa_refugees",
     "2026-09-16_ai_africa_usa_digital_infrastructure",
-    "2026-09-18_health_africa_usa_malaria_disease_burden"
+    "2026-09-18_health_africa_usa_malaria_disease_burden",
+    "2026-09-21_oil_gas_africa_usa_crude_trade"
   ]
 }
