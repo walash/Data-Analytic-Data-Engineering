@@ -1,0 +1,47 @@
+# Configuration for the Oil & Gas Africa-USA Crude Trade & Production pipeline
+# Centralises API parameters, filesystem paths, pipeline behaviour and
+# database settings so the code stays free of hard-coded values.
+
+api:
+  world_bank_base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 500
+  mrv: 10  # most recent 10 values (years) per country/indicator
+  countries:
+    - NGA  # Nigeria
+    - AGO  # Angola
+    - LBY  # Libya
+    - DZA  # Algeria
+    - GAB  # Gabon
+    - COG  # Congo, Rep.
+    - GNQ  # Equatorial Guinea
+    - TCD  # Chad
+    - CMR  # Cameroon
+    - GHA  # Ghana
+    - EGY  # Egypt
+    - USA  # United States
+  indicators:
+    NY.GDP.PETR.RT.ZS: wb_oil_rents               # Oil rents (% of GDP)
+    NY.GDP.TOTL.RT.ZS: wb_natural_resources_rents # Total natural resources rents (% of GDP)
+    NY.GDP.PCAP.CD: wb_gdp_per_capita             # GDP per capita (current US$)
+    EG.USE.PCAP.KG.OE: wb_energy_use              # Energy use (kg of oil equivalent per capita)
+    EG.ELC.PETR.ZS: wb_electricity_from_oil       # Electricity from oil sources (% of total)
+    TX.VAL.MRCH.CD.WT: wb_merchandise_exports     # Merchandise exports (current US$)
+    BX.KLT.DINV.CD.WD: wb_fdi_inflows             # FDI net inflows (BoP, current US$)
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  db_path: "data/oil_gas.db"
+  logs_dir: "logs"
+
+pipeline:
+  retry_attempts: 3
+  retry_delay_seconds: 2
+  request_timeout_seconds: 60
+  log_level: "INFO"
+
+database:
+  db_type: "sqlite"
+  db_name: "oil_gas.db"
+  table_name: "oil_gas_metrics"

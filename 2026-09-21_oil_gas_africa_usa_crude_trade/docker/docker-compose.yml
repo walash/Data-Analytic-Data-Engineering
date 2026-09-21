@@ -1,0 +1,45 @@
+version: '3.8'
+
+# Docker Compose stack for the Oil & Gas Africa-USA crude trade pipeline.
+# The `pipeline` service runs the ETL end-to-end. An optional `db` Postgres
+# service is provided for teams that prefer a server database over SQLite; the
+# pipeline itself writes to a SQLite file under the mounted ./data volume.
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: oil-gas-africa-usa:latest
+    container_name: oil_gas_pipeline
+    environment:
+      DATA_RAW_PATH: /app/data/raw
+      DATA_PROCESSED_PATH: /app/data/processed
+      DB_PATH: /app/data/oil_gas.db
+      PYTHONUNBUFFERED: "1"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    depends_on:
+      - db
+    restart: "no"
+
+  db:
+    image: postgres:15-alpine
+    container_name: oil_gas_db
+    environment:
+      POSTGRES_USER: oil_gas
+      POSTGRES_PASSWORD: oil_gas
+      POSTGRES_DB: oil_gas
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  db_data:
