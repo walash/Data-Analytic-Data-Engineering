@@ -1,0 +1,31 @@
+# =============================================================================
+# docker-compose for the Africa-USA Maritime Port Trade data pipeline.
+# Builds the pipeline image and mounts the local data/ and config/ directories
+# so raw inputs and generated outputs (processed CSVs + SQLite DB) persist on
+# the host after the container exits.
+# =============================================================================
+version: "3.9"
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-maritime-ports:latest
+    container_name: maritime_ports_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      DB_PATH: "/app/data/maritime_ports.db"
+      DATA_DIR: "/app/data"
+      CONFIG_PATH: "/app/config/config.yaml"
+    volumes:
+      # Persist raw, processed data and the SQLite database on the host.
+      - ../data:/app/data
+      # Configuration mounted read-only.
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"

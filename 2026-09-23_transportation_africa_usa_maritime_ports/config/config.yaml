@@ -1,0 +1,86 @@
+# =============================================================================
+# Configuration for the Africa-USA Maritime Port Trade & Shipping Connectivity
+# Data Engineering Project.
+#
+# All data is sourced from the World Bank Open Data API, which is a public API
+# and DOES NOT require an API key.
+# =============================================================================
+
+world_bank_api:
+  # Base URL for the World Bank v2 REST API.
+  base_url: "https://api.worldbank.org/v2"
+  # Response format requested from the API.
+  format: "json"
+  # Records per page (large enough to fetch everything in a single page).
+  per_page: 500
+  # Most Recent Values (default number of years fetched per indicator).
+  mrv: 10
+
+  # World Bank indicator codes mapped to their human-readable names and the
+  # output CSV filenames / value column used across the pipeline.
+  indicators:
+    liner_shipping_connectivity:
+      id: "IS.SHP.GCNW.XQ"
+      name: "Liner Shipping Connectivity Index"
+      filename: "liner_shipping_connectivity.csv"
+      value_column: "liner_shipping_index"
+      mrv: 10
+    container_port_throughput:
+      id: "IS.SHP.GOOD.TU"
+      name: "Container Port Throughput (TEU)"
+      filename: "container_port_throughput.csv"
+      value_column: "container_throughput_teu"
+      mrv: 10
+    merchandise_trade_pct_gdp:
+      id: "TG.VAL.TOTL.GD.ZS"
+      name: "Merchandise Trade (% of GDP)"
+      filename: "merchandise_trade_pct_gdp.csv"
+      value_column: "merchandise_trade_pct_gdp"
+      mrv: 10
+    logistics_performance_index:
+      id: "LP.LPI.OVRL.XQ"
+      name: "Logistics Performance Index (Overall Score)"
+      filename: "logistics_performance_index.csv"
+      value_column: "lpi_score"
+      mrv: 5
+    exports_goods_services_usd:
+      id: "NE.EXP.GNFS.CD"
+      name: "Exports of Goods & Services (current US$)"
+      filename: "exports_goods_services_usd.csv"
+      value_column: "exports_usd"
+      mrv: 10
+
+  # 17 African coastal nations + USA (ISO-3 codes).
+  countries:
+    - DZA  # Algeria
+    - AGO  # Angola
+    - CMR  # Cameroon
+    - CIV  # Cote d'Ivoire
+    - EGY  # Egypt
+    - ETH  # Ethiopia
+    - GHA  # Ghana
+    - KEN  # Kenya
+    - LBY  # Libya
+    - MDG  # Madagascar
+    - MAR  # Morocco
+    - MOZ  # Mozambique
+    - NGA  # Nigeria
+    - SEN  # Senegal
+    - ZAF  # South Africa
+    - TZA  # Tanzania
+    - TUN  # Tunisia
+    - USA  # United States
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  database_path: "data/maritime_ports.db"
+
+pipeline:
+  retry_attempts: 3
+  retry_delay_seconds: 2
+  request_timeout_seconds: 60
+  log_level: "INFO"
+
+# No API key needed for the World Bank Open Data API (public access).
+api_keys: {}
