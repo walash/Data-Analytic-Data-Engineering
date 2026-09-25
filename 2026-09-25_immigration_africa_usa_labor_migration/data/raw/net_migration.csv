@@ -1,0 +1,151 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2025,11305
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2024,7838
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2023,6002
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2022,26777
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2021,1322
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2020,-12390
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2019,2043
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2018,5395
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2017,-796
+CIV,Cote d'Ivoire,SM.POP.NETM,Net migration,2016,18568
+CMR,Cameroon,SM.POP.NETM,Net migration,2025,-15379
+CMR,Cameroon,SM.POP.NETM,Net migration,2024,-13892
+CMR,Cameroon,SM.POP.NETM,Net migration,2023,-4798
+CMR,Cameroon,SM.POP.NETM,Net migration,2022,-4798
+CMR,Cameroon,SM.POP.NETM,Net migration,2021,-9888
+CMR,Cameroon,SM.POP.NETM,Net migration,2020,-9888
+CMR,Cameroon,SM.POP.NETM,Net migration,2019,-12255
+CMR,Cameroon,SM.POP.NETM,Net migration,2018,-9184
+CMR,Cameroon,SM.POP.NETM,Net migration,2017,-37912
+CMR,Cameroon,SM.POP.NETM,Net migration,2016,13255
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2025,-57305
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2024,123884
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2023,305006
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2022,13707
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2021,6161
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2020,6016
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2019,7050
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2018,20788
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2017,-80000
+EGY,"Egypt, Arab Rep.",SM.POP.NETM,Net migration,2016,-71604
+ETH,Ethiopia,SM.POP.NETM,Net migration,2025,24054
+ETH,Ethiopia,SM.POP.NETM,Net migration,2024,30069
+ETH,Ethiopia,SM.POP.NETM,Net migration,2023,-11996
+ETH,Ethiopia,SM.POP.NETM,Net migration,2022,-11996
+ETH,Ethiopia,SM.POP.NETM,Net migration,2021,-1377
+ETH,Ethiopia,SM.POP.NETM,Net migration,2020,38866
+ETH,Ethiopia,SM.POP.NETM,Net migration,2019,-10807
+ETH,Ethiopia,SM.POP.NETM,Net migration,2018,9302
+ETH,Ethiopia,SM.POP.NETM,Net migration,2017,71766
+ETH,Ethiopia,SM.POP.NETM,Net migration,2016,115823
+GHA,Ghana,SM.POP.NETM,Net migration,2025,-17079
+GHA,Ghana,SM.POP.NETM,Net migration,2024,-13114
+GHA,Ghana,SM.POP.NETM,Net migration,2023,-10003
+GHA,Ghana,SM.POP.NETM,Net migration,2022,-10003
+GHA,Ghana,SM.POP.NETM,Net migration,2021,-11259
+GHA,Ghana,SM.POP.NETM,Net migration,2020,-291
+GHA,Ghana,SM.POP.NETM,Net migration,2019,-21857
+GHA,Ghana,SM.POP.NETM,Net migration,2018,-19375
+GHA,Ghana,SM.POP.NETM,Net migration,2017,-4913
+GHA,Ghana,SM.POP.NETM,Net migration,2016,7009
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2025,-2984
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2024,-2989
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2023,-3000
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2022,-3000
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2021,-1949
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2020,-1949
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2019,-4186
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2018,-3944
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2017,-3696
+GMB,"Gambia, The",SM.POP.NETM,Net migration,2016,-3486
+KEN,Kenya,SM.POP.NETM,Net migration,2025,-27330
+KEN,Kenya,SM.POP.NETM,Net migration,2024,-19781
+KEN,Kenya,SM.POP.NETM,Net migration,2023,-10003
+KEN,Kenya,SM.POP.NETM,Net migration,2022,-10003
+KEN,Kenya,SM.POP.NETM,Net migration,2021,-52552
+KEN,Kenya,SM.POP.NETM,Net migration,2020,-17111
+KEN,Kenya,SM.POP.NETM,Net migration,2019,-61949
+KEN,Kenya,SM.POP.NETM,Net migration,2018,-115436
+KEN,Kenya,SM.POP.NETM,Net migration,2017,-68702
+KEN,Kenya,SM.POP.NETM,Net migration,2016,-29728
+LBR,Liberia,SM.POP.NETM,Net migration,2025,-9870
+LBR,Liberia,SM.POP.NETM,Net migration,2024,-7779
+LBR,Liberia,SM.POP.NETM,Net migration,2023,-5002
+LBR,Liberia,SM.POP.NETM,Net migration,2022,-5003
+LBR,Liberia,SM.POP.NETM,Net migration,2021,-11852
+LBR,Liberia,SM.POP.NETM,Net migration,2020,-10107
+LBR,Liberia,SM.POP.NETM,Net migration,2019,-19678
+LBR,Liberia,SM.POP.NETM,Net migration,2018,-23199
+LBR,Liberia,SM.POP.NETM,Net migration,2017,-24807
+LBR,Liberia,SM.POP.NETM,Net migration,2016,-26796
+MAR,Morocco,SM.POP.NETM,Net migration,2025,-56254
+MAR,Morocco,SM.POP.NETM,Net migration,2024,-46802
+MAR,Morocco,SM.POP.NETM,Net migration,2023,-39650
+MAR,Morocco,SM.POP.NETM,Net migration,2022,-38594
+MAR,Morocco,SM.POP.NETM,Net migration,2021,-47902
+MAR,Morocco,SM.POP.NETM,Net migration,2020,-35474
+MAR,Morocco,SM.POP.NETM,Net migration,2019,-91217
+MAR,Morocco,SM.POP.NETM,Net migration,2018,-88159
+MAR,Morocco,SM.POP.NETM,Net migration,2017,-60472
+MAR,Morocco,SM.POP.NETM,Net migration,2016,-39302
+NGA,Nigeria,SM.POP.NETM,Net migration,2025,-15258
+NGA,Nigeria,SM.POP.NETM,Net migration,2024,-35202
+NGA,Nigeria,SM.POP.NETM,Net migration,2023,-57936
+NGA,Nigeria,SM.POP.NETM,Net migration,2022,-51680
+NGA,Nigeria,SM.POP.NETM,Net migration,2021,-86115
+NGA,Nigeria,SM.POP.NETM,Net migration,2020,-14497
+NGA,Nigeria,SM.POP.NETM,Net migration,2019,-99722
+NGA,Nigeria,SM.POP.NETM,Net migration,2018,-76565
+NGA,Nigeria,SM.POP.NETM,Net migration,2017,78685
+NGA,Nigeria,SM.POP.NETM,Net migration,2016,75265
+SEN,Senegal,SM.POP.NETM,Net migration,2025,-12636
+SEN,Senegal,SM.POP.NETM,Net migration,2024,-10307
+SEN,Senegal,SM.POP.NETM,Net migration,2023,-9999
+SEN,Senegal,SM.POP.NETM,Net migration,2022,16425
+SEN,Senegal,SM.POP.NETM,Net migration,2021,25519
+SEN,Senegal,SM.POP.NETM,Net migration,2020,33848
+SEN,Senegal,SM.POP.NETM,Net migration,2019,38386
+SEN,Senegal,SM.POP.NETM,Net migration,2018,33567
+SEN,Senegal,SM.POP.NETM,Net migration,2017,29605
+SEN,Senegal,SM.POP.NETM,Net migration,2016,29498
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2025,-11309
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2024,-11000
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2023,-4000
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2022,-4000
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2021,-1544
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2020,1292
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2019,-2238
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2018,-2741
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2017,1234
+SLE,Sierra Leone,SM.POP.NETM,Net migration,2016,4657
+TZA,Tanzania,SM.POP.NETM,Net migration,2025,-12730
+TZA,Tanzania,SM.POP.NETM,Net migration,2024,-29865
+TZA,Tanzania,SM.POP.NETM,Net migration,2023,-39388
+TZA,Tanzania,SM.POP.NETM,Net migration,2022,-37557
+TZA,Tanzania,SM.POP.NETM,Net migration,2021,-7704
+TZA,Tanzania,SM.POP.NETM,Net migration,2020,-18587
+TZA,Tanzania,SM.POP.NETM,Net migration,2019,-63602
+TZA,Tanzania,SM.POP.NETM,Net migration,2018,-55444
+TZA,Tanzania,SM.POP.NETM,Net migration,2017,119142
+TZA,Tanzania,SM.POP.NETM,Net migration,2016,152194
+UGA,Uganda,SM.POP.NETM,Net migration,2025,-119059
+UGA,Uganda,SM.POP.NETM,Net migration,2024,-117924
+UGA,Uganda,SM.POP.NETM,Net migration,2023,-126181
+UGA,Uganda,SM.POP.NETM,Net migration,2022,-118843
+UGA,Uganda,SM.POP.NETM,Net migration,2021,43464
+UGA,Uganda,SM.POP.NETM,Net migration,2020,43464
+UGA,Uganda,SM.POP.NETM,Net migration,2019,107210
+UGA,Uganda,SM.POP.NETM,Net migration,2018,60724
+UGA,Uganda,SM.POP.NETM,Net migration,2017,92879
+UGA,Uganda,SM.POP.NETM,Net migration,2016,123379
+ZAF,South Africa,SM.POP.NETM,Net migration,2025,146370
+ZAF,South Africa,SM.POP.NETM,Net migration,2024,166972
+ZAF,South Africa,SM.POP.NETM,Net migration,2023,228222
+ZAF,South Africa,SM.POP.NETM,Net migration,2022,233284
+ZAF,South Africa,SM.POP.NETM,Net migration,2021,458246
+ZAF,South Africa,SM.POP.NETM,Net migration,2020,369901
+ZAF,South Africa,SM.POP.NETM,Net migration,2019,331124
+ZAF,South Africa,SM.POP.NETM,Net migration,2018,318260
+ZAF,South Africa,SM.POP.NETM,Net migration,2017,343146
+ZAF,South Africa,SM.POP.NETM,Net migration,2016,-879235

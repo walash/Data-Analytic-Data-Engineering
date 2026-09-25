@@ -1,0 +1,23 @@
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-labor-migration:latest
+    container_name: labor_migration_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      RAW_DATA_DIR: "/app/data/raw"
+      PROCESSED_DATA_DIR: "/app/data/processed"
+      DATABASE_PATH: "/app/data/labor_migration.db"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    # Run the full ETL sequence: ingest -> transform -> load.
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
