@@ -1,0 +1,32 @@
+# Core data engineering & analysis
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+
+# Machine learning
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+plotly==5.23.0
+
+# Notebooks
+jupyter==1.0.0
+nbformat==5.10.4
+nbconvert==7.16.4
+
+# Orchestration
+apache-airflow==2.9.3
+
+# Database
+sqlalchemy==1.4.53
+psycopg2-binary==2.9.9
+
+# Configuration & utilities
+pyyaml==6.0.2
+python-dotenv==1.0.1
+
+# Quality & testing
+flake8==7.1.0
+pytest==8.3.2

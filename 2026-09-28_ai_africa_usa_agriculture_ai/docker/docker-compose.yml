@@ -1,0 +1,80 @@
+version: "3.8"
+
+# ============================================================================
+# AI in Agriculture — Docker Compose stack
+#   * pipeline           : runs the full ETL (ingest -> transform -> load)
+#   * postgres           : metadata / warehouse database for Airflow
+#   * airflow-webserver  : Airflow UI + scheduler for orchestrated runs
+# ============================================================================
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: agriculture-ai-pipeline:latest
+    container_name: agriculture_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      DATA_DIR: /opt/airflow/data
+      DB_PATH: /opt/airflow/data/agriculture_analytics.db
+    volumes:
+      - ../data:/opt/airflow/data
+      - ../config:/opt/airflow/config:ro
+    command: >
+      bash -lc "python src/ingestion/ingest.py &&
+                python src/transformation/transform.py &&
+                python src/loading/load.py"
+    restart: "no"
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: agriculture_postgres
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  airflow-webserver:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: agriculture-ai-pipeline:latest
+    container_name: agriculture_airflow
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      PROJECT_ROOT: /opt/airflow
+      PYTHONPATH: /opt/airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - ../dags:/opt/airflow/dags
+      - ../src:/opt/airflow/src
+      - ../data:/opt/airflow/data
+      - ../config:/opt/airflow/config:ro
+    command: >
+      bash -lc "airflow db init &&
+                airflow users create --username admin --password admin
+                  --firstname Admin --lastname User --role Admin
+                  --email admin@example.com || true &&
+                airflow scheduler & exec airflow webserver"
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
