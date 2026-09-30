@@ -1,0 +1,46 @@
+# Maternal & Child Health (Africa vs USA) - Docker Compose
+# Run from the docker/ directory:
+#   docker compose up --build              # ingest -> transform -> load
+#   docker compose run --rm pipeline python src/ingestion/ingest.py --dry-run
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: maternal-child-health-pipeline:latest
+    container_name: mch_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+      RAW_DATA_DIR: /app/data/raw
+      PROCESSED_DATA_DIR: /app/data/processed
+      DB_PATH: /app/data/db/maternal_child_health.db
+    volumes:
+      - ../data/raw:/app/data/raw
+      - ../data/processed:/app/data/processed
+      - sqlite_data:/app/data/db
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  # Optional: inspect the SQLite database with the analytical queries
+  #   docker compose run --rm sqlite-cli
+  sqlite-cli:
+    image: keinos/sqlite3:latest
+    profiles: ["tools"]
+    working_dir: /workspace
+    volumes:
+      - sqlite_data:/data/db:ro
+      - ../sql:/workspace/sql:ro
+    entrypoint: ["sh", "-c", "sqlite3 /data/db/maternal_child_health.db < sql/queries.sql"]
+    depends_on:
+      - pipeline
+
+volumes:
+  sqlite_data:
+    name: mch_sqlite_data

@@ -1,0 +1,161 @@
+country,country_code,year,value,indicator
+Cote d'Ivoire,CIV,2024,77,immunization_dpt_pct
+Cote d'Ivoire,CIV,2023,79,immunization_dpt_pct
+Cote d'Ivoire,CIV,2022,73,immunization_dpt_pct
+Cote d'Ivoire,CIV,2021,73,immunization_dpt_pct
+Cote d'Ivoire,CIV,2020,72,immunization_dpt_pct
+Cote d'Ivoire,CIV,2019,79,immunization_dpt_pct
+Cote d'Ivoire,CIV,2018,83,immunization_dpt_pct
+Cote d'Ivoire,CIV,2017,83,immunization_dpt_pct
+Cote d'Ivoire,CIV,2016,87,immunization_dpt_pct
+Cote d'Ivoire,CIV,2015,79,immunization_dpt_pct
+Cameroon,CMR,2024,77,immunization_dpt_pct
+Cameroon,CMR,2023,75,immunization_dpt_pct
+Cameroon,CMR,2022,71,immunization_dpt_pct
+Cameroon,CMR,2021,71,immunization_dpt_pct
+Cameroon,CMR,2020,68,immunization_dpt_pct
+Cameroon,CMR,2019,67,immunization_dpt_pct
+Cameroon,CMR,2018,68,immunization_dpt_pct
+Cameroon,CMR,2017,74,immunization_dpt_pct
+Cameroon,CMR,2016,78,immunization_dpt_pct
+Cameroon,CMR,2015,76,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2024,97,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2023,96,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2022,97,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2021,96,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2020,94,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2019,95,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2018,95,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2017,94,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2016,95,immunization_dpt_pct
+"Egypt, Arab Rep.",EGY,2015,93,immunization_dpt_pct
+Ethiopia,ETH,2024,73,immunization_dpt_pct
+Ethiopia,ETH,2023,70,immunization_dpt_pct
+Ethiopia,ETH,2022,63,immunization_dpt_pct
+Ethiopia,ETH,2021,63,immunization_dpt_pct
+Ethiopia,ETH,2020,62,immunization_dpt_pct
+Ethiopia,ETH,2019,61,immunization_dpt_pct
+Ethiopia,ETH,2018,62,immunization_dpt_pct
+Ethiopia,ETH,2017,65,immunization_dpt_pct
+Ethiopia,ETH,2016,64,immunization_dpt_pct
+Ethiopia,ETH,2015,62,immunization_dpt_pct
+Ghana,GHA,2024,95,immunization_dpt_pct
+Ghana,GHA,2023,95,immunization_dpt_pct
+Ghana,GHA,2022,99,immunization_dpt_pct
+Ghana,GHA,2021,98,immunization_dpt_pct
+Ghana,GHA,2020,94,immunization_dpt_pct
+Ghana,GHA,2019,97,immunization_dpt_pct
+Ghana,GHA,2018,97,immunization_dpt_pct
+Ghana,GHA,2017,99,immunization_dpt_pct
+Ghana,GHA,2016,93,immunization_dpt_pct
+Ghana,GHA,2015,89,immunization_dpt_pct
+Kenya,KEN,2024,91,immunization_dpt_pct
+Kenya,KEN,2023,93,immunization_dpt_pct
+Kenya,KEN,2022,94,immunization_dpt_pct
+Kenya,KEN,2021,95,immunization_dpt_pct
+Kenya,KEN,2020,93,immunization_dpt_pct
+Kenya,KEN,2019,93,immunization_dpt_pct
+Kenya,KEN,2018,91,immunization_dpt_pct
+Kenya,KEN,2017,81,immunization_dpt_pct
+Kenya,KEN,2016,88,immunization_dpt_pct
+Kenya,KEN,2015,89,immunization_dpt_pct
+Morocco,MAR,2024,96,immunization_dpt_pct
+Morocco,MAR,2023,97,immunization_dpt_pct
+Morocco,MAR,2022,98,immunization_dpt_pct
+Morocco,MAR,2021,98,immunization_dpt_pct
+Morocco,MAR,2020,99,immunization_dpt_pct
+Morocco,MAR,2019,99,immunization_dpt_pct
+Morocco,MAR,2018,99,immunization_dpt_pct
+Morocco,MAR,2017,99,immunization_dpt_pct
+Morocco,MAR,2016,99,immunization_dpt_pct
+Morocco,MAR,2015,99,immunization_dpt_pct
+Mozambique,MOZ,2024,70,immunization_dpt_pct
+Mozambique,MOZ,2023,70,immunization_dpt_pct
+Mozambique,MOZ,2022,55,immunization_dpt_pct
+Mozambique,MOZ,2021,56,immunization_dpt_pct
+Mozambique,MOZ,2020,71,immunization_dpt_pct
+Mozambique,MOZ,2019,85,immunization_dpt_pct
+Mozambique,MOZ,2018,85,immunization_dpt_pct
+Mozambique,MOZ,2017,85,immunization_dpt_pct
+Mozambique,MOZ,2016,85,immunization_dpt_pct
+Mozambique,MOZ,2015,85,immunization_dpt_pct
+Nigeria,NGA,2024,67,immunization_dpt_pct
+Nigeria,NGA,2023,67,immunization_dpt_pct
+Nigeria,NGA,2022,59,immunization_dpt_pct
+Nigeria,NGA,2021,61,immunization_dpt_pct
+Nigeria,NGA,2020,62,immunization_dpt_pct
+Nigeria,NGA,2019,66,immunization_dpt_pct
+Nigeria,NGA,2018,61,immunization_dpt_pct
+Nigeria,NGA,2017,55,immunization_dpt_pct
+Nigeria,NGA,2016,53,immunization_dpt_pct
+Nigeria,NGA,2015,42,immunization_dpt_pct
+Rwanda,RWA,2024,98,immunization_dpt_pct
+Rwanda,RWA,2023,94,immunization_dpt_pct
+Rwanda,RWA,2022,98,immunization_dpt_pct
+Rwanda,RWA,2021,88,immunization_dpt_pct
+Rwanda,RWA,2020,91,immunization_dpt_pct
+Rwanda,RWA,2019,98,immunization_dpt_pct
+Rwanda,RWA,2018,97,immunization_dpt_pct
+Rwanda,RWA,2017,98,immunization_dpt_pct
+Rwanda,RWA,2016,98,immunization_dpt_pct
+Rwanda,RWA,2015,98,immunization_dpt_pct
+Senegal,SEN,2024,91,immunization_dpt_pct
+Senegal,SEN,2023,92,immunization_dpt_pct
+Senegal,SEN,2022,93,immunization_dpt_pct
+Senegal,SEN,2021,85,immunization_dpt_pct
+Senegal,SEN,2020,83,immunization_dpt_pct
+Senegal,SEN,2019,91,immunization_dpt_pct
+Senegal,SEN,2018,92,immunization_dpt_pct
+Senegal,SEN,2017,93,immunization_dpt_pct
+Senegal,SEN,2016,93,immunization_dpt_pct
+Senegal,SEN,2015,89,immunization_dpt_pct
+Tanzania,TZA,2024,83,immunization_dpt_pct
+Tanzania,TZA,2023,83,immunization_dpt_pct
+Tanzania,TZA,2022,87,immunization_dpt_pct
+Tanzania,TZA,2021,86,immunization_dpt_pct
+Tanzania,TZA,2020,91,immunization_dpt_pct
+Tanzania,TZA,2019,91,immunization_dpt_pct
+Tanzania,TZA,2018,89,immunization_dpt_pct
+Tanzania,TZA,2017,90,immunization_dpt_pct
+Tanzania,TZA,2016,92,immunization_dpt_pct
+Tanzania,TZA,2015,96,immunization_dpt_pct
+Uganda,UGA,2024,91,immunization_dpt_pct
+Uganda,UGA,2023,91,immunization_dpt_pct
+Uganda,UGA,2022,89,immunization_dpt_pct
+Uganda,UGA,2021,91,immunization_dpt_pct
+Uganda,UGA,2020,89,immunization_dpt_pct
+Uganda,UGA,2019,93,immunization_dpt_pct
+Uganda,UGA,2018,93,immunization_dpt_pct
+Uganda,UGA,2017,94,immunization_dpt_pct
+Uganda,UGA,2016,93,immunization_dpt_pct
+Uganda,UGA,2015,89,immunization_dpt_pct
+United States,USA,2024,94,immunization_dpt_pct
+United States,USA,2023,94,immunization_dpt_pct
+United States,USA,2022,94,immunization_dpt_pct
+United States,USA,2021,94,immunization_dpt_pct
+United States,USA,2020,93,immunization_dpt_pct
+United States,USA,2019,94,immunization_dpt_pct
+United States,USA,2018,94,immunization_dpt_pct
+United States,USA,2017,94,immunization_dpt_pct
+United States,USA,2016,95,immunization_dpt_pct
+United States,USA,2015,95,immunization_dpt_pct
+South Africa,ZAF,2024,74,immunization_dpt_pct
+South Africa,ZAF,2023,79,immunization_dpt_pct
+South Africa,ZAF,2022,85,immunization_dpt_pct
+South Africa,ZAF,2021,86,immunization_dpt_pct
+South Africa,ZAF,2020,84,immunization_dpt_pct
+South Africa,ZAF,2019,85,immunization_dpt_pct
+South Africa,ZAF,2018,82,immunization_dpt_pct
+South Africa,ZAF,2017,84,immunization_dpt_pct
+South Africa,ZAF,2016,85,immunization_dpt_pct
+South Africa,ZAF,2015,85,immunization_dpt_pct
+Zambia,ZMB,2024,91,immunization_dpt_pct
+Zambia,ZMB,2023,90,immunization_dpt_pct
+Zambia,ZMB,2022,92,immunization_dpt_pct
+Zambia,ZMB,2021,91,immunization_dpt_pct
+Zambia,ZMB,2020,84,immunization_dpt_pct
+Zambia,ZMB,2019,88,immunization_dpt_pct
+Zambia,ZMB,2018,90,immunization_dpt_pct
+Zambia,ZMB,2017,94,immunization_dpt_pct
+Zambia,ZMB,2016,95,immunization_dpt_pct
+Zambia,ZMB,2015,90,immunization_dpt_pct

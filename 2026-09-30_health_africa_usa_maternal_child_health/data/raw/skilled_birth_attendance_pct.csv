@@ -1,0 +1,45 @@
+country,country_code,year,value,indicator
+Cote d'Ivoire,CIV,2021,84,skilled_birth_attendance_pct
+Cote d'Ivoire,CIV,2016,73.6,skilled_birth_attendance_pct
+Cameroon,CMR,2018,69,skilled_birth_attendance_pct
+Cameroon,CMR,2014,64.7,skilled_birth_attendance_pct
+"Egypt, Arab Rep.",EGY,2021,97.1,skilled_birth_attendance_pct
+"Egypt, Arab Rep.",EGY,2014,91.5,skilled_birth_attendance_pct
+Ethiopia,ETH,2019,49.8,skilled_birth_attendance_pct
+Ethiopia,ETH,2016,27.7,skilled_birth_attendance_pct
+Ethiopia,ETH,2014,15.5,skilled_birth_attendance_pct
+Ethiopia,ETH,2013,23.1,skilled_birth_attendance_pct
+Ghana,GHA,2018,78.9,skilled_birth_attendance_pct
+Ghana,GHA,2017,78.1,skilled_birth_attendance_pct
+Ghana,GHA,2014,70.8,skilled_birth_attendance_pct
+Kenya,KEN,2016,70.2,skilled_birth_attendance_pct
+Kenya,KEN,2014,61.8,skilled_birth_attendance_pct
+Morocco,MAR,2018,86.6,skilled_birth_attendance_pct
+Mozambique,MOZ,2015,73,skilled_birth_attendance_pct
+Nigeria,NGA,2022,50.7,skilled_birth_attendance_pct
+Nigeria,NGA,2018,43.3,skilled_birth_attendance_pct
+Nigeria,NGA,2017,43,skilled_birth_attendance_pct
+Nigeria,NGA,2013,35.2,skilled_birth_attendance_pct
+Rwanda,RWA,2020,94.2,skilled_birth_attendance_pct
+Rwanda,RWA,2015,90.7,skilled_birth_attendance_pct
+Senegal,SEN,2019,74.5,skilled_birth_attendance_pct
+Senegal,SEN,2018,74.2,skilled_birth_attendance_pct
+Senegal,SEN,2017,68.4,skilled_birth_attendance_pct
+Senegal,SEN,2016,58.6,skilled_birth_attendance_pct
+Senegal,SEN,2015,53.2,skilled_birth_attendance_pct
+Senegal,SEN,2014,59.1,skilled_birth_attendance_pct
+Senegal,SEN,2013,50.5,skilled_birth_attendance_pct
+Tanzania,TZA,2016,63.5,skilled_birth_attendance_pct
+Uganda,UGA,2016,74.2,skilled_birth_attendance_pct
+United States,USA,2020,99.1,skilled_birth_attendance_pct
+United States,USA,2019,99,skilled_birth_attendance_pct
+United States,USA,2018,99.1,skilled_birth_attendance_pct
+United States,USA,2017,99.1,skilled_birth_attendance_pct
+United States,USA,2016,99.1,skilled_birth_attendance_pct
+United States,USA,2015,99.1,skilled_birth_attendance_pct
+United States,USA,2014,98.5,skilled_birth_attendance_pct
+United States,USA,2013,99.2,skilled_birth_attendance_pct
+South Africa,ZAF,2016,96.7,skilled_birth_attendance_pct
+Zambia,ZMB,2019,80.4,skilled_birth_attendance_pct
+Zambia,ZMB,2018,80.4,skilled_birth_attendance_pct
+Zambia,ZMB,2014,63.3,skilled_birth_attendance_pct
