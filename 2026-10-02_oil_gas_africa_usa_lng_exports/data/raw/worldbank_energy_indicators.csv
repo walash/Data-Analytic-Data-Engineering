@@ -1,0 +1,701 @@
+country_code,country,year,indicator,indicator_name,value
+AGO,Angola,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.01234906054638
+AGO,Angola,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.876758383885871
+AGO,Angola,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.814083850645771
+AGO,Angola,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.74554243174425
+AGO,Angola,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.476162010407452
+AGO,Angola,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.158766315983972
+AGO,Angola,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0604405605969015
+AGO,Angola,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0508980853938274
+AGO,Angola,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0689984474570451
+AGO,Angola,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0646914683950498
+CMR,Cameroon,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.584760671391585
+CMR,Cameroon,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.361296047441197
+CMR,Cameroon,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.49071048227931
+CMR,Cameroon,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.356813520977837
+CMR,Cameroon,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0955529946977523
+CMR,Cameroon,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.075259562096555
+CMR,Cameroon,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.109547491948903
+CMR,Cameroon,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.122306805074881
+CMR,Cameroon,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.46664435257e-17
+CMR,Cameroon,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0951680418324432
+DZA,Algeria,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,7.9957286210892
+DZA,Algeria,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,4.83849619936078
+DZA,Algeria,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,4.23642792336282
+DZA,Algeria,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,4.64378704706283
+DZA,Algeria,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.96806789859693
+DZA,Algeria,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.56694843286828
+DZA,Algeria,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.90603072482324
+DZA,Algeria,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.0569020902826
+DZA,Algeria,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.15384901781361
+DZA,Algeria,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.36687425907052
+EGY,"Egypt, Arab Rep.",2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.04572586744071
+EGY,"Egypt, Arab Rep.",2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.27251663281876
+EGY,"Egypt, Arab Rep.",2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.67276468331077
+EGY,"Egypt, Arab Rep.",2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.89151906248592
+EGY,"Egypt, Arab Rep.",2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.04828310066825
+EGY,"Egypt, Arab Rep.",2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.506687001503198
+EGY,"Egypt, Arab Rep.",2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.717587471392014
+EGY,"Egypt, Arab Rep.",2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.15200734272802
+EGY,"Egypt, Arab Rep.",2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.48462315590397
+EGY,"Egypt, Arab Rep.",2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.63298671232615
+GAB,Gabon,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.268524525122843
+GAB,Gabon,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.210349223877747
+GAB,Gabon,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.24178434717823
+GAB,Gabon,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.249185395988878
+GAB,Gabon,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.183250931989039
+GAB,Gabon,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.180381369327729
+GAB,Gabon,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.259727579161708
+GAB,Gabon,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.286832079981206
+GAB,Gabon,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.21205622538129
+GAB,Gabon,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.235863079960661
+GNQ,Equatorial Guinea,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,6.63018966086863
+GNQ,Equatorial Guinea,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.7137787424555
+GNQ,Equatorial Guinea,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,4.67462374102181
+GNQ,Equatorial Guinea,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,5.43066594009262
+GNQ,Equatorial Guinea,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.92567796997632
+GNQ,Equatorial Guinea,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.3292341665039
+GNQ,Equatorial Guinea,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.96755999067266
+GNQ,Equatorial Guinea,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.71720499957102
+GNQ,Equatorial Guinea,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.89363267396189
+GNQ,Equatorial Guinea,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.59654715458514
+LBY,Libya,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,4.58022937363502
+LBY,Libya,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.16630490857925
+LBY,Libya,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.68853062615573
+LBY,Libya,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.54108781216236
+LBY,Libya,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.13858543021991
+LBY,Libya,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.37802629270615
+LBY,Libya,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.86281114357274
+LBY,Libya,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.28817061051005
+LBY,Libya,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.88859809428919
+LBY,Libya,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.42580825881716
+MOZ,Mozambique,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.56569180210999
+MOZ,Mozambique,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.16476507105305
+MOZ,Mozambique,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.70158116067819
+MOZ,Mozambique,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,3.03979938526507
+MOZ,Mozambique,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.16082066537561
+MOZ,Mozambique,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.97200900578106
+MOZ,Mozambique,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.13938758840339
+MOZ,Mozambique,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.49412068073804
+MOZ,Mozambique,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.50355833068363
+MOZ,Mozambique,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,2.50717835565139
+NGA,Nigeria,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,1.16400248668311
+NGA,Nigeria,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.66919749440088
+NGA,Nigeria,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.855086670258244
+NGA,Nigeria,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.968367262124034
+NGA,Nigeria,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.679652469225142
+NGA,Nigeria,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.482590199613052
+NGA,Nigeria,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.606650567592808
+NGA,Nigeria,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.706958402345768
+NGA,Nigeria,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.707231138877851
+NGA,Nigeria,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.944828584323691
+TZA,Tanzania,2021,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.223340416897822
+TZA,Tanzania,2020,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.125414392830039
+TZA,Tanzania,2019,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.185559026652075
+TZA,Tanzania,2018,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.197788905211452
+TZA,Tanzania,2017,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0996973020864147
+TZA,Tanzania,2016,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0828972587378178
+TZA,Tanzania,2015,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.0958189291565574
+TZA,Tanzania,2014,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.106190378675112
+TZA,Tanzania,2013,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.139651250540847
+TZA,Tanzania,2012,NY.GDP.NGAS.RT.ZS,gas_rents_pct_gdp,0.1543339847838
+AGO,Angola,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,28.2744398825844
+AGO,Angola,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,18.5719595053837
+AGO,Angola,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,27.504828641196
+AGO,Angola,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,30.7304027285905
+AGO,Angola,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,24.7110060055382
+AGO,Angola,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,19.7483988340046
+AGO,Angola,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,12.7187303090272
+AGO,Angola,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,21.736607448329
+AGO,Angola,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,29.0014846107501
+AGO,Angola,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,34.3328389540912
+CMR,Cameroon,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.36159953238547
+CMR,Cameroon,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,1.28058779283346
+CMR,Cameroon,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.42269397588966
+CMR,Cameroon,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.78430133697793
+CMR,Cameroon,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.19707562839754
+CMR,Cameroon,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,1.55546940126434
+CMR,Cameroon,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,1.89664344480798
+CMR,Cameroon,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,3.67835628658685
+CMR,Cameroon,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,4.19597685270569
+CMR,Cameroon,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,5.26170344833076
+DZA,Algeria,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,14.4615654623053
+DZA,Algeria,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.03841379679424
+DZA,Algeria,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,14.1421031504305
+DZA,Algeria,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,15.9428081774505
+DZA,Algeria,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,12.1565741270026
+DZA,Algeria,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,10.0262189142963
+DZA,Algeria,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,11.7459031918092
+DZA,Algeria,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,19.3167294732848
+DZA,Algeria,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,20.8724313901278
+DZA,Algeria,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,22.6025382987382
+EGY,"Egypt, Arab Rep.",2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.98581458250197
+EGY,"Egypt, Arab Rep.",2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,1.85770095140202
+EGY,"Egypt, Arab Rep.",2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,3.8819618632175
+EGY,"Egypt, Arab Rep.",2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,5.47658822874947
+EGY,"Egypt, Arab Rep.",2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,4.12683269397819
+EGY,"Egypt, Arab Rep.",2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.35006516963224
+EGY,"Egypt, Arab Rep.",2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,3.05526433674059
+EGY,"Egypt, Arab Rep.",2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,6.82340013626772
+EGY,"Egypt, Arab Rep.",2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,7.82863019779494
+EGY,"Egypt, Arab Rep.",2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,8.38345897037217
+GAB,Gabon,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,15.5565091491463
+GAB,Gabon,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.97982419987045
+GAB,Gabon,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,16.6842425426461
+GAB,Gabon,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,18.3274076798358
+GAB,Gabon,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,14.3932577694784
+GAB,Gabon,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.0185416132992
+GAB,Gabon,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.98640233955356
+GAB,Gabon,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,22.1627532667092
+GAB,Gabon,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,30.2411289292074
+GAB,Gabon,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,38.2761163072887
+GNQ,Equatorial Guinea,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,14.9400221325798
+GNQ,Equatorial Guinea,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,10.7521167179464
+GNQ,Equatorial Guinea,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,18.813552099543
+GNQ,Equatorial Guinea,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,20.3264698484548
+GNQ,Equatorial Guinea,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,16.1366726241749
+GNQ,Equatorial Guinea,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,11.7086428410267
+GNQ,Equatorial Guinea,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,12.576041460388
+GNQ,Equatorial Guinea,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,22.8648774988219
+GNQ,Equatorial Guinea,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,29.0020263766332
+GNQ,Equatorial Guinea,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,34.9943032804264
+LBY,Libya,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,56.3779371892049
+LBY,Libya,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.24399152945122
+LBY,Libya,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,32.7515623093831
+LBY,Libya,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,30.0345298438813
+LBY,Libya,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,20.9466167504799
+LBY,Libya,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,10.7931417666286
+LBY,Libya,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,14.4264442000075
+LBY,Libya,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,28.6305298163822
+LBY,Libya,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,45.8016137051651
+LBY,Libya,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,57.6300935046394
+MOZ,Mozambique,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.0793125662089328
+MOZ,Mozambique,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.0473545337657661
+MOZ,Mozambique,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.0821437604923504
+MOZ,Mozambique,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.11025673875252
+MOZ,Mozambique,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.0872960927597713
+MOZ,Mozambique,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.0633248092640754
+MOZ,Mozambique,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.050045182177423
+MOZ,Mozambique,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.114254490571332
+MOZ,Mozambique,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.260362393762375
+MOZ,Mozambique,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0.239401568530512
+NGA,Nigeria,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,6.24674969005013
+NGA,Nigeria,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,3.31241719212516
+NGA,Nigeria,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,6.51475056054778
+NGA,Nigeria,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,7.69068153465603
+NGA,Nigeria,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,5.47262882301734
+NGA,Nigeria,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.68429043488445
+NGA,Nigeria,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,2.78345150643408
+NGA,Nigeria,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,7.0738580847829
+NGA,Nigeria,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,9.88011499667836
+NGA,Nigeria,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,13.0904727134596
+TZA,Tanzania,2021,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2020,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2019,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2018,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2017,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2016,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2015,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2014,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2013,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+TZA,Tanzania,2012,NY.GDP.PETR.RT.ZS,oil_rents_pct_gdp,0
+AGO,Angola,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,29.9674348417559
+AGO,Angola,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,20.2476653863539
+AGO,Angola,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,28.8978590593907
+AGO,Angola,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,32.045405604301
+AGO,Angola,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,25.9503299089307
+AGO,Angola,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,20.8851202682195
+AGO,Angola,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,13.3056748880613
+AGO,Angola,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,22.124247625088
+AGO,Angola,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,29.4000452272015
+AGO,Angola,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,34.7310076331615
+CMR,Cameroon,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.52598268395679
+CMR,Cameroon,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,4.34202268521826
+CMR,Cameroon,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.55584424286198
+CMR,Cameroon,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,6.10463986256462
+CMR,Cameroon,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,6.08352640758934
+CMR,Cameroon,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.36737216526029
+CMR,Cameroon,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.63563339959601
+CMR,Cameroon,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,7.03590731300358
+CMR,Cameroon,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,7.33302882488587
+CMR,Cameroon,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,8.40581417479506
+DZA,Algeria,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,22.5902703479201
+DZA,Algeria,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,14.0343770936226
+DZA,Algeria,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,18.5236789388593
+DZA,Algeria,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,20.7172028374976
+DZA,Algeria,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,15.372392970843
+DZA,Algeria,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,12.8191814025545
+DZA,Algeria,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,14.9252527493911
+DZA,Algeria,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,22.6123097835033
+DZA,Algeria,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,24.2231338959379
+DZA,Algeria,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,26.2525144621236
+EGY,"Egypt, Arab Rep.",2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.1391200748227
+EGY,"Egypt, Arab Rep.",2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,3.25774327235436
+EGY,"Egypt, Arab Rep.",2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.72496131230483
+EGY,"Egypt, Arab Rep.",2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,7.59656355901849
+EGY,"Egypt, Arab Rep.",2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.69886428656261
+EGY,"Egypt, Arab Rep.",2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,3.20908060820144
+EGY,"Egypt, Arab Rep.",2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,4.12906894708286
+EGY,"Egypt, Arab Rep.",2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,8.43222797439408
+EGY,"Egypt, Arab Rep.",2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,9.78188256424924
+EGY,"Egypt, Arab Rep.",2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,10.7454978351353
+GAB,Gabon,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,18.4933440925176
+GAB,Gabon,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,13.4988249621846
+GAB,Gabon,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,19.1754988018892
+GAB,Gabon,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,21.16026297404
+GAB,Gabon,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,17.699784026005
+GAB,Gabon,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.6621945364629
+GAB,Gabon,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,12.5534347249347
+GAB,Gabon,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,24.7540184011901
+GAB,Gabon,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,32.806984483505
+GAB,Gabon,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,40.6293332424739
+GNQ,Equatorial Guinea,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,23.500064053404
+GNQ,Equatorial Guinea,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,16.6815988795919
+GNQ,Equatorial Guinea,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,25.4372801609757
+GNQ,Equatorial Guinea,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,27.8023533090755
+GNQ,Equatorial Guinea,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,21.9589067386853
+GNQ,Equatorial Guinea,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,16.4599653575836
+GNQ,Equatorial Guinea,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,17.5005073478909
+GNQ,Equatorial Guinea,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,27.1072398964958
+GNQ,Equatorial Guinea,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,33.3474569225038
+GNQ,Equatorial Guinea,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,39.0027634245776
+LBY,Libya,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,61.0347089411103
+LBY,Libya,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.4789831280341
+LBY,Libya,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,34.4990280272661
+LBY,Libya,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,31.6168598912657
+LBY,Libya,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,22.1587604827104
+LBY,Libya,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,12.2468654255016
+LBY,Libya,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,16.3921988648858
+LBY,Libya,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,31.016947831293
+LBY,Libya,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,47.7413993201726
+LBY,Libya,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,59.1030408512754
+MOZ,Mozambique,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,14.9074768559672
+MOZ,Mozambique,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.8639361284365
+MOZ,Mozambique,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,12.6767242973038
+MOZ,Mozambique,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,16.3975888133586
+MOZ,Mozambique,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,18.0510410834352
+MOZ,Mozambique,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,16.3133886142564
+MOZ,Mozambique,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,12.2160721685778
+MOZ,Mozambique,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.9039028509476
+MOZ,Mozambique,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.6325534065914
+MOZ,Mozambique,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.9192598207508
+NGA,Nigeria,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,8.55295423830806
+NGA,Nigeria,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.07484002483035
+NGA,Nigeria,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,8.35322267194456
+NGA,Nigeria,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,9.79850822600435
+NGA,Nigeria,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,7.80498492445019
+NGA,Nigeria,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,4.65772615666869
+NGA,Nigeria,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,4.55410681800406
+NGA,Nigeria,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,8.78193552361452
+NGA,Nigeria,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,11.6227181116144
+NGA,Nigeria,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,15.1485150031193
+TZA,Tanzania,2021,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,6.69370906979479
+TZA,Tanzania,2020,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,3.85169508025186
+TZA,Tanzania,2019,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,3.53145044367484
+TZA,Tanzania,2018,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,3.61159728659091
+TZA,Tanzania,2017,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.13616759488345
+TZA,Tanzania,2016,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.61603835789229
+TZA,Tanzania,2015,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.30193884393363
+TZA,Tanzania,2014,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.04690559304949
+TZA,Tanzania,2013,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,5.76723525319283
+TZA,Tanzania,2012,NY.GDP.TOTL.RT.ZS,total_resource_rents_pct_gdp,6.8325198508577
+AGO,Angola,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,32492000000
+AGO,Angola,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,39250000000
+AGO,Angola,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,39506000000
+AGO,Angola,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,51275000000
+AGO,Angola,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,34472000000
+AGO,Angola,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,22135000000
+AGO,Angola,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,35432000000
+AGO,Angola,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,40758000000
+AGO,Angola,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,34613000000
+AGO,Angola,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,27589000000
+CMR,Cameroon,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5100000000
+CMR,Cameroon,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5364000000
+CMR,Cameroon,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4927000000
+CMR,Cameroon,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5584000000
+CMR,Cameroon,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4317000000
+CMR,Cameroon,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3132000000
+CMR,Cameroon,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4084000000
+CMR,Cameroon,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3803000000
+CMR,Cameroon,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3233000000
+CMR,Cameroon,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3305000000
+DZA,Algeria,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,45400000000
+DZA,Algeria,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,49067000000
+DZA,Algeria,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,55555000000
+DZA,Algeria,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,65715000000
+DZA,Algeria,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,38637000000
+DZA,Algeria,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,21932000000
+DZA,Algeria,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,35312000000
+DZA,Algeria,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,41797000000
+DZA,Algeria,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,35191000000
+DZA,Algeria,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,30026000000
+EGY,"Egypt, Arab Rep.",2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,51403000000
+EGY,"Egypt, Arab Rep.",2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,42247000000
+EGY,"Egypt, Arab Rep.",2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,42081000000
+EGY,"Egypt, Arab Rep.",2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,51280000000
+EGY,"Egypt, Arab Rep.",2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,41310000000
+EGY,"Egypt, Arab Rep.",2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,27078000000
+EGY,"Egypt, Arab Rep.",2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,29000000000
+EGY,"Egypt, Arab Rep.",2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,27624000000
+EGY,"Egypt, Arab Rep.",2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,25604000000
+EGY,"Egypt, Arab Rep.",2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,25468000000
+GAB,Gabon,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,11600000000
+GAB,Gabon,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,13000000000
+GAB,Gabon,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,12695000000
+GAB,Gabon,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,10470000000
+GAB,Gabon,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8031000000
+GAB,Gabon,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,7345000000
+GAB,Gabon,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,7714000000
+GAB,Gabon,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8584000000
+GAB,Gabon,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5771000000
+GAB,Gabon,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,9503000000
+GNQ,Equatorial Guinea,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,2600000000
+GNQ,Equatorial Guinea,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,2979000000
+GNQ,Equatorial Guinea,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3157000000
+GNQ,Equatorial Guinea,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6661000000
+GNQ,Equatorial Guinea,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3845000000
+GNQ,Equatorial Guinea,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,2859000000
+GNQ,Equatorial Guinea,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5268000000
+GNQ,Equatorial Guinea,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6052000000
+GNQ,Equatorial Guinea,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4970000000
+GNQ,Equatorial Guinea,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4137000000
+LBY,Libya,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,30085000000
+LBY,Libya,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,30191000000
+LBY,Libya,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,33079000000
+LBY,Libya,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,39196000000
+LBY,Libya,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,30972000000
+LBY,Libya,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8443000000
+LBY,Libya,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,29250000000
+LBY,Libya,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,30994000000
+LBY,Libya,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,20881000000
+LBY,Libya,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,20880000000
+MOZ,Mozambique,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8100000000
+MOZ,Mozambique,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8211000000
+MOZ,Mozambique,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8276000000
+MOZ,Mozambique,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8299000000
+MOZ,Mozambique,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5704000000
+MOZ,Mozambique,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3720000000
+MOZ,Mozambique,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4787000000
+MOZ,Mozambique,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6037000000
+MOZ,Mozambique,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4755000000
+MOZ,Mozambique,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,3328000000
+NGA,Nigeria,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,55468000000
+NGA,Nigeria,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,53320000000
+NGA,Nigeria,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,55182000000
+NGA,Nigeria,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,63075000000
+NGA,Nigeria,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,46871000000
+NGA,Nigeria,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,35634000000
+NGA,Nigeria,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,62531000000
+NGA,Nigeria,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,60547000000
+NGA,Nigeria,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,44468000000
+NGA,Nigeria,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,33302000000
+TZA,Tanzania,2025,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,9956000000
+TZA,Tanzania,2024,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,8702000000
+TZA,Tanzania,2023,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,7275000000
+TZA,Tanzania,2022,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6825000000
+TZA,Tanzania,2021,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6391000000
+TZA,Tanzania,2020,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,6061000000
+TZA,Tanzania,2019,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,5005000000
+TZA,Tanzania,2018,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4041000000
+TZA,Tanzania,2017,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4113000000
+TZA,Tanzania,2016,TX.VAL.MRCH.CD.WT,merchandise_exports_usd,4500000000
+AGO,Angola,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,8.82109419782179
+AGO,Angola,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,11.6955941255007
+AGO,Angola,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,10.9432979623722
+AGO,Angola,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,9.94925697716564
+AGO,Angola,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,10.9430189936688
+AGO,Angola,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,0.642398286937901
+AGO,Angola,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,0.372474159605177
+AGO,Angola,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,0.782361569490282
+AGO,Angola,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,1.85261424454508
+AGO,Angola,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,1.89453741711399
+CMR,Cameroon,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,19.4771723122239
+CMR,Cameroon,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,25.3676000511444
+CMR,Cameroon,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,27.3652331920048
+CMR,Cameroon,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,32.1081830790569
+CMR,Cameroon,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,25.5600094317378
+CMR,Cameroon,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,26.7412066154205
+CMR,Cameroon,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,21.8348170128586
+CMR,Cameroon,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,21.1351854313439
+CMR,Cameroon,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,18.6332288401254
+CMR,Cameroon,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,19.3263949118242
+DZA,Algeria,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.9636818053479
+DZA,Algeria,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,99.0145893391501
+DZA,Algeria,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.9811453331772
+DZA,Algeria,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.8326700776957
+DZA,Algeria,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.5685548168682
+DZA,Algeria,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.4855797451182
+DZA,Algeria,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.7410876371386
+DZA,Algeria,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.1633026747609
+DZA,Algeria,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.357510392744
+DZA,Algeria,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,98.6115002646244
+EGY,"Egypt, Arab Rep.",2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,75.81834239762
+EGY,"Egypt, Arab Rep.",2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,78.9114509212122
+EGY,"Egypt, Arab Rep.",2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,81.6083029095872
+EGY,"Egypt, Arab Rep.",2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,86.5516559565003
+EGY,"Egypt, Arab Rep.",2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,84.4039627654181
+EGY,"Egypt, Arab Rep.",2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,86.5258171292935
+EGY,"Egypt, Arab Rep.",2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,80.838901941639
+EGY,"Egypt, Arab Rep.",2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,76.1971630232227
+EGY,"Egypt, Arab Rep.",2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,70.9709994682251
+EGY,"Egypt, Arab Rep.",2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,71.6889137558948
+GAB,Gabon,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,36.4477040816327
+GAB,Gabon,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,35.4398221657669
+GAB,Gabon,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,35.6225930680359
+GAB,Gabon,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,36.3757052771324
+GAB,Gabon,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,36.5121707235745
+GAB,Gabon,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,38.8468468468468
+GAB,Gabon,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,41.1545623836127
+GAB,Gabon,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,45.3831041257367
+GAB,Gabon,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,40.3312629399586
+GAB,Gabon,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,41.2516527104451
+GNQ,Equatorial Guinea,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,67.6434676434676
+GNQ,Equatorial Guinea,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,68.0851063829787
+GNQ,Equatorial Guinea,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,66.7822468793343
+GNQ,Equatorial Guinea,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,64.6306818181818
+GNQ,Equatorial Guinea,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,67.3804425410421
+GNQ,Equatorial Guinea,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,66.6174298375185
+GNQ,Equatorial Guinea,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,66.4666166541635
+GNQ,Equatorial Guinea,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,65.6652360515021
+GNQ,Equatorial Guinea,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,63.356428021555
+GNQ,Equatorial Guinea,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,60.6614447345518
+LBY,Libya,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,73.7776329046406
+LBY,Libya,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,76.0610721813935
+LBY,Libya,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,76.4927411240477
+LBY,Libya,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,73.3211295298146
+LBY,Libya,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,67.1335335566594
+LBY,Libya,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,65.5731468204033
+LBY,Libya,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,68.6097172560921
+LBY,Libya,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,72.5716104392107
+LBY,Libya,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,54.0161552611234
+LBY,Libya,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,53.7012006042777
+MOZ,Mozambique,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,15.6581127906393
+MOZ,Mozambique,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,15.651684818735
+MOZ,Mozambique,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,16.1197985687782
+MOZ,Mozambique,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,15.7609838133277
+MOZ,Mozambique,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,19.8914818521835
+MOZ,Mozambique,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,16.7201446823406
+MOZ,Mozambique,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,15.831538374334
+MOZ,Mozambique,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,14.8783826471517
+MOZ,Mozambique,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,6.8693632877896
+MOZ,Mozambique,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,1.26943634596696
+NGA,Nigeria,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,77.2479796870041
+NGA,Nigeria,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,75.9294995497234
+NGA,Nigeria,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,77.1055017416615
+NGA,Nigeria,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,78.8390554684735
+NGA,Nigeria,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,76.9222313822479
+NGA,Nigeria,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,78.8916188916189
+NGA,Nigeria,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,77.7920557411691
+NGA,Nigeria,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,84.3905793364277
+NGA,Nigeria,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,85.6965146500211
+NGA,Nigeria,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,86.9736649953756
+TZA,Tanzania,2023,EG.ELC.NGAS.ZS,electricity_from_gas_pct,69.7900907715582
+TZA,Tanzania,2022,EG.ELC.NGAS.ZS,electricity_from_gas_pct,65.747488674414
+TZA,Tanzania,2021,EG.ELC.NGAS.ZS,electricity_from_gas_pct,58.5480349344978
+TZA,Tanzania,2020,EG.ELC.NGAS.ZS,electricity_from_gas_pct,54.5091876208897
+TZA,Tanzania,2019,EG.ELC.NGAS.ZS,electricity_from_gas_pct,62.5565749235474
+TZA,Tanzania,2018,EG.ELC.NGAS.ZS,electricity_from_gas_pct,66.5163934426229
+TZA,Tanzania,2017,EG.ELC.NGAS.ZS,electricity_from_gas_pct,61.2007929764939
+TZA,Tanzania,2016,EG.ELC.NGAS.ZS,electricity_from_gas_pct,60.1792009400705
+TZA,Tanzania,2015,EG.ELC.NGAS.ZS,electricity_from_gas_pct,43.7901498929336
+TZA,Tanzania,2014,EG.ELC.NGAS.ZS,electricity_from_gas_pct,41.9287881207089
+AGO,Angola,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,3129.47662331063
+AGO,Angola,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,2720.81900669715
+AGO,Angola,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,2885.51349130806
+AGO,Angola,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,3598.53669077341
+AGO,Angola,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,2266.96834861584
+AGO,Angola,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,1749.1794838482
+AGO,Angola,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,2507.86807213642
+AGO,Angola,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,2891.83032378747
+AGO,Angola,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,2832.14997950512
+AGO,Angola,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,2082.37343594705
+CMR,Cameroon,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,1972.3815800786
+CMR,Cameroon,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,1830.00833684727
+CMR,Cameroon,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,1720.47510154506
+CMR,Cameroon,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,1604.87726954895
+CMR,Cameroon,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,1672.32657340872
+CMR,Cameroon,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,1555.60370660749
+CMR,Cameroon,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,1555.22660476477
+CMR,Cameroon,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,1610.69641591017
+CMR,Cameroon,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,1496.08951771242
+CMR,Cameroon,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,1441.7201725688
+DZA,Algeria,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,6051.00322704182
+DZA,Algeria,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,5752.99076651465
+DZA,Algeria,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,5370.477235078
+DZA,Algeria,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,4960.30334332888
+DZA,Algeria,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,4160.55926736925
+DZA,Algeria,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,3743.5419522929
+DZA,Algeria,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,4468.45341883656
+DZA,Algeria,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,4577.21029180491
+DZA,Algeria,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,4554.66753957828
+DZA,Algeria,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,4424.98529027556
+EGY,"Egypt, Arab Rep.",2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,3085.80712036204
+EGY,"Egypt, Arab Rep.",2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,3338.47371043679
+EGY,"Egypt, Arab Rep.",2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,3456.78965212363
+EGY,"Egypt, Arab Rep.",2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,4233.30783744856
+EGY,"Egypt, Arab Rep.",2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,3827.35415374308
+EGY,"Egypt, Arab Rep.",2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,3511.11381026379
+EGY,"Egypt, Arab Rep.",2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,2962.98892023003
+EGY,"Egypt, Arab Rep.",2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,2484.70315630508
+EGY,"Egypt, Arab Rep.",2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,2395.10333299491
+EGY,"Egypt, Arab Rep.",2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,3270.6287768197
+GAB,Gabon,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,8263.03321595
+GAB,Gabon,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,8230.04311451151
+GAB,Gabon,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,7802.82433276138
+GAB,Gabon,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,8409.20741452279
+GAB,Gabon,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,8181.40914134398
+GAB,Gabon,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,6605.80346077904
+GAB,Gabon,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,7441.1786472281
+GAB,Gabon,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,7624.2775233771
+GAB,Gabon,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,6921.73373135624
+GAB,Gabon,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,6677.07003901644
+GNQ,Equatorial Guinea,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,6615.25245207167
+GNQ,Equatorial Guinea,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,7003.58055684906
+GNQ,Equatorial Guinea,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,6788.35271638376
+GNQ,Equatorial Guinea,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,7589.29964909381
+GNQ,Equatorial Guinea,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,6945.63069794539
+GNQ,Equatorial Guinea,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,5764.05502912947
+GNQ,Equatorial Guinea,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,6804.14923073888
+GNQ,Equatorial Guinea,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,8102.47084834031
+GNQ,Equatorial Guinea,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,7809.10465655488
+GNQ,Equatorial Guinea,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,7453.19797948517
+LBY,Libya,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,6448.82415074121
+LBY,Libya,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,6569.16408678648
+LBY,Libya,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,6026.51518708812
+LBY,Libya,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,5986.63694851258
+LBY,Libya,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,4935.82787349801
+LBY,Libya,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,6650.33810585348
+LBY,Libya,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,9963.19489084483
+LBY,Libya,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,11196.5854810844
+LBY,Libya,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,9965.83236729757
+LBY,Libya,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,7525.80299308216
+MOZ,Mozambique,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,626.914419215727
+MOZ,Mozambique,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,656.976148587772
+MOZ,Mozambique,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,622.191133245967
+MOZ,Mozambique,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,578.273222184503
+MOZ,Mozambique,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,509.907829475551
+MOZ,Mozambique,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,462.433876479921
+MOZ,Mozambique,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,519.09255091362
+MOZ,Mozambique,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,517.507260258101
+MOZ,Mozambique,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,470.93856305196
+MOZ,Mozambique,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,441.489734819071
+NGA,Nigeria,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,1224.25410237743
+NGA,Nigeria,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,1084.16041805058
+NGA,Nigeria,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,2138.76383718757
+NGA,Nigeria,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,2899.16047469267
+NGA,Nigeria,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,2787.48779220991
+NGA,Nigeria,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,2797.184580679
+NGA,Nigeria,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,3189.81286496183
+NGA,Nigeria,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,2057.87944554011
+NGA,Nigeria,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,1876.34027111773
+NGA,Nigeria,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,2070.4127339595
+TZA,Tanzania,2025,NY.GDP.PCAP.CD,gdp_per_capita_usd,1318.81921386719
+TZA,Tanzania,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,1192.60668945313
+TZA,Tanzania,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,1224.00219726563
+TZA,Tanzania,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,1207.52062988281
+TZA,Tanzania,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,1159.85656738281
+TZA,Tanzania,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,1117.41528320313
+TZA,Tanzania,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,1063.32250976563
+TZA,Tanzania,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,1023.10626220703
+TZA,Tanzania,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,986.674011230469
+TZA,Tanzania,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,953.0107421875
+AGO,Angola,2025,SP.POP.TOTL,population,39040039
+AGO,Angola,2024,SP.POP.TOTL,population,37885849
+AGO,Angola,2023,SP.POP.TOTL,population,36749906
+AGO,Angola,2022,SP.POP.TOTL,population,35635029
+AGO,Angola,2021,SP.POP.TOTL,population,34532429
+AGO,Angola,2020,SP.POP.TOTL,population,33451132
+AGO,Angola,2019,SP.POP.TOTL,population,32375632
+AGO,Angola,2018,SP.POP.TOTL,population,31297155
+AGO,Angola,2017,SP.POP.TOTL,population,30234839
+AGO,Angola,2016,SP.POP.TOTL,population,29183070
+CMR,Cameroon,2025,SP.POP.TOTL,population,29879337
+CMR,Cameroon,2024,SP.POP.TOTL,population,29123744
+CMR,Cameroon,2023,SP.POP.TOTL,population,28372687
+CMR,Cameroon,2022,SP.POP.TOTL,population,27632771
+CMR,Cameroon,2021,SP.POP.TOTL,population,26915758
+CMR,Cameroon,2020,SP.POP.TOTL,population,26210558
+CMR,Cameroon,2019,SP.POP.TOTL,population,25506095
+CMR,Cameroon,2018,SP.POP.TOTL,population,24806383
+CMR,Cameroon,2017,SP.POP.TOTL,population,24128601
+CMR,Cameroon,2016,SP.POP.TOTL,population,23454161
+DZA,Algeria,2025,SP.POP.TOTL,population,47435312
+DZA,Algeria,2024,SP.POP.TOTL,population,46814308
+DZA,Algeria,2023,SP.POP.TOTL,population,46164219
+DZA,Algeria,2022,SP.POP.TOTL,population,45477389
+DZA,Algeria,2021,SP.POP.TOTL,population,44761099
+DZA,Algeria,2020,SP.POP.TOTL,population,44042091
+DZA,Algeria,2019,SP.POP.TOTL,population,43294546
+DZA,Algeria,2018,SP.POP.TOTL,population,42505035
+DZA,Algeria,2017,SP.POP.TOTL,population,41689299
+DZA,Algeria,2016,SP.POP.TOTL,population,40850721
+EGY,"Egypt, Arab Rep.",2025,SP.POP.TOTL,population,118365995
+EGY,"Egypt, Arab Rep.",2024,SP.POP.TOTL,population,116538258
+EGY,"Egypt, Arab Rep.",2023,SP.POP.TOTL,population,114535772
+EGY,"Egypt, Arab Rep.",2022,SP.POP.TOTL,population,112618250
+EGY,"Egypt, Arab Rep.",2021,SP.POP.TOTL,population,110957008
+EGY,"Egypt, Arab Rep.",2020,SP.POP.TOTL,population,109315124
+EGY,"Egypt, Arab Rep.",2019,SP.POP.TOTL,population,107553158
+EGY,"Egypt, Arab Rep.",2018,SP.POP.TOTL,population,105682094
+EGY,"Egypt, Arab Rep.",2017,SP.POP.TOTL,population,103696057
+EGY,"Egypt, Arab Rep.",2016,SP.POP.TOTL,population,101644589
+GAB,Gabon,2025,SP.POP.TOTL,population,2593130
+GAB,Gabon,2024,SP.POP.TOTL,population,2538952
+GAB,Gabon,2023,SP.POP.TOTL,population,2484789
+GAB,Gabon,2022,SP.POP.TOTL,population,2430747
+GAB,Gabon,2021,SP.POP.TOTL,population,2376722
+GAB,Gabon,2020,SP.POP.TOTL,population,2322539
+GAB,Gabon,2019,SP.POP.TOTL,population,2267706
+GAB,Gabon,2018,SP.POP.TOTL,population,2212318
+GAB,Gabon,2017,SP.POP.TOTL,population,2156900
+GAB,Gabon,2016,SP.POP.TOTL,population,2100306
+GNQ,Equatorial Guinea,2025,SP.POP.TOTL,population,1938431
+GNQ,Equatorial Guinea,2024,SP.POP.TOTL,population,1892516
+GNQ,Equatorial Guinea,2023,SP.POP.TOTL,population,1847549
+GNQ,Equatorial Guinea,2022,SP.POP.TOTL,population,1803545
+GNQ,Equatorial Guinea,2021,SP.POP.TOTL,population,1758786
+GNQ,Equatorial Guinea,2020,SP.POP.TOTL,population,1716468
+GNQ,Equatorial Guinea,2019,SP.POP.TOTL,population,1670177
+GNQ,Equatorial Guinea,2018,SP.POP.TOTL,population,1616422
+GNQ,Equatorial Guinea,2017,SP.POP.TOTL,population,1562396
+GNQ,Equatorial Guinea,2016,SP.POP.TOTL,population,1508186
+LBY,Libya,2025,SP.POP.TOTL,population,7458555
+LBY,Libya,2024,SP.POP.TOTL,population,7381023
+LBY,Libya,2023,SP.POP.TOTL,population,7305659
+LBY,Libya,2022,SP.POP.TOTL,population,7223805
+LBY,Libya,2021,SP.POP.TOTL,population,7135175
+LBY,Libya,2020,SP.POP.TOTL,population,7045399
+LBY,Libya,2019,SP.POP.TOTL,population,6951033
+LBY,Libya,2018,SP.POP.TOTL,population,6849055
+LBY,Libya,2017,SP.POP.TOTL,population,6738770
+LBY,Libya,2016,SP.POP.TOTL,population,6632126
+MOZ,Mozambique,2025,SP.POP.TOTL,population,35631653
+MOZ,Mozambique,2024,SP.POP.TOTL,population,34631766
+MOZ,Mozambique,2023,SP.POP.TOTL,population,33635160
+MOZ,Mozambique,2022,SP.POP.TOTL,population,32656246
+MOZ,Mozambique,2021,SP.POP.TOTL,population,31707800
+MOZ,Mozambique,2020,SP.POP.TOTL,population,30783688
+MOZ,Mozambique,2019,SP.POP.TOTL,population,29884380
+MOZ,Mozambique,2018,SP.POP.TOTL,population,29018644
+MOZ,Mozambique,2017,SP.POP.TOTL,population,28166393
+MOZ,Mozambique,2016,SP.POP.TOTL,population,27337105
+NGA,Nigeria,2025,SP.POP.TOTL,population,237527782
+NGA,Nigeria,2024,SP.POP.TOTL,population,232679478
+NGA,Nigeria,2023,SP.POP.TOTL,population,227882945
+NGA,Nigeria,2022,SP.POP.TOTL,population,223150896
+NGA,Nigeria,2021,SP.POP.TOTL,population,218529286
+NGA,Nigeria,2020,SP.POP.TOTL,population,213996181
+NGA,Nigeria,2019,SP.POP.TOTL,population,209485641
+NGA,Nigeria,2018,SP.POP.TOTL,population,204938755
+NGA,Nigeria,2017,SP.POP.TOTL,population,200254579
+NGA,Nigeria,2016,SP.POP.TOTL,population,195443700
+TZA,Tanzania,2025,SP.POP.TOTL,population,70545865
+TZA,Tanzania,2024,SP.POP.TOTL,population,68560157
+TZA,Tanzania,2023,SP.POP.TOTL,population,66617606
+TZA,Tanzania,2022,SP.POP.TOTL,population,64711821
+TZA,Tanzania,2021,SP.POP.TOTL,population,62830412
+TZA,Tanzania,2020,SP.POP.TOTL,population,60972798
+TZA,Tanzania,2019,SP.POP.TOTL,population,59174891
+TZA,Tanzania,2018,SP.POP.TOTL,population,57437145
+TZA,Tanzania,2017,SP.POP.TOTL,population,55652890
+TZA,Tanzania,2016,SP.POP.TOTL,population,53824013

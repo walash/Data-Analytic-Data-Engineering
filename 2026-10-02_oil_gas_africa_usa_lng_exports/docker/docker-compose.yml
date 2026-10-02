@@ -1,0 +1,22 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-lng-pipeline:latest
+    container_name: africa-lng-pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      DB_PATH: "/app/data/lng_pipeline.db"
+    volumes:
+      # Raw files, processed CSVs, SQLite DB and report persist on the host.
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py --report"
+    restart: "no"

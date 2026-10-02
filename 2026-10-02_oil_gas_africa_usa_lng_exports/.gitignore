@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+data/processed/
+data/lng_pipeline.db
+data/lng_pipeline.db-*
+data/pipeline_report.txt
+data/raw/*.tmp
+requirements.runtime.txt
+requirements.ci.txt
