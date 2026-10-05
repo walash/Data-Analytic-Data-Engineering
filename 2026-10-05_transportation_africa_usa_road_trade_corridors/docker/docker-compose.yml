@@ -1,0 +1,26 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-road-trade:latest
+    container_name: africa_usa_road_trade_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      RAW_DATA_DIR: "/app/data/raw"
+      PROCESSED_DATA_DIR: "/app/data/processed"
+      DB_PATH: "/app/data/transport_trade.db"
+      WORLD_BANK_API_BASE_URL: "https://api.worldbank.org/v2"
+      API_TIMEOUT_SECONDS: "30"
+      API_MAX_RETRIES: "3"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"

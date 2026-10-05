@@ -1,0 +1,64 @@
+country_code,country_name,indicator,year,value
+CIV,Cote d'Ivoire,LPI_Overall_Score,2018,3.08
+CIV,Cote d'Ivoire,LPI_Overall_Score,2016,2.602573
+CIV,Cote d'Ivoire,LPI_Overall_Score,2014,2.761981
+CIV,Cote d'Ivoire,LPI_Overall_Score,2012,2.73
+CMR,Cameroon,LPI_Overall_Score,2022,2.1
+CMR,Cameroon,LPI_Overall_Score,2018,2.6
+CMR,Cameroon,LPI_Overall_Score,2016,2.151499
+CMR,Cameroon,LPI_Overall_Score,2014,2.296616
+CMR,Cameroon,LPI_Overall_Score,2012,2.53
+EGY,"Egypt, Arab Rep.",LPI_Overall_Score,2022,3.1
+EGY,"Egypt, Arab Rep.",LPI_Overall_Score,2018,2.82
+EGY,"Egypt, Arab Rep.",LPI_Overall_Score,2016,3.184964
+EGY,"Egypt, Arab Rep.",LPI_Overall_Score,2014,2.965911
+EGY,"Egypt, Arab Rep.",LPI_Overall_Score,2012,2.98
+ETH,Ethiopia,LPI_Overall_Score,2016,2.376767
+ETH,Ethiopia,LPI_Overall_Score,2014,2.593625
+ETH,Ethiopia,LPI_Overall_Score,2012,2.24
+GHA,Ghana,LPI_Overall_Score,2022,2.5
+GHA,Ghana,LPI_Overall_Score,2018,2.57
+GHA,Ghana,LPI_Overall_Score,2016,2.660931
+GHA,Ghana,LPI_Overall_Score,2014,2.626934
+GHA,Ghana,LPI_Overall_Score,2012,2.51
+KEN,Kenya,LPI_Overall_Score,2018,2.81
+KEN,Kenya,LPI_Overall_Score,2016,3.331295
+KEN,Kenya,LPI_Overall_Score,2014,2.812079
+KEN,Kenya,LPI_Overall_Score,2012,2.43
+MAR,Morocco,LPI_Overall_Score,2018,2.54
+MAR,Morocco,LPI_Overall_Score,2016,2.665994
+MAR,Morocco,LPI_Overall_Score,2012,3.03
+MOZ,Mozambique,LPI_Overall_Score,2016,2.684105
+MOZ,Mozambique,LPI_Overall_Score,2014,2.228925
+NGA,Nigeria,LPI_Overall_Score,2022,2.6
+NGA,Nigeria,LPI_Overall_Score,2018,2.53
+NGA,Nigeria,LPI_Overall_Score,2016,2.62809
+NGA,Nigeria,LPI_Overall_Score,2014,2.808778
+NGA,Nigeria,LPI_Overall_Score,2012,2.45
+RWA,Rwanda,LPI_Overall_Score,2022,2.8
+RWA,Rwanda,LPI_Overall_Score,2018,2.97
+RWA,Rwanda,LPI_Overall_Score,2016,2.986229
+RWA,Rwanda,LPI_Overall_Score,2014,2.759116
+RWA,Rwanda,LPI_Overall_Score,2012,2.27
+SEN,Senegal,LPI_Overall_Score,2018,2.25
+SEN,Senegal,LPI_Overall_Score,2016,2.327711
+SEN,Senegal,LPI_Overall_Score,2014,2.62217
+SEN,Senegal,LPI_Overall_Score,2012,2.49
+TZA,Tanzania,LPI_Overall_Score,2016,2.990185
+TZA,Tanzania,LPI_Overall_Score,2014,2.330834
+TZA,Tanzania,LPI_Overall_Score,2012,2.65
+UGA,Uganda,LPI_Overall_Score,2018,2.58
+UGA,Uganda,LPI_Overall_Score,2016,3.043284
+USA,United States,LPI_Overall_Score,2022,3.8
+USA,United States,LPI_Overall_Score,2018,3.89
+USA,United States,LPI_Overall_Score,2016,3.992172
+USA,United States,LPI_Overall_Score,2014,3.917825
+USA,United States,LPI_Overall_Score,2012,3.93
+ZAF,South Africa,LPI_Overall_Score,2022,3.7
+ZAF,South Africa,LPI_Overall_Score,2018,3.38
+ZAF,South Africa,LPI_Overall_Score,2016,3.775321
+ZAF,South Africa,LPI_Overall_Score,2014,3.431244
+ZAF,South Africa,LPI_Overall_Score,2012,3.67
+ZMB,Zambia,LPI_Overall_Score,2018,2.53
+ZMB,Zambia,LPI_Overall_Score,2016,2.429813
+ZMB,Zambia,LPI_Overall_Score,2014,2.462674

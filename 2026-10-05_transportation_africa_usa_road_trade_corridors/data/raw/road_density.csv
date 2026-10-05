@@ -1,0 +1,48 @@
+country_code,country_name,indicator,year,value
+,Cote d'Ivoire,Road_Density_km_per_100sqkm,2007,25
+,Cote d'Ivoire,Road_Density_km_per_100sqkm,2004,25
+,Cameroon,Road_Density_km_per_100sqkm,2008,6
+,Cameroon,Road_Density_km_per_100sqkm,2006,6
+,Cameroon,Road_Density_km_per_100sqkm,2004,11
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2010,13.7231015028209
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2009,10
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2008,10
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2006,10
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2005,10
+,"Egypt, Arab Rep.",Road_Density_km_per_100sqkm,2004,9
+,Ethiopia,Road_Density_km_per_100sqkm,2007,4
+,Ethiopia,Road_Density_km_per_100sqkm,2006,4
+,Ethiopia,Road_Density_km_per_100sqkm,2005,4
+,Ethiopia,Road_Density_km_per_100sqkm,2004,3
+,Ethiopia,Road_Density_km_per_100sqkm,2003,3
+,Ghana,Road_Density_km_per_100sqkm,2009,46
+,Ghana,Road_Density_km_per_100sqkm,2008,51
+,Ghana,Road_Density_km_per_100sqkm,2005,24
+,Ghana,Road_Density_km_per_100sqkm,2004,23
+,Ghana,Road_Density_km_per_100sqkm,2003,20
+,Kenya,Road_Density_km_per_100sqkm,2010,10.6737081516963
+,Kenya,Road_Density_km_per_100sqkm,2009,11
+,Kenya,Road_Density_km_per_100sqkm,2008,11
+,Kenya,Road_Density_km_per_100sqkm,2004,11
+,Morocco,Road_Density_km_per_100sqkm,2010,13.0769230769231
+,Morocco,Road_Density_km_per_100sqkm,2009,13
+,Morocco,Road_Density_km_per_100sqkm,2008,13
+,Morocco,Road_Density_km_per_100sqkm,2007,13
+,Morocco,Road_Density_km_per_100sqkm,2006,13
+,Morocco,Road_Density_km_per_100sqkm,2005,13
+,Morocco,Road_Density_km_per_100sqkm,2004,13
+,Morocco,Road_Density_km_per_100sqkm,2003,13
+,Mozambique,Road_Density_km_per_100sqkm,2009,4
+,Mozambique,Road_Density_km_per_100sqkm,2008,4
+,Nigeria,Road_Density_km_per_100sqkm,2004,21
+,Rwanda,Road_Density_km_per_100sqkm,2004,53
+,Senegal,Road_Density_km_per_100sqkm,2010,7.51580927206181
+,Senegal,Road_Density_km_per_100sqkm,2009,8
+,Senegal,Road_Density_km_per_100sqkm,2006,8
+,Senegal,Road_Density_km_per_100sqkm,2003,7
+,Tanzania,Road_Density_km_per_100sqkm,2009,9.5858799
+,Tanzania,Road_Density_km_per_100sqkm,2008,9
+,Tanzania,Road_Density_km_per_100sqkm,2003,8
+,Uganda,Road_Density_km_per_100sqkm,2003,29
+,South Africa,Road_Density_km_per_100sqkm,2001,30.00000119
+,Zambia,Road_Density_km_per_100sqkm,2001,11.99999973

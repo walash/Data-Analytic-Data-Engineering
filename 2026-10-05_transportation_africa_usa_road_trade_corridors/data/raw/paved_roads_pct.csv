@@ -1,0 +1,50 @@
+country_code,country_name,indicator,year,value
+,Cote d'Ivoire,Paved_Roads_Pct,2007,7.9
+,Cote d'Ivoire,Paved_Roads_Pct,2004,8.11999988555908
+,Cameroon,Paved_Roads_Pct,2008,17
+,Cameroon,Paved_Roads_Pct,2006,17.4
+,Cameroon,Paved_Roads_Pct,2004,8.36999988555908
+,"Egypt, Arab Rep.",Paved_Roads_Pct,2010,92.2
+,"Egypt, Arab Rep.",Paved_Roads_Pct,2009,89.4
+,"Egypt, Arab Rep.",Paved_Roads_Pct,2008,86.9
+,"Egypt, Arab Rep.",Paved_Roads_Pct,2004,81
+,Ethiopia,Paved_Roads_Pct,2007,13.7
+,Ethiopia,Paved_Roads_Pct,2006,11.6
+,Ethiopia,Paved_Roads_Pct,2005,11
+,Ethiopia,Paved_Roads_Pct,2004,19.1399993896484
+,Ethiopia,Paved_Roads_Pct,2003,12.8999996185303
+,Ethiopia,Paved_Roads_Pct,2002,12
+,Ethiopia,Paved_Roads_Pct,2001,12
+,Ghana,Paved_Roads_Pct,2009,12.6
+,Ghana,Paved_Roads_Pct,2008,16.1
+,Ghana,Paved_Roads_Pct,2005,14.9
+,Ghana,Paved_Roads_Pct,2003,17.9200000762939
+,Ghana,Paved_Roads_Pct,2001,18.3999996185303
+,Kenya,Paved_Roads_Pct,2010,14.3
+,Kenya,Paved_Roads_Pct,2009,14.3
+,Kenya,Paved_Roads_Pct,2008,14.6
+,Kenya,Paved_Roads_Pct,2004,14.1199998855591
+,Morocco,Paved_Roads_Pct,2010,70.4
+,Morocco,Paved_Roads_Pct,2009,70.3
+,Morocco,Paved_Roads_Pct,2008,62
+,Morocco,Paved_Roads_Pct,2007,62
+,Morocco,Paved_Roads_Pct,2006,61.9
+,Morocco,Paved_Roads_Pct,2005,61.9
+,Morocco,Paved_Roads_Pct,2004,56.9000015258789
+,Morocco,Paved_Roads_Pct,2003,56.9000015258789
+,Morocco,Paved_Roads_Pct,2002,56.4199981689453
+,Morocco,Paved_Roads_Pct,2001,56.4199981689453
+,Mozambique,Paved_Roads_Pct,2009,20.8
+,Mozambique,Paved_Roads_Pct,2008,20.8
+,Mozambique,Paved_Roads_Pct,2001,18.7000007629395
+,Nigeria,Paved_Roads_Pct,2004,15
+,Rwanda,Paved_Roads_Pct,2004,19
+,Senegal,Paved_Roads_Pct,2010,35.5
+,Senegal,Paved_Roads_Pct,2009,32
+,Senegal,Paved_Roads_Pct,2003,29.2600002288818
+,Tanzania,Paved_Roads_Pct,2009,14.9
+,Tanzania,Paved_Roads_Pct,2008,7.4
+,Tanzania,Paved_Roads_Pct,2003,8.63000011444092
+,Uganda,Paved_Roads_Pct,2003,23
+,South Africa,Paved_Roads_Pct,2001,17.2999992370605
+,Zambia,Paved_Roads_Pct,2001,22
