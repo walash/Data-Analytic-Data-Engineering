@@ -1,0 +1,21 @@
+# Core pipeline
+pandas==2.2.3
+numpy==1.26.4
+requests==2.32.3
+PyYAML==6.0.2
+
+# Analysis notebook
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+jupyter==1.1.1
+nbformat==5.10.4
+nbconvert==7.16.4
+
+# Quality
+flake8==7.1.1
+
+# Orchestration: Apache Airflow is installed separately with its official
+# constraints file (see README "Orchestrate with Airflow"):
+#   pip install "apache-airflow==2.10.2" --constraint \
+#     "https://raw.githubusercontent.com/apache/airflow/constraints-2.10.2/constraints-3.11.txt"

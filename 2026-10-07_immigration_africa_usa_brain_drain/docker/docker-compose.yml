@@ -1,0 +1,39 @@
+# Run from the docker/ directory:
+#   docker compose up --build
+# Then browse the SQLite database at http://localhost:8080
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-brain-drain:latest
+    container_name: brain_drain_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+      DB_PATH: /app/data/brain_drain.db
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  database:
+    # Lightweight web UI + SQL console over the SQLite database produced by the pipeline.
+    image: coleifer/sqlite-web:latest
+    container_name: brain_drain_db
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      SQLITE_DATABASE: brain_drain.db
+    volumes:
+      - ../data:/data
+    ports:
+      - "8080:8080"
+    command: ["sqlite_web", "--host", "0.0.0.0", "--port", "8080", "--read-only", "/data/brain_drain.db"]
+    restart: unless-stopped
