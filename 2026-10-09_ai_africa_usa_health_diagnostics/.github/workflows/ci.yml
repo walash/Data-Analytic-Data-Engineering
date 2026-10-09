@@ -1,0 +1,43 @@
+name: CI - AI Healthcare Diagnostics (Africa & USA)
+
+on:
+  push:
+    branches: [linkedin-posts]
+  pull_request:
+    branches: [linkedin-posts]
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2026-10-09_ai_africa_usa_health_diagnostics
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install flake8
+        run: pip install flake8==7.0.0
+      - name: Run flake8 on src/
+        run: flake8 src/ --max-line-length=120 --count --statistics
+
+  smoke-test:
+    name: Smoke test (py_compile)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2026-10-09_ai_africa_usa_health_diagnostics
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile every Python file
+        run: |
+          find . -name "*.py" -not -path "./.venv/*" -print0 \
+            | xargs -0 -n1 python3 -m py_compile
+          echo "All Python files compiled successfully."
+      - name: Validate notebook JSON
+        run: python3 -c "import json; json.load(open('notebooks/analysis.ipynb')); print('analysis.ipynb is valid JSON')"

@@ -1,0 +1,82 @@
+# =============================================================================
+# AI-Powered Healthcare Diagnostics: Bridging the Africa-USA Health Gap
+# Central pipeline configuration (read by ingest.py, transform.py, load.py)
+# =============================================================================
+
+world_bank_base_url: https://api.worldbank.org/v2
+
+# The World Bank Indicators API is free and open; no key or token is required.
+# This value is kept only so the config schema matches other projects.
+api_key: "WORLD_BANK_API_KEY_NOT_REQUIRED"
+
+# ISO-2 country codes queried from the World Bank API
+countries:
+  - code: NG
+    name: Nigeria
+  - code: GH
+    name: Ghana
+  - code: KE
+    name: Kenya
+  - code: ET
+    name: Ethiopia
+  - code: ZA
+    name: South Africa
+  - code: EG
+    name: Egypt, Arab Rep.
+  - code: MA
+    name: Morocco
+  - code: TZ
+    name: Tanzania
+  - code: UG
+    name: Uganda
+  - code: SN
+    name: Senegal
+  - code: CM
+    name: Cameroon
+  - code: CI
+    name: Cote d'Ivoire
+  - code: RW
+    name: Rwanda
+  - code: ZM
+    name: Zambia
+  - code: US
+    name: United States
+
+# World Bank indicator code -> output file stem, processed column, display name
+indicators:
+  SH.XPD.CHEX.PC.CD:
+    file: health_expenditure_per_capita
+    column: health_expenditure_pc
+    name: Current health expenditure per capita (current US$)
+  SH.MED.PHYS.ZS:
+    file: physicians_per_1000
+    column: physicians_per_1000
+    name: Physicians (per 1,000 people)
+  SH.DYN.MORT:
+    file: under5_mortality
+    column: under5_mortality
+    name: Mortality rate, under-5 (per 1,000 live births)
+  SH.MED.BEDS.ZS:
+    file: hospital_beds_per_1000
+    column: hospital_beds_per_1000
+    name: Hospital beds (per 1,000 people)
+  SP.DYN.LE00.IN:
+    file: life_expectancy
+    column: life_expectancy
+    name: Life expectancy at birth, total (years)
+
+# Paths are relative to the project root
+paths:
+  raw: data/raw
+  processed: data/processed
+  processed_file: data/processed/health_diagnostics_processed.csv
+  db: data/health_diagnostics.db
+  reports: data/reports
+
+pipeline:
+  date_range: "2014:2024"   # World Bank `date` query parameter
+  per_page: 500
+  max_retries: 3
+  backoff_factor: 2         # wait = backoff_factor ** attempt seconds
+  timeout_seconds: 30
+  log_level: INFO

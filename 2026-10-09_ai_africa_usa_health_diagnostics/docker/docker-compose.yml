@@ -1,0 +1,28 @@
+# AI-Powered Healthcare Diagnostics: Bridging the Africa-USA Health Gap
+# Usage (from the docker/ directory):
+#   docker compose up --build
+# Outputs (raw JSON, processed CSV, SQLite DB) persist in ../data on the host.
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: ai-health-diagnostics:latest
+    container_name: ai_health_diagnostics_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+      RAW_DATA_PATH: /app/data/raw
+      PROCESSED_DATA_PATH: /app/data/processed
+      PROCESSED_FILE: /app/data/processed/health_diagnostics_processed.csv
+      DB_PATH: /app/data/health_diagnostics.db
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
