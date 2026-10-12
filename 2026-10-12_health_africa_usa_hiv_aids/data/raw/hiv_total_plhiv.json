@@ -1,0 +1,2572 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 200,
+    "total": 160,
+    "sourceid": "16",
+    "lastupdated": "2026-07-01"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2024",
+      "value": 410000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2023",
+      "value": 410000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2022",
+      "value": 420000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2021",
+      "value": 420000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2020",
+      "value": 430000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2019",
+      "value": 430000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2018",
+      "value": 440000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2017",
+      "value": 450000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2016",
+      "value": 460000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2015",
+      "value": 460000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2024",
+      "value": 510000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2023",
+      "value": 510000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2022",
+      "value": 510000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2021",
+      "value": 520000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2020",
+      "value": 520000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2019",
+      "value": 520000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2018",
+      "value": 520000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2017",
+      "value": 520000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2016",
+      "value": 530000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2015",
+      "value": 540000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2024",
+      "value": 56000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": 51000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": 47000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": 43000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": 40000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": 37000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": 34000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": 31000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": 29000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": 27000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2024",
+      "value": 600000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2023",
+      "value": 610000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2022",
+      "value": 610000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2021",
+      "value": 620000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2020",
+      "value": 620000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2019",
+      "value": 630000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2018",
+      "value": 630000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2017",
+      "value": 640000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2016",
+      "value": 640000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2015",
+      "value": 640000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2024",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2023",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2022",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2021",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2020",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2019",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2018",
+      "value": 330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2017",
+      "value": 320000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2016",
+      "value": 320000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2015",
+      "value": 320000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2024",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2023",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2021",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2020",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2019",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2018",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2017",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2016",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2015",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2024",
+      "value": 24000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": 23000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": 23000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": 22000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": 22000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": 21000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": 21000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": 21000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": 20000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": 20000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2024",
+      "value": 2500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2023",
+      "value": 2400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2022",
+      "value": 2400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2021",
+      "value": 2400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2020",
+      "value": 2300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2019",
+      "value": 2200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2018",
+      "value": 2200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2017",
+      "value": 2100000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2016",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2015",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2024",
+      "value": 990000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2023",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2022",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2021",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2020",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2019",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2018",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2017",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2016",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2015",
+      "value": 1000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2024",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2023",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2021",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2020",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2019",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2018",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2017",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2016",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2015",
+      "value": 2000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2024",
+      "value": 1800000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2023",
+      "value": 1800000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2022",
+      "value": 1700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2021",
+      "value": 1700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2020",
+      "value": 1700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2019",
+      "value": 1700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2018",
+      "value": 1600000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2017",
+      "value": 1600000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2016",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2015",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2024",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2023",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2022",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2021",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2020",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2019",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2018",
+      "value": 1500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2017",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2016",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2015",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2024",
+      "value": 7800000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2023",
+      "value": 7700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 7600000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2021",
+      "value": 7500000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2020",
+      "value": 7400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2019",
+      "value": 7300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2018",
+      "value": 7200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2017",
+      "value": 7000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2016",
+      "value": 6900000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2015",
+      "value": 6700000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2024",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2023",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2022",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2021",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2020",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2019",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2018",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2017",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2016",
+      "value": 1200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2015",
+      "value": 1200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2024",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2023",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2022",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2021",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2020",
+      "value": 1300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2019",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2018",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2017",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2016",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.HIV.TOTL",
+        "value": "Adults (ages 15+) and children (0-14 years) living with HIV"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2015",
+      "value": 1400000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

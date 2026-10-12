@@ -1,0 +1,92 @@
+# ---------------------------------------------------------------------------
+# HIV/AIDS Burden in Africa & the USA - pipeline configuration
+# All paths are relative to the project root.
+# ---------------------------------------------------------------------------
+
+project:
+  name: health_africa_usa_hiv_aids
+  description: >
+    HIV prevalence, incidence, people living with HIV (PLHIV), antiretroviral
+    therapy (ART) coverage and health expenditure for 15 African countries and
+    the United States, sourced from the World Bank Indicators API.
+
+api:
+  base_url: "https://api.worldbank.org/v2"
+  format: json
+  per_page: 200
+  mrv: 10                 # most recent values (years) per country
+  timeout_seconds: 30
+  max_retries: 5
+  backoff_multiplier: 2
+  backoff_max_seconds: 60
+
+countries:
+  africa:
+    - {code: NG, iso3: NGA, name: Nigeria, subregion: West Africa}
+    - {code: GH, iso3: GHA, name: Ghana, subregion: West Africa}
+    - {code: CI, iso3: CIV, name: "Cote d'Ivoire", subregion: West Africa}
+    - {code: CM, iso3: CMR, name: Cameroon, subregion: Central Africa}
+    - {code: KE, iso3: KEN, name: Kenya, subregion: East Africa}
+    - {code: ET, iso3: ETH, name: Ethiopia, subregion: East Africa}
+    - {code: TZ, iso3: TZA, name: Tanzania, subregion: East Africa}
+    - {code: UG, iso3: UGA, name: Uganda, subregion: East Africa}
+    - {code: ZA, iso3: ZAF, name: South Africa, subregion: Southern Africa}
+    - {code: ZM, iso3: ZMB, name: Zambia, subregion: Southern Africa}
+    - {code: MW, iso3: MWI, name: Malawi, subregion: Southern Africa}
+    - {code: MZ, iso3: MOZ, name: Mozambique, subregion: Southern Africa}
+    - {code: ZW, iso3: ZWE, name: Zimbabwe, subregion: Southern Africa}
+    - {code: EG, iso3: EGY, name: "Egypt, Arab Rep.", subregion: North Africa}
+    - {code: MA, iso3: MAR, name: Morocco, subregion: North Africa}
+  usa:
+    - {code: US, iso3: USA, name: United States, subregion: North America}
+
+indicators:
+  - id: SH.DYN.AIDS.ZS
+    key: hiv_prevalence
+    value_column: hiv_prevalence_pct
+    name: "Prevalence of HIV, total (% of population ages 15-49)"
+    unit: percent
+  - id: SH.HIV.ARTC.ZS
+    key: art_coverage
+    value_column: art_coverage_pct
+    name: "Antiretroviral therapy coverage (% of people living with HIV)"
+    unit: percent
+  - id: SH.HIV.INCD.ZS
+    key: hiv_incidence
+    value_column: hiv_incidence_per1000
+    name: "Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)"
+    unit: per_1000
+  - id: SH.HIV.TOTL
+    key: hiv_total_plhiv
+    value_column: plhiv_count
+    name: "Adults (ages 15+) and children (0-14 years) living with HIV"
+    unit: people
+  - id: SH.XPD.CHEX.GD.ZS
+    key: health_expenditure
+    value_column: health_exp_pct_gdp
+    name: "Current health expenditure (% of GDP)"
+    unit: percent
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  processed_file: data/processed/hiv_aids_processed.csv
+  summary_file: data/processed/hiv_aids_summary.csv
+  report_file: data/processed/pipeline_report.txt
+  database: data/hiv_aids.db
+
+database:
+  engine: sqlite
+  tables:
+    countries: countries
+    indicators: indicators
+    metrics: hiv_metrics
+  replace_on_load: true
+
+pipeline:
+  log_level: INFO
+  min_year: 2014
+  targets:
+    unaids_90_90_90_art_pct: 81.0     # 90% diagnosed x 90% on treatment
+    unaids_95_95_95_art_pct: 90.25    # 95% diagnosed x 95% on treatment
+  schedule_cron: "0 6 * * 1,3,5"

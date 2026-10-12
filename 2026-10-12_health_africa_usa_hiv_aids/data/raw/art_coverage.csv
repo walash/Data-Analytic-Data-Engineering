@@ -1,0 +1,161 @@
+country_code,country_name,iso3,year,indicator_id,indicator_name,art_coverage_pct
+CI,Cote d'Ivoire,CIV,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+CI,Cote d'Ivoire,CIV,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+CI,Cote d'Ivoire,CIV,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),70
+CI,Cote d'Ivoire,CIV,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),69
+CI,Cote d'Ivoire,CIV,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),66
+CI,Cote d'Ivoire,CIV,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),62
+CI,Cote d'Ivoire,CIV,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),57
+CI,Cote d'Ivoire,CIV,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),52
+CI,Cote d'Ivoire,CIV,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),42
+CI,Cote d'Ivoire,CIV,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),34
+CM,Cameroon,CMR,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),88
+CM,Cameroon,CMR,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+CM,Cameroon,CMR,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),80
+CM,Cameroon,CMR,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),73
+CM,Cameroon,CMR,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),66
+CM,Cameroon,CMR,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),59
+CM,Cameroon,CMR,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),53
+CM,Cameroon,CMR,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),46
+CM,Cameroon,CMR,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),37
+CM,Cameroon,CMR,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),30
+EG,"Egypt, Arab Rep.",EGY,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),45
+EG,"Egypt, Arab Rep.",EGY,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),38
+EG,"Egypt, Arab Rep.",EGY,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),34
+EG,"Egypt, Arab Rep.",EGY,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),29
+EG,"Egypt, Arab Rep.",EGY,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),26
+EG,"Egypt, Arab Rep.",EGY,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),23
+EG,"Egypt, Arab Rep.",EGY,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),20
+EG,"Egypt, Arab Rep.",EGY,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),15
+EG,"Egypt, Arab Rep.",EGY,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),11
+EG,"Egypt, Arab Rep.",EGY,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),8
+ET,Ethiopia,ETH,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),88
+ET,Ethiopia,ETH,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+ET,Ethiopia,ETH,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),82
+ET,Ethiopia,ETH,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+ET,Ethiopia,ETH,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+ET,Ethiopia,ETH,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),75
+ET,Ethiopia,ETH,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),71
+ET,Ethiopia,ETH,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),69
+ET,Ethiopia,ETH,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),66
+ET,Ethiopia,ETH,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),60
+GH,Ghana,GHA,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),47
+GH,Ghana,GHA,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),45
+GH,Ghana,GHA,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),45
+GH,Ghana,GHA,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),40
+GH,Ghana,GHA,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),37
+GH,Ghana,GHA,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),34
+GH,Ghana,GHA,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),33
+GH,Ghana,GHA,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),32
+GH,Ghana,GHA,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),29
+GH,Ghana,GHA,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),26
+KE,Kenya,KEN,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),87
+KE,Kenya,KEN,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),86
+KE,Kenya,KEN,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+KE,Kenya,KEN,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),84
+KE,Kenya,KEN,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+KE,Kenya,KEN,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+KE,Kenya,KEN,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),80
+KE,Kenya,KEN,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),81
+KE,Kenya,KEN,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+KE,Kenya,KEN,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),65
+MA,Morocco,MAR,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),76
+MA,Morocco,MAR,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),73
+MA,Morocco,MAR,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),70
+MA,Morocco,MAR,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),68
+MA,Morocco,MAR,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),54
+MA,Morocco,MAR,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),51
+MA,Morocco,MAR,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),48
+MA,Morocco,MAR,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),44
+MA,Morocco,MAR,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),41
+MA,Morocco,MAR,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),37
+MZ,Mozambique,MOZ,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),82
+MZ,Mozambique,MOZ,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),77
+MZ,Mozambique,MOZ,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),72
+MZ,Mozambique,MOZ,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+MZ,Mozambique,MOZ,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),61
+MZ,Mozambique,MOZ,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),60
+MZ,Mozambique,MOZ,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),56
+MZ,Mozambique,MOZ,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),55
+MZ,Mozambique,MOZ,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),48
+MZ,Mozambique,MOZ,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),41
+MW,Malawi,MWI,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),90
+MW,Malawi,MWI,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),90
+MW,Malawi,MWI,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),88
+MW,Malawi,MWI,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),87
+MW,Malawi,MWI,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+MW,Malawi,MWI,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),81
+MW,Malawi,MWI,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),80
+MW,Malawi,MWI,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+MW,Malawi,MWI,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+MW,Malawi,MWI,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),59
+NG,Nigeria,NGA,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),83
+NG,Nigeria,NGA,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),77
+NG,Nigeria,NGA,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),71
+NG,Nigeria,NGA,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),65
+NG,Nigeria,NGA,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),59
+NG,Nigeria,NGA,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),53
+NG,Nigeria,NGA,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),47
+NG,Nigeria,NGA,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),46
+NG,Nigeria,NGA,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),43
+NG,Nigeria,NGA,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),38
+TZ,Tanzania,TZA,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),87
+TZ,Tanzania,TZA,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),79
+TZ,Tanzania,TZA,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+TZ,Tanzania,TZA,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),70
+TZ,Tanzania,TZA,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+TZ,Tanzania,TZA,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),61
+TZ,Tanzania,TZA,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),55
+TZ,Tanzania,TZA,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),52
+TZ,Tanzania,TZA,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),45
+TZ,Tanzania,TZA,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),43
+UG,Uganda,UGA,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+UG,Uganda,UGA,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),82
+UG,Uganda,UGA,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),80
+UG,Uganda,UGA,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+UG,Uganda,UGA,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),76
+UG,Uganda,UGA,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+UG,Uganda,UGA,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),71
+UG,Uganda,UGA,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+UG,Uganda,UGA,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),59
+UG,Uganda,UGA,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),53
+US,United States,USA,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+US,United States,USA,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),
+ZA,South Africa,ZAF,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),81
+ZA,South Africa,ZAF,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),79
+ZA,South Africa,ZAF,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),78
+ZA,South Africa,ZAF,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),77
+ZA,South Africa,ZAF,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),75
+ZA,South Africa,ZAF,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),73
+ZA,South Africa,ZAF,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),70
+ZA,South Africa,ZAF,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),66
+ZA,South Africa,ZAF,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),60
+ZA,South Africa,ZAF,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),54
+ZM,Zambia,ZMB,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),94
+ZM,Zambia,ZMB,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),92
+ZM,Zambia,ZMB,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),92
+ZM,Zambia,ZMB,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),87
+ZM,Zambia,ZMB,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),87
+ZM,Zambia,ZMB,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),80
+ZM,Zambia,ZMB,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),74
+ZM,Zambia,ZMB,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+ZM,Zambia,ZMB,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),66
+ZM,Zambia,ZMB,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),65
+ZW,Zimbabwe,ZWE,2024,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),95
+ZW,Zimbabwe,ZWE,2023,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),94
+ZW,Zimbabwe,ZWE,2022,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),93
+ZW,Zimbabwe,ZWE,2021,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),89
+ZW,Zimbabwe,ZWE,2020,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),88
+ZW,Zimbabwe,ZWE,2019,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),85
+ZW,Zimbabwe,ZWE,2018,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),79
+ZW,Zimbabwe,ZWE,2017,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),76
+ZW,Zimbabwe,ZWE,2016,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),67
+ZW,Zimbabwe,ZWE,2015,SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),61
