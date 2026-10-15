@@ -1,0 +1,115 @@
+# =============================================================================
+# Maternal & Child Health (Africa vs USA) - Pipeline Configuration
+# =============================================================================
+# All paths are relative to the project root. Environment variables
+# RAW_DATA_DIR, PROCESSED_DATA_DIR and DB_PATH override the values below.
+
+project:
+  name: health_africa_usa_maternal_child_health
+  description: Maternal & child health indicators for 15 African countries and the USA
+  created: "2026-09-30"
+
+# -----------------------------------------------------------------------------
+# API endpoints
+# -----------------------------------------------------------------------------
+api:
+  worldbank:
+    base_url: "https://api.worldbank.org/v2"
+    # Endpoint template: {base_url}/country/{countries}/indicator/{indicator}
+    endpoint_template: "{base_url}/country/{countries}/indicator/{indicator}"
+    format: json
+    per_page: 1000
+    mrv: 10            # most recent values per country
+    # The World Bank Open Data API is free and requires no authentication.
+    # This key is intentionally unused; set it only if routing through a
+    # private API gateway that requires one.
+    api_key: "<OPTIONAL_API_KEY_NOT_REQUIRED_FOR_WORLD_BANK>"
+
+# -----------------------------------------------------------------------------
+# File paths
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database: data/maternal_child_health.db
+  reports_dir: data/reports
+  combined_json: data/raw/all_indicators.json
+
+# -----------------------------------------------------------------------------
+# Countries (ISO2 code used in API calls, ISO3 returned by API)
+# -----------------------------------------------------------------------------
+countries:
+  - {iso2: NG, iso3: NGA, name: Nigeria, region: Africa, subregion: Western Africa}
+  - {iso2: GH, iso3: GHA, name: Ghana, region: Africa, subregion: Western Africa}
+  - {iso2: KE, iso3: KEN, name: Kenya, region: Africa, subregion: Eastern Africa}
+  - {iso2: ET, iso3: ETH, name: Ethiopia, region: Africa, subregion: Eastern Africa}
+  - {iso2: ZA, iso3: ZAF, name: South Africa, region: Africa, subregion: Southern Africa}
+  - {iso2: EG, iso3: EGY, name: Egypt, region: Africa, subregion: Northern Africa}
+  - {iso2: MA, iso3: MAR, name: Morocco, region: Africa, subregion: Northern Africa}
+  - {iso2: TZ, iso3: TZA, name: Tanzania, region: Africa, subregion: Eastern Africa}
+  - {iso2: UG, iso3: UGA, name: Uganda, region: Africa, subregion: Eastern Africa}
+  - {iso2: SN, iso3: SEN, name: Senegal, region: Africa, subregion: Western Africa}
+  - {iso2: CM, iso3: CMR, name: Cameroon, region: Africa, subregion: Middle Africa}
+  - {iso2: CI, iso3: CIV, name: "Cote d'Ivoire", region: Africa, subregion: Western Africa}
+  - {iso2: ZM, iso3: ZMB, name: Zambia, region: Africa, subregion: Eastern Africa}
+  - {iso2: RW, iso3: RWA, name: Rwanda, region: Africa, subregion: Eastern Africa}
+  - {iso2: MZ, iso3: MOZ, name: Mozambique, region: Africa, subregion: Eastern Africa}
+  - {iso2: US, iso3: USA, name: United States, region: USA, subregion: Northern America}
+
+# -----------------------------------------------------------------------------
+# Indicators: short name -> World Bank code
+# -----------------------------------------------------------------------------
+indicators:
+  maternal_mortality_ratio:
+    code: SH.STA.MMRT
+    description: Maternal mortality ratio (modeled estimate, per 100,000 live births)
+    unit: per_100k_live_births
+  under5_mortality_rate:
+    code: SH.DYN.MORT
+    description: Mortality rate, under-5 (per 1,000 live births)
+    unit: per_1k_live_births
+  neonatal_mortality_rate:
+    code: SH.DYN.NMRT
+    description: Mortality rate, neonatal (per 1,000 live births)
+    unit: per_1k_live_births
+  skilled_birth_attendance_pct:
+    code: SH.STA.BRTC.ZS
+    description: Births attended by skilled health staff (% of total)
+    unit: percent
+  health_expenditure_per_capita_usd:
+    code: SH.XPD.CHEX.PC.CD
+    description: Current health expenditure per capita (current US$)
+    unit: usd
+  immunization_dpt_pct:
+    code: SH.IMM.IDPT
+    description: Immunization, DPT (% of children ages 12-23 months)
+    unit: percent
+  fertility_rate:
+    code: SP.DYN.TFRT.IN
+    description: Fertility rate, total (births per woman)
+    unit: births_per_woman
+
+# -----------------------------------------------------------------------------
+# Pipeline parameters
+# -----------------------------------------------------------------------------
+pipeline:
+  log_level: INFO
+  request_timeout_seconds: 30
+  max_retries: 5
+  retry_backoff_min_seconds: 2
+  retry_backoff_max_seconds: 30
+  sleep_between_requests_seconds: 0.5
+  year_min: 2013
+  year_max: 2024
+  # Linear interpolation of gaps within a country's time series (not extrapolation)
+  interpolate_gaps: true
+  interpolation_limit_years: 3
+  # Values outside these bounds are treated as invalid and nulled
+  valid_ranges:
+    maternal_mortality_ratio: [0, 3000]
+    under5_mortality_rate: [0, 400]
+    neonatal_mortality_rate: [0, 100]
+    skilled_birth_attendance_pct: [0, 100]
+    health_expenditure_per_capita_usd: [0, 20000]
+    immunization_dpt_pct: [0, 100]
+    fertility_rate: [0, 10]

@@ -1,0 +1,78 @@
+country,iso3,year,lpi_score
+Angola,AGO,2022,2.1
+Angola,AGO,2018,2.05
+Angola,AGO,2016,2.241183
+Angola,AGO,2014,2.54298
+Angola,AGO,2012,2.28
+Cote d'Ivoire,CIV,2018,3.08
+Cote d'Ivoire,CIV,2016,2.602573
+Cote d'Ivoire,CIV,2014,2.761981
+Cote d'Ivoire,CIV,2012,2.73
+Cameroon,CMR,2022,2.1
+Cameroon,CMR,2018,2.6
+Cameroon,CMR,2016,2.151499
+Cameroon,CMR,2014,2.296616
+Cameroon,CMR,2012,2.53
+Algeria,DZA,2022,2.5
+Algeria,DZA,2018,2.45
+Algeria,DZA,2016,2.769683
+Algeria,DZA,2014,2.649451
+Algeria,DZA,2012,2.41
+"Egypt, Arab Rep.",EGY,2022,3.1
+"Egypt, Arab Rep.",EGY,2018,2.82
+"Egypt, Arab Rep.",EGY,2016,3.184964
+"Egypt, Arab Rep.",EGY,2014,2.965911
+"Egypt, Arab Rep.",EGY,2012,2.98
+Ethiopia,ETH,2016,2.376767
+Ethiopia,ETH,2014,2.593625
+Ethiopia,ETH,2012,2.24
+Ghana,GHA,2022,2.5
+Ghana,GHA,2018,2.57
+Ghana,GHA,2016,2.660931
+Ghana,GHA,2014,2.626934
+Ghana,GHA,2012,2.51
+Kenya,KEN,2018,2.81
+Kenya,KEN,2016,3.331295
+Kenya,KEN,2014,2.812079
+Kenya,KEN,2012,2.43
+Libya,LBY,2022,1.9
+Libya,LBY,2018,2.11
+Libya,LBY,2016,2.264495
+Libya,LBY,2014,2.496979
+Libya,LBY,2012,2.28
+Morocco,MAR,2018,2.54
+Morocco,MAR,2016,2.665994
+Morocco,MAR,2012,3.03
+Madagascar,MDG,2022,2.3
+Madagascar,MDG,2018,2.39
+Madagascar,MDG,2016,2.154639
+Madagascar,MDG,2014,2.382349
+Madagascar,MDG,2012,2.72
+Mozambique,MOZ,2016,2.684105
+Mozambique,MOZ,2014,2.228925
+Nigeria,NGA,2022,2.6
+Nigeria,NGA,2018,2.53
+Nigeria,NGA,2016,2.62809
+Nigeria,NGA,2014,2.808778
+Nigeria,NGA,2012,2.45
+Senegal,SEN,2018,2.25
+Senegal,SEN,2016,2.327711
+Senegal,SEN,2014,2.62217
+Senegal,SEN,2012,2.49
+Tunisia,TUN,2018,2.57
+Tunisia,TUN,2016,2.496688
+Tunisia,TUN,2014,2.550996
+Tunisia,TUN,2012,3.17
+Tanzania,TZA,2016,2.990185
+Tanzania,TZA,2014,2.330834
+Tanzania,TZA,2012,2.65
+United States,USA,2022,3.8
+United States,USA,2018,3.89
+United States,USA,2016,3.992172
+United States,USA,2014,3.917825
+United States,USA,2012,3.93
+South Africa,ZAF,2022,3.7
+South Africa,ZAF,2018,3.38
+South Africa,ZAF,2016,3.775321
+South Africa,ZAF,2014,3.431244
+South Africa,ZAF,2012,3.67

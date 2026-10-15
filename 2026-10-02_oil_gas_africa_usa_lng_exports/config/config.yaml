@@ -1,0 +1,72 @@
+# ---------------------------------------------------------------------------
+# Africa LNG Exports to the USA - pipeline configuration
+# All paths are relative to the project root. Environment variables
+# CONFIG_PATH, DB_PATH and LOG_LEVEL override the values below at runtime.
+# ---------------------------------------------------------------------------
+
+api:
+  comtrade:
+    base_url: "https://comtradeapi.un.org/public/v1/preview/C/A/HS"
+    hs_code: "271111"            # Natural gas, liquefied (LNG)
+    flow_codes: ["X", "M", "RX"] # Export, Import, Re-export
+    commodity_label: "LNG (HS 271111)"
+  worldbank:
+    base_url: "https://api.worldbank.org/v2"
+    format: "json"
+    per_page: 1000
+    date_range: "2012:2025"
+  timeout_seconds: 60
+  max_retries: 4
+  backoff_seconds: 2
+  pause_between_requests_seconds: 2.5
+
+# M49 numeric codes are used by UN Comtrade, ISO3 codes by the World Bank.
+countries:
+  - {iso3: NGA, m49: 566, name: Nigeria}
+  - {iso3: DZA, m49: 12, name: Algeria}
+  - {iso3: EGY, m49: 818, name: Egypt}
+  - {iso3: AGO, m49: 24, name: Angola}
+  - {iso3: MOZ, m49: 508, name: Mozambique}
+  - {iso3: TZA, m49: 834, name: Tanzania}
+  - {iso3: CMR, m49: 120, name: Cameroon}
+  - {iso3: GNQ, m49: 226, name: Equatorial Guinea}
+  - {iso3: LBY, m49: 434, name: Libya}
+  - {iso3: GAB, m49: 266, name: Gabon}
+
+usa_partner_code: 842
+world_partner_code: 0
+
+years: [2019, 2020, 2021, 2022, 2023]
+
+# World Bank indicator code -> short analytical column name
+indicators:
+  NY.GDP.NGAS.RT.ZS: gas_rents_pct_gdp
+  NY.GDP.PETR.RT.ZS: oil_rents_pct_gdp
+  NY.GDP.TOTL.RT.ZS: total_resource_rents_pct_gdp
+  TX.VAL.MRCH.CD.WT: merchandise_exports_usd
+  EG.ELC.NGAS.ZS: electricity_from_gas_pct
+  NY.GDP.PCAP.CD: gdp_per_capita_usd
+  SP.POP.TOTL: population
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  db_path: "data/lng_pipeline.db"
+  report_path: "data/pipeline_report.txt"
+  comtrade_file: "lng_trade_comtrade.csv"
+  worldbank_file: "worldbank_energy_indicators.csv"
+
+pipeline:
+  log_level: "INFO"
+  # Keep previously downloaded raw files if an API call fails.
+  fallback_to_existing_raw: true
+  # Weights of the composite gas dependency score (must sum to 1.0).
+  gas_dependency_weights:
+    gas_rents_pct_gdp: 0.4
+    lng_share_of_merch_exports_pct: 0.3
+    electricity_from_gas_pct: 0.3
+  # YoY growth is left null when the prior-year base is below this (USD).
+  yoy_min_base_usd: 10000000
+  # Lagging World Bank series are carried forward at most this many years.
+  indicator_ffill_years: 3
+  upsert_batch_size: 500

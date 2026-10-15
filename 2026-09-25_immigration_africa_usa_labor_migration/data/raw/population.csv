@@ -1,0 +1,76 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CIV,Cote d'Ivoire,SP.POP.TOTL,"Population, total",2025,32711547
+CIV,Cote d'Ivoire,SP.POP.TOTL,"Population, total",2024,31934230
+CIV,Cote d'Ivoire,SP.POP.TOTL,"Population, total",2023,31165654
+CIV,Cote d'Ivoire,SP.POP.TOTL,"Population, total",2022,30395002
+CIV,Cote d'Ivoire,SP.POP.TOTL,"Population, total",2021,29639736
+CMR,Cameroon,SP.POP.TOTL,"Population, total",2025,29879337
+CMR,Cameroon,SP.POP.TOTL,"Population, total",2024,29123744
+CMR,Cameroon,SP.POP.TOTL,"Population, total",2023,28372687
+CMR,Cameroon,SP.POP.TOTL,"Population, total",2022,27632771
+CMR,Cameroon,SP.POP.TOTL,"Population, total",2021,26915758
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2025,118365995
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2024,116538258
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2023,114535772
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2022,112618250
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2021,110957008
+ETH,Ethiopia,SP.POP.TOTL,"Population, total",2025,135472051
+ETH,Ethiopia,SP.POP.TOTL,"Population, total",2024,132059767
+ETH,Ethiopia,SP.POP.TOTL,"Population, total",2023,128691692
+ETH,Ethiopia,SP.POP.TOTL,"Population, total",2022,125384287
+ETH,Ethiopia,SP.POP.TOTL,"Population, total",2021,122138588
+GHA,Ghana,SP.POP.TOTL,"Population, total",2025,35064272
+GHA,Ghana,SP.POP.TOTL,"Population, total",2024,34427414
+GHA,Ghana,SP.POP.TOTL,"Population, total",2023,33787914
+GHA,Ghana,SP.POP.TOTL,"Population, total",2022,33149152
+GHA,Ghana,SP.POP.TOTL,"Population, total",2021,32518665
+GMB,"Gambia, The",SP.POP.TOTL,"Population, total",2025,2822093
+GMB,"Gambia, The",SP.POP.TOTL,"Population, total",2024,2759988
+GMB,"Gambia, The",SP.POP.TOTL,"Population, total",2023,2697845
+GMB,"Gambia, The",SP.POP.TOTL,"Population, total",2022,2636470
+GMB,"Gambia, The",SP.POP.TOTL,"Population, total",2021,2576010
+KEN,Kenya,SP.POP.TOTL,"Population, total",2025,57532493
+KEN,Kenya,SP.POP.TOTL,"Population, total",2024,56432944
+KEN,Kenya,SP.POP.TOTL,"Population, total",2023,55339003
+KEN,Kenya,SP.POP.TOTL,"Population, total",2022,54252461
+KEN,Kenya,SP.POP.TOTL,"Population, total",2021,53219166
+LBR,Liberia,SP.POP.TOTL,"Population, total",2025,5731206
+LBR,Liberia,SP.POP.TOTL,"Population, total",2024,5612817
+LBR,Liberia,SP.POP.TOTL,"Population, total",2023,5493031
+LBR,Liberia,SP.POP.TOTL,"Population, total",2022,5373294
+LBR,Liberia,SP.POP.TOTL,"Population, total",2021,5259323
+MAR,Morocco,SP.POP.TOTL,"Population, total",2025,38430770
+MAR,Morocco,SP.POP.TOTL,"Population, total",2024,38081173
+MAR,Morocco,SP.POP.TOTL,"Population, total",2023,37712505
+MAR,Morocco,SP.POP.TOTL,"Population, total",2022,37329064
+MAR,Morocco,SP.POP.TOTL,"Population, total",2021,36954442
+NGA,Nigeria,SP.POP.TOTL,"Population, total",2025,237527782
+NGA,Nigeria,SP.POP.TOTL,"Population, total",2024,232679478
+NGA,Nigeria,SP.POP.TOTL,"Population, total",2023,227882945
+NGA,Nigeria,SP.POP.TOTL,"Population, total",2022,223150896
+NGA,Nigeria,SP.POP.TOTL,"Population, total",2021,218529286
+SEN,Senegal,SP.POP.TOTL,"Population, total",2025,18931966
+SEN,Senegal,SP.POP.TOTL,"Population, total",2024,18501984
+SEN,Senegal,SP.POP.TOTL,"Population, total",2023,18077573
+SEN,Senegal,SP.POP.TOTL,"Population, total",2022,17651103
+SEN,Senegal,SP.POP.TOTL,"Population, total",2021,17220867
+SLE,Sierra Leone,SP.POP.TOTL,"Population, total",2025,8819794
+SLE,Sierra Leone,SP.POP.TOTL,"Population, total",2024,8642022
+SLE,Sierra Leone,SP.POP.TOTL,"Population, total",2023,8460512
+SLE,Sierra Leone,SP.POP.TOTL,"Population, total",2022,8276807
+SLE,Sierra Leone,SP.POP.TOTL,"Population, total",2021,8094602
+TZA,Tanzania,SP.POP.TOTL,"Population, total",2025,70545865
+TZA,Tanzania,SP.POP.TOTL,"Population, total",2024,68560157
+TZA,Tanzania,SP.POP.TOTL,"Population, total",2023,66617606
+TZA,Tanzania,SP.POP.TOTL,"Population, total",2022,64711821
+TZA,Tanzania,SP.POP.TOTL,"Population, total",2021,62830412
+UGA,Uganda,SP.POP.TOTL,"Population, total",2025,51384894
+UGA,Uganda,SP.POP.TOTL,"Population, total",2024,50015092
+UGA,Uganda,SP.POP.TOTL,"Population, total",2023,48656601
+UGA,Uganda,SP.POP.TOTL,"Population, total",2022,47312719
+UGA,Uganda,SP.POP.TOTL,"Population, total",2021,45910930
+ZAF,South Africa,SP.POP.TOTL,"Population, total",2025,64747319
+ZAF,South Africa,SP.POP.TOTL,"Population, total",2024,64007187
+ZAF,South Africa,SP.POP.TOTL,"Population, total",2023,63212384
+ZAF,South Africa,SP.POP.TOTL,"Population, total",2022,62378410
+ZAF,South Africa,SP.POP.TOTL,"Population, total",2021,61502603

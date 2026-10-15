@@ -1,0 +1,25 @@
+# Run from the docker/ directory:
+#   docker compose up --build              # ingest -> transform -> load
+#   docker compose run --rm pipeline python src/ingestion/ingest.py --dry-run
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: hiv-aids-africa-usa:latest
+    container_name: hiv_aids_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      DB_PATH: "/app/data/hiv_aids.db"
+      WB_API_BASE_URL: "https://api.worldbank.org/v2"
+      API_TIMEOUT: "30"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"

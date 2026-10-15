@@ -1,0 +1,81 @@
+country_code,country_name,indicator,year,value
+CIV,Cote d'Ivoire,Merchandise_Exports_USD,2025,28471000000
+CIV,Cote d'Ivoire,Merchandise_Exports_USD,2024,20549000000
+CIV,Cote d'Ivoire,Merchandise_Exports_USD,2023,18350000000
+CIV,Cote d'Ivoire,Merchandise_Exports_USD,2022,16429000000
+CIV,Cote d'Ivoire,Merchandise_Exports_USD,2021,15334000000
+CMR,Cameroon,Merchandise_Exports_USD,2025,5100000000
+CMR,Cameroon,Merchandise_Exports_USD,2024,5364000000
+CMR,Cameroon,Merchandise_Exports_USD,2023,4927000000
+CMR,Cameroon,Merchandise_Exports_USD,2022,5584000000
+CMR,Cameroon,Merchandise_Exports_USD,2021,4317000000
+EGY,"Egypt, Arab Rep.",Merchandise_Exports_USD,2025,51403000000
+EGY,"Egypt, Arab Rep.",Merchandise_Exports_USD,2024,42247000000
+EGY,"Egypt, Arab Rep.",Merchandise_Exports_USD,2023,42081000000
+EGY,"Egypt, Arab Rep.",Merchandise_Exports_USD,2022,51280000000
+EGY,"Egypt, Arab Rep.",Merchandise_Exports_USD,2021,41310000000
+ETH,Ethiopia,Merchandise_Exports_USD,2025,7585000000
+ETH,Ethiopia,Merchandise_Exports_USD,2024,5472000000
+ETH,Ethiopia,Merchandise_Exports_USD,2023,3468000000
+ETH,Ethiopia,Merchandise_Exports_USD,2022,3970000000
+ETH,Ethiopia,Merchandise_Exports_USD,2021,3949000000
+GHA,Ghana,Merchandise_Exports_USD,2025,31107000000
+GHA,Ghana,Merchandise_Exports_USD,2024,19165000000
+GHA,Ghana,Merchandise_Exports_USD,2023,16703000000
+GHA,Ghana,Merchandise_Exports_USD,2022,17276000000
+GHA,Ghana,Merchandise_Exports_USD,2021,14727000000
+KEN,Kenya,Merchandise_Exports_USD,2025,8601000000
+KEN,Kenya,Merchandise_Exports_USD,2024,8237000000
+KEN,Kenya,Merchandise_Exports_USD,2023,7191000000
+KEN,Kenya,Merchandise_Exports_USD,2022,7411000000
+KEN,Kenya,Merchandise_Exports_USD,2021,6739000000
+MAR,Morocco,Merchandise_Exports_USD,2025,49777000000
+MAR,Morocco,Merchandise_Exports_USD,2024,45226000000
+MAR,Morocco,Merchandise_Exports_USD,2023,41642000000
+MAR,Morocco,Merchandise_Exports_USD,2022,41481000000
+MAR,Morocco,Merchandise_Exports_USD,2021,35843000000
+MOZ,Mozambique,Merchandise_Exports_USD,2025,8100000000
+MOZ,Mozambique,Merchandise_Exports_USD,2024,8211000000
+MOZ,Mozambique,Merchandise_Exports_USD,2023,8276000000
+MOZ,Mozambique,Merchandise_Exports_USD,2022,8299000000
+MOZ,Mozambique,Merchandise_Exports_USD,2021,5704000000
+NGA,Nigeria,Merchandise_Exports_USD,2025,55468000000
+NGA,Nigeria,Merchandise_Exports_USD,2024,53320000000
+NGA,Nigeria,Merchandise_Exports_USD,2023,55182000000
+NGA,Nigeria,Merchandise_Exports_USD,2022,63075000000
+NGA,Nigeria,Merchandise_Exports_USD,2021,46871000000
+RWA,Rwanda,Merchandise_Exports_USD,2025,2450000000
+RWA,Rwanda,Merchandise_Exports_USD,2024,3201000000
+RWA,Rwanda,Merchandise_Exports_USD,2023,2466000000
+RWA,Rwanda,Merchandise_Exports_USD,2022,2111000000
+RWA,Rwanda,Merchandise_Exports_USD,2021,1530000000
+SEN,Senegal,Merchandise_Exports_USD,2025,10243000000
+SEN,Senegal,Merchandise_Exports_USD,2024,6310000000
+SEN,Senegal,Merchandise_Exports_USD,2023,5317000000
+SEN,Senegal,Merchandise_Exports_USD,2022,5710000000
+SEN,Senegal,Merchandise_Exports_USD,2021,5202000000
+TZA,Tanzania,Merchandise_Exports_USD,2025,9956000000
+TZA,Tanzania,Merchandise_Exports_USD,2024,8702000000
+TZA,Tanzania,Merchandise_Exports_USD,2023,7275000000
+TZA,Tanzania,Merchandise_Exports_USD,2022,6825000000
+TZA,Tanzania,Merchandise_Exports_USD,2021,6391000000
+UGA,Uganda,Merchandise_Exports_USD,2025,12500000000
+UGA,Uganda,Merchandise_Exports_USD,2024,8039000000
+UGA,Uganda,Merchandise_Exports_USD,2023,6305000000
+UGA,Uganda,Merchandise_Exports_USD,2022,3577000000
+UGA,Uganda,Merchandise_Exports_USD,2021,3965000000
+USA,United States,Merchandise_Exports_USD,2025,2185220000000
+USA,United States,Merchandise_Exports_USD,2024,2061691000000
+USA,United States,Merchandise_Exports_USD,2023,2018059000000
+USA,United States,Merchandise_Exports_USD,2022,2065157000000
+USA,United States,Merchandise_Exports_USD,2021,1754300000000
+ZAF,South Africa,Merchandise_Exports_USD,2025,116399000000
+ZAF,South Africa,Merchandise_Exports_USD,2024,110076000000
+ZAF,South Africa,Merchandise_Exports_USD,2023,110855000000
+ZAF,South Africa,Merchandise_Exports_USD,2022,122901000000
+ZAF,South Africa,Merchandise_Exports_USD,2021,123572000000
+ZMB,Zambia,Merchandise_Exports_USD,2025,13314000000
+ZMB,Zambia,Merchandise_Exports_USD,2024,11276000000
+ZMB,Zambia,Merchandise_Exports_USD,2023,10431000000
+ZMB,Zambia,Merchandise_Exports_USD,2022,11643000000
+ZMB,Zambia,Merchandise_Exports_USD,2021,11013000000

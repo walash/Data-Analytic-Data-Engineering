@@ -1,0 +1,85 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install flake8
+        run: pip install flake8==7.1.0
+
+      - name: Run flake8
+        run: |
+          flake8 src dags \
+            --max-line-length=100 \
+            --extend-ignore=E203,W503 \
+            --count --show-source --statistics
+
+  smoke-test:
+    name: Smoke test (ingestion + transform)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pandas==2.2.2 numpy==1.26.4 requests==2.32.3 pyyaml==6.0.2
+
+      - name: Compile pipeline modules
+        run: |
+          python -m py_compile \
+            src/ingestion/ingest.py \
+            src/transformation/transform.py \
+            src/loading/load.py
+
+      - name: Run ingestion (fetch raw data)
+        run: python src/ingestion/ingest.py
+        continue-on-error: true
+
+      - name: Run transformation on existing raw data
+        run: python src/transformation/transform.py
+
+      - name: Verify processed output exists
+        run: |
+          test -f data/processed/agriculture_with_features.csv \
+            && echo "Processed feature file created."
+
+  validate-notebook:
+    name: Validate notebook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install notebook tooling
+        run: pip install nbformat==5.10.4 nbconvert==7.16.4
+
+      - name: Validate notebook JSON and structure
+        run: |
+          python -c "import nbformat; nb = nbformat.read('notebooks/analysis.ipynb', as_version=4); nbformat.validate(nb); print('Notebook valid:', len(nb.cells), 'cells')"

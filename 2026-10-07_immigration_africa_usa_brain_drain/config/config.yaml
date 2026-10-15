@@ -1,0 +1,136 @@
+# =============================================================================
+# Brain Drain: Skilled Worker Emigration from Africa to the USA
+# Central pipeline configuration (read by ingest.py, transform.py, load.py,
+# the Airflow DAG and the CI smoke test).
+# =============================================================================
+
+project:
+  name: africa_usa_brain_drain
+  domain: Immigration
+  description: >
+    Net migration, remittances, GDP per capita, unemployment and tertiary
+    education indicators for 15 African countries that are major sources of
+    skilled emigrants (doctors, nurses, engineers, IT professionals) to the
+    United States and other high-income economies.
+
+# -----------------------------------------------------------------------------
+# API keys
+# NOTE: The World Bank Indicators API (api.worldbank.org/v2) is FREE and
+# requires NO API key. The entries below are labeled placeholders kept only
+# so the pipeline can be extended to keyed sources (e.g. US Census / DHS
+# Yearbook mirrors) without changing the config schema. Leave them as-is to
+# run the pipeline against the World Bank.
+# -----------------------------------------------------------------------------
+api_keys:
+  WORLD_BANK_API_KEY: "YOUR_API_KEY_HERE"   # Not required - World Bank API is open
+  US_CENSUS_API_KEY: "YOUR_API_KEY_HERE"    # Optional - only for future ACS foreign-born extensions
+
+# -----------------------------------------------------------------------------
+# World Bank Indicators API
+# -----------------------------------------------------------------------------
+worldbank:
+  base_url: "https://api.worldbank.org/v2"
+  format: json
+  per_page: 200
+  # Countries: Nigeria, Ghana, Kenya, Ethiopia, South Africa, Egypt, Morocco,
+  # Tanzania, Uganda, Senegal, Cameroon, Cote d'Ivoire, Zimbabwe, Zambia, Malawi
+  countries: [NG, GH, KE, ET, ZA, EG, MA, TZ, UG, SN, CM, CI, ZW, ZM, MW]
+
+  # Each indicator is saved to data/raw/<file>. `mrv` = most recent values.
+  indicators:
+    net_migration:
+      code: SM.POP.NETM
+      label: "Net migration (people)"
+      file: wb_net_migration.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/SM.POP.NETM?format=json&per_page=200&mrv=10"
+    remittances_usd:
+      code: BX.TRF.PWKR.CD.DT
+      label: "Personal remittances received (current US$)"
+      file: wb_remittances_usd.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/BX.TRF.PWKR.CD.DT?format=json&per_page=200&mrv=10"
+    remittances_pct_gdp:
+      code: BX.TRF.PWKR.DT.GD.ZS
+      label: "Personal remittances received (% of GDP)"
+      file: wb_remittances_pct_gdp.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&per_page=200&mrv=10"
+    gdp_per_capita:
+      code: NY.GDP.PCAP.CD
+      label: "GDP per capita (current US$)"
+      file: wb_gdp_per_capita.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/NY.GDP.PCAP.CD?format=json&per_page=200&mrv=10"
+    unemployment:
+      code: SL.UEM.TOTL.ZS
+      label: "Unemployment, total (% of labor force, modeled ILO)"
+      file: wb_unemployment.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/SL.UEM.TOTL.ZS?format=json&per_page=200&mrv=10"
+    tertiary_enrollment:
+      code: SE.TER.ENRR
+      label: "School enrollment, tertiary (% gross)"
+      file: wb_tertiary_enrollment.json
+      mrv: 10
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/SE.TER.ENRR?format=json&per_page=200&mrv=10"
+    migrant_stock:
+      code: SM.POP.TOTL
+      label: "International migrant stock, total"
+      file: wb_migrant_stock.json
+      mrv: 5
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/SM.POP.TOTL?format=json&per_page=200&mrv=5"
+    population:
+      code: SP.POP.TOTL
+      label: "Population, total"
+      file: wb_population.json
+      mrv: 5
+      url: "https://api.worldbank.org/v2/country/NG;GH;KE;ET;ZA;EG;MA;TZ;UG;SN;CM;CI;ZW;ZM;MW/indicator/SP.POP.TOTL?format=json&per_page=200&mrv=5"
+
+# Sub-regional grouping (African Union / UN M49 style) used for aggregation.
+regions:
+  NG: West Africa
+  GH: West Africa
+  SN: West Africa
+  CI: West Africa
+  CM: Central Africa
+  KE: East Africa
+  ET: East Africa
+  TZ: East Africa
+  UG: East Africa
+  EG: North Africa
+  MA: North Africa
+  ZA: Southern Africa
+  ZW: Southern Africa
+  ZM: Southern Africa
+  MW: Southern Africa
+
+# -----------------------------------------------------------------------------
+# Paths (relative to the project root)
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database: data/brain_drain.db
+  reports_dir: reports
+
+# -----------------------------------------------------------------------------
+# Brain Drain Pressure Index weights (min-max normalised components, 0-1).
+# Higher score = stronger "push" factors for skilled emigration.
+# -----------------------------------------------------------------------------
+brain_drain_index:
+  weights:
+    unemployment: 0.30          # higher unemployment  -> more push
+    gdp_per_capita_gap: 0.30    # lower GDP per capita -> more push
+    net_outflow_rate: 0.20      # more negative net migration per 1,000 -> more push
+    remittance_dependence: 0.20 # higher remittances % GDP -> larger diaspora footprint
+
+# -----------------------------------------------------------------------------
+# Runtime settings
+# -----------------------------------------------------------------------------
+pipeline:
+  log_level: INFO
+  request_timeout_seconds: 30
+  max_retries: 3
+  backoff_seconds: 2
+  user_agent: "africa-usa-brain-drain-pipeline/1.0"

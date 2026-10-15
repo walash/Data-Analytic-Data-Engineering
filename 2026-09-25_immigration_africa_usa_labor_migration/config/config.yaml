@@ -1,0 +1,70 @@
+# Configuration for the Africa-to-USA Labor Migration & Remittances Pipeline
+# All settings are centralized here so code contains no hard-coded values.
+
+api:
+  # World Bank Indicators API (public, no key required)
+  base_url: "https://api.worldbank.org/v2"
+  response_format: "json"
+  per_page: 500
+  # ISO2 country codes for the 15 African countries in scope
+  countries:
+    - NG   # Nigeria
+    - GH   # Ghana
+    - KE   # Kenya
+    - ET   # Ethiopia
+    - ZA   # South Africa
+    - EG   # Egypt
+    - MA   # Morocco
+    - TZ   # Tanzania
+    - UG   # Uganda
+    - SN   # Senegal
+    - CM   # Cameroon
+    - CI   # Cote d'Ivoire
+    - SL   # Sierra Leone
+    - LR   # Liberia
+    - GM   # Gambia
+  # Indicator code -> output CSV filename and number of most-recent values (mrv)
+  indicators:
+    net_migration:
+      code: "SM.POP.NETM"
+      filename: "net_migration.csv"
+      mrv: 10
+    remittances_usd:
+      code: "BX.TRF.PWKR.CD.DT"
+      filename: "remittances_usd.csv"
+      mrv: 10
+    remittances_pct_gdp:
+      code: "BX.TRF.PWKR.DT.GD.ZS"
+      filename: "remittances_pct_gdp.csv"
+      mrv: 10
+    gdp_per_capita:
+      code: "NY.GDP.PCAP.CD"
+      filename: "gdp_per_capita.csv"
+      mrv: 10
+    unemployment:
+      code: "SL.UEM.TOTL.ZS"
+      filename: "unemployment.csv"
+      mrv: 10
+    population:
+      code: "SP.POP.TOTL"
+      filename: "population.csv"
+      mrv: 5
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  database_path: "data/labor_migration.db"
+  processed_master_file: "master_labor_migration.csv"
+
+pipeline:
+  batch_size: 500
+  retry_count: 3
+  retry_delay: 2          # base seconds for exponential backoff
+  request_timeout: 120    # seconds
+  log_level: "INFO"
+
+# Optional API keys are NOT required for the public World Bank API.
+# Placeholders are provided for future private/premium data sources.
+api_keys:
+  worldbank_api_key: ""   # PLACEHOLDER - not required for public World Bank API
+  unhcr_api_key: ""       # PLACEHOLDER - optional, reserved for future use

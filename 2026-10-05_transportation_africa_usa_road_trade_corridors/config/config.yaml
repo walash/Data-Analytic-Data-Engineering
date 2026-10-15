@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------------------
+# Africa-USA Road Infrastructure & Cross-Border Trade Corridors - Configuration
+# ---------------------------------------------------------------------------
+# The World Bank Indicators API is free and public: no API keys or secrets
+# are required. All paths are relative to the project root.
+
+api:
+  base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 200
+  timeout_seconds: 30
+  countries:
+    - NG   # Nigeria
+    - GH   # Ghana
+    - KE   # Kenya
+    - ET   # Ethiopia
+    - ZA   # South Africa
+    - EG   # Egypt
+    - MA   # Morocco
+    - TZ   # Tanzania
+    - UG   # Uganda
+    - SN   # Senegal
+    - CM   # Cameroon
+    - CI   # Cote d'Ivoire
+    - ZM   # Zambia
+    - MZ   # Mozambique
+    - RW   # Rwanda
+    - USA  # United States (benchmark)
+  indicators:
+    lpi_overall:
+      code: "LP.LPI.OVRL.XQ"
+      name: "LPI_Overall_Score"
+      mrv: 5
+    lpi_infrastructure:
+      code: "LP.LPI.INFR.XQ"
+      name: "LPI_Infrastructure_Score"
+      mrv: 5
+    road_density:
+      code: "IS.ROD.DNST.K2"
+      name: "Road_Density_km_per_100sqkm"
+      mrv: 10
+    paved_roads_pct:
+      code: "IS.ROD.PAVE.ZS"
+      name: "Paved_Roads_Pct"
+      mrv: 10
+    merchandise_exports:
+      code: "TX.VAL.MRCH.CD.WT"
+      name: "Merchandise_Exports_USD"
+      mrv: 5
+    trade_pct_gdp:
+      code: "NE.TRD.GNFS.ZS"
+      name: "Trade_Pct_GDP"
+      mrv: 5
+    gdp_per_capita:
+      code: "NY.GDP.PCAP.CD"
+      name: "GDP_Per_Capita_USD"
+      mrv: 5
+  retry:
+    max_retries: 3
+    backoff_base_seconds: 2
+    retry_status_codes: [429, 500, 502, 503, 504]
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  db_path: "data/transport_trade.db"
+  report_path: "data/processed/pipeline_report.txt"
+
+transformation:
+  benchmark_country: "USA"
+  max_missing_ratio: 0.5
+  trade_openness_bins:
+    low: 40       # Trade % GDP below 40 -> Low
+    moderate: 70  # 40-70 -> Moderate, above 70 -> High
+
+pipeline:
+  dag_id: "africa_usa_road_trade_corridors_pipeline"
+  schedule: "@weekly"
+  retries: 2
+  retry_delay_minutes: 5
+  log_level: "INFO"
