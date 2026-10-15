@@ -1,5 +1,7 @@
 """Visualization suite — Phase I exploratory analysis.
 
+Author: Olawale Ajibola Ashaolu, Data Analyst, Sodexo
+
 I built this script to turn the weekly inventory panel produced by
 `inventory_extractor.py` into 12 decision-support charts and a unit-level
 performance summary. It also enriches the panel with three data-quality flags:

@@ -1,5 +1,7 @@
 # Institutional Demand Analytics — Data Engineering & Predictive Infrastructure (Phase I)
 
+**Author:** Olawale Ajibola Ashaolu, Data Analyst, Sodexo
+
 *Phase I of a multi-phase data engineering initiative building the predictive analytics infrastructure described in my EB-2 NIW proposed endeavor.*
 
 ---
@@ -107,4 +109,5 @@ Clinical demand and medical-supply forecasting rest on the same foundations. Hos
 
 ## 9. Author
 
-**Independent Data & Analytics Engineer**
+**Olawale Ajibola Ashaolu**<br>
+Data Analyst, Sodexo · Independent Data & Analytics Engineer

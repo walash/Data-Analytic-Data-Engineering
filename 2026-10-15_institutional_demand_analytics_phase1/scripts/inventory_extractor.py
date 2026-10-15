@@ -1,5 +1,7 @@
 """Inventory extractor — Phase I data engineering pipeline.
 
+Author: Olawale Ajibola Ashaolu, Data Analyst, Sodexo
+
 I wrote this module to convert the institution's weekly Inventory Summary History
 Report (a multi-page PDF, one page per dining unit per week-ending date) into two
 analysis-ready tables:
