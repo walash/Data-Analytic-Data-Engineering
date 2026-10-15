@@ -1,0 +1,59 @@
+Report dates: 33 | Friday weeks: 28 | month-end closes (non-Friday): 5
+Units total 16 active 11 ['Grand Dining', 'Catering', 'Starbucks', 'Panera', 'Fusz Simply To Go', 'BSC Simply To Go', 'WOW Cafe', 'Ameren Cafe', 'Reinert To Go', 'Qdoba', 'Subway'] 
+partial ['WOW Cafe'] closed ['Billiken Club', 'Einsteins', 'Marketplace'] never ['Fueling Station', 'Spice Market']
+Portfolio latest (10/09) $219,466.24; avg per active unit latest $19,951.48
+Portfolio weekly: mean $171,901.68, peak $263,943.40 04/10, low $126,289.65 07/10, start $168,831.09
+Avg weekly inventory per active unit (all weeks, nonzero): $16,712.66
+GD trend slope $307.67/wk; GD flat weeks 7/27
+                   weeks     start       end       min       max      mean       std  pct_growth
+unit                                                                                            
+Grand Dining          28 24,832.87 37,311.63 21,700.53 47,299.91 32,812.42  8,477.02        0.50
+Catering              28 29,737.73 29,393.10 26,776.44 35,542.40 30,409.91  2,160.16       -0.01
+Starbucks             28 30,651.52 29,045.65 15,598.65 38,792.32 21,802.77  5,784.07       -0.05
+Panera                28 15,511.90 25,136.70 12,201.80 77,772.81 18,704.19 12,068.12        0.62
+Fusz Simply To Go     28 21,008.56 21,430.31  8,633.96 30,038.35 15,713.77  6,809.88        0.02
+BSC Simply To Go      28 14,384.25 19,515.86 13,836.16 23,723.76 18,589.75  3,074.33        0.36
+WOW Cafe               8 14,363.59 14,122.00 12,166.49 16,236.56 14,525.81  1,292.35       -0.02
+Ameren Cafe           28  9,982.91 13,073.35  2,196.89 14,220.59  7,014.90  5,055.05        0.31
+Reinert To Go         28  7,308.22 10,819.42  2,637.87 10,819.42  5,762.71  3,077.78        0.48
+Qdoba                 28  6,679.63 10,506.18  4,640.00 12,997.44  8,363.05  2,838.94        0.57
+Subway                28  8,733.50  9,112.04  6,367.55 11,472.16  8,577.98  1,850.59        0.04
+                   weeks  stale  rate
+unit                                 
+Fusz Simply To Go     28      7  0.26
+Catering              28      7  0.26
+Panera                28      7  0.26
+Grand Dining          28      7  0.26
+Qdoba                 28      7  0.26
+Starbucks             28      7  0.26
+BSC Simply To Go      28      8  0.30
+WOW Cafe               8      3  0.43
+Subway                28     13  0.48
+Ameren Cafe           28     15  0.56
+Reinert To Go         28     15  0.56
+                        std      mean   cv
+WOW Cafe           1,292.35 14,525.81 0.09
+Subway             1,850.59  8,577.98 0.22
+Catering           2,160.16 30,409.91 0.07
+Qdoba              2,838.94  8,363.05 0.34
+BSC Simply To Go   3,074.33 18,589.75 0.17
+Reinert To Go      3,077.78  5,762.71 0.53
+Ameren Cafe        5,055.05  7,014.90 0.72
+Starbucks          5,784.07 21,802.77 0.27
+Fusz Simply To Go  6,809.88 15,713.77 0.43
+Grand Dining       8,477.02 32,812.42 0.26
+Panera            12,068.12 18,704.19 0.65
+GROCERIES                     0.32
+BEVERAGE                      0.20
+MEAT EGGS & CHEESE            0.15
+PAPER/PLASTIC N/T             0.11
+BAKED GOODS                   0.06
+OTHER (bar/merch/packaging)   0.04
+CLEANING SUPPLIES             0.04
+PRODUCE                       0.04
+MILK & ICE CREAM              0.03
+FROZEN FOOD                   0.01
+      period  items      rev  chk
+0  Breakfast    604   194.18 0.32
+1      Lunch    941 1,448.91 1.54
+2     Dinner    992   296.98 0.30

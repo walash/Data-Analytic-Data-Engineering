@@ -1,0 +1,88 @@
+index,name,category,value,note
+1,Total portfolio inventory (latest week),Inventory,219466.24,"11 active units, W/E 10/09/2026"
+2,Average inventory per active unit,Inventory,19951.48,
+3,Growth rate - Grand Dining,Inventory,50.25,% first to last week
+3,Growth rate - Panera,Inventory,62.05,% first to last week
+3,Growth rate - Qdoba,Inventory,57.29,% first to last week
+3,Growth rate - Reinert To Go,Inventory,48.04,% first to last week
+3,Growth rate - Catering,Inventory,-1.16,% first to last week
+3,Growth rate - Starbucks,Inventory,-5.24,% first to last week
+4,Trend slope - Grand Dining,Inventory,307.67,"$/week (~$1,332/month)"
+5,Range - Grand Dining,Inventory,25599.38,
+6,Std dev - Grand Dining,Inventory,8477.02,
+6,Std dev - Catering,Inventory,2160.16,
+6,Std dev - Starbucks,Inventory,5784.07,
+6,Std dev - Panera,Inventory,12068.12,
+6,Std dev - Fusz Simply To Go,Inventory,6809.88,
+6,Std dev - BSC Simply To Go,Inventory,3074.33,
+6,Std dev - WOW Cafe & Wingery,Inventory,1292.35,
+6,Std dev - Ameren Cafe,Inventory,5055.05,
+6,Std dev - Reinert To Go,Inventory,3077.78,
+6,Std dev - Qdoba,Inventory,2838.94,
+6,Std dev - Subway,Inventory,1850.59,
+7,Coefficient of variation - Ameren Cafe,Inventory,0.72,flag if > 0.40
+7,Coefficient of variation - Panera,Inventory,0.65,flag if > 0.40
+7,Coefficient of variation - Reinert To Go,Inventory,0.53,flag if > 0.40
+7,Coefficient of variation - Fusz Simply To Go,Inventory,0.43,flag if > 0.40
+7,Coefficient of variation - Qdoba,Inventory,0.34,
+7,Coefficient of variation - Starbucks,Inventory,0.27,
+7,Coefficient of variation - Grand Dining,Inventory,0.26,
+7,Coefficient of variation - Subway,Inventory,0.22,
+7,Coefficient of variation - BSC Simply To Go,Inventory,0.17,
+7,Coefficient of variation - WOW Cafe & Wingery,Inventory,0.09,
+7,Coefficient of variation - Catering,Inventory,0.07,
+8,Portfolio weekly mean,Inventory,171901.68,"28 Friday weeks, 11 active units"
+9,Portfolio peak,Inventory,263943.4,04/10/2026
+9,Portfolio low,Inventory,126289.65,07/10/2026
+10,Inventory share - Grand Dining,Inventory,17.0,%
+10,Inventory share - Catering,Inventory,13.4,%
+10,Inventory share - Starbucks,Inventory,13.2,%
+10,Inventory share - Panera,Inventory,11.5,%
+10,Inventory share - Fusz Simply To Go,Inventory,9.8,%
+10,Inventory share - BSC Simply To Go,Inventory,8.9,%
+10,Inventory share - WOW Cafe & Wingery,Inventory,6.4,%
+10,Inventory share - Ameren Cafe,Inventory,6.0,%
+10,Inventory share - Reinert To Go,Inventory,4.9,%
+10,Inventory share - Qdoba,Inventory,4.8,%
+10,Inventory share - Subway,Inventory,4.2,%
+10,Top-3 unit share,Inventory,43.6,%
+11,Stale count rate - Grand Dining,Data quality,26,7 of 27 transitions
+11,Stale count rate - Catering,Data quality,26,7 of 27 transitions
+11,Stale count rate - Starbucks,Data quality,26,7 of 27 transitions
+11,Stale count rate - Panera,Data quality,26,7 of 27 transitions
+11,Stale count rate - Fusz Simply To Go,Data quality,26,7 of 27 transitions
+11,Stale count rate - BSC Simply To Go,Data quality,30,8 of 27 transitions
+11,Stale count rate - WOW Cafe & Wingery,Data quality,43,3 of 7 transitions
+11,Stale count rate - Ameren Cafe,Data quality,56,15 of 27 transitions
+11,Stale count rate - Reinert To Go,Data quality,56,15 of 27 transitions
+11,Stale count rate - Qdoba,Data quality,26,7 of 27 transitions
+11,Stale count rate - Subway,Data quality,48,13 of 27 transitions
+12,Catalog validation rate,Data quality,99.5,"15,075 / 15,145 records (revenue-center catalog)"
+13,Button active rate,Data quality,4.4,"666 / 15,145 active; 95.6% inactive"
+14,Catalog duplication factor,Data quality,4.13,"15,145 records / 3,663 unique codes"
+15,PAR level completion rate,Data quality,0.0,0 / 409 lines (Grand Hall Produce + Sysco templates)
+16,Order quantity logging rate,Data quality,0.0,"0 / 1,227 Mon-Wed-Fri slots"
+17,Items sold - Breakfast,Demand,604.0,
+18,Average check - Breakfast,Demand,0.32,gross / items
+19,Revenue share - Breakfast,Demand,10.0,% of gross
+20,Volume share - Breakfast,Demand,23.8,% of items
+21,Control count discrepancy - Breakfast,Demand,0,
+17,Items sold - Lunch,Demand,941.0,
+18,Average check - Lunch,Demand,1.54,gross / items
+19,Revenue share - Lunch,Demand,74.7,% of gross
+20,Volume share - Lunch,Demand,37.1,% of items
+21,Control count discrepancy - Lunch,Demand,4,
+17,Items sold - Dinner,Demand,992.0,
+18,Average check - Dinner,Demand,0.3,gross / items
+19,Revenue share - Dinner,Demand,15.3,% of gross
+20,Volume share - Dinner,Demand,39.1,% of items
+21,Control count discrepancy - Dinner,Demand,0,
+19,Lunch share of food revenue,Demand,74.8,% of food revenue (excl. tax)
+22,MAPE target,Forecasting,<10% strong / <15% acceptable,computed in Stage 5
+23,RMSE,Forecasting,pending,Stage 5
+24,Forecast bias target,Forecasting,0,
+25,Inventory-to-sales ratio,Forecasting,pending,needs POS / GrubHub sales integration
+26,Stock-out rate,Forecasting,not tracked,baseline must be established
+27,Procurement cost variance target,Forecasting,10-20% over-order cost reduction,
+28,Vendor concentration,Supply chain,6,"Ole Tyme Produce, Ecolab, Baker's Pride, Sysco, Fortune Fish, Prairie Farms"
+29,Procurement template coverage,Supply chain,11.2,"% (409 / 3,663 catalog codes)"
