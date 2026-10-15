@@ -1,0 +1,17 @@
+country_code,country_name,iso3,region,subregion,latest_hiv_prevalence_pct,latest_hiv_prevalence_pct_year,latest_art_coverage_pct,latest_art_coverage_pct_year,latest_hiv_incidence_per1000,latest_hiv_incidence_per1000_year,latest_plhiv_count,latest_plhiv_count_year,latest_health_exp_pct_gdp,latest_health_exp_pct_gdp_year,latest_treatment_gap,latest_treatment_gap_year,hiv_prevalence_pct_change_since_2015,art_coverage_pct_change_since_2015,hiv_incidence_per1000_change_since_2015,meets_90_90_90_art,has_hiv_data
+ZA,South Africa,ZAF,Africa,Southern Africa,17.2,2024,81.0,2024,5.2,2024,7800000.0,2024,8.90966797,2023,1482000.0,2024,-1.3,27.0,-4.9,1.0,True
+MZ,Mozambique,MOZ,Africa,Southern Africa,11.5,2024,82.0,2024,4.9,2024,2500000.0,2024,8.50126553,2023,450000.0,2024,-1.3,41.0,-6.0,1.0,True
+ZW,Zimbabwe,ZWE,Africa,Southern Africa,9.8,2024,95.0,2024,1.4,2024,1300000.0,2024,2.92601609,2023,65000.0,2024,-4.7,34.0,-3.7,1.0,True
+ZM,Zambia,ZMB,Africa,Southern Africa,9.4,2024,94.0,2024,2.8,2024,1400000.0,2024,5.97841072,2023,84000.0,2024,-2.5,29.0,-5.6,1.0,True
+MW,Malawi,MWI,Africa,Southern Africa,6.2,2024,90.0,2024,0.92,2024,990000.0,2024,6.53459597,2023,99000.0,2024,-3.4,31.0,-3.58,1.0,True
+UG,Uganda,UGA,Africa,East Africa,4.9,2024,85.0,2024,1.4,2024,1500000.0,2024,4.23600149,2023,225000.0,2024,-1.9,32.0,-2.5,1.0,True
+TZ,Tanzania,TZA,Africa,East Africa,3.5,2024,87.0,2024,1.1,2024,1800000.0,2024,3.05201221,2023,234000.0,2024,-1.0,44.0,-1.9,1.0,True
+KE,Kenya,KEN,Africa,East Africa,3.0,2024,87.0,2024,0.53,2024,1300000.0,2024,4.35172892,2023,169000.0,2024,-1.7,22.0,-0.87,1.0,True
+CM,Cameroon,CMR,Africa,Central Africa,2.5,2024,88.0,2024,0.7,2024,510000.0,2024,4.5545516,2023,61200.0,2024,-1.4,58.0,-1.1,1.0,True
+CI,Cote d'Ivoire,CIV,Africa,West Africa,1.7,2024,78.0,2024,0.41,2024,410000.0,2024,3.43218303,2023,90200.0,2024,-1.0,44.0,-0.59,0.0,True
+GH,Ghana,GHA,Africa,West Africa,1.5,2024,47.0,2024,0.79,2024,330000.0,2024,2.94686937,2023,174900.0,2024,-0.3,21.0,-0.41,0.0,True
+NG,Nigeria,NGA,Africa,West Africa,1.2,2024,83.0,2024,0.26,2024,2000000.0,2024,4.19086456,2023,340000.0,2024,-0.5,45.0,-0.67,1.0,True
+ET,Ethiopia,ETH,Africa,East Africa,0.7,2024,88.0,2024,0.12,2024,600000.0,2024,2.80310345,2023,72000.0,2024,-0.4,28.0,-0.12,1.0,True
+MA,Morocco,MAR,Africa,North Africa,0.1,2024,76.0,2024,0.1,2024,24000.0,2024,6.06396198,2023,5760.0,2024,0.0,39.0,0.0,0.0,True
+EG,"Egypt, Arab Rep.",EGY,Africa,North Africa,0.1,2024,45.0,2024,0.1,2024,56000.0,2024,4.88449335,2023,30800.0,2024,0.0,37.0,0.0,0.0,True
+US,United States,USA,USA,North America,,,,,,,,,16.69414902,2023,,,,,,,False

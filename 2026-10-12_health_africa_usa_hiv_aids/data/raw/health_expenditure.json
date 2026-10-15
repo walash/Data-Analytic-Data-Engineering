@@ -1,0 +1,2572 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 200,
+    "total": 160,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2023",
+      "value": 3.43218303,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2022",
+      "value": 3.63847613,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2021",
+      "value": 3.76207662,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2020",
+      "value": 3.62327886,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2019",
+      "value": 3.18916845,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2018",
+      "value": 3.0916779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2017",
+      "value": 3.24693036,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2016",
+      "value": 3.32101274,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2015",
+      "value": 3.2198832,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2014",
+      "value": 3.7310183,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2023",
+      "value": 4.5545516,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2022",
+      "value": 4.49439144,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2021",
+      "value": 4.34109783,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2020",
+      "value": 4.25051928,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2019",
+      "value": 3.65157914,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2018",
+      "value": 3.61970162,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2017",
+      "value": 3.79293942,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2016",
+      "value": 4.02253723,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2015",
+      "value": 4.12600517,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2014",
+      "value": 4.34148788,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": 4.88449335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": 4.72362804,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": 4.60955143,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": 4.15384626,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": 4.5994668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": 4.74892998,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": 5.34661913,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": 5.07462406,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": 5.06153202,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2014",
+      "value": 4.77415323,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2023",
+      "value": 2.80310345,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2022",
+      "value": 2.85298109,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2021",
+      "value": 3.20779967,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2020",
+      "value": 3.48096275,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2019",
+      "value": 3.24287128,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2018",
+      "value": 3.30371761,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2017",
+      "value": 3.45336914,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2016",
+      "value": 3.60033751,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2015",
+      "value": 3.82316828,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2014",
+      "value": 4.03365517,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2023",
+      "value": 2.94686937,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2022",
+      "value": 3.67459154,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2021",
+      "value": 3.86030865,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2020",
+      "value": 4.4331708,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2019",
+      "value": 3.25450468,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2018",
+      "value": 2.43001175,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2017",
+      "value": 2.68786979,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2016",
+      "value": 3.39035821,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2015",
+      "value": 4.54299259,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2014",
+      "value": 4.01644135,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2023",
+      "value": 4.35172892,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 4.32241869,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2021",
+      "value": 4.56992722,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2020",
+      "value": 4.49248886,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2019",
+      "value": 4.36874676,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2018",
+      "value": 4.09903383,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2017",
+      "value": 3.98597503,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2016",
+      "value": 4.75429106,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2015",
+      "value": 4.76439571,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2014",
+      "value": 4.91267347,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": 6.06396198,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": 5.75281,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": 5.45314503,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": 5.78939486,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": 5.020401,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": 4.94516659,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": 4.98920393,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": 5.09203386,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": 5.10435581,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2014",
+      "value": 5.41626596,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2023",
+      "value": 8.50126553,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2022",
+      "value": 8.24868107,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2021",
+      "value": 8.64841366,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2020",
+      "value": 7.55190039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2019",
+      "value": 7.90207434,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2018",
+      "value": 7.97903347,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2017",
+      "value": 7.80532169,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2016",
+      "value": 7.21501875,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2015",
+      "value": 6.60972881,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "countryiso3code": "MOZ",
+      "date": "2014",
+      "value": 6.24013042,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2023",
+      "value": 6.53459597,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2022",
+      "value": 6.62527609,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2021",
+      "value": 7.5164628,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2020",
+      "value": 7.03859568,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2019",
+      "value": 6.37021732,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2018",
+      "value": 6.88249922,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2017",
+      "value": 7.58438921,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2016",
+      "value": 7.72703791,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2015",
+      "value": 6.62879086,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "countryiso3code": "MWI",
+      "date": "2014",
+      "value": 6.89776182,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2023",
+      "value": 4.19086456,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 4.21020174,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2021",
+      "value": 4.07625723,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2020",
+      "value": 3.38063431,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2019",
+      "value": 2.98547053,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2018",
+      "value": 3.09069347,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2017",
+      "value": 3.74762511,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2016",
+      "value": 3.64773679,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2015",
+      "value": 3.58194995,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2014",
+      "value": 3.34840417,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2023",
+      "value": 3.05201221,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2022",
+      "value": 3.13497496,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2021",
+      "value": 3.46963334,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2020",
+      "value": 3.05028677,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2019",
+      "value": 4.02347755,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2018",
+      "value": 4.32775831,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2017",
+      "value": 4.02325726,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2016",
+      "value": 3.96350336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2015",
+      "value": 3.64969945,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2014",
+      "value": 4.01492071,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2023",
+      "value": 4.23600149,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2022",
+      "value": 4.45071125,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2021",
+      "value": 5.47374916,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2020",
+      "value": 5.23865509,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2019",
+      "value": 3.79341364,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2018",
+      "value": 4.02153397,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2017",
+      "value": 3.99852037,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2016",
+      "value": 5.01553297,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2015",
+      "value": 4.99643135,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2014",
+      "value": 5.33653069,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2023",
+      "value": 16.69414902,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2022",
+      "value": 16.52875137,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2021",
+      "value": 17.35207748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": 18.51597404,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": 16.54486084,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": 16.51312637,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": 16.63827515,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": 16.69203949,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": 16.40155411,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2014",
+      "value": 16.1415844,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2023",
+      "value": 8.90966797,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 8.74512291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2021",
+      "value": 8.6645031,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2020",
+      "value": 9.02174091,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2019",
+      "value": 8.24652863,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2018",
+      "value": 8.0819664,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2017",
+      "value": 7.97711372,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2016",
+      "value": 8.07959366,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2015",
+      "value": 8.05304241,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2014",
+      "value": 7.87136555,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2023",
+      "value": 5.97841072,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2022",
+      "value": 5.21042967,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2021",
+      "value": 6.63951397,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2020",
+      "value": 6.3067441,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2019",
+      "value": 6.75330257,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2018",
+      "value": 4.76996708,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2017",
+      "value": 4.78156233,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2016",
+      "value": 4.46923161,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2015",
+      "value": 4.42974281,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2014",
+      "value": 3.82924223,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2023",
+      "value": 2.92601609,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2022",
+      "value": 3.39519501,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2021",
+      "value": 2.67111874,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2020",
+      "value": 2.95440102,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2019",
+      "value": 3.23268151,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2018",
+      "value": 4.67327976,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2017",
+      "value": 6.17448902,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2016",
+      "value": 7.25845575,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2015",
+      "value": 7.45204067,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    },
+    {
+      "indicator": {
+        "id": "SH.XPD.CHEX.GD.ZS",
+        "value": "Current health expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2014",
+      "value": 8.1335125,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 2
+    }
+  ]
+]

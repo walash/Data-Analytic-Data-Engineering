@@ -1,0 +1,161 @@
+country,country_code,year,value,indicator
+Cote d'Ivoire,CIV,2024,4.23,fertility_rate
+Cote d'Ivoire,CIV,2023,4.283,fertility_rate
+Cote d'Ivoire,CIV,2022,4.349,fertility_rate
+Cote d'Ivoire,CIV,2021,4.411,fertility_rate
+Cote d'Ivoire,CIV,2020,4.461,fertility_rate
+Cote d'Ivoire,CIV,2019,4.523,fertility_rate
+Cote d'Ivoire,CIV,2018,4.596,fertility_rate
+Cote d'Ivoire,CIV,2017,4.757,fertility_rate
+Cote d'Ivoire,CIV,2016,4.873,fertility_rate
+Cote d'Ivoire,CIV,2015,4.97,fertility_rate
+Cameroon,CMR,2024,4.261,fertility_rate
+Cameroon,CMR,2023,4.322,fertility_rate
+Cameroon,CMR,2022,4.397,fertility_rate
+Cameroon,CMR,2021,4.468,fertility_rate
+Cameroon,CMR,2020,4.557,fertility_rate
+Cameroon,CMR,2019,4.651,fertility_rate
+Cameroon,CMR,2018,4.74,fertility_rate
+Cameroon,CMR,2017,4.804,fertility_rate
+Cameroon,CMR,2016,4.842,fertility_rate
+Cameroon,CMR,2015,4.841,fertility_rate
+"Egypt, Arab Rep.",EGY,2024,2.735,fertility_rate
+"Egypt, Arab Rep.",EGY,2023,2.75,fertility_rate
+"Egypt, Arab Rep.",EGY,2022,2.75,fertility_rate
+"Egypt, Arab Rep.",EGY,2021,2.75,fertility_rate
+"Egypt, Arab Rep.",EGY,2020,2.85,fertility_rate
+"Egypt, Arab Rep.",EGY,2019,2.87,fertility_rate
+"Egypt, Arab Rep.",EGY,2018,3.02,fertility_rate
+"Egypt, Arab Rep.",EGY,2017,3.31,fertility_rate
+"Egypt, Arab Rep.",EGY,2016,3.35,fertility_rate
+"Egypt, Arab Rep.",EGY,2015,3.5,fertility_rate
+Ethiopia,ETH,2024,3.909,fertility_rate
+Ethiopia,ETH,2023,3.989,fertility_rate
+Ethiopia,ETH,2022,4.082,fertility_rate
+Ethiopia,ETH,2021,4.177,fertility_rate
+Ethiopia,ETH,2020,4.274,fertility_rate
+Ethiopia,ETH,2019,4.347,fertility_rate
+Ethiopia,ETH,2018,4.371,fertility_rate
+Ethiopia,ETH,2017,4.401,fertility_rate
+Ethiopia,ETH,2016,4.473,fertility_rate
+Ethiopia,ETH,2015,4.529,fertility_rate
+Ghana,GHA,2024,3.344,fertility_rate
+Ghana,GHA,2023,3.397,fertility_rate
+Ghana,GHA,2022,3.434,fertility_rate
+Ghana,GHA,2021,3.492,fertility_rate
+Ghana,GHA,2020,3.541,fertility_rate
+Ghana,GHA,2019,3.593,fertility_rate
+Ghana,GHA,2018,3.65,fertility_rate
+Ghana,GHA,2017,3.715,fertility_rate
+Ghana,GHA,2016,3.873,fertility_rate
+Ghana,GHA,2015,3.982,fertility_rate
+Kenya,KEN,2024,3.167,fertility_rate
+Kenya,KEN,2023,3.208,fertility_rate
+Kenya,KEN,2022,3.262,fertility_rate
+Kenya,KEN,2021,3.312,fertility_rate
+Kenya,KEN,2020,3.364,fertility_rate
+Kenya,KEN,2019,3.433,fertility_rate
+Kenya,KEN,2018,3.536,fertility_rate
+Kenya,KEN,2017,3.609,fertility_rate
+Kenya,KEN,2016,3.689,fertility_rate
+Kenya,KEN,2015,3.766,fertility_rate
+Morocco,MAR,2024,2.208,fertility_rate
+Morocco,MAR,2023,2.23,fertility_rate
+Morocco,MAR,2022,2.256,fertility_rate
+Morocco,MAR,2021,2.288,fertility_rate
+Morocco,MAR,2020,2.32,fertility_rate
+Morocco,MAR,2019,2.342,fertility_rate
+Morocco,MAR,2018,2.354,fertility_rate
+Morocco,MAR,2017,2.375,fertility_rate
+Morocco,MAR,2016,2.396,fertility_rate
+Morocco,MAR,2015,2.406,fertility_rate
+Mozambique,MOZ,2024,4.69,fertility_rate
+Mozambique,MOZ,2023,4.763,fertility_rate
+Mozambique,MOZ,2022,4.84,fertility_rate
+Mozambique,MOZ,2021,4.905,fertility_rate
+Mozambique,MOZ,2020,4.959,fertility_rate
+Mozambique,MOZ,2019,5.016,fertility_rate
+Mozambique,MOZ,2018,5.07,fertility_rate
+Mozambique,MOZ,2017,5.128,fertility_rate
+Mozambique,MOZ,2016,5.188,fertility_rate
+Mozambique,MOZ,2015,5.245,fertility_rate
+Nigeria,NGA,2024,4.382,fertility_rate
+Nigeria,NGA,2023,4.482,fertility_rate
+Nigeria,NGA,2022,4.552,fertility_rate
+Nigeria,NGA,2021,4.636,fertility_rate
+Nigeria,NGA,2020,4.7,fertility_rate
+Nigeria,NGA,2019,4.861,fertility_rate
+Nigeria,NGA,2018,5.021,fertility_rate
+Nigeria,NGA,2017,5.182,fertility_rate
+Nigeria,NGA,2016,5.343,fertility_rate
+Nigeria,NGA,2015,5.503,fertility_rate
+Rwanda,RWA,2024,3.645,fertility_rate
+Rwanda,RWA,2023,3.698,fertility_rate
+Rwanda,RWA,2022,3.778,fertility_rate
+Rwanda,RWA,2021,3.841,fertility_rate
+Rwanda,RWA,2020,3.913,fertility_rate
+Rwanda,RWA,2019,3.985,fertility_rate
+Rwanda,RWA,2018,4.047,fertility_rate
+Rwanda,RWA,2017,4.084,fertility_rate
+Rwanda,RWA,2016,4.106,fertility_rate
+Rwanda,RWA,2015,4.108,fertility_rate
+Senegal,SEN,2024,3.765,fertility_rate
+Senegal,SEN,2023,3.818,fertility_rate
+Senegal,SEN,2022,3.864,fertility_rate
+Senegal,SEN,2021,3.936,fertility_rate
+Senegal,SEN,2020,4.003,fertility_rate
+Senegal,SEN,2019,4.1,fertility_rate
+Senegal,SEN,2018,4.294,fertility_rate
+Senegal,SEN,2017,4.489,fertility_rate
+Senegal,SEN,2016,4.648,fertility_rate
+Senegal,SEN,2015,4.751,fertility_rate
+Tanzania,TZA,2024,4.541,fertility_rate
+Tanzania,TZA,2023,4.606,fertility_rate
+Tanzania,TZA,2022,4.671,fertility_rate
+Tanzania,TZA,2021,4.734,fertility_rate
+Tanzania,TZA,2020,4.801,fertility_rate
+Tanzania,TZA,2019,4.866,fertility_rate
+Tanzania,TZA,2018,4.932,fertility_rate
+Tanzania,TZA,2017,4.988,fertility_rate
+Tanzania,TZA,2016,5.006,fertility_rate
+Tanzania,TZA,2015,5.025,fertility_rate
+Uganda,UGA,2024,4.165,fertility_rate
+Uganda,UGA,2023,4.283,fertility_rate
+Uganda,UGA,2022,4.388,fertility_rate
+Uganda,UGA,2021,4.51,fertility_rate
+Uganda,UGA,2020,4.621,fertility_rate
+Uganda,UGA,2019,4.744,fertility_rate
+Uganda,UGA,2018,4.867,fertility_rate
+Uganda,UGA,2017,4.987,fertility_rate
+Uganda,UGA,2016,5.112,fertility_rate
+Uganda,UGA,2015,5.251,fertility_rate
+United States,USA,2024,1.6265,fertility_rate
+United States,USA,2023,1.6165,fertility_rate
+United States,USA,2022,1.6565,fertility_rate
+United States,USA,2021,1.664,fertility_rate
+United States,USA,2020,1.6415,fertility_rate
+United States,USA,2019,1.706,fertility_rate
+United States,USA,2018,1.7295,fertility_rate
+United States,USA,2017,1.7655,fertility_rate
+United States,USA,2016,1.8205,fertility_rate
+United States,USA,2015,1.8435,fertility_rate
+South Africa,ZAF,2024,2.205,fertility_rate
+South Africa,ZAF,2023,2.216,fertility_rate
+South Africa,ZAF,2022,2.227,fertility_rate
+South Africa,ZAF,2021,2.248,fertility_rate
+South Africa,ZAF,2020,2.257,fertility_rate
+South Africa,ZAF,2019,2.264,fertility_rate
+South Africa,ZAF,2018,2.27,fertility_rate
+South Africa,ZAF,2017,2.283,fertility_rate
+South Africa,ZAF,2016,2.261,fertility_rate
+South Africa,ZAF,2015,2.359,fertility_rate
+Zambia,ZMB,2024,4.036,fertility_rate
+Zambia,ZMB,2023,4.101,fertility_rate
+Zambia,ZMB,2022,4.175,fertility_rate
+Zambia,ZMB,2021,4.246,fertility_rate
+Zambia,ZMB,2020,4.323,fertility_rate
+Zambia,ZMB,2019,4.418,fertility_rate
+Zambia,ZMB,2018,4.492,fertility_rate
+Zambia,ZMB,2017,4.567,fertility_rate
+Zambia,ZMB,2016,4.669,fertility_rate
+Zambia,ZMB,2015,4.775,fertility_rate

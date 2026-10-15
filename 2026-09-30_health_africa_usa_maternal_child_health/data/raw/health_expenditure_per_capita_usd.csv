@@ -1,0 +1,161 @@
+country,country_code,year,value,indicator
+Cote d'Ivoire,CIV,2023,87.68105316,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2022,84.89915466,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2021,92.39588928,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2020,78.97766876,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2019,68.30471039,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2018,65.87952423,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2017,63.77943039,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2016,61.85705566,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2015,58.43181992,health_expenditure_per_capita_usd
+Cote d'Ivoire,CIV,2014,74.3581543,health_expenditure_per_capita_usd
+Cameroon,CMR,2023,79.09996796,health_expenditure_per_capita_usd
+Cameroon,CMR,2022,72.12950897,health_expenditure_per_capita_usd
+Cameroon,CMR,2021,72.59731293,health_expenditure_per_capita_usd
+Cameroon,CMR,2020,66.17185211,health_expenditure_per_capita_usd
+Cameroon,CMR,2019,56.79493713,health_expenditure_per_capita_usd
+Cameroon,CMR,2018,58.32909393,health_expenditure_per_capita_usd
+Cameroon,CMR,2017,56.7457695,health_expenditure_per_capita_usd
+Cameroon,CMR,2016,57.99372482,health_expenditure_per_capita_usd
+Cameroon,CMR,2015,58.38298035,health_expenditure_per_capita_usd
+Cameroon,CMR,2014,71.61038208,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2023,141.41111755,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2022,171.67852783,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2021,176.93664551,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2020,148.35269165,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2019,142.69670105,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2018,118.01481628,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2017,106.00288391,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2016,142.61845398,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2015,170.25532532,health_expenditure_per_capita_usd
+"Egypt, Arab Rep.",EGY,2014,155.06480408,health_expenditure_per_capita_usd
+Ethiopia,ETH,2023,34.79846954,health_expenditure_per_capita_usd
+Ethiopia,ETH,2022,27.06845474,health_expenditure_per_capita_usd
+Ethiopia,ETH,2021,26.06931114,health_expenditure_per_capita_usd
+Ethiopia,ETH,2020,28.28001595,health_expenditure_per_capita_usd
+Ethiopia,ETH,2019,25.93511963,health_expenditure_per_capita_usd
+Ethiopia,ETH,2018,23.5205574,health_expenditure_per_capita_usd
+Ethiopia,ETH,2017,24.18239403,health_expenditure_per_capita_usd
+Ethiopia,ETH,2016,24.34373283,health_expenditure_per_capita_usd
+Ethiopia,ETH,2015,23.21817207,health_expenditure_per_capita_usd
+Ethiopia,ETH,2014,21.6064415,health_expenditure_per_capita_usd
+Ghana,GHA,2023,70.25730896,health_expenditure_per_capita_usd
+Ghana,GHA,2022,82.32108307,health_expenditure_per_capita_usd
+Ghana,GHA,2021,94.40388489,health_expenditure_per_capita_usd
+Ghana,GHA,2020,97.37677765,health_expenditure_per_capita_usd
+Ghana,GHA,2019,71.14958191,health_expenditure_per_capita_usd
+Ghana,GHA,2018,53.37788773,health_expenditure_per_capita_usd
+Ghana,GHA,2017,54.10602188,health_expenditure_per_capita_usd
+Ghana,GHA,2016,64.86400604,health_expenditure_per_capita_usd
+Ghana,GHA,2015,78.21643066,health_expenditure_per_capita_usd
+Ghana,GHA,2014,78.46701813,health_expenditure_per_capita_usd
+Kenya,KEN,2023,84.958992,health_expenditure_per_capita_usd
+Kenya,KEN,2022,91.18416595,health_expenditure_per_capita_usd
+Kenya,KEN,2021,94.20249176,health_expenditure_per_capita_usd
+Kenya,KEN,2020,86.5921936,health_expenditure_per_capita_usd
+Kenya,KEN,2019,85.64528656,health_expenditure_per_capita_usd
+Kenya,KEN,2018,75.27681732,health_expenditure_per_capita_usd
+Kenya,KEN,2017,66.46552277,health_expenditure_per_capita_usd
+Kenya,KEN,2016,73.88768005,health_expenditure_per_capita_usd
+Kenya,KEN,2015,70.94755554,health_expenditure_per_capita_usd
+Kenya,KEN,2014,72.84589386,health_expenditure_per_capita_usd
+Morocco,MAR,2023,232.24751282,health_expenditure_per_capita_usd
+Morocco,MAR,2022,201.81098938,health_expenditure_per_capita_usd
+Morocco,MAR,2021,209.57344055,health_expenditure_per_capita_usd
+Morocco,MAR,2020,192.04043579,health_expenditure_per_capita_usd
+Morocco,MAR,2019,178.73939514,health_expenditure_per_capita_usd
+Morocco,MAR,2018,175.70518494,health_expenditure_per_capita_usd
+Morocco,MAR,2017,166.8500061,health_expenditure_per_capita_usd
+Morocco,MAR,2016,162.21507263,health_expenditure_per_capita_usd
+Morocco,MAR,2015,162.85198975,health_expenditure_per_capita_usd
+Morocco,MAR,2014,188.6415863,health_expenditure_per_capita_usd
+Mozambique,MOZ,2023,52.96166611,health_expenditure_per_capita_usd
+Mozambique,MOZ,2022,47.69813538,health_expenditure_per_capita_usd
+Mozambique,MOZ,2021,44.09894943,health_expenditure_per_capita_usd
+Mozambique,MOZ,2020,34.92252731,health_expenditure_per_capita_usd
+Mozambique,MOZ,2019,41.01906586,health_expenditure_per_capita_usd
+Mozambique,MOZ,2018,41.29206467,health_expenditure_per_capita_usd
+Mozambique,MOZ,2017,36.75825882,health_expenditure_per_capita_usd
+Mozambique,MOZ,2016,31.85357285,health_expenditure_per_capita_usd
+Mozambique,MOZ,2015,40.35658646,health_expenditure_per_capita_usd
+Mozambique,MOZ,2014,43.50259018,health_expenditure_per_capita_usd
+Nigeria,NGA,2023,66.82009125,health_expenditure_per_capita_usd
+Nigeria,NGA,2022,89.62958527,health_expenditure_per_capita_usd
+Nigeria,NGA,2021,81.87322235,health_expenditure_per_capita_usd
+Nigeria,NGA,2020,67.91384888,health_expenditure_per_capita_usd
+Nigeria,NGA,2019,67.6254425,health_expenditure_per_capita_usd
+Nigeria,NGA,2018,63.60244751,health_expenditure_per_capita_usd
+Nigeria,NGA,2017,70.31814575,health_expenditure_per_capita_usd
+Nigeria,NGA,2016,75.52328491,health_expenditure_per_capita_usd
+Nigeria,NGA,2015,92.91207123,health_expenditure_per_capita_usd
+Nigeria,NGA,2014,102.39888763,health_expenditure_per_capita_usd
+Rwanda,RWA,2023,52.65630722,health_expenditure_per_capita_usd
+Rwanda,RWA,2022,57.83102036,health_expenditure_per_capita_usd
+Rwanda,RWA,2021,51.64677429,health_expenditure_per_capita_usd
+Rwanda,RWA,2020,45.15266418,health_expenditure_per_capita_usd
+Rwanda,RWA,2019,39.81322098,health_expenditure_per_capita_usd
+Rwanda,RWA,2018,42.11674881,health_expenditure_per_capita_usd
+Rwanda,RWA,2017,40.76682663,health_expenditure_per_capita_usd
+Rwanda,RWA,2016,43.54212189,health_expenditure_per_capita_usd
+Rwanda,RWA,2015,48.81296921,health_expenditure_per_capita_usd
+Rwanda,RWA,2014,50.63835144,health_expenditure_per_capita_usd
+Senegal,SEN,2023,73.22670746,health_expenditure_per_capita_usd
+Senegal,SEN,2022,63.44842529,health_expenditure_per_capita_usd
+Senegal,SEN,2021,71.12162781,health_expenditure_per_capita_usd
+Senegal,SEN,2020,75.16521454,health_expenditure_per_capita_usd
+Senegal,SEN,2019,64.33670807,health_expenditure_per_capita_usd
+Senegal,SEN,2018,64.37467957,health_expenditure_per_capita_usd
+Senegal,SEN,2017,56.49185944,health_expenditure_per_capita_usd
+Senegal,SEN,2016,53.90053558,health_expenditure_per_capita_usd
+Senegal,SEN,2015,53.32304382,health_expenditure_per_capita_usd
+Senegal,SEN,2014,61.40605545,health_expenditure_per_capita_usd
+Tanzania,TZA,2023,36.25619888,health_expenditure_per_capita_usd
+Tanzania,TZA,2022,35.93323135,health_expenditure_per_capita_usd
+Tanzania,TZA,2021,37.53121185,health_expenditure_per_capita_usd
+Tanzania,TZA,2020,31.7036171,health_expenditure_per_capita_usd
+Tanzania,TZA,2019,39.97783661,health_expenditure_per_capita_usd
+Tanzania,TZA,2018,41.27171326,health_expenditure_per_capita_usd
+Tanzania,TZA,2017,39.03767014,health_expenditure_per_capita_usd
+Tanzania,TZA,2016,36.65267563,health_expenditure_per_capita_usd
+Tanzania,TZA,2015,33.27184296,health_expenditure_per_capita_usd
+Tanzania,TZA,2014,39.85456848,health_expenditure_per_capita_usd
+Uganda,UGA,2023,45.21318436,health_expenditure_per_capita_usd
+Uganda,UGA,2022,44.47286224,health_expenditure_per_capita_usd
+Uganda,UGA,2021,51.03484726,health_expenditure_per_capita_usd
+Uganda,UGA,2020,44.73381805,health_expenditure_per_capita_usd
+Uganda,UGA,2019,33.36559677,health_expenditure_per_capita_usd
+Uganda,UGA,2018,32.9515686,health_expenditure_per_capita_usd
+Uganda,UGA,2017,31.43818092,health_expenditure_per_capita_usd
+Uganda,UGA,2016,39.08125305,health_expenditure_per_capita_usd
+Uganda,UGA,2015,40.09843445,health_expenditure_per_capita_usd
+Uganda,UGA,2014,50.957798,health_expenditure_per_capita_usd
+United States,USA,2023,13473.19335938,health_expenditure_per_capita_usd
+United States,USA,2022,12586.19628906,health_expenditure_per_capita_usd
+United States,USA,2021,12080.07324219,health_expenditure_per_capita_usd
+United States,USA,2020,11648.49511719,health_expenditure_per_capita_usd
+United States,USA,2019,10550.22070313,health_expenditure_per_capita_usd
+United States,USA,2018,10180.48242188,health_expenditure_per_capita_usd
+United States,USA,2017,9822.60644531,health_expenditure_per_capita_usd
+United States,USA,2016,9535.60058594,health_expenditure_per_capita_usd
+United States,USA,2015,9200.93164063,health_expenditure_per_capita_usd
+United States,USA,2014,8796.33886719,health_expenditure_per_capita_usd
+South Africa,ZAF,2023,536.58843994,health_expenditure_per_capita_usd
+South Africa,ZAF,2022,570.48028564,health_expenditure_per_capita_usd
+South Africa,ZAF,2021,592.9465332,health_expenditure_per_capita_usd
+South Africa,ZAF,2020,503.46759033,health_expenditure_per_capita_usd
+South Africa,ZAF,2019,538.80438232,health_expenditure_per_capita_usd
+South Africa,ZAF,2018,558.80145264,health_expenditure_per_capita_usd
+South Africa,ZAF,2017,527.52026367,health_expenditure_per_capita_usd
+South Africa,ZAF,2016,456.56936646,health_expenditure_per_capita_usd
+South Africa,ZAF,2015,491.90652466,health_expenditure_per_capita_usd
+South Africa,ZAF,2014,539.30780029,health_expenditure_per_capita_usd
+Zambia,ZMB,2023,79.55635071,health_expenditure_per_capita_usd
+Zambia,ZMB,2022,75.40128326,health_expenditure_per_capita_usd
+Zambia,ZMB,2021,74.83802795,health_expenditure_per_capita_usd
+Zambia,ZMB,2020,60.01779938,health_expenditure_per_capita_usd
+Zambia,ZMB,2019,85.02349854,health_expenditure_per_capita_usd
+Zambia,ZMB,2018,69.82767487,health_expenditure_per_capita_usd
+Zambia,ZMB,2017,70.93283844,health_expenditure_per_capita_usd
+Zambia,ZMB,2016,55.39532089,health_expenditure_per_capita_usd
+Zambia,ZMB,2015,57.38765335,health_expenditure_per_capita_usd
+Zambia,ZMB,2014,65.39261627,health_expenditure_per_capita_usd

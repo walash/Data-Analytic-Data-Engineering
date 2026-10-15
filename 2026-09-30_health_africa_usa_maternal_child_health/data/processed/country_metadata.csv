@@ -1,0 +1,17 @@
+country_code,iso2_code,country_name,region,subregion,is_africa
+NGA,NG,Nigeria,Africa,Western Africa,1
+GHA,GH,Ghana,Africa,Western Africa,1
+KEN,KE,Kenya,Africa,Eastern Africa,1
+ETH,ET,Ethiopia,Africa,Eastern Africa,1
+ZAF,ZA,South Africa,Africa,Southern Africa,1
+EGY,EG,Egypt,Africa,Northern Africa,1
+MAR,MA,Morocco,Africa,Northern Africa,1
+TZA,TZ,Tanzania,Africa,Eastern Africa,1
+UGA,UG,Uganda,Africa,Eastern Africa,1
+SEN,SN,Senegal,Africa,Western Africa,1
+CMR,CM,Cameroon,Africa,Middle Africa,1
+CIV,CI,Cote d'Ivoire,Africa,Western Africa,1
+ZMB,ZM,Zambia,Africa,Eastern Africa,1
+RWA,RW,Rwanda,Africa,Eastern Africa,1
+MOZ,MZ,Mozambique,Africa,Eastern Africa,1
+USA,US,United States,USA,Northern America,0

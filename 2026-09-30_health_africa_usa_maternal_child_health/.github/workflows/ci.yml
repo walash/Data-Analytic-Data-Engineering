@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2026-09-30_health_africa_usa_maternal_child_health
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install flake8
+        run: pip install flake8==7.0.0
+      - name: Run flake8
+        run: flake8 src dags --max-line-length=120 --count --statistics
+
+  smoke-test:
+    name: Smoke test (ingest --dry-run + transform/load on committed raw data)
+    runs-on: ubuntu-latest
+    needs: lint
+    defaults:
+      run:
+        working-directory: 2026-09-30_health_africa_usa_maternal_child_health
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install pipeline dependencies
+        run: pip install requests==2.31.0 tenacity==8.2.3 pyyaml==6.0.1 pandas==2.1.4 numpy==1.26.3
+      - name: Ingestion dry run
+        run: python src/ingestion/ingest.py --dry-run
+      - name: Transform and load (uses data/raw in repo)
+        if: hashFiles('2026-09-30_health_africa_usa_maternal_child_health/data/raw/*.csv') != ''
+        env:
+          DB_PATH: /tmp/mch_ci.db
+        run: |
+          python src/transformation/transform.py
+          python src/loading/load.py
+          python -c "import sqlite3; c = sqlite3.connect('/tmp/mch_ci.db'); n = c.execute('SELECT COUNT(*) FROM maternal_child_health_metrics').fetchone()[0]; assert n > 0, 'no rows loaded'; print('rows:', n)"

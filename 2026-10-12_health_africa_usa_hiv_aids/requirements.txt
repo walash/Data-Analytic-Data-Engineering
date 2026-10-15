@@ -1,0 +1,22 @@
+# Pinned dependencies for the HIV/AIDS Africa & USA pipeline.
+# NOTE: apache-airflow 2.8.0 requires sqlalchemy<2.0, which conflicts with the
+# sqlalchemy==2.0.23 pin used by the pipeline/notebook. Docker and CI therefore
+# install everything except Airflow:
+#     grep -v '^apache-airflow' requirements.txt | pip install -r /dev/stdin
+# Install Airflow in its own environment with the official constraints file:
+#     pip install "apache-airflow==2.8.0" --constraint \
+#       https://raw.githubusercontent.com/apache/airflow/constraints-2.8.0/constraints-3.11.txt
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+tenacity==8.2.3
+sqlalchemy==2.0.23
+jupyter==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+apache-airflow==2.8.0
+pyyaml==6.0.1
+flake8==7.0.0
+pytest==7.4.4
+nbformat==5.9.2

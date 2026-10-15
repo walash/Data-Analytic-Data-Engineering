@@ -1,0 +1,92 @@
+name: CI - Africa USA Brain Drain Pipeline
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+# Each job auto-detects whether this project is the repo root or a subfolder.
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Locate project directory
+        id: proj
+        run: |
+          if [ -f src/ingestion/ingest.py ]; then echo "dir=." >> "$GITHUB_OUTPUT";
+          else echo "dir=2026-10-07_immigration_africa_usa_brain_drain" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install flake8
+        run: pip install flake8==7.1.1
+
+      - name: Run flake8
+        working-directory: ${{ steps.proj.outputs.dir }}
+        run: flake8 src dags --max-line-length=100 --count --statistics --show-source
+
+  smoke-test:
+    name: Smoke test (ingest -> transform -> load)
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Locate project directory
+        id: proj
+        run: |
+          if [ -f src/ingestion/ingest.py ]; then echo "dir=." >> "$GITHUB_OUTPUT";
+          else echo "dir=2026-10-07_immigration_africa_usa_brain_drain" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install pipeline dependencies
+        run: pip install pandas==2.2.3 numpy==1.26.4 requests==2.32.3 PyYAML==6.0.2
+
+      - name: Ingestion dry run (config + URL validation)
+        working-directory: ${{ steps.proj.outputs.dir }}
+        run: python src/ingestion/ingest.py --dry-run
+
+      - name: Live ingestion of one indicator from the World Bank API
+        working-directory: ${{ steps.proj.outputs.dir }}
+        # Network hiccups on the public API should not block merges.
+        continue-on-error: true
+        run: |
+          python src/ingestion/ingest.py --indicators net_migration --output-dir /tmp/wb_smoke
+          python -c "import json; d=json.load(open('/tmp/wb_smoke/wb_net_migration.json')); assert len(d[1]) > 0; print('rows:', len(d[1]))"
+
+      - name: Transform and load committed raw data
+        working-directory: ${{ steps.proj.outputs.dir }}
+        run: |
+          python src/transformation/transform.py --out-dir /tmp/processed
+          python src/loading/load.py --processed-dir /tmp/processed --db /tmp/brain_drain.db
+
+      - name: Verify database and SQL queries
+        working-directory: ${{ steps.proj.outputs.dir }}
+        run: |
+          python - <<'EOF'
+          import sqlite3
+          conn = sqlite3.connect("/tmp/brain_drain.db")
+          for table in ["dim_country", "fact_indicator", "country_year_metrics", "brain_drain_index"]:
+              n = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+              print(f"{table}: {n} rows")
+              assert n > 0, f"{table} is empty"
+          sql = open("sql/queries.sql").read()
+          body = "\n".join(l for l in sql.splitlines() if not l.strip().startswith("--"))
+          queries = [q for q in body.split(";") if q.strip()]
+          for i, q in enumerate(queries, 1):
+              conn.execute(q).fetchall()
+          print(f"{len(queries)} analytical queries executed successfully")
+          EOF

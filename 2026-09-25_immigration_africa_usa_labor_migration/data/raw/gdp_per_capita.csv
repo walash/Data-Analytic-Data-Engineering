@@ -1,0 +1,151 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,3050.10202257321
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,2727.8935220697
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,2591.9659048119
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2333.37128301259
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2455.98127641148
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2179.72934832935
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,2141.76836170115
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,2130.86619381144
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1964.29930338343
+CIV,Cote d'Ivoire,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1862.59597081287
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1972.3815800786
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1830.00833684727
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1720.47510154506
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1604.87726954895
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1672.32657340872
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1555.60370660749
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1555.22660476477
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1610.69641591017
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1496.08951771242
+CMR,Cameroon,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1441.7201725688
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2025,3085.80712036204
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2024,3338.47371043679
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2023,3456.78965212363
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2022,4233.30783744856
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2021,3827.35415374308
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3511.11381026379
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2019,2962.98892023003
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2018,2484.70315630508
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2017,2395.10333299491
+EGY,"Egypt, Arab Rep.",NY.GDP.PCAP.CD,GDP per capita (current US$),2016,3270.6287768197
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,932.729352775179
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1133.88279681256
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1055.81091593061
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,982.103161502198
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,893.009835441784
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,829.790982552951
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,793.473247218996
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,739.702022272086
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,696.348429076216
+ETH,Ethiopia,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,641.651523286233
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,3257.1588903576
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,2419.2518672482
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,2383.90410476221
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2229.89122654479
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2445.18662529344
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2195.45481659987
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,2186.65822682613
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,2195.32166016377
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,2012.28662641265
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1912.47991339951
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2025,919.060423427951
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2024,871.340287547821
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2023,883.024111978927
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2022,836.244875868476
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2021,781.890925169531
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2020,720.335143352133
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2019,738.186751987483
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2018,696.219806960615
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2017,642.522641296331
+GMB,"Gambia, The",NY.GDP.PCAP.CD,GDP per capita (current US$),2016,650.056501323611
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,2362.86091198611
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,2133.46193404026
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1942.58802756191
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2109.56288513137
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2061.35622089594
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1927.66459027849
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1960.40808854893
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1836.45275528993
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1667.48447230835
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1554.12610314423
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,915.328972645548
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,851.497723870206
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,799.194470229642
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,744.617175237387
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,667.96610514319
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,616.787867006715
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,658.164180770507
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,692.203127129794
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,699.269095727404
+LBR,Liberia,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,714.613063145659
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,4672.46826171875
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,4153.1943359375
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,3813.72607421875
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,3463.1376953125
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,3785.93627929688
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3268.0302734375
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,3508.09765625
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,3501.69799804688
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,3296.52661132813
+MAR,Morocco,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,3140.85546875
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1224.25410237743
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1084.16041805058
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,2138.76383718757
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2899.16047469267
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2787.48779220991
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2797.184580679
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,3189.81286496183
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,2057.87944554011
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1876.34027111773
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,2070.4127339595
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1954.71174194867
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1738.73223822106
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1698.03387300843
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1574.0281059306
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1598.10676952274
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1461.08720350553
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1431.18128932159
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1452.55612562445
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1354.77007193387
+SEN,Senegal,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1266.43957151587
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,846.296172499617
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,806.654650274255
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,758.329137301888
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,860.371067874555
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,885.396401613729
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,845.277558236182
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,843.71251730417
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,845.914540460932
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,779.186007841728
+SLE,Sierra Leone,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,844.416411175476
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1318.81921386719
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1192.60668945313
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1224.00219726563
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1207.52062988281
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1159.85656738281
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1117.41528320313
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1063.32250976563
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1023.10626220703
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,986.674011230469
+TZA,Tanzania,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,953.0107421875
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1206.30450825002
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1077.91278438613
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1002.30913917142
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,963.067314117178
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,882.791717542504
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,845.766463890124
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,822.171150036357
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,792.16570022814
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,765.218332297361
+UGA,Uganda,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,752.696571725656
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,6597.71450918774
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,6267.186814093
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,6034.27208964673
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,6534.24867783397
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,6828.75624590017
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5580.60383075189
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,6533.71121032856
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,6914.1780318076
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,6618.33508255701
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,5651.20585165749

@@ -1,0 +1,64 @@
+country_code,country_name,indicator,year,value
+CIV,Cote d'Ivoire,LPI_Infrastructure_Score,2018,2.89
+CIV,Cote d'Ivoire,LPI_Infrastructure_Score,2016,2.463248
+CIV,Cote d'Ivoire,LPI_Infrastructure_Score,2014,2.40873
+CIV,Cote d'Ivoire,LPI_Infrastructure_Score,2012,2.31
+CMR,Cameroon,LPI_Infrastructure_Score,2022,2.1
+CMR,Cameroon,LPI_Infrastructure_Score,2018,2.57
+CMR,Cameroon,LPI_Infrastructure_Score,2016,2.205693
+CMR,Cameroon,LPI_Infrastructure_Score,2014,1.853742
+CMR,Cameroon,LPI_Infrastructure_Score,2012,2.24
+EGY,"Egypt, Arab Rep.",LPI_Infrastructure_Score,2022,3
+EGY,"Egypt, Arab Rep.",LPI_Infrastructure_Score,2018,2.82
+EGY,"Egypt, Arab Rep.",LPI_Infrastructure_Score,2016,3.07241
+EGY,"Egypt, Arab Rep.",LPI_Infrastructure_Score,2014,2.86127
+EGY,"Egypt, Arab Rep.",LPI_Infrastructure_Score,2012,3.07
+ETH,Ethiopia,LPI_Infrastructure_Score,2016,2.117674
+ETH,Ethiopia,LPI_Infrastructure_Score,2014,2.166667
+ETH,Ethiopia,LPI_Infrastructure_Score,2012,2.22
+GHA,Ghana,LPI_Infrastructure_Score,2022,2.4
+GHA,Ghana,LPI_Infrastructure_Score,2018,2.44
+GHA,Ghana,LPI_Infrastructure_Score,2016,2.484248
+GHA,Ghana,LPI_Infrastructure_Score,2014,2.669054
+GHA,Ghana,LPI_Infrastructure_Score,2012,2.05
+KEN,Kenya,LPI_Infrastructure_Score,2018,2.55
+KEN,Kenya,LPI_Infrastructure_Score,2016,3.209709
+KEN,Kenya,LPI_Infrastructure_Score,2014,2.402778
+KEN,Kenya,LPI_Infrastructure_Score,2012,2.16
+MAR,Morocco,LPI_Infrastructure_Score,2018,2.43
+MAR,Morocco,LPI_Infrastructure_Score,2016,2.46142
+MAR,Morocco,LPI_Infrastructure_Score,2012,3.14
+MOZ,Mozambique,LPI_Infrastructure_Score,2016,2.238017
+MOZ,Mozambique,LPI_Infrastructure_Score,2014,2.153846
+NGA,Nigeria,LPI_Infrastructure_Score,2022,2.4
+NGA,Nigeria,LPI_Infrastructure_Score,2018,2.56
+NGA,Nigeria,LPI_Infrastructure_Score,2016,2.398846
+NGA,Nigeria,LPI_Infrastructure_Score,2014,2.559328
+NGA,Nigeria,LPI_Infrastructure_Score,2012,2.27
+RWA,Rwanda,LPI_Infrastructure_Score,2022,2.9
+RWA,Rwanda,LPI_Infrastructure_Score,2018,2.76
+RWA,Rwanda,LPI_Infrastructure_Score,2016,2.621956
+RWA,Rwanda,LPI_Infrastructure_Score,2014,2.32197
+RWA,Rwanda,LPI_Infrastructure_Score,2012,1.88
+SEN,Senegal,LPI_Infrastructure_Score,2018,2.22
+SEN,Senegal,LPI_Infrastructure_Score,2016,2.233494
+SEN,Senegal,LPI_Infrastructure_Score,2014,2.3
+SEN,Senegal,LPI_Infrastructure_Score,2012,2.31
+TZA,Tanzania,LPI_Infrastructure_Score,2016,2.811586
+TZA,Tanzania,LPI_Infrastructure_Score,2014,2.317448
+TZA,Tanzania,LPI_Infrastructure_Score,2012,2.41
+UGA,Uganda,LPI_Infrastructure_Score,2018,2.19
+UGA,Uganda,LPI_Infrastructure_Score,2016,2.739724
+USA,United States,LPI_Infrastructure_Score,2022,3.9
+USA,United States,LPI_Infrastructure_Score,2018,4.05
+USA,United States,LPI_Infrastructure_Score,2016,4.152011
+USA,United States,LPI_Infrastructure_Score,2014,4.184653
+USA,United States,LPI_Infrastructure_Score,2012,4.14
+ZAF,South Africa,LPI_Infrastructure_Score,2022,3.6
+ZAF,South Africa,LPI_Infrastructure_Score,2018,3.19
+ZAF,South Africa,LPI_Infrastructure_Score,2016,3.776261
+ZAF,South Africa,LPI_Infrastructure_Score,2014,3.2
+ZAF,South Africa,LPI_Infrastructure_Score,2012,3.79
+ZMB,Zambia,LPI_Infrastructure_Score,2018,2.3
+ZMB,Zambia,LPI_Infrastructure_Score,2016,2.262771
+ZMB,Zambia,LPI_Infrastructure_Score,2014,2.310606

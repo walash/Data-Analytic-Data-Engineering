@@ -1,0 +1,69 @@
+# ============================================================================
+# AI in Agriculture — Project Configuration
+# ============================================================================
+
+project:
+  name: "AI in Agriculture: Crop Yield Prediction & Food Security Analytics"
+  domain: "Artificial Intelligence / Agriculture"
+  geographic_focus: "15 African countries + USA"
+  version: "1.0.0"
+  maintainer: "data-engineering"
+
+api:
+  base_url: "https://api.worldbank.org/v2/country"
+  response_format: "json"
+  per_page: 500
+  date_range: "2015:2024"
+  timeout_seconds: 60
+  max_retries: 3
+  backoff_base_seconds: 2
+
+countries:
+  africa:
+    - { code: "NG", name: "Nigeria" }
+    - { code: "GH", name: "Ghana" }
+    - { code: "KE", name: "Kenya" }
+    - { code: "ET", name: "Ethiopia" }
+    - { code: "ZA", name: "South Africa" }
+    - { code: "EG", name: "Egypt" }
+    - { code: "MA", name: "Morocco" }
+    - { code: "TZ", name: "Tanzania" }
+    - { code: "UG", name: "Uganda" }
+    - { code: "SN", name: "Senegal" }
+    - { code: "CM", name: "Cameroon" }
+    - { code: "CI", name: "Cote d'Ivoire" }
+    - { code: "RW", name: "Rwanda" }
+    - { code: "ZM", name: "Zambia" }
+    - { code: "MZ", name: "Mozambique" }
+  usa:
+    - { code: "US", name: "United States" }
+
+indicators:
+  cereal_yield: "AG.YLD.CREL.KG"
+  agricultural_land: "AG.LND.AGRI.ZS"
+  food_production_index: "AG.PRD.FOOD.XD"
+  fertilizer_consumption: "AG.CON.FERT.ZS"
+  agr_value_added: "NV.AGR.TOTL.ZS"
+  rural_population: "SP.RUR.TOTL.ZS"
+
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  reports_dir: "data/reports"
+  database: "data/agriculture_analytics.db"
+
+pipeline:
+  log_level: "INFO"
+  drop_all_null_rows: true
+  schedule_interval: "0 6 * * 1,3,5"
+  retries: 2
+  retry_delay_minutes: 5
+
+ml:
+  target: "cereal_yield_kg_ha"
+  features:
+    - "fertilizer_kg_ha"
+    - "agr_land_pct"
+  model: "LinearRegression"
+  test_size: 0.2
+  random_state: 42
