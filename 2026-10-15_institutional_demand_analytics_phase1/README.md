@@ -70,9 +70,7 @@ Headline findings:
 ├── charts/                         # 12 PNG visualizations (200 dpi)
 └── docs/
     ├── Institutional_Demand_Analytics_Report.docx
-    ├── Analytical_Indices_Reference.docx
-    ├── NIW_Phase1_Project_Blueprint.docx
-    └── NIW_Comprehensive_Analysis.docx
+    └── Analytical_Indices_Reference.docx
 ```
 
 ## 6. Technical Stack
