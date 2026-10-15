@@ -93,7 +93,7 @@ Stage details, data still to collect, impact metrics, and governance: **[docs/IM
 
 ## Repository structure
 ```
-2026-10-15_sodexo_slu_dining_demand_analytics_phase1/
+Comprehensive Analysis. Strategic Recommendations and Improvement Roadmap for Sodexo SLU Dining/
 ├── README.md
 ├── requirements.txt
 ├── charts/                                   # 12 analysis charts (PNG)
