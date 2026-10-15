@@ -2,9 +2,9 @@
 
 Author: Olawale Ajibola Ashaolu, Data Analyst, Sodexo
 
-I wrote this module to convert the institution's weekly Inventory Summary History
-Report (a multi-page PDF, one page per dining unit per week-ending date) into two
-analysis-ready tables:
+I wrote this module to convert the Sodexo Inventory Summary History Report
+(Report ID INRHTSUM) for Saint Louis University Dining - a 505-page PDF with one
+page per dining unit per week-ending date - into two analysis-ready tables:
 
   1. A wide weekly panel (one row per unit-week, one column per account category)
   2. A long account-level table (one row per unit-week-account)
@@ -15,7 +15,9 @@ so that parsing errors surface as mismatches instead of silently entering the da
 Usage:
     python scripts/inventory_extractor.py path/to/inventory_report.pdf [--out data/]
 
-The source PDF is institutional data and is intentionally NOT stored in this repository.
+The raw source PDF is not stored in this repository (the parsed panel in data/ is).
+Unit names and codes are kept as printed in the report; --anonymize is available if
+a de-identified copy is ever needed for an external audience.
 """
 import argparse
 import re

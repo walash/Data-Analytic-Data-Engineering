@@ -1,111 +1,140 @@
-# Institutional Demand Analytics — Data Engineering & Predictive Infrastructure (Phase I)
+# Sodexo SLU Dining: Inventory & Demand Analytics (Phase I)
 
-**Author:** Olawale Ajibola Ashaolu, Data Analyst, Sodexo
+**Integrated Demand Forecasting & Supply Optimization for Multi-Outlet Campus Dining Operations at Saint Louis University**
 
-*Phase I of a multi-phase data engineering initiative building the predictive analytics infrastructure described in my EB-2 NIW proposed endeavor.*
+**Author:** Olawale Ajibola Ashaolu, Data Analyst, Sodexo, Saint Louis University Dining Services
+**Period analyzed:** W/E 04/03/2026 to W/E 10/09/2026 (28 Friday weeks plus 5 month-end closes)
+**Published:** October 2026, with approval from the Director of Operations – Retail, Sodexo SLU Dining
 
 ---
 
-## NIW Proposed Endeavor
+## Why this project exists
+This repository is the documented **Phase I** of my EB-2 National Interest Waiver proposed endeavor:
 
 > My proposed endeavor is to develop, validate, deploy, and publicly disseminate an integrated predictive analytics system that enables U.S. health institutions to combine clinical, procurement, inventory, utilization, and population-health data to forecast chronic-disease burden, clinical demand, and medical-supply needs.
 
----
+I am building and proving the system first in a real institution I already serve: Sodexo's multi-outlet dining operation at Saint Louis University. A campus is a bounded population fed by an integrated supply chain. It produces direct counterparts of the endeavor's data domains:
 
-## 1. Project Overview
+- **utilization:** meal swipes, POS Day Parts, GrubHub orders
+- **procurement:** order templates, vendor deliveries
+- **inventory:** weekly INRHTSUM counts
+- **population:** enrollment, meal plans, academic calendar
+- **clinical analog:** nutrition and dietary data
 
-Phase I is the exploratory data analysis (EDA) and data-infrastructure foundation of the initiative. It focuses on procurement and inventory operations at a multi-outlet campus dining institution: 16 dining units, including a residential dining hall, a catering operation, and retail outlets.
+No hospital or patient data is used. The link is methodological: the pipeline, models, validation, and deployment pattern carry over to health institutions unchanged. Full mapping: **[docs/NIW_ALIGNMENT.md](docs/NIW_ALIGNMENT.md)**.
 
-In this phase I:
+## Management approval and commitment
+I presented the full analysis, the 29 baseline indices, and the eight recommendations to the **Director of Operations – Retail**, Sodexo SLU Dining.
 
-- engineered a reproducible pipeline that converts institutional PDF inventory reports into a clean, reconciled longitudinal dataset;
-- profiled inventory levels, volatility, category mix, seasonality, and count quality across all units;
-- documented a library of analytical indices that will serve as features for demand and supply forecasting models.
+- He **approved** the use and publication of all project files, data, and reports.
+- He **endorsed the findings and recommendations** and gave his own recommendations on implementation priorities.
+- He **committed to implementing the recommendations** across SLU Dining operations.
 
-The methodology is domain-agnostic. Data ingestion, reconciliation, panel construction, and index design carry over directly to clinical procurement and utilization data in later phases.
+Details and the implementation-tracking table: **[docs/MANAGEMENT_ENDORSEMENT.md](docs/MANAGEMENT_ENDORSEMENT.md)**.
 
-## 2. Phase Structure
-
-| Phase | Scope | Status |
+## Data I work with
+| Domain | Source | Used in Phase I |
 |---|---|---|
-| **Phase I** | Campus dining: procurement, inventory, and transaction-demand analytics | **Current** |
-| **Phase II** | Clinical procurement datasets: applying the pipeline and indices to medical-supply and utilization data | Planned |
-| **Phase III** | Integrated health forecasting system: combined clinical, procurement, inventory, utilization, and population-health forecasting | Planned |
+| Inventory | Sodexo Inventory Summary History Report (INRHTSUM), 505 pages, 16 units, 33 report dates | ✅ fully parsed |
+| Utilization / demand | Grand Hall Day Parts Report (POS), meal-swipe data | ✅ 10/07/2026 profile; history next |
+| Procurement | Grand Hall Produce and Sysco templates (409 lines each), 6 supply partners | ✅ gap analysis |
+| Catalog | Revenue-center catalog (15,145 records, 3,663 codes) | ✅ health indices |
+| Behavioral demand | **GrubHub Campus backend:** real-time orders, item-level detail, daily revenue | Stage 2 onward |
+| Population | Meal-plan enrollment by tier, academic calendar | Stage 2 onward |
+| Receiving / waste | **Do not exist at SLU**; set up under Rec. 4 and 5 | — |
 
-## 3. Data Assets
+## Headline findings
+| Metric | Value |
+|---|---|
+| Total on-hand inventory, 11 active units (W/E 10/09/2026) | **$219,466.24** ($19,951.48 per unit) |
+| Portfolio weekly mean / peak / low | $171,901.68 / $263,943.40 (04/10) / $126,289.65 (07/10) |
+| Grand Dining growth | **+50.25%** ($24,832.87 → $37,311.63), trend **+$307.67/week** |
+| Top-3 concentration | Grand Dining 17.0% + Catering 13.4% + Starbucks 13.2% = **43.6%** |
+| PAR levels set (Grand Hall templates) | **0 of 409**; order quantities logged 0 of 1,227 |
+| Stale-count rate | Reinert To Go **56%**, Ameren Cafe **56%**, Subway **48%** |
+| Most volatile relative to size (CV) | Ameren Cafe 0.72, Panera 0.65, Reinert To Go 0.53 |
+| Probable data-entry outlier | Panera **$77,772.81** on W/E 04/10/2026 (~4.7× typical) |
+| Grand Hall demand (10/07/2026) | 2,537 items; Dinner 39.1% of volume; Lunch **74.8% of food revenue** |
+| Unit roster | 16 units: 11 active, 3 closed, 2 never active |
 
-- **28-week longitudinal panel** (April–October 2026) of Friday week-ending inventory valuations for every dining unit, broken out by 23 account categories (produce, groceries, meat/eggs/cheese, beverage, paper/plastic, cleaning supplies, and others).
-- **505 unit-week inventory records** parsed from the institution's *Inventory Summary History Report* (33 report dates, including month-end closes). Every record is reconciled against the printed subsection total.
-- **GrubHub transaction backend** (order timestamps, item-level sales, daily volumes). This is the supplementary demand signal being integrated alongside meal-swipe and point-of-sale data for demand forecasting.
-- **Known data gaps:** the institution keeps no receiving logs and no waste logs. Phase I measures inventory and demand directly and treats these gaps as findings.
+Full narrative with all 12 charts: **[docs/FINDINGS.md](docs/FINDINGS.md)**.
 
-All unit names and cost-center codes in this repository have been anonymized (`Unit A` … `Unit P`, `U01` … `U16`). The source PDF reports are institutional records and are not included.
+| | |
+|---|---|
+| ![Portfolio](charts/07_total_portfolio_inventory.png) | ![Grand Dining](charts/02_grand_dining_growth.png) |
+| ![Procurement gap](charts/08_procurement_gap.png) | ![Count freshness](charts/12_count_freshness.png) |
 
-## 4. Analytical Deliverables
+## The eight recommendations
+| # | Recommendation | Priority | Target outcome |
+|---|---|---|---|
+| 1 | **Set PAR levels for all 409 Grand Hall procurement lines.** Days of cover: perishables 3–5, dry goods 7–10, frozen 14 | CRITICAL | Stop Grand Dining accumulation; 15–25% less over-ordering |
+| 2 | **Mandate weekly physical counts** at Reinert To Go, Ameren Cafe, and Subway, with a named manager | HIGH | Stale rate < 10% |
+| 3 | **Investigate and restate the Panera outlier** ($77,772.81, W/E 04/10/2026) | HIGH | Accurate baseline (04/10 total ≈ $202,900, not $263,943.40) |
+| 4 | **Set up waste tracking from scratch:** daily log by item, quantity, station, reason code | HIGH | Waste baseline after one semester |
+| 5 | **Set up receiving verification records:** PO#, vendor, expected vs. received, condition, signature; weekly reconciliation | HIGH | Vendor accountability; shrinkage detection |
+| 6 | **Review the Starbucks inventory-to-sales ratio:** Beverage PARs from sales velocity | MEDIUM | 15–20% less Beverage on hand |
+| 7 | **Deactivate inactive units:** Spice Market, Fueling Station, Billiken Club, Marketplace, legacy Einsteins | MEDIUM | Clean roster and catalog |
+| 8 | **Build the demand forecasting model:** 24 months of POS and GrubHub history, SARIMA / Prophet / XGBoost, forecast-driven PARs | STRATEGIC | MAPE < 10–15%; 10–20% less over-ordering cost |
 
-- **29 analytical indices** documented (see `docs/Analytical_Indices_Reference.docx`), covering inventory growth, volatility (CV), portfolio share, count freshness, procurement-template completion, and day-part demand.
-- **12 visualizations** (`charts/`), covering weekly trends, residential-hall growth and week-over-week change, current inventory and portfolio share, volatility, total portfolio trend, procurement-template gaps, unit activity status, category mix, and count freshness.
-- **Unit-level performance benchmarking** (`data/unit_performance_summary.csv`): start/end, min/max, mean, standard deviation, and percentage growth for each active unit.
+Finding, action, owner, measures, and NIW link for each one: **[docs/RECOMMENDATIONS.md](docs/RECOMMENDATIONS.md)**.
 
-Headline findings:
+## Roadmap
+| Stage | Weeks | NIW verb | Status |
+|---|---|---|---|
+| 1. Data discovery, access, approval | 1–3 | Develop | Done |
+| 2. Ingestion and integration | 4–6 | Develop | Inventory domain done; POS, GrubHub, enrollment next |
+| 3. Baseline analysis | 7–8 | Validate | Inventory baseline done (this repo) |
+| 4. Model development | 9–13 | Develop | Next |
+| 5. Validation (MAPE, RMSE, bias) | 14–16 | Validate | Planned |
+| 6. Deployment (manager dashboard) | 17–20 | Deploy | Planned; management committed |
+| 7. Public dissemination | 21–26 | Disseminate | Started (this repository) |
 
-- Unit A (residential dining) inventory grew **+50.2%** between April 3 and October 9, 2026.
-- Total active-portfolio inventory was **$219,466** at October 9, 2026, across 11 active units.
-- **7 of 27** week-over-week values for Unit A were exact carry-forwards, which means those counts were probably not re-taken.
-- **0 of 409** produce and broadline order-template items had PAR levels or order quantities filled in.
+Stage details, data still to collect, impact metrics, and governance: **[docs/IMPLEMENTATION_ROADMAP.md](docs/IMPLEMENTATION_ROADMAP.md)**.
 
-## 5. Repository Structure
-
+## Repository structure
 ```
-2026-10-15_institutional_demand_analytics_phase1/
+2026-10-15_sodexo_slu_dining_demand_analytics_phase1/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── scripts/
-│   ├── inventory_extractor.py      # PDF → reconciled weekly panel (+ optional anonymization)
-│   └── visualization_suite.py      # panel → 12 charts + unit performance summary
+├── charts/                                   # 12 analysis charts (PNG)
 ├── data/
-│   ├── inventory_weekly_panel.csv  # 505 unit-week rows × 23 account categories + QA flags
-│   └── unit_performance_summary.csv
-├── charts/                         # 12 PNG visualizations (200 dpi)
-└── docs/
-    ├── Institutional_Demand_Analytics_Report.docx
-    └── Analytical_Indices_Reference.docx
+│   ├── inventory_weekly_panel.csv            # 505 unit-week records, 23 accounts, QA flags
+│   ├── unit_performance_summary.csv          # start/end/min/max/mean/std/growth per active unit
+│   ├── key_indices.csv                       # output of compute_indices.py
+│   └── inventory_analysis_summary.txt        # console summary of the analysis run
+├── docs/
+│   ├── FINDINGS.md                           # full findings with all charts
+│   ├── RECOMMENDATIONS.md                    # all 8 recommendations in detail
+│   ├── MANAGEMENT_ENDORSEMENT.md             # Director of Operations – Retail approval and commitment
+│   ├── NIW_ALIGNMENT.md                      # bridge to the EB-2 NIW proposed endeavor
+│   ├── IMPLEMENTATION_ROADMAP.md             # 7 stages / 26 weeks, impact metrics
+│   ├── ANALYTICAL_INDICES.md                 # 29 baseline indices
+│   ├── DATA_DICTIONARY.md                    # sources, unit roster, fields, methodology
+│   ├── Sodexo_SLU_Phase1_Comprehensive_Project_Report.docx
+│   ├── Sodexo_SLU_Data_Analysis_Report.docx
+│   ├── Sodexo_SLU_Key_Indices_Reference.docx
+│   └── Sodexo_SLU_NIW_Revised_Blueprint.docx
+└── scripts/
+    ├── inventory_extractor.py                # INRHTSUM PDF → panel (reconciled to the cent)
+    ├── visualization_suite.py                # 12 charts + unit summary + QA flags
+    └── compute_indices.py                    # recomputes the baseline indices
 ```
 
-## 6. Technical Stack
-
-- **Python**: pandas, NumPy, matplotlib, seaborn, PyMuPDF / pdfplumber (PDF parsing), python-docx, openpyxl
-- **Pipeline design**: a structured extract → reconcile → panelize → enrich → visualize flow, with data-quality flags (`is_friday_week`, `is_month_end_close`, `stale_carry_forward`) stored alongside the data
-
-## 7. How to Run
-
+## How to run
 ```bash
-cd 2026-10-15_institutional_demand_analytics_phase1
 pip install -r requirements.txt
 
-# 1. Extract (requires access to the institutional PDF report; not distributed)
-python scripts/inventory_extractor.py path/to/inventory_report.pdf --out data/ --anonymize
+# 1. Parse the INRHTSUM PDF (not stored in the repo) into data/
+python scripts/inventory_extractor.py "path/to/SLU Inventory Report.pdf" --out data/
 
-# 2. Build the visualizations and unit performance summary
+# 2. Rebuild the charts and unit summary (use --out to write elsewhere)
 python scripts/visualization_suite.py
+
+# 3. Recompute the baseline indices -> data/key_indices.csv
+python scripts/compute_indices.py
 ```
 
-Step 2 runs directly on the anonymized panel in `data/`, so you can reproduce the charts without the source PDF.
-
-## 8. NIW Relevance
-
-Phase I shows hands-on capacity to build an end-to-end data pipeline from raw, heterogeneous institutional records to decision-ready analytics. The work covers:
-
-- parsing semi-structured PDF reports;
-- reconciling every record against control totals;
-- building a longitudinal panel;
-- flagging data-quality failures such as carried-forward counts and blank procurement templates;
-- turning the results into indices and visualizations that operations leaders can act on.
-
-Clinical demand and medical-supply forecasting rest on the same foundations. Hospitals and health systems face the same problems: fragmented procurement and inventory records, inconsistent count discipline, and limited forecasting infrastructure. The pipeline, indices, and benchmarking methods developed here are the reusable core that Phases II and III will extend to clinical procurement, utilization, and population-health data. That extension is the integrated predictive system described in my proposed endeavor.
-
-## 9. Author
-
-**Olawale Ajibola Ashaolu**<br>
-Data Analyst, Sodexo · Independent Data & Analytics Engineer
+## Notes
+- Figures come directly from Sodexo reporting systems. Percentage reductions are targets, not measured results.
+- SLU Dining has no receiving logs and no waste logs today. Indices that depend on them are left out until those records exist.
+- The raw 505-page PDF is not stored here. The parsed panel holds every unit-week record.

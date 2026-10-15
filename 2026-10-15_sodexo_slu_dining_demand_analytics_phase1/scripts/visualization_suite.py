@@ -13,9 +13,14 @@ performance summary. It also enriches the panel with three data-quality flags:
 Usage (from the project folder):
     python scripts/visualization_suite.py
 
-Unit A is the residential (all-you-care-to-eat) dining hall and is highlighted
-throughout; Unit B is catering; remaining units are retail outlets.
+Grand Dining (unit 13341001, the Grand Hall residential dining room) is highlighted
+throughout; Catering is event-driven; the remaining units are retail outlets
+(Panera, Starbucks, Qdoba, Subway, Simply To Go, Ameren Cafe, WOW Cafe, etc.).
+
+Pass --out <dir> to write charts somewhere other than ./charts (useful when you
+want to compare a fresh run with the published charts).
 """
+import argparse
 from pathlib import Path
 
 import matplotlib
@@ -29,11 +34,15 @@ from matplotlib.patches import Patch  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-CHARTS = ROOT / "charts"
-CHARTS.mkdir(exist_ok=True)
+_ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+_ap.add_argument("--out", default=str(ROOT / "charts"), help="chart output folder")
+_ap.add_argument("--no-write-data", action="store_true", help="do not rewrite the CSVs in data/")
+ARGS = _ap.parse_args()
+CHARTS = Path(ARGS.out)
+CHARTS.mkdir(parents=True, exist_ok=True)
 DPI = 200
-HERO = "Unit A"          # residential dining hall
-OUTLIER_UNIT = "Unit D"  # unit with the 04/10 count/keying outlier
+HERO = "Grand Dining"    # residential dining hall (Grand Hall)
+OUTLIER_UNIT = "Panera"  # $77,772.81 on W/E 04/10/2026 - probable keying error
 
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 10,
                      "axes.spines.top": False, "axes.spines.right": False,
@@ -59,7 +68,8 @@ df["stale_carry_forward"] = False
 for u, g in df[df.is_friday_week].groupby("unit"):
     s = g.sort_values("week_ending")
     df.loc[s.index, "stale_carry_forward"] = (s.total_inventory.diff() == 0) & (s.total_inventory > 0)
-df.drop(columns="unit").to_csv(DATA / "inventory_weekly_panel.csv", index=False)
+if not ARGS.no_write_data:
+    df.drop(columns="unit").to_csv(DATA / "inventory_weekly_panel.csv", index=False)
 
 pal = ["#0B3D91", "#2E86C1", "#5DADE2", "#148F77", "#48C9B0", "#7D3C98",
        "#AF7AC5", "#CA6F1E", "#F0B27A", "#566573", "#ABB2B9"]
@@ -76,7 +86,7 @@ def dax(ax):
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
 
 
-SRC = "Source: Inventory Summary History Report, run 10/13/2026; Friday week-ending counts."
+SRC = "Source: Sodexo Inventory Summary History Report (INRHTSUM), run 10/13/2026; Friday week-ending counts."
 
 
 def save(fig, name, src=SRC):
@@ -128,7 +138,7 @@ fmt(ax); dax(ax); ax.set_ylim(0, g.max() * 1.18)
 ax.set_ylabel("Inventory on hand ($)"); ax.set_xlabel("Week ending"); ax.grid(axis="y", alpha=.3)
 ax.legend(loc="lower right", frameon=False)
 ax.set_title(f"{HERO} (Residential Dining) Inventory Growth: Apr–Oct 2026")
-save(fig, "02_unit_a_growth.png")
+save(fig, "02_grand_dining_growth.png")
 
 # ---------------------------------------------------------------- 3. current inventory
 s = L.reindex(active).sort_values()
@@ -173,9 +183,9 @@ ax.set_ylabel("Items sold"); ax2.set_ylabel("Gross revenue ($)", color="#C0392B"
 ax.set_ylim(0, 1200); ax2.set_ylim(0, 1800)
 h1, l1 = ax.get_legend_handles_labels(); h2, l2 = ax2.get_legend_handles_labels()
 ax.legend(h1 + h2, l1 + l2, loc="upper left", frameon=False)
-ax.set_title(f"{HERO} Daily Demand Profile — October 7, 2026  (Total {dp['items'].sum():,} items, ${dp.rev.sum():,.2f})")
+ax.set_title(f"Grand Hall Daily Demand Profile — October 7, 2026  (Total {dp['items'].sum():,} items, ${dp.rev.sum():,.2f})")
 save(fig, "05_day_parts_demand.png",
-     "Source: point-of-sale Day Parts report, 10/07/2026. Avg \\$/item = gross revenue ÷ items sold; "
+     "Source: Grand Hall Day Parts report (POS), 10/07/2026. Avg \\$/item = gross revenue ÷ items sold; "
      "low values likely reflect meal-plan swipes recorded at \\$0.")
 
 # ---------------------------------------------------------------- 6. volatility
@@ -213,7 +223,7 @@ cats = ["Order quantities logged", "PAR levels filled", "Items in templates"]
 for i, c in enumerate(cats):
     if c == "Items in templates":
         ax.barh(i, 409, color="#2E86C1")
-        ax.text(204, i, "409 items listed (produce + broadline templates)", ha="center", va="center",
+        ax.text(204, i, "409 items listed (Produce + Sysco templates)", ha="center", va="center",
                 color="white", fontweight="bold")
     else:
         ax.barh(i, 409, color="#C0392B")
@@ -221,9 +231,9 @@ for i, c in enumerate(cats):
 ax.set_yticks(range(3)); ax.set_yticklabels(cats); ax.set_xlim(0, 409); ax.set_xlabel("Number of template items")
 ax.legend(handles=[Patch(color="#27AE60", label="Filled"), Patch(color="#C0392B", label="Unfilled")],
           loc="upper center", bbox_to_anchor=(.5, -.28), ncol=2, frameon=False)
-ax.set_title(f"Procurement Template Completion Status — {HERO} (Produce + Broadline Orders)")
+ax.set_title("Procurement Template Completion Status — Grand Hall (Produce + Sysco Orders)")
 save(fig, "08_procurement_gap.png",
-     "Source: produce and broadline distributor order templates. No receiving logs or waste logs are maintained.")
+     "Source: Grand Hall Produce and Sysco order templates (Mon/Wed/Fri). No receiving logs or waste logs are maintained.")
 
 # ---------------------------------------------------------------- 9. unit activity status
 groups = [("Active, full history", [u for u in active if u not in partial], "#27AE60"),
@@ -265,7 +275,7 @@ ax.set_ylabel("Change vs prior week ($)"); ax.set_xlabel("Week ending"); ax.grid
 ax.text(.01, .95, f"{(dd == 0).sum()} of {len(dd)} weeks show $0 change (count carried forward, not re-taken)",
         transform=ax.transAxes, fontsize=9, color="#566573")
 ax.set_title(f"{HERO}: Week-Over-Week Inventory Change (Apr–Oct 2026)")
-save(fig, "10_unit_a_wow_change.png")
+save(fig, "10_grand_dining_wow_change.png")
 
 # ---------------------------------------------------------------- 11. category mix
 cats_ = ["BAKED GOODS", "BEVERAGE", "MILK & ICE CREAM", "GROCERIES", "FROZEN FOOD",
@@ -310,7 +320,8 @@ def unit_stats(u):
 
 
 S = pd.DataFrame([unit_stats(u) for u in active]).set_index("unit").sort_values("end", ascending=False)
-S.to_csv(DATA / "unit_performance_summary.csv")
+if not ARGS.no_write_data:
+    S.to_csv(DATA / "unit_performance_summary.csv")
 
 pd.set_option("display.width", 250)
 print(f"Units: {len(allu)} total | {len(active)} active | partial {partial} | closed {closed} | never {never}")
