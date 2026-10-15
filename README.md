@@ -20,6 +20,34 @@ cost-minimising staffing optimisation).
 
 ---
 
+## Projects in this Repository
+
+This repository also hosts the following stand-alone projects. Each folder has its own README, code, and data.
+
+| Project | Folder |
+|---|---|
+| **Sodexo SLU Dining: Inventory & Demand Analytics (Phase I)**: comprehensive analysis, strategic recommendations, and improvement roadmap | [Comprehensive Analysis. Strategic Recommendations and Improvement Roadmap for Sodexo SLU Dining](Comprehensive%20Analysis.%20Strategic%20Recommendations%20and%20Improvement%20Roadmap%20for%20Sodexo%20SLU%20Dining/) |
+| End-to-End Healthcare Data Engineering Framework (diabetes complications & outpatient forecasting) | [diabetes-complications-outpatient-forecasting](diabetes-complications-outpatient-forecasting/) |
+| Africa-USA Air Cargo & Freight Routes | [2026-09-11_transportation_africa_usa_air_cargo](2026-09-11_transportation_africa_usa_air_cargo/) |
+| Africa-to-USA Immigration & Refugee Flows | [2026-09-14_immigration_africa_usa_refugees](2026-09-14_immigration_africa_usa_refugees/) |
+| AI Adoption & Digital Infrastructure: Africa vs USA | [2026-09-16_ai_africa_usa_digital_infrastructure](2026-09-16_ai_africa_usa_digital_infrastructure/) |
+| Malaria & Infectious Disease Burden: Africa vs USA | [2026-09-18_health_africa_usa_malaria_disease_burden](2026-09-18_health_africa_usa_malaria_disease_burden/) |
+| Oil & Gas: Africa–USA Crude Trade & Production | [2026-09-21_oil_gas_africa_usa_crude_trade](2026-09-21_oil_gas_africa_usa_crude_trade/) |
+| Africa-USA Maritime Port Trade & Shipping Connectivity | [2026-09-23_transportation_africa_usa_maritime_ports](2026-09-23_transportation_africa_usa_maritime_ports/) |
+| Africa-to-USA Labor Migration & Remittances | [2026-09-25_immigration_africa_usa_labor_migration](2026-09-25_immigration_africa_usa_labor_migration/) |
+| AI in Agriculture: Crop Yield Prediction & Food Security | [2026-09-28_ai_africa_usa_agriculture_ai](2026-09-28_ai_africa_usa_agriculture_ai/) |
+| Maternal & Child Health in Africa vs the USA | [2026-09-30_health_africa_usa_maternal_child_health](2026-09-30_health_africa_usa_maternal_child_health/) |
+| Africa LNG Exports to the USA | [2026-10-02_oil_gas_africa_usa_lng_exports](2026-10-02_oil_gas_africa_usa_lng_exports/) |
+| Africa-USA Road Infrastructure & Cross-Border Trade Corridors | [2026-10-05_transportation_africa_usa_road_trade_corridors](2026-10-05_transportation_africa_usa_road_trade_corridors/) |
+| Brain Drain: Skilled Worker Emigration from Africa to the USA | [2026-10-07_immigration_africa_usa_brain_drain](2026-10-07_immigration_africa_usa_brain_drain/) |
+| AI-Powered Healthcare Diagnostics: Africa-USA Health Gap | [2026-10-09_ai_africa_usa_health_diagnostics](2026-10-09_ai_africa_usa_health_diagnostics/) |
+| HIV/AIDS Burden in Africa & the USA | [2026-10-12_health_africa_usa_hiv_aids](2026-10-12_health_africa_usa_hiv_aids/) |
+| LinkedIn posts archive | [linkedin_posts](linkedin_posts/) |
+
+The rest of this README documents the CVD Risk Stratification & ED Capacity Planning System at the repository root.
+
+---
+
 ## Executive Summary
 
 Cardiovascular disease is the leading global cause of death, and Emergency
