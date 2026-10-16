@@ -1,0 +1,151 @@
+country,iso3,year,electricity_access_pct
+Angola,AGO,2024,55.5
+Angola,AGO,2023,51.1
+Angola,AGO,2022,48.5
+Angola,AGO,2021,48.2
+Angola,AGO,2020,47
+Angola,AGO,2019,45.6
+Angola,AGO,2018,45.3
+Angola,AGO,2017,42.9
+Angola,AGO,2016,41.8
+Angola,AGO,2015,42
+Cameroon,CMR,2024,72
+Cameroon,CMR,2023,72
+Cameroon,CMR,2022,71
+Cameroon,CMR,2021,65.4
+Cameroon,CMR,2020,64.3
+Cameroon,CMR,2019,63.2
+Cameroon,CMR,2018,62.2
+Cameroon,CMR,2017,60.9
+Cameroon,CMR,2016,59.8
+Cameroon,CMR,2015,58.6
+"Congo, Dem. Rep.",COD,2024,22.5
+"Congo, Dem. Rep.",COD,2023,22.1
+"Congo, Dem. Rep.",COD,2022,21.5
+"Congo, Dem. Rep.",COD,2021,20.8
+"Congo, Dem. Rep.",COD,2020,20.1
+"Congo, Dem. Rep.",COD,2019,19.1
+"Congo, Dem. Rep.",COD,2018,18.7
+"Congo, Dem. Rep.",COD,2017,18
+"Congo, Dem. Rep.",COD,2016,17.3
+"Congo, Dem. Rep.",COD,2015,16.6
+Algeria,DZA,2024,100
+Algeria,DZA,2023,100
+Algeria,DZA,2022,100
+Algeria,DZA,2021,99.8
+Algeria,DZA,2020,99.7
+Algeria,DZA,2019,99.5
+Algeria,DZA,2018,99.6
+Algeria,DZA,2017,99.5
+Algeria,DZA,2016,99.4
+Algeria,DZA,2015,99.4
+"Egypt, Arab Rep.",EGY,2024,100
+"Egypt, Arab Rep.",EGY,2023,100
+"Egypt, Arab Rep.",EGY,2022,100
+"Egypt, Arab Rep.",EGY,2021,100
+"Egypt, Arab Rep.",EGY,2020,100
+"Egypt, Arab Rep.",EGY,2019,100
+"Egypt, Arab Rep.",EGY,2018,100
+"Egypt, Arab Rep.",EGY,2017,100
+"Egypt, Arab Rep.",EGY,2016,100
+"Egypt, Arab Rep.",EGY,2015,99.3
+Gabon,GAB,2024,95.1
+Gabon,GAB,2023,94.1
+Gabon,GAB,2022,93.5
+Gabon,GAB,2021,91.8
+Gabon,GAB,2020,91.1
+Gabon,GAB,2019,90.3
+Gabon,GAB,2018,89.6
+Gabon,GAB,2017,86.3
+Gabon,GAB,2016,88.1
+Gabon,GAB,2015,87.3
+Ghana,GHA,2024,91.9
+Ghana,GHA,2023,89.5
+Ghana,GHA,2022,85.1
+Ghana,GHA,2021,86.3
+Ghana,GHA,2020,85.4
+Ghana,GHA,2019,83.5
+Ghana,GHA,2018,80.4
+Ghana,GHA,2017,79
+Ghana,GHA,2016,79.3
+Ghana,GHA,2015,74
+Libya,LBY,2024,77.4
+Libya,LBY,2023,73.2
+Libya,LBY,2022,70
+Libya,LBY,2021,70.2
+Libya,LBY,2020,69.4
+Libya,LBY,2019,68.5
+Libya,LBY,2018,67
+Libya,LBY,2017,70.6
+Libya,LBY,2016,72.2
+Libya,LBY,2015,73.8
+Morocco,MAR,2024,100
+Morocco,MAR,2023,100
+Morocco,MAR,2022,100
+Morocco,MAR,2021,100
+Morocco,MAR,2020,100
+Morocco,MAR,2019,99.6
+Morocco,MAR,2018,98.1
+Morocco,MAR,2017,100
+Morocco,MAR,2016,97.8
+Morocco,MAR,2015,97.3
+Nigeria,NGA,2024,62.5
+Nigeria,NGA,2023,61.2
+Nigeria,NGA,2022,60.5
+Nigeria,NGA,2021,59.5
+Nigeria,NGA,2020,55.4
+Nigeria,NGA,2019,55.4
+Nigeria,NGA,2018,56.5
+Nigeria,NGA,2017,54.4
+Nigeria,NGA,2016,59.3
+Nigeria,NGA,2015,52.5
+Sudan,SDN,2024,66
+Sudan,SDN,2023,66
+Sudan,SDN,2022,63.2
+Sudan,SDN,2021,61.8
+Sudan,SDN,2020,59.7
+Sudan,SDN,2019,57.6
+Sudan,SDN,2018,55.3
+Sudan,SDN,2017,53
+Sudan,SDN,2016,50.5
+Sudan,SDN,2015,48
+South Sudan,SSD,2024,5.4
+South Sudan,SSD,2023,5.4
+South Sudan,SSD,2022,8.4
+South Sudan,SSD,2021,7.7
+South Sudan,SSD,2020,7.3
+South Sudan,SSD,2019,6.8
+South Sudan,SSD,2018,6.3
+South Sudan,SSD,2017,4.2
+South Sudan,SSD,2016,5.3
+South Sudan,SSD,2015,4.8
+Tunisia,TUN,2024,100
+Tunisia,TUN,2023,100
+Tunisia,TUN,2022,100
+Tunisia,TUN,2021,99.9
+Tunisia,TUN,2020,99.9
+Tunisia,TUN,2019,100
+Tunisia,TUN,2018,99.8
+Tunisia,TUN,2017,100
+Tunisia,TUN,2016,100
+Tunisia,TUN,2015,99.9
+United States,USA,2024,100
+United States,USA,2023,100
+United States,USA,2022,100
+United States,USA,2021,100
+United States,USA,2020,100
+United States,USA,2019,100
+United States,USA,2018,100
+United States,USA,2017,100
+United States,USA,2016,100
+United States,USA,2015,100
+South Africa,ZAF,2024,90.2
+South Africa,ZAF,2023,87.7
+South Africa,ZAF,2022,86.5
+South Africa,ZAF,2021,89.3
+South Africa,ZAF,2020,90
+South Africa,ZAF,2019,85
+South Africa,ZAF,2018,84.7
+South Africa,ZAF,2017,84.4
+South Africa,ZAF,2016,83.9
+South Africa,ZAF,2015,85.3

@@ -1,0 +1,210 @@
+iso3,iso2,country,region,subregion,opec_member,year,oil_rents_pct_gdp,fuel_exports_pct_merchandise,fuel_imports_pct_merchandise,electricity_access_pct,fossil_fuel_pct_energy,gdp_per_capita_usd,oil_rents_pct_gdp_imputed,fuel_exports_pct_merchandise_imputed,fuel_imports_pct_merchandise_imputed,electricity_access_pct_imputed,fossil_fuel_pct_energy_imputed,gdp_per_capita_usd_imputed,net_fuel_trade_pp,fuel_import_export_ratio,electricity_access_gap_pct,refining_gap_flag,energy_poverty_flag,fuel_trade_archetype,gdp_pc_pct_of_usa,oil_rents_yoy_pp,electricity_access_yoy_pp
+DZA,DZ,Algeria,Africa,North Africa,True,2012,22.6025382987382,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+DZA,DZ,Algeria,Africa,North Africa,True,2013,20.8724313901278,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.7301,
+DZA,DZ,Algeria,Africa,North Africa,True,2014,19.3167294732848,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.5557,
+DZA,DZ,Algeria,Africa,North Africa,True,2015,11.7459031918092,,,99.4,21.6203834989113,,False,False,False,False,False,False,,,0.6,0,0,Insufficient data,,-7.5708,
+DZA,DZ,Algeria,Africa,North Africa,True,2016,10.0262189142963,95.3110605757096,3.31648668286546,99.4,,4424.98529027556,False,False,False,False,False,False,91.995,0.0348,0.6,0,0,Petro-exporter,7.632,-1.7197,0.0
+DZA,DZ,Algeria,Africa,North Africa,True,2017,12.1565741270026,96.1115601990579,4.20820484474438,99.5,,4554.66753957828,False,False,False,False,False,False,91.903,0.0438,0.5,0,0,Petro-exporter,7.585,2.1304,0.1
+DZA,DZ,Algeria,Africa,North Africa,True,2018,15.9428081774505,95.68647150637595,3.784496297602004,99.6,,4577.21029180491,False,True,True,False,False,False,91.902,0.0396,0.4,0,0,Petro-exporter,7.28,3.7862,0.1
+DZA,DZ,Algeria,Africa,North Africa,True,2019,14.1421031504305,95.26138281369398,3.3607877504596284,99.5,,4468.45341883656,False,True,True,False,False,False,91.901,0.0353,0.5,0,0,Petro-exporter,6.851,-1.8007,-0.1
+DZA,DZ,Algeria,Africa,North Africa,True,2020,9.03841379679424,,,99.7,,3743.5419522929,False,False,False,False,False,False,,,0.3,0,0,Insufficient data,5.807,-5.1037,0.2
+DZA,DZ,Algeria,Africa,North Africa,True,2021,14.4615654623053,,,99.8,,4160.55926736925,False,False,False,False,False,False,,,0.2,0,0,Insufficient data,5.824,5.4232,0.1
+DZA,DZ,Algeria,Africa,North Africa,True,2022,,,,100.0,,4960.30334332888,False,False,False,False,False,False,,,0.0,0,0,Insufficient data,6.359,,0.2
+DZA,DZ,Algeria,Africa,North Africa,True,2023,,,,100.0,,5370.477235078,False,False,False,False,False,False,,,0.0,0,0,Insufficient data,6.503,,0.0
+DZA,DZ,Algeria,Africa,North Africa,True,2024,,93.1359393502842,1.24224501474775,100.0,,5752.99076651465,False,False,False,False,False,False,91.894,0.0133,0.0,0,0,Petro-exporter,6.676,,0.0
+DZA,DZ,Algeria,Africa,North Africa,True,2025,,,,,,6051.00322704182,False,False,False,False,False,False,,,,0,0,Insufficient data,6.721,,
+AGO,AO,Angola,Africa,Central Africa,False,2012,34.3328389540912,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+AGO,AO,Angola,Africa,Central Africa,False,2013,29.0014846107501,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-5.3314,
+AGO,AO,Angola,Africa,Central Africa,False,2014,21.736607448329,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-7.2649,
+AGO,AO,Angola,Africa,Central Africa,False,2015,12.7187303090272,,,42.0,26.3540802954846,,False,False,False,False,False,False,,,58.0,0,1,Insufficient data,,-9.0179,
+AGO,AO,Angola,Africa,Central Africa,False,2016,19.7483988340046,92.4413912108651,12.3339093278625,41.8,,2082.37343594705,False,False,False,False,False,False,80.107,0.1334,58.2,0,1,Petro-exporter,3.592,7.0297,-0.2
+AGO,AO,Angola,Africa,Central Africa,False,2017,24.7110060055382,94.4886374753348,11.9438237306485,42.9,,2832.14997950512,False,False,False,False,False,False,82.545,0.1264,57.1,0,1,Petro-exporter,4.716,4.9626,1.1
+AGO,AO,Angola,Africa,Central Africa,False,2018,30.7304027285905,95.7673965774684,15.1081339110016,45.3,,2891.83032378747,False,False,False,False,False,False,80.659,0.1578,54.7,1,1,Petro-exporter with refining gap,4.599,6.0194,2.4
+AGO,AO,Angola,Africa,Central Africa,False,2019,27.504828641196,95.1707280587394,14.3981812900624,45.6,,2507.86807213642,False,False,False,False,False,False,80.773,0.1513,54.4,0,1,Petro-exporter,3.845,-3.2256,0.3
+AGO,AO,Angola,Africa,Central Africa,False,2020,18.5719595053837,93.0772205293186,10.055487085785,47.0,,1749.1794838482,False,False,False,False,False,False,83.022,0.108,53.0,0,1,Petro-exporter,2.713,-8.9329,1.4
+AGO,AO,Angola,Africa,Central Africa,False,2021,28.2744398825844,94.1298345827204,16.7116723404385,48.2,,2266.96834861584,False,False,False,False,False,False,77.418,0.1775,51.8,1,1,Petro-exporter with refining gap,3.173,9.7025,1.2
+AGO,AO,Angola,Africa,Central Africa,False,2022,,94.7828537809567,22.8117122959673,48.5,,3598.53669077341,False,False,False,False,False,False,71.971,0.2407,51.5,1,1,Petro-exporter with refining gap,4.613,,0.3
+AGO,AO,Angola,Africa,Central Africa,False,2023,,94.0897623108281,21.7012819250266,51.1,,2885.51349130806,False,False,False,False,False,False,72.388,0.2306,48.9,1,1,Petro-exporter with refining gap,3.494,,2.6
+AGO,AO,Angola,Africa,Central Africa,False,2024,,94.259725529009,19.3230942751925,55.5,,2720.81900669715,False,False,False,False,False,False,74.937,0.205,44.5,1,1,Petro-exporter with refining gap,3.158,,4.4
+AGO,AO,Angola,Africa,Central Africa,False,2025,,91.4956102382403,16.4011306071017,,,3129.47662331063,False,False,False,False,False,False,75.094,0.1793,,1,0,Petro-exporter with refining gap,3.476,,
+CMR,CM,Cameroon,Africa,Central Africa,False,2012,5.26170344833076,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+CMR,CM,Cameroon,Africa,Central Africa,False,2013,4.19597685270569,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.0657,
+CMR,CM,Cameroon,Africa,Central Africa,False,2014,3.67835628658685,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.5176,
+CMR,CM,Cameroon,Africa,Central Africa,False,2015,1.89664344480798,,,58.6,4.40144736063062,,False,False,False,False,False,False,,,41.4,0,1,Insufficient data,,-1.7817,
+CMR,CM,Cameroon,Africa,Central Africa,False,2016,1.55546940126434,7.69262542590537,10.8832794007091,59.8,,1441.7201725688,False,False,False,False,False,False,-3.191,1.4148,40.2,0,1,Diversified,2.487,-0.3412,1.2
+CMR,CM,Cameroon,Africa,Central Africa,False,2017,2.19707562839754,43.4494115764582,14.3203901118776,60.9,,1496.08951771242,False,False,False,False,False,False,29.129,0.3296,39.1,0,0,Diversified,2.492,0.6416,1.1
+CMR,CM,Cameroon,Africa,Central Africa,False,2018,2.78430133697793,50.2692747814106,21.6289127049422,62.2,,1610.69641591017,False,False,False,False,False,False,28.64,0.4303,37.8,1,0,Petro-exporter with refining gap,2.562,0.5872,1.3
+CMR,CM,Cameroon,Africa,Central Africa,False,2019,2.42269397588966,54.0894133743251,26.27266372649,63.2,,1555.22660476477,False,False,False,False,False,False,27.817,0.4857,36.8,1,0,Petro-exporter with refining gap,2.384,-0.3616,1.0
+CMR,CM,Cameroon,Africa,Central Africa,False,2020,1.28058779283346,45.6083100375046,20.6281828717423,64.3,,1555.60370660749,False,False,False,False,False,False,24.98,0.4523,35.7,0,0,Diversified,2.413,-1.1421,1.1
+CMR,CM,Cameroon,Africa,Central Africa,False,2021,2.36159953238547,51.8663592754246,18.1107943194632,65.4,,1672.32657340872,False,False,False,False,False,False,33.756,0.3492,34.6,1,0,Petro-exporter with refining gap,2.341,1.081,1.1
+CMR,CM,Cameroon,Africa,Central Africa,False,2022,,62.1174175971395,23.4885428777873,71.0,,1604.87726954895,False,False,False,False,False,False,38.629,0.3781,29.0,1,0,Petro-exporter with refining gap,2.057,,5.6
+CMR,CM,Cameroon,Africa,Central Africa,False,2023,,54.0712041809673,24.177985544591,72.0,,1720.47510154506,False,False,False,False,False,False,29.893,0.4472,28.0,1,0,Petro-exporter with refining gap,2.083,,1.0
+CMR,CM,Cameroon,Africa,Central Africa,False,2024,,,,72.0,,1830.00833684727,False,False,False,False,False,False,,,28.0,0,0,Insufficient data,2.124,,0.0
+CMR,CM,Cameroon,Africa,Central Africa,False,2025,,,,,,1972.3815800786,False,False,False,False,False,False,,,,0,0,Insufficient data,2.191,,
+COD,CD,DR Congo,Africa,Central Africa,False,2012,2.05735950238427,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+COD,CD,DR Congo,Africa,Central Africa,False,2013,1.5624595976329,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.4949,
+COD,CD,DR Congo,Africa,Central Africa,False,2014,1.0574581164719,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.505,
+COD,CD,DR Congo,Africa,Central Africa,False,2015,0.345534121829134,,,16.6,3.10694394402468,,False,False,False,False,False,False,,,83.4,0,1,Insufficient data,,-0.7119,
+COD,CD,DR Congo,Africa,Central Africa,False,2016,0.306678110044986,3.93165005120999,6.01405419183707,17.3,,459.765036590388,False,False,False,False,False,False,-2.082,1.5297,82.7,0,1,Diversified,0.793,-0.0389,0.7
+COD,CD,DR Congo,Africa,Central Africa,False,2017,0.659902410781335,0.0011906538651633,4.40904216899227,18.0,,431.052559128788,False,False,False,False,False,False,-4.408,3703.0428,82.0,0,1,Diversified,0.718,0.3532,0.7
+COD,CD,DR Congo,Africa,Central Africa,False,2018,0.783495113502667,0.0012341766708514,3.84366949549279,18.7,,518.169626875371,False,False,False,False,False,False,-3.842,3114.3592,81.3,0,1,Diversified,0.824,0.1236,0.7
+COD,CD,DR Congo,Africa,Central Africa,False,2019,0.629309383334329,0.0116944289280577,4.3436495419345,19.1,,504.00419142286,False,False,False,False,False,False,-4.332,371.429,80.9,0,1,Diversified,0.773,-0.1542,0.4
+COD,CD,DR Congo,Africa,Central Africa,False,2020,0.358850561150071,0.0015529629628332,4.99222204780926,20.1,,486.425572682256,False,False,False,False,False,False,-4.991,3214.6433,79.9,0,1,Diversified,0.755,-0.2705,1.0
+COD,CD,DR Congo,Africa,Central Africa,False,2021,0.649836903019219,0.0024452772589826,5.9856155087468,20.8,,595.743074403567,False,False,False,False,False,False,-5.983,2447.8269,79.2,0,1,Net fuel importer,0.834,0.291,0.7
+COD,CD,DR Congo,Africa,Central Africa,False,2022,,0.0110464409915681,24.2566284556044,21.5,,687.738587554685,False,False,False,False,False,False,-24.246,2195.8772,78.5,0,1,Net fuel importer,0.882,,0.7
+COD,CD,DR Congo,Africa,Central Africa,False,2023,,0.0004863373530622,36.4856372240953,22.1,,660.21205238997,False,False,False,False,False,False,-36.485,75021.2522,77.9,0,1,Net fuel importer,0.799,,0.6
+COD,CD,DR Congo,Africa,Central Africa,False,2024,,1.80440019009276,19.0419021863281,22.5,,692.887665085098,False,False,False,False,False,False,-17.238,10.553,77.5,0,1,Net fuel importer,0.804,,0.4
+COD,CD,DR Congo,Africa,Central Africa,False,2025,,,,,,806.776000708534,False,False,False,False,False,False,,,,0,0,Insufficient data,0.896,,
+EGY,EG,Egypt,Africa,North Africa,False,2012,8.38345897037217,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+EGY,EG,Egypt,Africa,North Africa,False,2013,7.82863019779494,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.5548,
+EGY,EG,Egypt,Africa,North Africa,False,2014,6.82340013626772,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.0052,
+EGY,EG,Egypt,Africa,North Africa,False,2015,3.05526433674059,,,99.3,62.7106573100733,,False,False,False,False,False,False,,,0.7,0,0,Insufficient data,,-3.7681,
+EGY,EG,Egypt,Africa,North Africa,False,2016,2.35006516963224,13.7657934284608,15.1702855048148,100.0,,3270.6287768197,False,False,False,False,False,False,-1.404,1.102,0.0,0,0,Diversified,5.641,-0.7052,0.7
+EGY,EG,Egypt,Africa,North Africa,False,2017,4.12683269397819,19.3528393471568,17.3208889263006,100.0,,2395.10333299491,False,False,False,False,False,False,2.032,0.895,0.0,0,0,Diversified,3.989,1.7768,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2018,5.47658822874947,24.5436332078061,17.1786739821232,100.0,,2484.70315630508,False,False,False,False,False,False,7.365,0.6999,0.0,0,0,Diversified,3.952,1.3498,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2019,3.8819618632175,26.465801966271,13.9684984857126,100.0,,2962.98892023003,False,False,False,False,False,False,12.497,0.5278,0.0,0,0,Diversified,4.543,-1.5946,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2020,1.85770095140202,20.6229583667758,9.8589254351278,100.0,,3511.11381026379,False,False,False,False,False,False,10.764,0.4781,0.0,0,0,Diversified,5.447,-2.0243,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2021,2.98581458250197,31.6971100561669,12.0821091359056,100.0,,3827.35415374308,False,False,False,False,False,False,19.615,0.3812,0.0,0,0,Diversified,5.357,1.1281,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2022,,35.9532117277136,15.4996428099948,100.0,,4233.30783744856,False,False,False,False,False,False,20.454,0.4311,0.0,0,0,Diversified,5.427,,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2023,,18.1531616111814,14.9839933486814,100.0,,3456.78965212363,False,False,False,False,False,False,3.169,0.8254,0.0,0,0,Diversified,4.186,,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2024,,12.4540426829027,17.9457381562454,100.0,,3338.47371043679,False,False,False,False,False,False,-5.492,1.441,0.0,0,0,Net fuel importer,3.874,,0.0
+EGY,EG,Egypt,Africa,North Africa,False,2025,,9.78541200531768,21.4408088834064,,,3085.80712036204,False,False,False,False,False,False,-11.655,2.1911,,0,0,Net fuel importer,3.428,,
+GAB,GA,Gabon,Africa,Central Africa,True,2012,38.2761163072887,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+GAB,GA,Gabon,Africa,Central Africa,True,2013,30.2411289292074,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-8.035,
+GAB,GA,Gabon,Africa,Central Africa,True,2014,22.1627532667092,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-8.0784,
+GAB,GA,Gabon,Africa,Central Africa,True,2015,9.98640233955356,,,87.3,6.60741477584875,,False,False,False,False,False,False,,,12.7,0,0,Insufficient data,,-12.1764,
+GAB,GA,Gabon,Africa,Central Africa,True,2016,9.0185416132992,30.8820467592108,4.0029379169529,88.1,,6677.07003901644,False,False,False,False,False,False,26.879,0.1296,11.9,0,0,Diversified,11.517,-0.9679,0.8
+GAB,GA,Gabon,Africa,Central Africa,True,2017,14.3932577694784,62.2945642697917,3.1187347345421,86.3,,6921.73373135624,False,False,False,False,False,False,59.176,0.0501,13.7,0,0,Petro-exporter,11.527,5.3747,-1.8
+GAB,GA,Gabon,Africa,Central Africa,True,2018,18.3274076798358,53.4577795641384,8.15343404583916,89.6,,7624.2775233771,False,False,False,False,False,False,45.304,0.1525,10.4,0,0,Petro-exporter,12.126,3.9341,3.3
+GAB,GA,Gabon,Africa,Central Africa,True,2019,16.6842425426461,54.8656896318362,6.921074914557,90.3,,7441.1786472281,False,False,False,False,False,False,47.945,0.1261,9.7,0,0,Petro-exporter,11.408,-1.6432,0.7
+GAB,GA,Gabon,Africa,Central Africa,True,2020,9.97982419987045,52.9194386591688,4.6553801249269,91.1,,6605.80346077904,False,False,False,False,False,False,48.264,0.088,8.9,0,0,Petro-exporter,10.247,-6.7044,0.8
+GAB,GA,Gabon,Africa,Central Africa,True,2021,15.5565091491463,52.3128650846528,4.31074381127438,91.8,,8181.40914134398,False,False,False,False,False,False,48.002,0.0824,8.2,0,0,Petro-exporter,11.452,5.5767,0.7
+GAB,GA,Gabon,Africa,Central Africa,True,2022,,67.2482428452105,3.72167286606716,93.5,,8409.20741452279,False,False,False,False,False,False,63.527,0.0553,6.5,0,0,Petro-exporter,10.78,,1.7
+GAB,GA,Gabon,Africa,Central Africa,True,2023,,53.9865618745688,6.88585907492956,94.1,,7802.82433276138,False,False,False,False,False,False,47.101,0.1275,5.9,0,0,Petro-exporter,9.448,,0.6
+GAB,GA,Gabon,Africa,Central Africa,True,2024,,,,95.1,,8230.04311451151,False,False,False,False,False,False,,,4.9,0,0,Insufficient data,9.551,,1.0
+GAB,GA,Gabon,Africa,Central Africa,True,2025,,,,,,8263.03321595,False,False,False,False,False,False,,,,0,0,Insufficient data,9.178,,
+GHA,GH,Ghana,Africa,West Africa,False,2012,4.78155703124787,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+GHA,GH,Ghana,Africa,West Africa,False,2013,3.51474407100181,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.2668,
+GHA,GH,Ghana,Africa,West Africa,False,2014,3.42103394358244,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.0937,
+GHA,GH,Ghana,Africa,West Africa,False,2015,1.29146546233544,,,74.0,52.7325214862029,,False,False,False,False,False,False,,,26.0,0,0,Insufficient data,,-2.1296,
+GHA,GH,Ghana,Africa,West Africa,False,2016,1.00121845985195,11.5671917860062,1.88857422488935,79.3,,1912.47991339951,False,False,False,False,False,False,9.679,0.1633,20.7,0,0,Diversified,3.299,-0.2902,5.3
+GHA,GH,Ghana,Africa,West Africa,False,2017,2.60564944915053,25.7435448939263,2.57970154942287,79.0,,2012.28662641265,False,False,False,False,False,False,23.164,0.1002,21.0,0,0,Diversified,3.351,1.6044,-0.3
+GHA,GH,Ghana,Africa,West Africa,False,2018,4.1465494257117,30.6056146882322,2.04286343928554,80.4,,2195.32166016377,False,False,False,False,False,False,28.563,0.0667,19.6,0,0,Diversified,3.492,1.5409,1.4
+GHA,GH,Ghana,Africa,West Africa,False,2019,4.069102005933,31.7022617995334,2.86441670768118,83.5,,2186.65822682613,False,False,False,False,False,False,28.838,0.0904,16.5,0,0,Diversified,3.352,-0.0774,3.1
+GHA,GH,Ghana,Africa,West Africa,False,2020,2.25284947216201,28.93021108119035,8.89109710007819,85.4,,2195.45481659987,False,True,True,False,False,False,20.039,0.3073,14.6,0,0,Diversified,3.406,-1.8163,1.9
+GHA,GH,Ghana,Africa,West Africa,False,2021,4.05501917796431,26.1581603628473,14.9177774924752,86.3,,2445.18662529344,False,False,False,False,False,False,11.24,0.5703,13.7,0,0,Diversified,3.423,1.8022,0.9
+GHA,GH,Ghana,Africa,West Africa,False,2022,,31.0014653616144,26.7540538635122,85.1,,2229.89122654479,False,False,False,False,False,False,4.247,0.863,14.9,0,0,Diversified,2.859,,-1.2
+GHA,GH,Ghana,Africa,West Africa,False,2023,,23.9919879674501,32.2474980753419,89.5,,2383.90410476221,False,False,False,False,False,False,-8.256,1.3441,10.5,0,0,Net fuel importer,2.887,,4.4
+GHA,GH,Ghana,Africa,West Africa,False,2024,,18.5736734769042,25.9530752762537,91.9,,2419.2518672482,False,False,False,False,False,False,-7.379,1.3973,8.1,0,0,Net fuel importer,2.808,,2.4
+GHA,GH,Ghana,Africa,West Africa,False,2025,,8.79717358984397,25.6618876185506,,,3257.1588903576,False,False,False,False,False,False,-16.865,2.9171,,0,0,Net fuel importer,3.618,,
+LBY,LY,Libya,Africa,North Africa,True,2012,57.6300935046394,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+LBY,LY,Libya,Africa,North Africa,True,2013,45.8016137051651,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-11.8285,
+LBY,LY,Libya,Africa,North Africa,True,2014,28.6305298163822,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-17.1711,
+LBY,LY,Libya,Africa,North Africa,True,2015,14.4264442000075,,,73.8,58.2466820658577,,False,False,False,False,False,False,,,26.2,0,0,Insufficient data,,-14.2041,
+LBY,LY,Libya,Africa,North Africa,True,2016,10.7931417666286,89.0527915280661,10.4756848051907,72.2,,7525.80299308216,False,False,False,False,False,False,78.577,0.1176,27.8,0,0,Petro-exporter,12.981,-3.6333,-1.6
+LBY,LY,Libya,Africa,North Africa,True,2017,20.9466167504799,89.0527915280661,17.0029588098843,70.6,,9965.83236729757,False,False,False,False,False,False,72.05,0.1909,29.4,1,0,Petro-exporter with refining gap,16.597,10.1535,-1.6
+LBY,LY,Libya,Africa,North Africa,True,2018,30.0345298438813,95.3967472853869,16.3440387251929,67.0,,11196.5854810844,False,False,False,False,False,False,79.053,0.1713,33.0,1,0,Petro-exporter with refining gap,17.808,9.0879,-3.6
+LBY,LY,Libya,Africa,North Africa,True,2019,32.7515623093831,94.4050188673453,13.1447030667713,68.5,,9963.19489084483,False,False,False,False,False,False,81.26,0.1392,31.5,0,0,Petro-exporter,15.274,2.717,1.5
+LBY,LY,Libya,Africa,North Africa,True,2020,9.24399152945122,,,69.4,,6650.33810585348,False,False,False,False,False,False,,,30.6,0,0,Insufficient data,10.316,-23.5076,0.9
+LBY,LY,Libya,Africa,North Africa,True,2021,56.3779371892049,,,70.2,,4935.82787349801,False,False,False,False,False,False,,,29.8,0,0,Insufficient data,6.909,47.1339,0.8
+LBY,LY,Libya,Africa,North Africa,True,2022,,,,70.0,,5986.63694851258,False,False,False,False,False,False,,,30.0,0,0,Insufficient data,7.674,,-0.2
+LBY,LY,Libya,Africa,North Africa,True,2023,,,,73.2,,6026.51518708812,False,False,False,False,False,False,,,26.8,0,0,Insufficient data,7.297,,3.2
+LBY,LY,Libya,Africa,North Africa,True,2024,,,,77.4,,6569.16408678648,False,False,False,False,False,False,,,22.6,0,0,Insufficient data,7.624,,4.2
+LBY,LY,Libya,Africa,North Africa,True,2025,,,,,,6448.82415074121,False,False,False,False,False,False,,,,0,0,Insufficient data,7.163,,
+MAR,MA,Morocco,Africa,North Africa,False,2012,0.0052845250346448,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+MAR,MA,Morocco,Africa,North Africa,False,2013,0.0053581787411086,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,0.0001,
+MAR,MA,Morocco,Africa,North Africa,False,2014,0.0027200756134493,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.0026,
+MAR,MA,Morocco,Africa,North Africa,False,2015,0.0014273089885363,,,97.3,72.8609624298786,,False,False,False,False,False,False,,,2.7,0,0,Insufficient data,,-0.0013,
+MAR,MA,Morocco,Africa,North Africa,False,2016,0.0011328109364847,0.851631730088442,13.3171993803042,97.8,,3140.85546875,False,False,False,False,False,False,-12.466,15.6373,2.2,0,0,Net fuel importer,5.417,-0.0003,0.5
+MAR,MA,Morocco,Africa,North Africa,False,2017,0.0013107837217798,0.915717103285065,15.8880708140185,100.0,,3296.52661132813,False,False,False,False,False,False,-14.972,17.3504,0.0,0,0,Net fuel importer,5.49,0.0002,2.2
+MAR,MA,Morocco,Africa,North Africa,False,2018,0.0017548694429699,1.16507270206512,17.0955163894163,98.1,,3501.69799804688,False,False,False,False,False,False,-15.93,14.6733,1.9,0,0,Net fuel importer,5.569,0.0004,-1.9
+MAR,MA,Morocco,Africa,North Africa,False,2019,0.0013723705365759,1.5096725010458,15.5516454175353,99.6,,3508.09765625,False,False,False,False,False,False,-14.042,10.3013,0.4,0,0,Net fuel importer,5.378,-0.0004,1.5
+MAR,MA,Morocco,Africa,North Africa,False,2020,0.0008395727088705,0.515055497762877,11.7960102504862,100.0,,3268.0302734375,False,False,False,False,False,False,-11.281,22.9024,0.0,0,0,Net fuel importer,5.069,-0.0005,0.4
+MAR,MA,Morocco,Africa,North Africa,False,2021,0.0010111851115324,0.690786590320233,14.3635839745114,100.0,,3785.93627929688,False,False,False,False,False,False,-13.673,20.7931,0.0,0,0,Net fuel importer,5.299,0.0002,0.0
+MAR,MA,Morocco,Africa,North Africa,False,2022,,1.00965161630831,20.7742210351554,100.0,,3463.1376953125,False,False,False,False,False,False,-19.765,20.5756,0.0,0,0,Net fuel importer,4.439,,0.0
+MAR,MA,Morocco,Africa,North Africa,False,2023,,1.21428847268287,17.0484496603385,100.0,,3813.72607421875,False,False,False,False,False,False,-15.834,14.0399,0.0,0,0,Net fuel importer,4.618,,0.0
+MAR,MA,Morocco,Africa,North Africa,False,2024,,0.759031246462188,11.8267590738376,100.0,,4153.1943359375,False,False,False,False,False,False,-11.068,15.5814,0.0,0,0,Net fuel importer,4.82,,0.0
+MAR,MA,Morocco,Africa,North Africa,False,2025,,0.7294529403538,10.389825022896,,,4672.46826171875,False,False,False,False,False,False,-9.66,14.2433,,0,0,Net fuel importer,5.19,,
+NGA,NG,Nigeria,Africa,West Africa,True,2012,13.0904727134596,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+NGA,NG,Nigeria,Africa,West Africa,True,2013,9.88011499667836,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-3.2104,
+NGA,NG,Nigeria,Africa,West Africa,True,2014,7.0738580847829,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-2.8063,
+NGA,NG,Nigeria,Africa,West Africa,True,2015,2.78345150643408,,,52.5,41.6857402640789,,False,False,False,False,False,False,,,47.5,0,1,Insufficient data,,-4.2904,
+NGA,NG,Nigeria,Africa,West Africa,True,2016,2.68429043488445,96.4782414446309,28.5835169677021,59.3,,2070.4127339595,False,False,False,False,False,False,67.895,0.2963,40.7,1,1,Petro-exporter with refining gap,3.571,-0.0992,6.8
+NGA,NG,Nigeria,Africa,West Africa,True,2017,5.47262882301734,96.031736150959,27.919442911784,54.4,,1876.34027111773,False,False,False,False,False,False,68.112,0.2907,45.6,1,1,Petro-exporter with refining gap,3.125,2.7883,-4.9
+NGA,NG,Nigeria,Africa,West Africa,True,2018,7.69068153465603,94.1137913236198,29.6471788385035,56.5,,2057.87944554011,False,False,False,False,False,False,64.467,0.315,43.5,1,1,Petro-exporter with refining gap,3.273,2.2181,2.1
+NGA,NG,Nigeria,Africa,West Africa,True,2019,6.51475056054778,87.0392917835315,15.5172614270174,55.4,,3189.81286496183,False,False,False,False,False,False,71.522,0.1783,44.6,1,1,Petro-exporter with refining gap,4.89,-1.1759,-1.1
+NGA,NG,Nigeria,Africa,West Africa,True,2020,3.31241719212516,88.7002181697857,15.2611102103042,55.4,,2797.184580679,False,False,False,False,False,False,73.439,0.1721,44.6,1,1,Petro-exporter with refining gap,4.339,-3.2023,0.0
+NGA,NG,Nigeria,Africa,West Africa,True,2021,6.24674969005013,89.147069602161,30.9916053225807,59.5,,2787.48779220991,False,False,False,False,False,False,58.155,0.3476,40.5,1,1,Petro-exporter with refining gap,3.902,2.9343,4.1
+NGA,NG,Nigeria,Africa,West Africa,True,2022,,90.7270761068365,39.5616830551829,60.5,,2899.16047469267,False,False,False,False,False,False,51.165,0.4361,39.5,1,0,Petro-exporter with refining gap,3.716,,1.0
+NGA,NG,Nigeria,Africa,West Africa,True,2023,,91.6092141524306,33.4212725275035,61.2,,2138.76383718757,False,False,False,False,False,False,58.188,0.3648,38.8,1,0,Petro-exporter with refining gap,2.59,,0.7
+NGA,NG,Nigeria,Africa,West Africa,True,2024,,88.6153186443478,37.9573777611274,62.5,,1084.16041805058,False,False,False,False,False,False,50.658,0.4283,37.5,1,0,Petro-exporter with refining gap,1.258,,1.3
+NGA,NG,Nigeria,Africa,West Africa,True,2025,,85.9038430993152,33.1596597338432,,,1224.25410237743,False,False,False,False,False,False,52.744,0.386,,1,0,Petro-exporter with refining gap,1.36,,
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2012,0.9800580532574,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2013,0.949068014891185,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.031,
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2014,0.692856799731489,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.2562,
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2015,0.194337594746037,,,85.3,79.8907017217055,,False,False,False,False,False,False,,,14.7,0,0,Insufficient data,,-0.4985,
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2016,0.182131538345159,9.83410485960525,13.4909050922564,83.9,,5651.20585165749,False,False,False,False,False,False,-3.657,1.3718,16.1,0,0,Diversified,9.747,-0.0122,-1.4
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2017,0.291332796001722,12.0071561154403,14.7325930310396,84.4,,6618.33508255701,False,False,False,False,False,False,-2.725,1.227,15.6,0,0,Diversified,11.022,0.1092,0.5
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2018,0.407106590566775,10.9922042428029,18.5563603959241,84.7,,6914.1780318076,False,False,False,False,False,False,-7.564,1.6881,15.3,0,0,Net fuel importer,10.997,0.1158,0.3
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2019,0.372819688324446,10.050875262098,16.8908744466706,85.0,,6533.71121032856,False,False,False,False,False,False,-6.84,1.6805,15.0,0,0,Net fuel importer,10.017,-0.0343,0.3
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2020,0.213036196999097,8.10609432073402,13.9601687481702,90.0,,5580.60383075189,False,False,False,False,False,False,-5.854,1.7222,10.0,0,0,Net fuel importer,8.657,-0.1598,5.0
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2021,0.395954206545834,8.68304384294431,16.5872059557308,89.3,,6828.75624590017,False,False,False,False,False,False,-7.904,1.9103,10.7,0,0,Net fuel importer,9.559,0.1829,-0.7
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2022,,14.3272920099043,22.8249151743158,86.5,,6534.24867783397,False,False,False,False,False,False,-8.498,1.5931,13.5,0,0,Net fuel importer,8.376,,-2.8
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2023,,10.7279305896972,21.0331701787206,87.7,,6034.27208964673,False,False,False,False,False,False,-10.305,1.9606,12.3,0,0,Net fuel importer,7.307,,1.2
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2024,,9.60851603889865,19.4234393329532,90.2,,6267.186814093,False,False,False,False,False,False,-9.815,2.0215,9.8,0,0,Net fuel importer,7.273,,2.5
+ZAF,ZA,South Africa,Africa,Southern Africa,False,2025,,8.17558020806865,17.6721905568602,,,6597.71450918774,False,False,False,False,False,False,-9.497,2.1616,,0,0,Net fuel importer,7.329,,
+SSD,SS,South Sudan,Africa,East Africa,False,2012,3.55150590979899,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+SSD,SS,South Sudan,Africa,East Africa,False,2013,13.3083956321822,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,9.7569,
+SSD,SS,South Sudan,Africa,East Africa,False,2014,26.3604396814303,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,13.052,
+SSD,SS,South Sudan,Africa,East Africa,False,2015,10.3913729191421,,,4.8,38.9363207566283,,False,False,False,False,False,False,,,95.2,0,1,Insufficient data,,-15.9691,
+SSD,SS,South Sudan,Africa,East Africa,False,2016,,,,5.3,,,False,False,False,False,False,False,,,94.7,0,1,Insufficient data,,,0.5
+SSD,SS,South Sudan,Africa,East Africa,False,2017,,,,4.2,,,False,False,False,False,False,False,,,95.8,0,1,Insufficient data,,,-1.1
+SSD,SS,South Sudan,Africa,East Africa,False,2018,,,,6.3,,,False,False,False,False,False,False,,,93.7,0,1,Insufficient data,,,2.1
+SSD,SS,South Sudan,Africa,East Africa,False,2019,,,,6.8,,,False,False,False,False,False,False,,,93.2,0,1,Insufficient data,,,0.5
+SSD,SS,South Sudan,Africa,East Africa,False,2020,,,,7.3,,,False,False,False,False,False,False,,,92.7,0,1,Insufficient data,,,0.5
+SSD,SS,South Sudan,Africa,East Africa,False,2021,,,,7.7,,,False,False,False,False,False,False,,,92.3,0,1,Insufficient data,,,0.4
+SSD,SS,South Sudan,Africa,East Africa,False,2022,,,,8.4,,,False,False,False,False,False,False,,,91.6,0,1,Insufficient data,,,0.7
+SSD,SS,South Sudan,Africa,East Africa,False,2023,,,,5.4,,,False,False,False,False,False,False,,,94.6,0,1,Insufficient data,,,-3.0
+SSD,SS,South Sudan,Africa,East Africa,False,2024,,,,5.4,,,False,False,False,False,False,False,,,94.6,0,1,Insufficient data,,,0.0
+SDN,SD,Sudan,Africa,East Africa,False,2012,3.69537931902747,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+SDN,SD,Sudan,Africa,East Africa,False,2013,4.59958496637169,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,0.9042,
+SDN,SD,Sudan,Africa,East Africa,False,2014,2.65704566740931,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-1.9425,
+SDN,SD,Sudan,Africa,East Africa,False,2015,0.798069583603201,,,48.0,2.33282533604967,,False,False,False,False,False,False,,,52.0,0,1,Insufficient data,,-1.859,
+SDN,SD,Sudan,Africa,East Africa,False,2016,0.586718855776161,10.625447909553,6.77123605112919,50.5,,1033.21594238281,False,False,False,False,False,False,3.854,0.6373,49.5,0,1,Diversified,1.782,-0.2114,2.5
+SDN,SD,Sudan,Africa,East Africa,False,2017,0.823819483095822,12.9417898676253,8.40613480788815,53.0,,966.505676269531,False,False,False,False,False,False,4.536,0.6495,47.0,0,1,Diversified,1.61,0.2371,2.5
+SDN,SD,Sudan,Africa,East Africa,False,2018,3.36467879804277,14.3046984999341,12.8595474043697,55.3,,731.027465820313,False,False,False,False,False,False,1.445,0.899,44.7,0,1,Diversified,1.163,2.5409,2.3
+SDN,SD,Sudan,Africa,East Africa,False,2019,2.99936703162155,,,57.6,,709.975280761719,False,False,False,False,False,False,,,42.4,0,1,Insufficient data,1.088,-0.3653,2.3
+SDN,SD,Sudan,Africa,East Africa,False,2020,1.87511902407651,,,59.7,,577.795227050781,False,False,False,False,False,False,,,40.3,0,1,Insufficient data,0.896,-1.1242,2.1
+SDN,SD,Sudan,Africa,East Africa,False,2021,3.30226845710475,,,61.8,,712.122009277344,False,False,False,False,False,False,,,38.2,0,0,Insufficient data,0.997,1.4271,2.1
+SDN,SD,Sudan,Africa,East Africa,False,2022,,,,63.2,,1046.24084472656,False,False,False,False,False,False,,,36.8,0,0,Insufficient data,1.341,,1.4
+SDN,SD,Sudan,Africa,East Africa,False,2023,,,,66.0,,797.283447265625,False,False,False,False,False,False,,,34.0,0,0,Insufficient data,0.965,,2.8
+SDN,SD,Sudan,Africa,East Africa,False,2024,,,,66.0,,984.607666015625,False,False,False,False,False,False,,,34.0,0,0,Insufficient data,1.143,,0.0
+SDN,SD,Sudan,Africa,East Africa,False,2025,,,,,,1164.53991699219,False,False,False,False,False,False,,,,0,0,Insufficient data,1.294,,
+TUN,TN,Tunisia,Africa,North Africa,False,2012,5.06594682844413,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+TUN,TN,Tunisia,Africa,North Africa,False,2013,4.28421078126965,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.7817,
+TUN,TN,Tunisia,Africa,North Africa,False,2014,3.35507824664457,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.9291,
+TUN,TN,Tunisia,Africa,North Africa,False,2015,1.62596299660366,,,99.9,74.587168579937,,False,False,False,False,False,False,,,0.1,0,0,Insufficient data,,-1.7291,
+TUN,TN,Tunisia,Africa,North Africa,False,2016,1.266744868786,5.6449759317471,11.0056506668328,100.0,,3847.80354448809,False,False,False,False,False,False,-5.361,1.9496,0.0,0,0,Net fuel importer,6.637,-0.3592,0.1
+TUN,TN,Tunisia,Africa,North Africa,False,2017,1.48811485046411,5.96058193974094,12.9912045385428,100.0,,3619.03247319953,False,False,False,False,False,False,-7.031,2.1795,0.0,0,0,Net fuel importer,6.027,0.2214,0.0
+TUN,TN,Tunisia,Africa,North Africa,False,2018,1.99021548871455,5.68962559679174,15.0097872296255,99.8,,3628.10366464236,False,False,False,False,False,False,-9.32,2.6381,0.2,0,0,Net fuel importer,5.77,0.5021,-0.2
+TUN,TN,Tunisia,Africa,North Africa,False,2019,1.66141181151334,5.52195852371031,16.7188090233677,100.0,,3528.87213306798,False,False,False,False,False,False,-11.197,3.0277,0.0,0,0,Net fuel importer,5.41,-0.3288,0.2
+TUN,TN,Tunisia,Africa,North Africa,False,2020,0.916677526611502,5.66992261834971,12.8911718990863,99.9,,3548.65363663803,False,False,False,False,False,False,-7.221,2.2736,0.1,0,0,Net fuel importer,5.505,-0.7447,-0.1
+TUN,TN,Tunisia,Africa,North Africa,False,2021,1.5489621013289,6.55409542266409,13.9513264886908,99.9,,3906.93926319391,False,False,False,False,False,False,-7.397,2.1286,0.1,0,0,Net fuel importer,5.469,0.6323,0.0
+TUN,TN,Tunisia,Africa,North Africa,False,2022,,8.02677004326783,19.1173586577296,100.0,,3707.29283414381,False,False,False,False,False,False,-11.091,2.3817,0.0,0,0,Net fuel importer,4.752,,0.1
+TUN,TN,Tunisia,Africa,North Africa,False,2023,,6.20798342748048,17.7508668451245,100.0,,3951.11683376921,False,False,False,False,False,False,-11.543,2.8594,0.0,0,0,Net fuel importer,4.784,,0.0
+TUN,TN,Tunisia,Africa,North Africa,False,2024,,6.23208030817829,18.7802982787949,100.0,,4187.64079392362,False,False,False,False,False,False,-12.548,3.0135,0.0,0,0,Net fuel importer,4.86,,0.0
+TUN,TN,Tunisia,Africa,North Africa,False,2025,,,,,,4656.63818386852,False,False,False,False,False,False,,,,0,0,Insufficient data,5.173,,
+USA,US,United States,North America,North America,False,2012,0.205925846170308,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,,
+USA,US,United States,North America,North America,False,2013,0.305650080049118,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,0.0997,
+USA,US,United States,North America,North America,False,2014,0.292226566231044,,,,,,False,False,False,False,False,False,,,,0,0,Insufficient data,,-0.0134,
+USA,US,United States,North America,North America,False,2015,0.0075251806478225,,,100.0,82.3258162759788,,False,False,False,False,False,False,,,0.0,0,0,Insufficient data,,-0.2847,
+USA,US,United States,North America,North America,False,2016,0.0922955001311894,7.57865354567164,7.25649021798253,100.0,,57976.628204291,False,False,False,False,False,False,0.322,0.9575,0.0,0,0,Diversified,100.0,0.0848,0.0
+USA,US,United States,North America,North America,False,2017,0.162525850896316,10.510450824598,8.47860299060236,100.0,,60047.7190728307,False,False,False,False,False,False,2.032,0.8067,0.0,0,0,Diversified,100.0,0.0702,0.0
+USA,US,United States,North America,North America,False,2018,0.319247607054063,13.5299938279588,9.24830831010608,100.0,,62875.6661382728,False,False,False,False,False,False,4.282,0.6835,0.0,0,0,Diversified,100.0,0.1567,0.0
+USA,US,United States,North America,North America,False,2019,0.368544560120872,14.1993655796366,8.17781897202692,100.0,,65227.9565911038,False,False,False,False,False,False,6.022,0.5759,0.0,0,0,Diversified,100.0,0.0493,0.0
+USA,US,United States,North America,North America,False,2020,0.187625106322478,12.7159907896534,5.40205322460483,100.0,,64465.2971415748,False,False,False,False,False,False,7.314,0.4248,0.0,0,0,Diversified,100.0,-0.1809,0.0
+USA,US,United States,North America,North America,False,2021,0.61148265568772,15.9220948098952,7.62835925904237,100.0,,71441.2319805947,False,False,False,False,False,False,8.294,0.4791,0.0,0,0,Diversified,100.0,0.4239,0.0
+USA,US,United States,North America,North America,False,2022,,21.4101656084375,9.56553567648077,100.0,,78008.6895811877,False,False,False,False,False,False,11.845,0.4468,0.0,0,0,Diversified,100.0,,0.0
+USA,US,United States,North America,North America,False,2023,,18.6774872527635,8.41226616291469,100.0,,82586.7847707894,False,False,False,False,False,False,10.265,0.4504,0.0,0,0,Diversified,100.0,,0.0
+USA,US,United States,North America,North America,False,2024,,18.3113039630256,7.47933820850955,100.0,,86169.6641581917,False,False,False,False,False,False,10.832,0.4085,0.0,0,0,Diversified,100.0,,0.0
+USA,US,United States,North America,North America,False,2025,,17.2956133468122,6.17511676840264,,,90026.5163005744,False,False,False,False,False,False,11.12,0.357,,0,0,Diversified,100.0,,

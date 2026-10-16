@@ -1,0 +1,137 @@
+# =============================================================================
+# Oil & Gas Refinery Capacity & Fuel Access in Africa and USA
+# Central pipeline configuration (loaded by ingest.py, transform.py, load.py,
+# the Airflow DAG and the CI smoke test).
+# All paths are relative to the project root.
+# =============================================================================
+
+project:
+  name: oil_gas_africa_usa_refinery_capacity
+  description: >
+    Africa's petroleum refining gap, fuel-trade dependency and energy access
+    benchmarked against the United States using World Bank Open Data.
+  owner: data-engineering
+  version: "1.0.0"
+
+# -----------------------------------------------------------------------------
+# World Bank Open Data API (public, no authentication required)
+# -----------------------------------------------------------------------------
+worldbank:
+  base_url: "https://api.worldbank.org/v2"
+  format: json
+  per_page: 200
+  mrv: 10                       # most recent values per country
+  # ISO-2 codes queried in one semicolon-separated batch
+  countries:
+    - NG   # Nigeria
+    - GH   # Ghana
+    - AO   # Angola
+    - DZ   # Algeria
+    - LY   # Libya
+    - EG   # Egypt
+    - GA   # Gabon
+    - CM   # Cameroon
+    - CD   # DR Congo
+    - ZA   # South Africa
+    - SD   # Sudan
+    - SS   # South Sudan
+    - TN   # Tunisia
+    - MA   # Morocco
+    - US   # United States
+  # indicator_code -> output file + value column
+  indicators:
+    oil_rents:
+      code: NY.GDP.PETR.RT.ZS
+      file: oil_rents_gdp.csv
+      value_column: oil_rents_pct_gdp
+      description: Oil rents (% of GDP)
+    fuel_exports:
+      code: TX.VAL.FUEL.ZS.UN
+      file: fuel_exports_pct.csv
+      value_column: fuel_exports_pct_merchandise
+      description: Fuel exports (% of merchandise exports)
+    fuel_imports:
+      code: TM.VAL.FUEL.ZS.UN
+      file: fuel_imports_pct.csv
+      value_column: fuel_imports_pct_merchandise
+      description: Fuel imports (% of merchandise imports)
+    electricity_access:
+      code: EG.ELC.ACCS.ZS
+      file: electricity_access.csv
+      value_column: electricity_access_pct
+      description: Access to electricity (% of population)
+    fossil_fuel_consumption:
+      code: EG.USE.COMM.FO.ZS
+      file: fossil_fuel_consumption.csv
+      value_column: fossil_fuel_pct_energy
+      description: Fossil fuel energy consumption (% of total)
+    gdp_per_capita:
+      code: NY.GDP.PCAP.CD
+      file: gdp_per_capita.csv
+      value_column: gdp_per_capita_usd
+      description: GDP per capita (current US$)
+
+# -----------------------------------------------------------------------------
+# Optional credentials. The World Bank API is open; these keys are only used
+# if you extend the pipeline to licensed sources (e.g. EIA, OPEC ASB).
+# -----------------------------------------------------------------------------
+api_keys:
+  eia_api_key: "YOUR_EIA_API_KEY_HERE"            # placeholder - not required
+  slack_webhook_url: "YOUR_SLACK_WEBHOOK_URL_HERE"  # placeholder - alerts only
+
+# -----------------------------------------------------------------------------
+# File-system layout
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  master_dataset: data/processed/master_dataset.csv
+  latest_snapshot: data/processed/country_latest_snapshot.csv
+  data_quality_report: data/processed/data_quality_report.csv
+  database: data/oil_gas_refinery.db
+  reports_dir: reports
+  log_dir: logs
+
+# -----------------------------------------------------------------------------
+# Pipeline behaviour
+# -----------------------------------------------------------------------------
+pipeline:
+  request_timeout_seconds: 30
+  max_retries: 5
+  backoff_multiplier: 2
+  backoff_max_seconds: 60
+  log_level: INFO
+  year_min: 2012
+  year_max: 2025
+  # Interpolate interior gaps (never extrapolate) up to N consecutive years
+  interpolation_limit: 2
+  # Indicators where an exact 0.0 is a World Bank fill value, not a real
+  # measurement (EG.USE.COMM.FO.ZS was discontinued after 2015).
+  zero_as_missing:
+    - fossil_fuel_pct_energy
+  # Thresholds used to classify fuel-trade archetypes
+  thresholds:
+    petro_state_fuel_exports_pct: 50.0
+    high_fuel_import_pct: 15.0
+    high_oil_rents_pct_gdp: 10.0
+    energy_poverty_access_pct: 60.0
+
+# -----------------------------------------------------------------------------
+# Region metadata used in transform.py
+# -----------------------------------------------------------------------------
+regions:
+  NGA: {iso2: NG, region: Africa, subregion: West Africa, opec_member: true}
+  GHA: {iso2: GH, region: Africa, subregion: West Africa, opec_member: false}
+  AGO: {iso2: AO, region: Africa, subregion: Central Africa, opec_member: false}
+  DZA: {iso2: DZ, region: Africa, subregion: North Africa, opec_member: true}
+  LBY: {iso2: LY, region: Africa, subregion: North Africa, opec_member: true}
+  EGY: {iso2: EG, region: Africa, subregion: North Africa, opec_member: false}
+  GAB: {iso2: GA, region: Africa, subregion: Central Africa, opec_member: true}
+  CMR: {iso2: CM, region: Africa, subregion: Central Africa, opec_member: false}
+  COD: {iso2: CD, region: Africa, subregion: Central Africa, opec_member: false}
+  ZAF: {iso2: ZA, region: Africa, subregion: Southern Africa, opec_member: false}
+  SDN: {iso2: SD, region: Africa, subregion: East Africa, opec_member: false}
+  SSD: {iso2: SS, region: Africa, subregion: East Africa, opec_member: false}
+  TUN: {iso2: TN, region: Africa, subregion: North Africa, opec_member: false}
+  MAR: {iso2: MA, region: Africa, subregion: North Africa, opec_member: false}
+  USA: {iso2: US, region: North America, subregion: North America, opec_member: false}

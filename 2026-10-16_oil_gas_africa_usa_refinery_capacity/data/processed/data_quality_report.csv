@@ -1,0 +1,7 @@
+indicator,rows,non_null,null_pct,imputed,countries_covered,min_year,max_year,min,max,mean
+oil_rents_pct_gdp,209,144,31.1,0,15,2012,2021,0.0008,57.6301,8.1693
+fuel_exports_pct_merchandise,209,116,44.5,3,14,2016,2025,0.0005,96.4782,37.0659
+fuel_imports_pct_merchandise,209,116,44.5,3,14,2016,2025,1.2422,39.5617,14.6801
+electricity_access_pct,209,150,28.23,0,15,2015,2024,4.2,100.0,72.2887
+fossil_fuel_pct_energy,209,15,92.82,0,15,2015,2015,2.3328,82.3258,41.8933
+gdp_per_capita_usd,209,140,33.01,0,14,2016,2025,431.0526,90026.5163,8519.1511

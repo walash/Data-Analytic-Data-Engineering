@@ -1,0 +1,41 @@
+# =============================================================================
+# Oil & Gas Refinery Capacity & Fuel Access (Africa vs USA)
+# Usage (from the docker/ directory):
+#   docker compose up --build pipeline     # run ingest -> transform -> load
+#   docker compose up -d sqlite-web        # browse the DB at http://localhost:8080
+# =============================================================================
+name: oil-gas-refinery
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: oil-gas-refinery-pipeline:latest
+    container_name: oil-gas-pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      CONFIG_PATH: /app/config/config.yaml
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  # Lightweight web UI over the SQLite warehouse produced by `pipeline`.
+  sqlite-web:
+    image: coleifer/sqlite-web:latest
+    container_name: oil-gas-sqlite-web
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      SQLITE_DATABASE: oil_gas_refinery.db
+    volumes:
+      - ../data:/data
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

@@ -1,0 +1,66 @@
+name: CI - Oil & Gas Refinery Pipeline
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: .
+
+jobs:
+  lint:
+    name: flake8 lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install flake8
+        run: pip install flake8==7.1.1
+      - name: Lint src/ and dags/
+        run: flake8 src dags --max-line-length=100 --count --statistics --show-source
+
+  smoke-test:
+    name: Pipeline smoke test
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install runtime dependencies
+        run: pip install pandas==2.2.3 numpy==1.26.4 requests==2.32.3 tenacity==9.0.0 PyYAML==6.0.2 nbformat==5.10.4
+      - name: Ingestion dry run (config + URL validation, no network)
+        run: python src/ingestion/ingest.py --dry-run
+      - name: Transform committed raw data
+        run: python src/transformation/transform.py
+      - name: Load into SQLite
+        run: python src/loading/load.py
+      - name: Validate outputs
+        run: |
+          python - <<'EOF'
+          import sqlite3
+          import pandas as pd
+
+          master = pd.read_csv("data/processed/master_dataset.csv")
+          assert master["iso3"].nunique() == 15, "expected 15 countries"
+          assert not master.duplicated(["iso3", "year"]).any(), "duplicate keys"
+          conn = sqlite3.connect("data/oil_gas_refinery.db")
+          n = conn.execute("SELECT COUNT(*) FROM fact_energy_indicators").fetchone()[0]
+          assert n == len(master), f"row mismatch {n} != {len(master)}"
+          print(f"OK: {len(master)} rows, {master.shape[1]} columns")
+          EOF
+      - name: Run analytical SQL
+        run: sqlite3 -header -column data/oil_gas_refinery.db < sql/queries.sql > /dev/null
+      - name: Validate notebook JSON
+        run: python -c "import nbformat; nbformat.validate(nbformat.read('notebooks/analysis.ipynb', as_version=4)); print('notebook OK')"
