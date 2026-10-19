@@ -1,0 +1,153 @@
+country_code,country_name,year,lpi_infrastructure_score
+DZ,Algeria,2022,2.1
+DZ,Algeria,2018,2.42
+DZ,Algeria,2016,2.577318
+DZ,Algeria,2014,2.540816
+DZ,Algeria,2012,2.02
+AO,Angola,2022,2.1
+AO,Angola,2018,1.86
+AO,Angola,2016,2.133789
+AO,Angola,2014,2.105263
+AO,Angola,2012,2.48
+BJ,Benin,2022,2.5
+BJ,Benin,2018,2.5
+BJ,Benin,2016,2.391474
+BJ,Benin,2014,2.351515
+BJ,Benin,2012,2.57
+BW,Botswana,2022,3.1
+BW,Botswana,2016,2.95539
+BW,Botswana,2014,2.233136
+BW,Botswana,2012,2.82
+BF,Burkina Faso,2022,2.3
+BF,Burkina Faso,2018,2.43
+BF,Burkina Faso,2016,2.668512
+BF,Burkina Faso,2014,2.348214
+BF,Burkina Faso,2012,2.4
+BI,Burundi,2018,1.95
+BI,Burundi,2016,1.98495
+BI,Burundi,2014,2.4
+BI,Burundi,2012,1.68
+CM,Cameroon,2022,2.1
+CM,Cameroon,2018,2.57
+CM,Cameroon,2016,2.205693
+CM,Cameroon,2014,1.853742
+CM,Cameroon,2012,2.24
+CF,Central African Republic,2022,2.6
+CF,Central African Republic,2018,1.93
+CF,Central African Republic,2014,2.497619
+TD,Chad,2018,2.37
+TD,Chad,2016,2.074374
+TD,Chad,2014,2.333333
+TD,Chad,2012,2
+CD,"Congo, Dem. Rep.",2022,2.3
+CD,"Congo, Dem. Rep.",2018,2.12
+CD,"Congo, Dem. Rep.",2016,2.009918
+CD,"Congo, Dem. Rep.",2014,1.834573
+CD,"Congo, Dem. Rep.",2012,1.96
+CG,"Congo, Rep.",2022,2.1
+CG,"Congo, Rep.",2018,2.07
+CG,"Congo, Rep.",2016,2.59596
+CG,"Congo, Rep.",2014,1.833333
+CG,"Congo, Rep.",2012,1.27
+CI,Cote d'Ivoire,2018,2.89
+CI,Cote d'Ivoire,2016,2.463248
+CI,Cote d'Ivoire,2014,2.40873
+CI,Cote d'Ivoire,2012,2.31
+DJ,Djibouti,2022,2.3
+DJ,Djibouti,2018,2.79
+DJ,Djibouti,2016,2.297812
+DJ,Djibouti,2014,2
+DJ,Djibouti,2012,1.51
+EG,"Egypt, Arab Rep.",2022,3
+EG,"Egypt, Arab Rep.",2018,2.82
+EG,"Egypt, Arab Rep.",2016,3.07241
+EG,"Egypt, Arab Rep.",2014,2.86127
+EG,"Egypt, Arab Rep.",2012,3.07
+ER,Eritrea,2018,1.86
+ER,Eritrea,2016,2.062937
+ER,Eritrea,2014,1.676667
+ER,Eritrea,2012,1.83
+ET,Ethiopia,2016,2.117674
+ET,Ethiopia,2014,2.166667
+ET,Ethiopia,2012,2.22
+GA,Gabon,2022,2.2
+GA,Gabon,2018,2.09
+GA,Gabon,2016,2.045943
+GA,Gabon,2014,2.083333
+GA,Gabon,2012,2
+GM,"Gambia, The",2022,2.3
+GM,"Gambia, The",2018,1.82
+GM,"Gambia, The",2014,2
+GM,"Gambia, The",2012,1.9
+GH,Ghana,2022,2.4
+GH,Ghana,2018,2.44
+GH,Ghana,2016,2.484248
+GH,Ghana,2014,2.669054
+GH,Ghana,2012,2.05
+GN,Guinea,2022,2.4
+GN,Guinea,2018,1.56
+GN,Guinea,2016,2.011655
+GN,Guinea,2014,2.097318
+GN,Guinea,2012,2.34
+GW,Guinea-Bissau,2022,2.4
+GW,Guinea-Bissau,2018,1.78
+GW,Guinea-Bissau,2016,1.907407
+GW,Guinea-Bissau,2014,2.285714
+GW,Guinea-Bissau,2012,2.68
+KE,Kenya,2018,2.55
+KE,Kenya,2016,3.209709
+KE,Kenya,2014,2.402778
+KE,Kenya,2012,2.16
+LS,Lesotho,2018,1.96
+LS,Lesotho,2016,1.961644
+LS,Lesotho,2014,2.350309
+LS,Lesotho,2012,2.12
+LR,Liberia,2022,2.4
+LR,Liberia,2018,1.91
+LR,Liberia,2016,2.012614
+LR,Liberia,2014,2.571429
+LR,Liberia,2012,2.41
+LY,Libya,2022,1.7
+LY,Libya,2018,2.25
+LY,Libya,2016,2.04072
+LY,Libya,2014,2.294118
+LY,Libya,2012,1.75
+MG,Madagascar,2022,1.8
+MG,Madagascar,2018,2.16
+MG,Madagascar,2016,2.118222
+MG,Madagascar,2014,2.147727
+MG,Madagascar,2012,2.4
+MW,Malawi,2018,2.18
+MW,Malawi,2014,3.042141
+MW,Malawi,2012,2.78
+ML,Mali,2022,2
+ML,Mali,2018,2.3
+ML,Mali,2016,2.299231
+ML,Mali,2014,2.202778
+MR,Mauritania,2022,2
+MR,Mauritania,2018,2.26
+MR,Mauritania,2016,1.542857
+MR,Mauritania,2014,2.4
+MR,Mauritania,2012,2.34
+MU,Mauritius,2022,2.5
+MU,Mauritius,2018,2.8
+MU,Mauritius,2014,2.5
+MU,Mauritius,2012,2.83
+MA,Morocco,2018,2.43
+MA,Morocco,2016,2.46142
+MA,Morocco,2012,3.14
+MZ,Mozambique,2016,2.238017
+MZ,Mozambique,2014,2.153846
+NA,Namibia,2022,2.8
+NA,Namibia,2016,2.763889
+NA,Namibia,2014,2.570793
+NA,Namibia,2012,2.72
+NE,Niger,2018,2
+NE,Niger,2016,2.222419
+NE,Niger,2014,2.079882
+NE,Niger,2012,2.45
+NG,Nigeria,2022,2.4
+NG,Nigeria,2018,2.56
+NG,Nigeria,2016,2.398846
+NG,Nigeria,2014,2.559328
+NG,Nigeria,2012,2.27

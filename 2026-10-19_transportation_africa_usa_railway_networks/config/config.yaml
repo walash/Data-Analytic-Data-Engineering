@@ -1,0 +1,76 @@
+# Africa & USA Railway Networks — pipeline configuration
+# The World Bank Indicators API v2 is open data: no API key is required.
+
+project:
+  name: africa_usa_railway_networks
+  description: Cross-border rail infrastructure, freight and passenger analysis (Africa vs USA)
+
+worldbank:
+  base_url: https://api.worldbank.org/v2
+  format: json
+  per_page: 1000
+  date_range: "2000:2025"
+  # Countries are requested in batches to keep URLs short and responses small.
+  country_batch_size: 20
+  indicators:
+    rail_lines_km:
+      code: IS.RRS.TOTL.KM
+      description: Rail lines (total route-km)
+      output_file: wb_rail_lines_km.csv
+      value_column: rail_lines_km
+    rail_freight_million_tkm:
+      code: IS.RRS.GOOD.MT.K6
+      description: Railways, goods transported (million ton-km)
+      output_file: wb_rail_freight_million_tkm.csv
+      value_column: rail_freight_million_tkm
+    rail_passengers_million_km:
+      code: IS.RRS.PASG.KM
+      description: Railways, passengers carried (million passenger-km)
+      output_file: wb_rail_passengers_million_km.csv
+      value_column: rail_passengers_million_km
+    gdp_per_capita_usd:
+      code: NY.GDP.PCAP.CD
+      description: GDP per capita (current US$)
+      output_file: wb_gdp_per_capita_usd.csv
+      value_column: gdp_per_capita_usd
+    lpi_infrastructure_score:
+      code: LP.LPI.INFR.XQ
+      description: Logistics Performance Index - quality of trade and transport infrastructure (1=low to 5=high)
+      output_file: wb_lpi_infrastructure_score.csv
+      value_column: lpi_infrastructure_score
+
+# ISO-3166 alpha-2 codes grouped by sub-region. "US" is the benchmark country.
+regions:
+  North Africa: [DZ, EG, LY, MA, SD, TN]
+  West Africa: [BJ, BF, CV, CI, GM, GH, GN, GW, LR, ML, MR, NE, NG, SN, SL, TG]
+  Central Africa: [AO, CM, CF, TD, CG, CD, GQ, GA, ST]
+  East Africa: [BI, KM, DJ, ER, ET, KE, MG, MW, MU, MZ, RW, SC, SO, SS, TZ, UG, ZM, ZW]
+  Southern Africa: [BW, SZ, LS, NA, ZA]
+  North America: [US]
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  master_file: data/processed/railway_master.csv
+  country_profiles_file: data/processed/country_profiles.csv
+  database: data/railway_networks.db
+  report_dir: reports
+
+pipeline:
+  log_level: INFO
+  request_timeout_seconds: 30
+  max_retries: 3
+  backoff_factor_seconds: 2
+  # Forward-fill limit (in years) for slowly-changing series such as rail route-km and the biennial LPI.
+  ffill_limit_years: 4
+  min_year: 2000
+  max_year: 2025
+
+database:
+  engine: sqlite
+  tables:
+    - country_profiles
+    - rail_infrastructure
+    - rail_freight
+    - rail_passengers
+  if_exists: replace

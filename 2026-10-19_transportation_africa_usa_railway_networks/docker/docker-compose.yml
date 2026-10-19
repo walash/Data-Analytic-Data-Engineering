@@ -1,0 +1,23 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-railway-networks:latest
+    container_name: africa_usa_railway_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+      RAILWAY_DB_PATH: /app/data/railway_networks.db
+      TZ: UTC
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+      - ../reports:/app/reports
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
