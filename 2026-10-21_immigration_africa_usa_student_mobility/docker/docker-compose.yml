@@ -1,0 +1,36 @@
+# Usage (from the project root):
+#   docker compose -f docker/docker-compose.yml up --build
+# Then browse the SQLite database at http://localhost:8080
+name: africa-usa-student-mobility
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-student-mobility:latest
+    container_name: student-mobility-pipeline
+    environment:
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      CONFIG_PATH: /app/config/config.yaml
+      DB_PATH: /app/data/student_mobility.db
+    volumes:
+      - ../data:/app/data
+      - ../reports:/app/reports
+      - ../config:/app/config:ro
+    restart: "no"
+
+  sqlite:
+    # Lightweight web UI + SQL console on top of the pipeline's SQLite file.
+    image: coleifer/sqlite-web:latest
+    container_name: student-mobility-sqlite
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    command: ["sqlite_web", "--host", "0.0.0.0", "--port", "8080", "--read-only",
+              "--no-browser", "/data/student_mobility.db"]
+    volumes:
+      - ../data:/data:ro
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

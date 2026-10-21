@@ -1,0 +1,7 @@
+indicator_key,indicator_code,indicator_name,unit,source
+net_migration,SM.POP.NETM,Net migration,persons,World Bank WDI
+tertiary_enrollment,SE.TER.ENRR,"School enrollment, tertiary (% gross)",percent,World Bank WDI
+education_expenditure,SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total (% of GDP)",percent_of_gdp,World Bank WDI
+remittances,BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",usd,World Bank WDI
+gdp_per_capita,NY.GDP.PCAP.CD,GDP per capita (current US$),usd,World Bank WDI
+population,SP.POP.TOTL,"Population, total",persons,World Bank WDI

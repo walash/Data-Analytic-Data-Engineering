@@ -1,0 +1,17 @@
+iso3,country_name,region,sub_region,is_africa,is_usa,wb_name
+NGA,Nigeria,Africa,West Africa,1,0,Nigeria
+KEN,Kenya,Africa,East Africa,1,0,Kenya
+GHA,Ghana,Africa,West Africa,1,0,Ghana
+ETH,Ethiopia,Africa,East Africa,1,0,Ethiopia
+ZAF,South Africa,Africa,Southern Africa,1,0,South Africa
+EGY,Egypt,Africa,North Africa,1,0,"Egypt, Arab Rep."
+MAR,Morocco,Africa,North Africa,1,0,Morocco
+TZA,Tanzania,Africa,East Africa,1,0,Tanzania
+UGA,Uganda,Africa,East Africa,1,0,Uganda
+SEN,Senegal,Africa,West Africa,1,0,Senegal
+CMR,Cameroon,Africa,Central Africa,1,0,Cameroon
+CIV,Cote d'Ivoire,Africa,West Africa,1,0,Cote d'Ivoire
+ZMB,Zambia,Africa,Southern Africa,1,0,Zambia
+RWA,Rwanda,Africa,East Africa,1,0,Rwanda
+TUN,Tunisia,Africa,North Africa,1,0,Tunisia
+USA,United States,North America,North America,0,1,United States

@@ -1,0 +1,117 @@
+# =============================================================================
+# African Student Mobility to/from the USA - Pipeline Configuration
+# Domain: Global Immigration | Run date: 2026-10-21
+# =============================================================================
+
+project:
+  name: africa_usa_student_mobility
+  description: "African student mobility drivers (education, economy, migration) vs. USA"
+  version: "1.0.0"
+
+# -----------------------------------------------------------------------------
+# API KEYS
+# The World Bank Indicators API v2 is public and requires NO key.
+# The placeholders below are only for OPTIONAL future extensions.
+# Prefer environment variables over editing this file.
+# -----------------------------------------------------------------------------
+api_keys:
+  # OPTIONAL - UNESCO UIS bulk/API key for outbound mobility (SE.TER.OUT*) data
+  unesco_uis_api_key: "YOUR_UNESCO_UIS_API_KEY_HERE"      # env: UNESCO_UIS_API_KEY
+  # OPTIONAL - IIE Open Doors data portal token (US international enrollment)
+  iie_open_doors_token: "YOUR_IIE_OPEN_DOORS_TOKEN_HERE"  # env: IIE_OPEN_DOORS_TOKEN
+  # OPTIONAL - SMTP password for Airflow failure e-mails
+  smtp_password: "YOUR_SMTP_PASSWORD_HERE"                # env: SMTP_PASSWORD
+
+# -----------------------------------------------------------------------------
+# Paths (relative to project root)
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database: data/student_mobility.db
+  reports_dir: reports
+  sql_file: sql/queries.sql
+
+# -----------------------------------------------------------------------------
+# World Bank Indicators API
+# -----------------------------------------------------------------------------
+worldbank:
+  base_url: "https://api.worldbank.org/v2"
+  format: json
+  per_page: 1000
+  date_range: "2000:2025"
+  request_timeout: 60
+  max_retries: 4
+  backoff_seconds: 2
+  indicators:
+    net_migration:
+      code: SM.POP.NETM
+      file: wb_net_migration.json
+      name: "Net migration"
+      unit: persons
+    tertiary_enrollment:
+      code: SE.TER.ENRR
+      file: wb_tertiary_enrollment.json
+      name: "School enrollment, tertiary (% gross)"
+      unit: percent
+    education_expenditure:
+      code: SE.XPD.TOTL.GD.ZS
+      file: wb_education_expenditure.json
+      name: "Government expenditure on education, total (% of GDP)"
+      unit: percent_of_gdp
+    remittances:
+      code: BX.TRF.PWKR.CD.DT
+      file: wb_remittances.json
+      name: "Personal remittances, received (current US$)"
+      unit: usd
+    gdp_per_capita:
+      code: NY.GDP.PCAP.CD
+      file: wb_gdp_per_capita.json
+      name: "GDP per capita (current US$)"
+      unit: usd
+    population:
+      code: SP.POP.TOTL
+      file: wb_population.json
+      name: "Population, total"
+      unit: persons
+
+# -----------------------------------------------------------------------------
+# Geographic scope
+# -----------------------------------------------------------------------------
+countries:
+  usa: USA
+  africa:
+    NGA: {name: Nigeria, sub_region: West Africa}
+    KEN: {name: Kenya, sub_region: East Africa}
+    GHA: {name: Ghana, sub_region: West Africa}
+    ETH: {name: Ethiopia, sub_region: East Africa}
+    ZAF: {name: South Africa, sub_region: Southern Africa}
+    EGY: {name: Egypt, sub_region: North Africa}
+    MAR: {name: Morocco, sub_region: North Africa}
+    TZA: {name: Tanzania, sub_region: East Africa}
+    UGA: {name: Uganda, sub_region: East Africa}
+    SEN: {name: Senegal, sub_region: West Africa}
+    CMR: {name: Cameroon, sub_region: Central Africa}
+    CIV: {name: "Cote d'Ivoire", sub_region: West Africa}
+    ZMB: {name: Zambia, sub_region: Southern Africa}
+    RWA: {name: Rwanda, sub_region: East Africa}
+    TUN: {name: Tunisia, sub_region: North Africa}
+
+# -----------------------------------------------------------------------------
+# Transformation settings
+# -----------------------------------------------------------------------------
+transform:
+  min_year: 2000
+  max_year: 2025
+  # Interpolate interior gaps up to N consecutive missing years per country
+  interpolate_limit: 3
+  # Weights of the Student Mobility Pressure Index (must sum to 1.0)
+  mobility_pressure_weights:
+    enrollment_gap: 0.35
+    income_gap: 0.35
+    remittance_intensity: 0.15
+    emigration_rate: 0.15
+
+pipeline:
+  log_level: INFO
+  report_file: reports/pipeline_report.md
