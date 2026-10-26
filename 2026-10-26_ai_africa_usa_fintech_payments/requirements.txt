@@ -1,0 +1,25 @@
+# Core pipeline
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+pyyaml==6.0.1
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+
+# Analysis & visualisation
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+jupyter==1.0.0
+nbformat==5.9.2
+
+# Linting (CI)
+flake8==7.0.0
+
+# Orchestration
+# apache-airflow==2.8.0 requires sqlalchemy<2.0, which conflicts with sqlalchemy==2.0.23 above,
+# so pip cannot resolve both in one environment. Install Airflow in its own environment
+# (or use the official apache/airflow:2.8.0-python3.11 image) with the official constraints file:
+#   pip install "apache-airflow==2.8.0" --constraint \
+#     "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.0/constraints-3.11.txt"
+# apache-airflow==2.8.0

@@ -1,0 +1,76 @@
+# ---------------------------------------------------------------------------
+# AI-Driven Fintech & Digital Payments: Africa and USA - pipeline configuration
+# The World Bank Indicators API is public, so no API keys or secrets are needed.
+# ---------------------------------------------------------------------------
+
+world_bank_api:
+  base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 500
+  mrv: 5                      # most recent values per country
+  timeout_seconds: 30
+  retry:
+    max_retries: 3
+    backoff_factor: 2         # wait = backoff_factor ** attempt seconds (2s, 4s, 8s)
+    retry_on_status: [429, 500, 502, 503, 504]
+
+  # Indicator code -> output file + value column written to data/raw/
+  indicators:
+    financial_inclusion:
+      code: "FX.OWN.TOTL.ZS"
+      name: "Account ownership at a financial institution or mobile-money provider (% of population 15+)"
+      file: "financial_inclusion.csv"
+      value_column: "value"
+    internet_users:
+      code: "IT.NET.USER.ZS"
+      name: "Individuals using the Internet (% of population)"
+      file: "internet_users.csv"
+      value_column: "value"
+    mobile_subscriptions:
+      code: "IT.CEL.SETS.P2"
+      name: "Mobile cellular subscriptions (per 100 people)"
+      file: "mobile_subscriptions.csv"
+      value_column: "value"
+    remittances:
+      code: "BX.TRF.PWKR.CD.DT"
+      name: "Personal remittances, received (current US$)"
+      file: "remittances.csv"
+      value_column: "value_usd"
+    gdp_per_capita:
+      code: "NY.GDP.PCAP.CD"
+      name: "GDP per capita (current US$)"
+      file: "gdp_per_capita.csv"
+      value_column: "value_usd"
+
+  # Supplementary indicator used only to derive total GDP for remittance_to_gdp_ratio
+  supplementary_indicators:
+    population:
+      code: "SP.POP.TOTL"
+      name: "Population, total"
+      file: "population.csv"
+      value_column: "value"
+
+  # ISO-2 codes: 15 African countries + United States
+  countries:
+    africa: ["NG", "KE", "GH", "ZA", "ET", "TZ", "UG", "SN", "CI", "CM", "EG", "MA", "TN", "RW", "ZM"]
+    usa: ["US"]
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  database_path: "data/fintech_africa_usa.db"
+  reports_dir: "reports"
+
+pipeline:
+  name: "fintech_africa_usa_pipeline"
+  schedule: "0 6 * * 1,3,5"   # Mon / Wed / Fri at 06:00
+  batch_size: 500             # rows per executemany() batch during loading
+  log_level: "INFO"
+
+scoring:
+  # Weights of the composite fintech_readiness_score (must sum to 1.0)
+  fintech_readiness_weights:
+    financial_inclusion: 0.4
+    internet_users: 0.3
+    mobile_subscriptions: 0.3
+  mobile_cap_per_100: 100     # subscriptions above 100 per 100 people are capped

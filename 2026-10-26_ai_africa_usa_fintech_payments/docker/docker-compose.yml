@@ -1,0 +1,43 @@
+# Run from the docker/ directory:
+#   docker compose up --build
+# - pipeline:       runs ingest -> transform -> load and exits
+# - sqlite-viewer:  sqlite-web UI at http://localhost:8080 browsing
+#                   data/fintech_africa_usa.db (tables, rows, ad-hoc SQL)
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: fintech-africa-usa:latest
+    container_name: fintech_africa_usa_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      RAW_DATA_DIR: "/app/data/raw"
+      PROCESSED_DATA_DIR: "/app/data/processed"
+      DB_PATH: "/app/data/fintech_africa_usa.db"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+      - ../reports:/app/reports
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  sqlite-viewer:
+    # sqlite-web: lightweight browser-based SQLite viewer/query editor
+    image: coleifer/sqlite-web:latest
+    container_name: fintech_africa_usa_sqlite_web
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      SQLITE_DATABASE: "fintech_africa_usa.db"
+    ports:
+      - "8080:8080"
+    volumes:
+      - ../data:/data
+    restart: unless-stopped
