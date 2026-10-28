@@ -1,0 +1,1365 @@
+country_code,country_name,year,tb_incidence_per_100k,low_estimate,high_estimate,uncertainty_range,burden_category,incidence_yoy_change_pct
+AGO,Angola,2000,270.0,138.0,737.0,599.0,High,
+AGO,Angola,2001,336.0,178.0,860.0,682.0,Very High,24.44
+AGO,Angola,2002,390.0,211.0,959.0,748.0,Very High,16.07
+AGO,Angola,2003,434.0,238.0,1040.0,802.0,Very High,11.28
+AGO,Angola,2004,468.0,259.0,1090.0,831.0,Very High,7.83
+AGO,Angola,2005,491.0,274.0,1130.0,856.0,Very High,4.91
+AGO,Angola,2006,507.0,285.0,1140.0,855.0,Very High,3.26
+AGO,Angola,2007,509.0,288.0,1130.0,842.0,Very High,0.39
+AGO,Angola,2008,499.0,284.0,1100.0,816.0,Very High,-1.96
+AGO,Angola,2009,489.0,280.0,1060.0,780.0,Very High,-2.0
+AGO,Angola,2010,480.0,276.0,1040.0,764.0,Very High,-1.84
+AGO,Angola,2011,469.0,269.0,1010.0,741.0,Very High,-2.29
+AGO,Angola,2012,458.0,264.0,986.0,722.0,Very High,-2.35
+AGO,Angola,2013,453.0,263.0,963.0,700.0,Very High,-1.09
+AGO,Angola,2014,451.0,264.0,943.0,679.0,Very High,-0.44
+AGO,Angola,2015,445.0,263.0,917.0,654.0,Very High,-1.33
+AGO,Angola,2016,433.0,258.0,877.0,619.0,Very High,-2.7
+AGO,Angola,2017,418.0,251.0,831.0,580.0,Very High,-3.46
+AGO,Angola,2018,403.0,245.0,790.0,545.0,Very High,-3.59
+AGO,Angola,2019,390.0,238.0,755.0,517.0,Very High,-3.23
+AGO,Angola,2020,373.0,241.0,538.0,297.0,Very High,-4.36
+AGO,Angola,2021,371.0,241.0,539.0,298.0,Very High,-0.54
+AGO,Angola,2022,379.0,248.0,550.0,302.0,Very High,2.16
+AGO,Angola,2023,383.0,251.0,558.0,307.0,Very High,1.06
+AGO,Angola,2024,373.0,243.0,545.0,302.0,Very High,-2.61
+BDI,Burundi,2000,213.0,110.0,575.0,465.0,High,
+BDI,Burundi,2001,209.0,110.0,543.0,433.0,High,-1.88
+BDI,Burundi,2002,205.0,110.0,513.0,403.0,High,-1.91
+BDI,Burundi,2003,200.0,109.0,484.0,375.0,High,-2.44
+BDI,Burundi,2004,194.0,107.0,457.0,350.0,High,-3.0
+BDI,Burundi,2005,188.0,105.0,431.0,326.0,High,-3.09
+BDI,Burundi,2006,182.0,103.0,407.0,304.0,High,-3.19
+BDI,Burundi,2007,175.0,100.0,383.0,283.0,High,-3.85
+BDI,Burundi,2008,168.0,97.0,361.0,264.0,High,-4.0
+BDI,Burundi,2009,160.0,93.0,341.0,248.0,High,-4.76
+BDI,Burundi,2010,154.0,90.0,325.0,235.0,High,-3.75
+BDI,Burundi,2011,148.0,86.0,313.0,227.0,High,-3.9
+BDI,Burundi,2012,142.0,83.0,299.0,216.0,High,-4.05
+BDI,Burundi,2013,136.0,80.0,283.0,203.0,High,-4.23
+BDI,Burundi,2014,130.0,77.0,267.0,190.0,High,-4.41
+BDI,Burundi,2015,124.0,74.0,251.0,177.0,High,-4.62
+BDI,Burundi,2016,118.0,71.0,235.0,164.0,High,-4.84
+BDI,Burundi,2017,112.0,68.0,220.0,152.0,High,-5.08
+BDI,Burundi,2018,106.0,65.0,207.0,142.0,High,-5.36
+BDI,Burundi,2019,102.0,62.0,196.0,134.0,High,-3.77
+BDI,Burundi,2020,97.0,60.0,186.0,126.0,Moderate,-4.9
+BDI,Burundi,2021,93.0,57.0,177.0,120.0,Moderate,-4.12
+BDI,Burundi,2022,89.0,55.0,170.0,115.0,Moderate,-4.3
+BDI,Burundi,2023,86.0,53.0,164.0,111.0,Moderate,-3.37
+BDI,Burundi,2024,83.0,51.0,160.0,109.0,Moderate,-3.49
+BEN,Benin,2000,71.0,36.0,194.0,158.0,Moderate,
+BEN,Benin,2001,75.0,39.0,196.0,157.0,Moderate,5.63
+BEN,Benin,2002,78.0,41.0,196.0,155.0,Moderate,4.0
+BEN,Benin,2003,80.0,43.0,196.0,153.0,Moderate,2.56
+BEN,Benin,2004,82.0,45.0,195.0,150.0,Moderate,2.5
+BEN,Benin,2005,83.0,46.0,193.0,147.0,Moderate,1.22
+BEN,Benin,2006,84.0,47.0,190.0,143.0,Moderate,1.2
+BEN,Benin,2007,84.0,47.0,186.0,139.0,Moderate,0.0
+BEN,Benin,2008,83.0,47.0,181.0,134.0,Moderate,-1.19
+BEN,Benin,2009,81.0,47.0,176.0,129.0,Moderate,-2.41
+BEN,Benin,2010,79.0,46.0,170.0,124.0,Moderate,-2.47
+BEN,Benin,2011,76.0,44.0,163.0,119.0,Moderate,-3.8
+BEN,Benin,2012,73.0,42.0,155.0,113.0,Moderate,-3.95
+BEN,Benin,2013,69.0,40.0,147.0,107.0,Moderate,-5.48
+BEN,Benin,2014,66.0,38.0,137.0,99.0,Moderate,-4.35
+BEN,Benin,2015,62.0,37.0,129.0,92.0,Moderate,-6.06
+BEN,Benin,2016,59.0,35.0,120.0,85.0,Moderate,-4.84
+BEN,Benin,2017,56.0,34.0,112.0,78.0,Moderate,-5.08
+BEN,Benin,2018,53.0,32.0,105.0,73.0,Moderate,-5.36
+BEN,Benin,2019,51.0,31.0,98.0,67.0,Moderate,-3.77
+BEN,Benin,2020,48.0,29.0,93.0,64.0,Moderate,-5.88
+BEN,Benin,2021,46.0,28.0,87.0,59.0,Moderate,-4.17
+BEN,Benin,2022,44.0,27.0,83.0,56.0,Moderate,-4.35
+BEN,Benin,2023,42.0,26.0,79.0,53.0,Moderate,-4.55
+BEN,Benin,2024,40.0,24.0,76.0,52.0,Moderate,-4.76
+BFA,Burkina Faso,2000,93.0,57.0,177.0,120.0,Moderate,
+BFA,Burkina Faso,2001,91.0,56.0,174.0,118.0,Moderate,-2.15
+BFA,Burkina Faso,2002,89.0,55.0,170.0,115.0,Moderate,-2.2
+BFA,Burkina Faso,2003,87.0,54.0,167.0,113.0,Moderate,-2.25
+BFA,Burkina Faso,2004,85.0,52.0,164.0,112.0,Moderate,-2.3
+BFA,Burkina Faso,2005,84.0,51.0,160.0,109.0,Moderate,-1.18
+BFA,Burkina Faso,2006,82.0,50.0,157.0,107.0,Moderate,-2.38
+BFA,Burkina Faso,2007,80.0,49.0,154.0,105.0,Moderate,-2.44
+BFA,Burkina Faso,2008,79.0,48.0,151.0,103.0,Moderate,-1.25
+BFA,Burkina Faso,2009,77.0,47.0,148.0,101.0,Moderate,-2.53
+BFA,Burkina Faso,2010,76.0,46.0,145.0,99.0,Moderate,-1.3
+BFA,Burkina Faso,2011,74.0,46.0,142.0,96.0,Moderate,-2.63
+BFA,Burkina Faso,2012,73.0,45.0,139.0,94.0,Moderate,-1.35
+BFA,Burkina Faso,2013,71.0,44.0,136.0,92.0,Moderate,-2.74
+BFA,Burkina Faso,2014,70.0,43.0,134.0,91.0,Moderate,-1.41
+BFA,Burkina Faso,2015,68.0,42.0,131.0,89.0,Moderate,-2.86
+BFA,Burkina Faso,2016,67.0,41.0,128.0,87.0,Moderate,-1.47
+BFA,Burkina Faso,2017,66.0,40.0,126.0,86.0,Moderate,-1.49
+BFA,Burkina Faso,2018,64.0,40.0,123.0,83.0,Moderate,-3.03
+BFA,Burkina Faso,2019,63.0,39.0,121.0,82.0,Moderate,-1.56
+BFA,Burkina Faso,2020,62.0,38.0,119.0,81.0,Moderate,-1.59
+BFA,Burkina Faso,2021,61.0,37.0,116.0,79.0,Moderate,-1.61
+BFA,Burkina Faso,2022,59.0,36.0,114.0,78.0,Moderate,-3.28
+BFA,Burkina Faso,2023,58.0,36.0,112.0,76.0,Moderate,-1.69
+BFA,Burkina Faso,2024,57.0,35.0,109.0,74.0,Moderate,-1.72
+BWA,Botswana,2000,976.0,545.0,2230.0,1685.0,Very High,
+BWA,Botswana,2001,938.0,527.0,2120.0,1593.0,Very High,-3.89
+BWA,Botswana,2002,901.0,510.0,2010.0,1500.0,Very High,-3.94
+BWA,Botswana,2003,863.0,492.0,1910.0,1418.0,Very High,-4.22
+BWA,Botswana,2004,826.0,474.0,1800.0,1326.0,Very High,-4.29
+BWA,Botswana,2005,788.0,456.0,1700.0,1244.0,Very High,-4.6
+BWA,Botswana,2006,751.0,438.0,1590.0,1152.0,Very High,-4.7
+BWA,Botswana,2007,714.0,420.0,1480.0,1060.0,Very High,-4.93
+BWA,Botswana,2008,676.0,402.0,1380.0,978.0,Very High,-5.32
+BWA,Botswana,2009,639.0,384.0,1270.0,886.0,Very High,-5.47
+BWA,Botswana,2010,601.0,366.0,1160.0,794.0,Very High,-5.95
+BWA,Botswana,2011,568.0,346.0,1100.0,754.0,Very High,-5.49
+BWA,Botswana,2012,536.0,326.0,1040.0,714.0,Very High,-5.63
+BWA,Botswana,2013,503.0,306.0,974.0,668.0,Very High,-6.16
+BWA,Botswana,2014,470.0,286.0,911.0,625.0,Very High,-6.56
+BWA,Botswana,2015,437.0,266.0,848.0,582.0,Very High,-7.02
+BWA,Botswana,2016,405.0,246.0,785.0,539.0,Very High,-7.32
+BWA,Botswana,2017,372.0,226.0,722.0,496.0,Very High,-8.15
+BWA,Botswana,2018,339.0,206.0,658.0,452.0,Very High,-8.87
+BWA,Botswana,2019,306.0,186.0,595.0,409.0,Very High,-9.73
+BWA,Botswana,2020,274.0,166.0,532.0,366.0,High,-10.46
+BWA,Botswana,2021,241.0,146.0,469.0,323.0,High,-12.04
+BWA,Botswana,2022,208.0,126.0,406.0,280.0,High,-13.69
+BWA,Botswana,2023,175.0,106.0,343.0,237.0,High,-15.87
+BWA,Botswana,2024,143.0,86.0,280.0,194.0,High,-18.29
+CAF,Central African Republic,2000,681.0,422.0,1280.0,858.0,Very High,
+CAF,Central African Republic,2001,667.0,414.0,1260.0,846.0,Very High,-2.06
+CAF,Central African Republic,2002,654.0,405.0,1230.0,825.0,Very High,-1.95
+CAF,Central African Republic,2003,641.0,397.0,1210.0,813.0,Very High,-1.99
+CAF,Central African Republic,2004,628.0,389.0,1180.0,791.0,Very High,-2.03
+CAF,Central African Republic,2005,615.0,381.0,1160.0,779.0,Very High,-2.07
+CAF,Central African Republic,2006,603.0,374.0,1130.0,756.0,Very High,-1.95
+CAF,Central African Republic,2007,591.0,366.0,1110.0,744.0,Very High,-1.99
+CAF,Central African Republic,2008,579.0,359.0,1090.0,731.0,Very High,-2.03
+CAF,Central African Republic,2009,568.0,352.0,1070.0,718.0,Very High,-1.9
+CAF,Central African Republic,2010,556.0,345.0,1050.0,705.0,Very High,-2.11
+CAF,Central African Republic,2011,545.0,338.0,1030.0,692.0,Very High,-1.98
+CAF,Central African Republic,2012,534.0,331.0,1010.0,679.0,Very High,-2.02
+CAF,Central African Republic,2013,524.0,325.0,985.0,660.0,Very High,-1.87
+CAF,Central African Republic,2014,513.0,318.0,965.0,647.0,Very High,-2.1
+CAF,Central African Republic,2015,503.0,312.0,946.0,634.0,Very High,-1.95
+CAF,Central African Republic,2016,493.0,305.0,927.0,622.0,Very High,-1.99
+CAF,Central African Republic,2017,483.0,299.0,909.0,610.0,Very High,-2.03
+CAF,Central African Republic,2018,473.0,293.0,891.0,598.0,Very High,-2.07
+CAF,Central African Republic,2019,464.0,288.0,873.0,585.0,Very High,-1.9
+CAF,Central African Republic,2020,455.0,282.0,855.0,573.0,Very High,-1.94
+CAF,Central African Republic,2021,446.0,276.0,838.0,562.0,Very High,-1.98
+CAF,Central African Republic,2022,437.0,271.0,821.0,550.0,Very High,-2.02
+CAF,Central African Republic,2023,428.0,265.0,805.0,540.0,Very High,-2.06
+CAF,Central African Republic,2024,419.0,260.0,789.0,529.0,Very High,-2.1
+CIV,Cote d'Ivoire,2000,166.0,86.0,441.0,355.0,High,
+CIV,Cote d'Ivoire,2001,180.0,96.0,455.0,359.0,High,8.43
+CIV,Cote d'Ivoire,2002,191.0,104.0,467.0,363.0,High,6.11
+CIV,Cote d'Ivoire,2003,201.0,110.0,475.0,365.0,High,5.24
+CIV,Cote d'Ivoire,2004,208.0,116.0,480.0,364.0,High,3.48
+CIV,Cote d'Ivoire,2005,213.0,120.0,482.0,362.0,High,2.4
+CIV,Cote d'Ivoire,2006,217.0,123.0,481.0,358.0,High,1.88
+CIV,Cote d'Ivoire,2007,218.0,124.0,477.0,353.0,High,0.46
+CIV,Cote d'Ivoire,2008,217.0,125.0,470.0,345.0,High,-0.46
+CIV,Cote d'Ivoire,2009,215.0,124.0,460.0,336.0,High,-0.92
+CIV,Cote d'Ivoire,2010,209.0,121.0,445.0,324.0,High,-2.79
+CIV,Cote d'Ivoire,2011,201.0,117.0,427.0,310.0,High,-3.83
+CIV,Cote d'Ivoire,2012,193.0,112.0,408.0,296.0,High,-3.98
+CIV,Cote d'Ivoire,2013,184.0,107.0,383.0,276.0,High,-4.66
+CIV,Cote d'Ivoire,2014,173.0,102.0,355.0,253.0,High,-5.98
+CIV,Cote d'Ivoire,2015,162.0,97.0,329.0,232.0,High,-6.36
+CIV,Cote d'Ivoire,2016,153.0,91.0,304.0,213.0,High,-5.56
+CIV,Cote d'Ivoire,2017,142.0,86.0,279.0,193.0,High,-7.19
+CIV,Cote d'Ivoire,2018,133.0,81.0,258.0,177.0,High,-6.34
+CIV,Cote d'Ivoire,2019,126.0,77.0,241.0,164.0,High,-5.26
+CIV,Cote d'Ivoire,2020,118.0,73.0,226.0,153.0,High,-6.35
+CIV,Cote d'Ivoire,2021,112.0,69.0,213.0,144.0,High,-5.08
+CIV,Cote d'Ivoire,2022,107.0,66.0,204.0,138.0,High,-4.46
+CIV,Cote d'Ivoire,2023,103.0,63.0,197.0,134.0,High,-3.74
+CIV,Cote d'Ivoire,2024,99.0,60.0,192.0,132.0,Moderate,-3.88
+CMR,Cameroon,2000,84.0,43.0,226.0,183.0,Moderate,
+CMR,Cameroon,2001,131.0,71.0,319.0,248.0,High,55.95
+CMR,Cameroon,2002,172.0,95.0,398.0,303.0,High,31.3
+CMR,Cameroon,2003,206.0,116.0,465.0,349.0,High,19.77
+CMR,Cameroon,2004,234.0,133.0,518.0,385.0,High,13.59
+CMR,Cameroon,2005,255.0,146.0,558.0,412.0,High,8.97
+CMR,Cameroon,2006,271.0,155.0,587.0,432.0,High,6.27
+CMR,Cameroon,2007,279.0,161.0,600.0,439.0,High,2.95
+CMR,Cameroon,2008,280.0,161.0,598.0,437.0,High,0.36
+CMR,Cameroon,2009,278.0,161.0,591.0,430.0,High,-0.71
+CMR,Cameroon,2010,271.0,157.0,575.0,418.0,High,-2.52
+CMR,Cameroon,2011,259.0,150.0,550.0,400.0,High,-4.43
+CMR,Cameroon,2012,248.0,144.0,525.0,381.0,High,-4.25
+CMR,Cameroon,2013,238.0,139.0,497.0,358.0,High,-4.03
+CMR,Cameroon,2014,226.0,133.0,465.0,332.0,High,-5.04
+CMR,Cameroon,2015,214.0,127.0,434.0,307.0,High,-5.31
+CMR,Cameroon,2016,202.0,121.0,404.0,283.0,High,-5.61
+CMR,Cameroon,2017,189.0,114.0,372.0,258.0,High,-6.44
+CMR,Cameroon,2018,177.0,108.0,344.0,236.0,High,-6.35
+CMR,Cameroon,2019,168.0,102.0,322.0,220.0,High,-5.08
+CMR,Cameroon,2020,158.0,97.0,302.0,205.0,High,-5.95
+CMR,Cameroon,2021,150.0,92.0,286.0,194.0,High,-5.06
+CMR,Cameroon,2022,143.0,88.0,273.0,185.0,High,-4.67
+CMR,Cameroon,2023,137.0,84.0,263.0,179.0,High,-4.2
+CMR,Cameroon,2024,132.0,80.0,257.0,177.0,High,-3.65
+COD,DR Congo,2000,612.0,375.0,1180.0,805.0,Very High,
+COD,DR Congo,2001,600.0,367.0,1150.0,783.0,Very High,-1.96
+COD,DR Congo,2002,588.0,360.0,1130.0,770.0,Very High,-2.0
+COD,DR Congo,2003,576.0,353.0,1110.0,757.0,Very High,-2.04
+COD,DR Congo,2004,564.0,346.0,1080.0,734.0,Very High,-2.08
+COD,DR Congo,2005,553.0,339.0,1060.0,721.0,Very High,-1.95
+COD,DR Congo,2006,542.0,332.0,1040.0,708.0,Very High,-1.99
+COD,DR Congo,2007,531.0,325.0,1020.0,695.0,Very High,-2.03
+COD,DR Congo,2008,521.0,319.0,1000.0,681.0,Very High,-1.88
+COD,DR Congo,2009,510.0,313.0,981.0,668.0,Very High,-2.11
+COD,DR Congo,2010,500.0,306.0,961.0,655.0,Very High,-1.96
+COD,DR Congo,2011,490.0,300.0,942.0,642.0,Very High,-2.0
+COD,DR Congo,2012,480.0,294.0,923.0,629.0,Very High,-2.04
+COD,DR Congo,2013,471.0,288.0,905.0,617.0,Very High,-1.88
+COD,DR Congo,2014,461.0,283.0,886.0,603.0,Very High,-2.12
+COD,DR Congo,2015,452.0,277.0,869.0,592.0,Very High,-1.95
+COD,DR Congo,2016,443.0,271.0,851.0,580.0,Very High,-1.99
+COD,DR Congo,2017,434.0,266.0,834.0,568.0,Very High,-2.03
+COD,DR Congo,2018,426.0,261.0,818.0,557.0,Very High,-1.84
+COD,DR Congo,2019,417.0,255.0,801.0,546.0,Very High,-2.11
+COD,DR Congo,2020,409.0,250.0,785.0,535.0,Very High,-1.92
+COD,DR Congo,2021,401.0,245.0,770.0,525.0,Very High,-1.96
+COD,DR Congo,2022,392.0,240.0,754.0,514.0,Very High,-2.24
+COD,DR Congo,2023,385.0,236.0,739.0,503.0,Very High,-1.79
+COD,DR Congo,2024,377.0,231.0,724.0,493.0,Very High,-2.08
+COG,Congo,2000,569.0,294.0,1530.0,1236.0,Very High,
+COG,Congo,2001,550.0,289.0,1430.0,1141.0,Very High,-3.34
+COG,Congo,2002,532.0,284.0,1340.0,1056.0,Very High,-3.27
+COG,Congo,2003,515.0,279.0,1260.0,981.0,Very High,-3.2
+COG,Congo,2004,499.0,274.0,1180.0,906.0,Very High,-3.11
+COG,Congo,2005,484.0,269.0,1120.0,851.0,Very High,-3.01
+COG,Congo,2006,470.0,264.0,1060.0,796.0,Very High,-2.89
+COG,Congo,2007,458.0,259.0,1020.0,761.0,Very High,-2.55
+COG,Congo,2008,448.0,255.0,989.0,734.0,Very High,-2.18
+COG,Congo,2009,438.0,250.0,957.0,707.0,Very High,-2.23
+COG,Congo,2010,426.0,244.0,927.0,683.0,Very High,-2.74
+COG,Congo,2011,415.0,238.0,902.0,664.0,Very High,-2.58
+COG,Congo,2012,402.0,231.0,871.0,640.0,Very High,-3.13
+COG,Congo,2013,385.0,223.0,823.0,600.0,Very High,-4.23
+COG,Congo,2014,365.0,213.0,767.0,554.0,Very High,-5.19
+COG,Congo,2015,348.0,205.0,717.0,512.0,Very High,-4.66
+COG,Congo,2016,334.0,199.0,676.0,477.0,Very High,-4.02
+COG,Congo,2017,321.0,193.0,636.0,443.0,Very High,-3.89
+COG,Congo,2018,311.0,189.0,606.0,417.0,Very High,-3.12
+COG,Congo,2019,304.0,186.0,586.0,400.0,Very High,-2.25
+COG,Congo,2020,300.0,184.0,573.0,389.0,Very High,-1.32
+COG,Congo,2021,297.0,183.0,565.0,382.0,High,-1.0
+COG,Congo,2022,297.0,183.0,565.0,382.0,High,0.0
+COG,Congo,2023,298.0,183.0,570.0,387.0,High,0.34
+COG,Congo,2024,302.0,185.0,582.0,397.0,Very High,1.34
+COM,Comoros,2000,51.0,27.0,128.0,101.0,Moderate,
+COM,Comoros,2001,49.0,26.0,117.0,91.0,Moderate,-3.92
+COM,Comoros,2002,47.0,26.0,109.0,83.0,Moderate,-4.08
+COM,Comoros,2003,45.0,25.0,102.0,77.0,Moderate,-4.26
+COM,Comoros,2004,44.0,25.0,96.0,71.0,Moderate,-2.22
+COM,Comoros,2005,43.0,25.0,92.0,67.0,Moderate,-2.27
+COM,Comoros,2006,43.0,25.0,89.0,64.0,Moderate,0.0
+COM,Comoros,2007,43.0,25.0,89.0,64.0,Moderate,0.0
+COM,Comoros,2008,44.0,26.0,90.0,64.0,Moderate,2.33
+COM,Comoros,2009,44.0,26.0,91.0,65.0,Moderate,0.0
+COM,Comoros,2010,44.0,26.0,90.0,64.0,Moderate,0.0
+COM,Comoros,2011,43.0,25.0,89.0,64.0,Moderate,-2.27
+COM,Comoros,2012,43.0,25.0,88.0,63.0,Moderate,0.0
+COM,Comoros,2013,42.0,25.0,87.0,62.0,Moderate,-2.33
+COM,Comoros,2014,42.0,25.0,85.0,60.0,Moderate,0.0
+COM,Comoros,2015,42.0,25.0,83.0,58.0,Moderate,0.0
+COM,Comoros,2016,41.0,25.0,81.0,56.0,Moderate,-2.38
+COM,Comoros,2017,40.0,24.0,79.0,55.0,Moderate,-2.44
+COM,Comoros,2018,39.0,24.0,76.0,52.0,Moderate,-2.5
+COM,Comoros,2019,37.0,23.0,72.0,49.0,Moderate,-5.13
+COM,Comoros,2020,35.0,21.0,67.0,46.0,Moderate,-5.41
+COM,Comoros,2021,32.0,20.0,62.0,42.0,Moderate,-8.57
+COM,Comoros,2022,29.0,18.0,56.0,38.0,Moderate,-9.38
+COM,Comoros,2023,26.0,16.0,49.0,33.0,Moderate,-10.34
+COM,Comoros,2024,22.0,13.0,42.0,29.0,Moderate,-15.38
+CPV,Cabo Verde,2000,176.0,144.0,213.0,69.0,High,
+CPV,Cabo Verde,2001,168.0,137.0,203.0,66.0,High,-4.55
+CPV,Cabo Verde,2002,104.0,85.0,125.0,40.0,High,-38.1
+CPV,Cabo Verde,2003,156.0,127.0,188.0,61.0,High,50.0
+CPV,Cabo Verde,2004,135.0,110.0,163.0,53.0,High,-13.46
+CPV,Cabo Verde,2005,126.0,102.0,152.0,50.0,High,-6.67
+CPV,Cabo Verde,2006,106.0,86.0,128.0,42.0,High,-15.87
+CPV,Cabo Verde,2007,105.0,85.0,126.0,41.0,High,-0.94
+CPV,Cabo Verde,2008,121.0,98.0,146.0,48.0,High,15.24
+CPV,Cabo Verde,2009,114.0,93.0,138.0,45.0,High,-5.79
+CPV,Cabo Verde,2010,117.0,95.0,141.0,46.0,High,2.63
+CPV,Cabo Verde,2011,121.0,99.0,146.0,47.0,High,3.42
+CPV,Cabo Verde,2012,131.0,106.0,157.0,51.0,High,8.26
+CPV,Cabo Verde,2013,92.0,75.0,110.0,35.0,Moderate,-29.77
+CPV,Cabo Verde,2014,81.0,66.0,98.0,32.0,Moderate,-11.96
+CPV,Cabo Verde,2015,78.0,63.0,94.0,31.0,Moderate,-3.7
+CPV,Cabo Verde,2016,70.0,57.0,85.0,28.0,Moderate,-10.26
+CPV,Cabo Verde,2017,70.0,57.0,84.0,27.0,Moderate,0.0
+CPV,Cabo Verde,2018,56.0,46.0,67.0,21.0,Moderate,-20.0
+CPV,Cabo Verde,2019,57.0,46.0,68.0,22.0,Moderate,1.79
+CPV,Cabo Verde,2020,57.0,46.0,69.0,23.0,Moderate,0.0
+CPV,Cabo Verde,2021,49.0,40.0,60.0,20.0,Moderate,-14.04
+CPV,Cabo Verde,2022,39.0,32.0,47.0,15.0,Moderate,-20.41
+CPV,Cabo Verde,2023,53.0,43.0,64.0,21.0,Moderate,35.9
+CPV,Cabo Verde,2024,47.0,38.0,57.0,19.0,Moderate,-11.32
+DJI,Djibouti,2000,2700.0,2200.0,3260.0,1060.0,Very High,
+DJI,Djibouti,2001,2650.0,2150.0,3190.0,1040.0,Very High,-1.85
+DJI,Djibouti,2002,1870.0,1520.0,2250.0,730.0,Very High,-29.43
+DJI,Djibouti,2003,1780.0,1440.0,2140.0,700.0,Very High,-4.81
+DJI,Djibouti,2004,1530.0,1240.0,1840.0,600.0,Very High,-14.04
+DJI,Djibouti,2005,1530.0,1250.0,1850.0,600.0,Very High,0.0
+DJI,Djibouti,2006,1350.0,1100.0,1630.0,530.0,Very High,-11.76
+DJI,Djibouti,2007,1320.0,1070.0,1590.0,520.0,Very High,-2.22
+DJI,Djibouti,2008,1390.0,1130.0,1680.0,550.0,Very High,5.3
+DJI,Djibouti,2009,1320.0,1080.0,1590.0,510.0,Very High,-5.04
+DJI,Djibouti,2010,1350.0,1100.0,1630.0,530.0,Very High,2.27
+DJI,Djibouti,2011,1140.0,926.0,1370.0,444.0,Very High,-15.56
+DJI,Djibouti,2012,1020.0,832.0,1230.0,398.0,Very High,-10.53
+DJI,Djibouti,2013,889.0,723.0,1070.0,347.0,Very High,-12.84
+DJI,Djibouti,2014,651.0,530.0,785.0,255.0,Very High,-26.77
+DJI,Djibouti,2015,691.0,562.0,833.0,271.0,Very High,6.14
+DJI,Djibouti,2016,600.0,488.0,723.0,235.0,Very High,-13.17
+DJI,Djibouti,2017,454.0,369.0,547.0,178.0,Very High,-24.33
+DJI,Djibouti,2018,433.0,352.0,522.0,170.0,Very High,-4.63
+DJI,Djibouti,2019,389.0,317.0,469.0,152.0,Very High,-10.16
+DJI,Djibouti,2020,366.0,298.0,441.0,143.0,Very High,-5.91
+DJI,Djibouti,2021,392.0,319.0,472.0,153.0,Very High,7.1
+DJI,Djibouti,2022,462.0,376.0,557.0,181.0,Very High,17.86
+DJI,Djibouti,2023,477.0,388.0,575.0,187.0,Very High,3.25
+DJI,Djibouti,2024,495.0,403.0,596.0,193.0,Very High,3.77
+DZA,Algeria,2000,118.0,96.0,142.0,46.0,High,
+DZA,Algeria,2001,111.0,91.0,134.0,43.0,High,-5.93
+DZA,Algeria,2002,112.0,91.0,134.0,43.0,High,0.9
+DZA,Algeria,2003,112.0,91.0,135.0,44.0,High,0.0
+DZA,Algeria,2004,109.0,89.0,132.0,43.0,High,-2.68
+DZA,Algeria,2005,113.0,92.0,136.0,44.0,High,3.67
+DZA,Algeria,2006,107.0,87.0,129.0,42.0,High,-5.31
+DZA,Algeria,2007,104.0,84.0,125.0,41.0,High,-2.8
+DZA,Algeria,2008,95.0,78.0,115.0,37.0,Moderate,-8.65
+DZA,Algeria,2009,96.0,78.0,116.0,38.0,Moderate,1.05
+DZA,Algeria,2010,95.0,77.0,114.0,37.0,Moderate,-1.04
+DZA,Algeria,2011,87.0,71.0,105.0,34.0,Moderate,-8.42
+DZA,Algeria,2012,85.0,69.0,102.0,33.0,Moderate,-2.3
+DZA,Algeria,2013,77.0,62.0,92.0,30.0,Moderate,-9.41
+DZA,Algeria,2014,80.0,65.0,96.0,31.0,Moderate,3.9
+DZA,Algeria,2015,81.0,66.0,97.0,31.0,Moderate,1.25
+DZA,Algeria,2016,76.0,62.0,91.0,29.0,Moderate,-6.17
+DZA,Algeria,2017,75.0,61.0,90.0,29.0,Moderate,-1.32
+DZA,Algeria,2018,74.0,60.0,90.0,30.0,Moderate,-1.33
+DZA,Algeria,2019,65.0,53.0,78.0,25.0,Moderate,-12.16
+DZA,Algeria,2020,52.0,43.0,63.0,20.0,Moderate,-20.0
+DZA,Algeria,2021,57.0,46.0,69.0,23.0,Moderate,9.62
+DZA,Algeria,2022,55.0,45.0,67.0,22.0,Moderate,-3.51
+DZA,Algeria,2023,55.0,44.0,66.0,22.0,Moderate,0.0
+DZA,Algeria,2024,54.0,44.0,65.0,21.0,Moderate,-1.82
+EGY,Egypt,2000,21.0,17.0,26.0,9.0,Moderate,
+EGY,Egypt,2001,21.0,16.0,25.0,9.0,Moderate,0.0
+EGY,Egypt,2002,20.0,16.0,24.0,8.0,Moderate,-4.76
+EGY,Egypt,2003,19.0,15.0,24.0,9.0,Moderate,-5.0
+EGY,Egypt,2004,19.0,15.0,23.0,8.0,Moderate,0.0
+EGY,Egypt,2005,18.0,14.0,22.0,8.0,Moderate,-5.26
+EGY,Egypt,2006,17.0,14.0,21.0,7.0,Moderate,-5.56
+EGY,Egypt,2007,17.0,13.0,21.0,8.0,Moderate,0.0
+EGY,Egypt,2008,16.0,13.0,20.0,7.0,Moderate,-5.88
+EGY,Egypt,2009,16.0,12.0,19.0,7.0,Moderate,0.0
+EGY,Egypt,2010,15.0,12.0,19.0,7.0,Moderate,-6.25
+EGY,Egypt,2011,15.0,12.0,18.0,6.0,Moderate,0.0
+EGY,Egypt,2012,14.0,11.0,18.0,7.0,Moderate,-6.67
+EGY,Egypt,2013,14.0,11.0,17.0,6.0,Moderate,0.0
+EGY,Egypt,2014,13.0,10.0,17.0,7.0,Moderate,-7.14
+EGY,Egypt,2015,13.0,10.0,16.0,6.0,Moderate,0.0
+EGY,Egypt,2016,13.0,9.8,16.0,6.199999999999999,Moderate,0.0
+EGY,Egypt,2017,12.0,9.5,15.0,5.5,Moderate,-7.69
+EGY,Egypt,2018,12.0,9.2,15.0,5.800000000000001,Moderate,0.0
+EGY,Egypt,2019,11.0,9.0,14.0,5.0,Moderate,-8.33
+EGY,Egypt,2020,11.0,8.7,14.0,5.300000000000001,Moderate,0.0
+EGY,Egypt,2021,11.0,8.5,13.0,4.5,Moderate,0.0
+EGY,Egypt,2022,11.0,8.3,13.0,4.699999999999999,Moderate,0.0
+EGY,Egypt,2023,10.0,8.1,13.0,4.9,Moderate,-9.09
+EGY,Egypt,2024,10.0,8.0,12.0,4.0,Moderate,0.0
+ERI,Eritrea,2000,1440.0,1170.0,1730.0,560.0,Very High,
+ERI,Eritrea,2001,538.0,438.0,648.0,210.0,Very High,-62.64
+ERI,Eritrea,2002,498.0,406.0,601.0,195.0,Very High,-7.43
+ERI,Eritrea,2003,756.0,615.0,911.0,296.0,Very High,51.81
+ERI,Eritrea,2004,617.0,502.0,744.0,242.0,Very High,-18.39
+ERI,Eritrea,2005,483.0,393.0,582.0,189.0,Very High,-21.72
+ERI,Eritrea,2006,375.0,305.0,451.0,146.0,Very High,-22.36
+ERI,Eritrea,2007,417.0,339.0,502.0,163.0,Very High,11.2
+ERI,Eritrea,2008,312.0,254.0,376.0,122.0,Very High,-25.18
+ERI,Eritrea,2009,281.0,228.0,338.0,110.0,High,-9.94
+ERI,Eritrea,2010,258.0,210.0,311.0,101.0,High,-8.19
+ERI,Eritrea,2011,262.0,214.0,316.0,102.0,High,1.55
+ERI,Eritrea,2012,261.0,212.0,314.0,102.0,High,-0.38
+ERI,Eritrea,2013,229.0,186.0,276.0,90.0,High,-12.26
+ERI,Eritrea,2014,186.0,151.0,224.0,73.0,High,-18.78
+ERI,Eritrea,2015,156.0,127.0,188.0,61.0,High,-16.13
+ERI,Eritrea,2016,163.0,133.0,197.0,64.0,High,4.49
+ERI,Eritrea,2017,147.0,119.0,177.0,58.0,High,-9.82
+ERI,Eritrea,2018,132.0,108.0,159.0,51.0,High,-10.2
+ERI,Eritrea,2019,127.0,103.0,153.0,50.0,High,-3.79
+ERI,Eritrea,2020,111.0,90.0,133.0,43.0,High,-12.6
+ERI,Eritrea,2021,111.0,90.0,134.0,44.0,High,0.0
+ERI,Eritrea,2022,134.0,109.0,161.0,52.0,High,20.72
+ERI,Eritrea,2023,149.0,121.0,179.0,58.0,High,11.19
+ERI,Eritrea,2024,115.0,93.0,138.0,45.0,High,-22.82
+ETH,Ethiopia,2000,489.0,284.0,749.0,465.0,Very High,
+ETH,Ethiopia,2001,462.0,265.0,713.0,448.0,Very High,-5.52
+ETH,Ethiopia,2002,437.0,247.0,679.0,432.0,Very High,-5.41
+ETH,Ethiopia,2003,412.0,230.0,645.0,415.0,Very High,-5.72
+ETH,Ethiopia,2004,388.0,215.0,612.0,397.0,Very High,-5.83
+ETH,Ethiopia,2005,366.0,200.0,581.0,381.0,Very High,-5.67
+ETH,Ethiopia,2006,345.0,186.0,550.0,364.0,Very High,-5.74
+ETH,Ethiopia,2007,324.0,174.0,521.0,347.0,Very High,-6.09
+ETH,Ethiopia,2008,305.0,162.0,492.0,330.0,Very High,-5.86
+ETH,Ethiopia,2009,287.0,151.0,464.0,313.0,High,-5.9
+ETH,Ethiopia,2010,269.0,142.0,438.0,296.0,High,-6.27
+ETH,Ethiopia,2011,253.0,133.0,412.0,279.0,High,-5.95
+ETH,Ethiopia,2012,238.0,122.0,392.0,270.0,High,-5.93
+ETH,Ethiopia,2013,224.0,113.0,373.0,260.0,High,-5.88
+ETH,Ethiopia,2014,211.0,105.0,355.0,250.0,High,-5.8
+ETH,Ethiopia,2015,200.0,97.0,338.0,241.0,High,-5.21
+ETH,Ethiopia,2016,189.0,91.0,322.0,231.0,High,-5.5
+ETH,Ethiopia,2017,179.0,85.0,307.0,222.0,High,-5.29
+ETH,Ethiopia,2018,170.0,81.0,293.0,212.0,High,-5.03
+ETH,Ethiopia,2019,163.0,77.0,280.0,203.0,High,-4.12
+ETH,Ethiopia,2020,156.0,75.0,268.0,193.0,High,-4.29
+ETH,Ethiopia,2021,151.0,73.0,256.0,183.0,High,-3.21
+ETH,Ethiopia,2022,146.0,72.0,246.0,174.0,High,-3.31
+ETH,Ethiopia,2023,143.0,72.0,237.0,165.0,High,-2.05
+ETH,Ethiopia,2024,141.0,74.0,229.0,155.0,High,-1.4
+GAB,Gabon,2000,332.0,178.0,809.0,631.0,Very High,
+GAB,Gabon,2001,336.0,186.0,779.0,593.0,Very High,1.2
+GAB,Gabon,2002,342.0,194.0,759.0,565.0,Very High,1.79
+GAB,Gabon,2003,350.0,203.0,748.0,545.0,Very High,2.34
+GAB,Gabon,2004,361.0,213.0,747.0,534.0,Very High,3.14
+GAB,Gabon,2005,373.0,223.0,754.0,531.0,Very High,3.32
+GAB,Gabon,2006,387.0,232.0,767.0,535.0,Very High,3.75
+GAB,Gabon,2007,405.0,244.0,797.0,553.0,Very High,4.65
+GAB,Gabon,2008,426.0,257.0,840.0,583.0,Very High,5.19
+GAB,Gabon,2009,445.0,269.0,878.0,609.0,Very High,4.46
+GAB,Gabon,2010,461.0,277.0,913.0,636.0,Very High,3.6
+GAB,Gabon,2011,475.0,284.0,949.0,665.0,Very High,3.04
+GAB,Gabon,2012,483.0,289.0,971.0,682.0,Very High,1.68
+GAB,Gabon,2013,488.0,292.0,978.0,686.0,Very High,1.04
+GAB,Gabon,2014,491.0,295.0,978.0,683.0,Very High,0.61
+GAB,Gabon,2015,488.0,294.0,967.0,673.0,Very High,-0.61
+GAB,Gabon,2016,475.0,287.0,934.0,647.0,Very High,-2.66
+GAB,Gabon,2017,456.0,277.0,888.0,611.0,Very High,-4.0
+GAB,Gabon,2018,440.0,268.0,851.0,583.0,Very High,-3.51
+GAB,Gabon,2019,427.0,261.0,823.0,562.0,Very High,-2.95
+GAB,Gabon,2020,413.0,253.0,795.0,542.0,Very High,-3.28
+GAB,Gabon,2021,401.0,245.0,769.0,524.0,Very High,-2.91
+GAB,Gabon,2022,390.0,239.0,750.0,511.0,Very High,-2.74
+GAB,Gabon,2023,380.0,232.0,733.0,501.0,Very High,-2.56
+GAB,Gabon,2024,371.0,226.0,720.0,494.0,Very High,-2.37
+GHA,Ghana,2000,216.0,64.0,459.0,395.0,High,
+GHA,Ghana,2001,214.0,65.0,449.0,384.0,High,-0.93
+GHA,Ghana,2002,212.0,67.0,439.0,372.0,High,-0.93
+GHA,Ghana,2003,209.0,68.0,429.0,361.0,High,-1.42
+GHA,Ghana,2004,206.0,69.0,418.0,349.0,High,-1.44
+GHA,Ghana,2005,203.0,70.0,406.0,336.0,High,-1.46
+GHA,Ghana,2006,199.0,70.0,395.0,325.0,High,-1.97
+GHA,Ghana,2007,196.0,71.0,383.0,312.0,High,-1.51
+GHA,Ghana,2008,191.0,71.0,371.0,300.0,High,-2.55
+GHA,Ghana,2009,187.0,71.0,358.0,287.0,High,-2.09
+GHA,Ghana,2010,183.0,71.0,346.0,275.0,High,-2.14
+GHA,Ghana,2011,178.0,71.0,333.0,262.0,High,-2.73
+GHA,Ghana,2012,173.0,70.0,321.0,251.0,High,-2.81
+GHA,Ghana,2013,168.0,70.0,308.0,238.0,High,-2.89
+GHA,Ghana,2014,165.0,70.0,301.0,231.0,High,-1.79
+GHA,Ghana,2015,160.0,70.0,287.0,217.0,High,-3.03
+GHA,Ghana,2016,156.0,70.0,275.0,205.0,High,-2.5
+GHA,Ghana,2017,152.0,70.0,264.0,194.0,High,-2.56
+GHA,Ghana,2018,148.0,70.0,254.0,184.0,High,-2.63
+GHA,Ghana,2019,144.0,70.0,244.0,174.0,High,-2.7
+GHA,Ghana,2020,140.0,66.0,241.0,175.0,High,-2.78
+GHA,Ghana,2021,136.0,63.0,237.0,174.0,High,-2.86
+GHA,Ghana,2022,133.0,60.0,234.0,174.0,High,-2.21
+GHA,Ghana,2023,129.0,57.0,231.0,174.0,High,-3.01
+GHA,Ghana,2024,126.0,55.0,225.0,170.0,High,-2.33
+GIN,Guinea,2000,120.0,60.0,350.0,290.0,High,
+GIN,Guinea,2001,133.0,68.0,365.0,297.0,High,10.83
+GIN,Guinea,2002,144.0,75.0,379.0,304.0,High,8.27
+GIN,Guinea,2003,154.0,82.0,391.0,309.0,High,6.94
+GIN,Guinea,2004,163.0,88.0,402.0,314.0,High,5.84
+GIN,Guinea,2005,171.0,93.0,410.0,317.0,High,4.91
+GIN,Guinea,2006,177.0,98.0,417.0,319.0,High,3.51
+GIN,Guinea,2007,183.0,101.0,423.0,322.0,High,3.39
+GIN,Guinea,2008,187.0,104.0,427.0,323.0,High,2.19
+GIN,Guinea,2009,190.0,106.0,428.0,322.0,High,1.6
+GIN,Guinea,2010,189.0,107.0,424.0,317.0,High,-0.53
+GIN,Guinea,2011,187.0,106.0,417.0,311.0,High,-1.06
+GIN,Guinea,2012,185.0,105.0,409.0,304.0,High,-1.07
+GIN,Guinea,2013,183.0,105.0,397.0,292.0,High,-1.08
+GIN,Guinea,2014,179.0,104.0,380.0,276.0,High,-2.19
+GIN,Guinea,2015,177.0,104.0,368.0,264.0,High,-1.12
+GIN,Guinea,2016,177.0,105.0,360.0,255.0,High,0.0
+GIN,Guinea,2017,178.0,107.0,353.0,246.0,High,0.56
+GIN,Guinea,2018,178.0,108.0,348.0,240.0,High,0.0
+GIN,Guinea,2019,178.0,109.0,344.0,235.0,High,0.0
+GIN,Guinea,2020,179.0,109.0,342.0,233.0,High,0.56
+GIN,Guinea,2021,179.0,110.0,341.0,231.0,High,0.0
+GIN,Guinea,2022,179.0,110.0,340.0,230.0,High,0.0
+GIN,Guinea,2023,178.0,110.0,340.0,230.0,High,-0.56
+GIN,Guinea,2024,178.0,109.0,341.0,232.0,High,0.0
+GMB,Gambia,2000,187.0,125.0,261.0,136.0,High,
+GMB,Gambia,2001,189.0,130.0,259.0,129.0,High,1.07
+GMB,Gambia,2002,190.0,136.0,253.0,117.0,High,0.53
+GMB,Gambia,2003,191.0,138.0,253.0,115.0,High,0.53
+GMB,Gambia,2004,191.0,148.0,240.0,92.0,High,0.0
+GMB,Gambia,2005,190.0,136.0,253.0,117.0,High,-0.52
+GMB,Gambia,2006,188.0,110.0,286.0,176.0,High,-1.05
+GMB,Gambia,2007,186.0,110.0,282.0,172.0,High,-1.06
+GMB,Gambia,2008,183.0,131.0,243.0,112.0,High,-1.61
+GMB,Gambia,2009,180.0,128.0,241.0,113.0,High,-1.64
+GMB,Gambia,2010,179.0,109.0,266.0,157.0,High,-0.56
+GMB,Gambia,2011,178.0,132.0,231.0,99.0,High,-0.56
+GMB,Gambia,2012,177.0,131.0,231.0,100.0,High,-0.56
+GMB,Gambia,2013,176.0,126.0,235.0,109.0,High,-0.56
+GMB,Gambia,2014,175.0,126.0,232.0,106.0,High,-0.57
+GMB,Gambia,2015,173.0,125.0,228.0,103.0,High,-1.14
+GMB,Gambia,2016,170.0,123.0,223.0,100.0,High,-1.73
+GMB,Gambia,2017,166.0,122.0,218.0,96.0,High,-2.35
+GMB,Gambia,2018,162.0,120.0,211.0,91.0,High,-2.41
+GMB,Gambia,2019,158.0,117.0,204.0,87.0,High,-2.47
+GMB,Gambia,2020,153.0,113.0,200.0,87.0,High,-3.16
+GMB,Gambia,2021,149.0,109.0,196.0,87.0,High,-2.61
+GMB,Gambia,2022,145.0,105.0,192.0,87.0,High,-2.68
+GMB,Gambia,2023,142.0,101.0,189.0,88.0,High,-2.07
+GMB,Gambia,2024,138.0,99.0,184.0,85.0,High,-2.82
+GNB,Guinea-Bissau,2000,202.0,102.0,564.0,462.0,High,
+GNB,Guinea-Bissau,2001,225.0,118.0,595.0,477.0,High,11.39
+GNB,Guinea-Bissau,2002,245.0,131.0,619.0,488.0,High,8.89
+GNB,Guinea-Bissau,2003,261.0,141.0,637.0,496.0,High,6.53
+GNB,Guinea-Bissau,2004,273.0,150.0,648.0,498.0,High,4.6
+GNB,Guinea-Bissau,2005,281.0,156.0,653.0,497.0,High,2.93
+GNB,Guinea-Bissau,2006,286.0,160.0,652.0,492.0,High,1.78
+GNB,Guinea-Bissau,2007,286.0,161.0,643.0,482.0,High,0.0
+GNB,Guinea-Bissau,2008,282.0,160.0,626.0,466.0,High,-1.4
+GNB,Guinea-Bissau,2009,276.0,157.0,606.0,449.0,High,-2.13
+GNB,Guinea-Bissau,2010,266.0,152.0,581.0,429.0,High,-3.62
+GNB,Guinea-Bissau,2011,253.0,145.0,550.0,405.0,High,-4.89
+GNB,Guinea-Bissau,2012,241.0,138.0,521.0,383.0,High,-4.74
+GNB,Guinea-Bissau,2013,230.0,133.0,490.0,357.0,High,-4.56
+GNB,Guinea-Bissau,2014,218.0,128.0,457.0,329.0,High,-5.22
+GNB,Guinea-Bissau,2015,209.0,123.0,428.0,305.0,High,-4.13
+GNB,Guinea-Bissau,2016,203.0,121.0,408.0,287.0,High,-2.87
+GNB,Guinea-Bissau,2017,198.0,119.0,391.0,272.0,High,-2.46
+GNB,Guinea-Bissau,2018,194.0,118.0,377.0,259.0,High,-2.02
+GNB,Guinea-Bissau,2019,189.0,116.0,364.0,248.0,High,-2.58
+GNB,Guinea-Bissau,2020,186.0,114.0,354.0,240.0,High,-1.59
+GNB,Guinea-Bissau,2021,183.0,112.0,346.0,234.0,High,-1.61
+GNB,Guinea-Bissau,2022,180.0,111.0,341.0,230.0,High,-1.64
+GNB,Guinea-Bissau,2023,178.0,109.0,338.0,229.0,High,-1.11
+GNB,Guinea-Bissau,2024,176.0,108.0,337.0,229.0,High,-1.12
+GNQ,Equatorial Guinea,2000,323.0,197.0,626.0,429.0,Very High,
+GNQ,Equatorial Guinea,2001,316.0,193.0,614.0,421.0,Very High,-2.17
+GNQ,Equatorial Guinea,2002,310.0,189.0,601.0,412.0,Very High,-1.9
+GNQ,Equatorial Guinea,2003,304.0,185.0,589.0,404.0,Very High,-1.94
+GNQ,Equatorial Guinea,2004,298.0,182.0,578.0,396.0,High,-1.97
+GNQ,Equatorial Guinea,2005,292.0,178.0,566.0,388.0,High,-2.01
+GNQ,Equatorial Guinea,2006,286.0,174.0,555.0,381.0,High,-2.05
+GNQ,Equatorial Guinea,2007,280.0,171.0,544.0,373.0,High,-2.1
+GNQ,Equatorial Guinea,2008,275.0,167.0,533.0,366.0,High,-1.79
+GNQ,Equatorial Guinea,2009,269.0,164.0,522.0,358.0,High,-2.18
+GNQ,Equatorial Guinea,2010,264.0,161.0,512.0,351.0,High,-1.86
+GNQ,Equatorial Guinea,2011,259.0,158.0,501.0,343.0,High,-1.89
+GNQ,Equatorial Guinea,2012,253.0,154.0,491.0,337.0,High,-2.32
+GNQ,Equatorial Guinea,2013,248.0,151.0,482.0,331.0,High,-1.98
+GNQ,Equatorial Guinea,2014,243.0,148.0,472.0,324.0,High,-2.02
+GNQ,Equatorial Guinea,2015,239.0,145.0,463.0,318.0,High,-1.65
+GNQ,Equatorial Guinea,2016,234.0,142.0,453.0,311.0,High,-2.09
+GNQ,Equatorial Guinea,2017,229.0,140.0,444.0,304.0,High,-2.14
+GNQ,Equatorial Guinea,2018,225.0,137.0,435.0,298.0,High,-1.75
+GNQ,Equatorial Guinea,2019,220.0,134.0,427.0,293.0,High,-2.22
+GNQ,Equatorial Guinea,2020,216.0,131.0,418.0,287.0,High,-1.82
+GNQ,Equatorial Guinea,2021,211.0,129.0,410.0,281.0,High,-2.31
+GNQ,Equatorial Guinea,2022,207.0,126.0,402.0,276.0,High,-1.9
+GNQ,Equatorial Guinea,2023,203.0,124.0,394.0,270.0,High,-1.93
+GNQ,Equatorial Guinea,2024,199.0,121.0,386.0,265.0,High,-1.97
+KEN,Kenya,2000,451.0,182.0,839.0,657.0,Very High,
+KEN,Kenya,2001,499.0,178.0,982.0,804.0,Very High,10.64
+KEN,Kenya,2002,534.0,174.0,1090.0,916.0,Very High,7.01
+KEN,Kenya,2003,610.0,161.0,1350.0,1189.0,Very High,14.23
+KEN,Kenya,2004,634.0,155.0,1440.0,1285.0,Very High,3.93
+KEN,Kenya,2005,630.0,156.0,1420.0,1264.0,Very High,-0.63
+KEN,Kenya,2006,646.0,153.0,1490.0,1337.0,Very High,2.54
+KEN,Kenya,2007,618.0,159.0,1380.0,1221.0,Very High,-4.33
+KEN,Kenya,2008,564.0,169.0,1190.0,1021.0,Very High,-8.74
+KEN,Kenya,2009,566.0,169.0,1200.0,1031.0,Very High,0.35
+KEN,Kenya,2010,531.0,174.0,1080.0,906.0,Very High,-6.18
+KEN,Kenya,2011,506.0,177.0,1000.0,823.0,Very High,-4.71
+KEN,Kenya,2012,471.0,181.0,897.0,716.0,Very High,-6.92
+KEN,Kenya,2013,443.0,182.0,816.0,634.0,Very High,-5.94
+KEN,Kenya,2014,423.0,183.0,761.0,578.0,Very High,-4.51
+KEN,Kenya,2015,380.0,182.0,651.0,469.0,Very High,-10.17
+KEN,Kenya,2016,348.0,179.0,573.0,394.0,Very High,-8.42
+KEN,Kenya,2017,319.0,175.0,505.0,330.0,Very High,-8.33
+KEN,Kenya,2018,292.0,170.0,446.0,276.0,High,-8.46
+KEN,Kenya,2019,267.0,163.0,396.0,233.0,High,-8.56
+KEN,Kenya,2020,248.0,150.0,377.0,227.0,High,-7.12
+KEN,Kenya,2021,247.0,145.0,377.0,232.0,High,-0.4
+KEN,Kenya,2022,238.0,136.0,375.0,239.0,High,-3.64
+KEN,Kenya,2023,214.0,118.0,344.0,226.0,High,-10.08
+KEN,Kenya,2024,207.0,109.0,339.0,230.0,High,-3.27
+LBR,Liberia,2000,115.0,58.0,319.0,261.0,High,
+LBR,Liberia,2001,152.0,80.0,393.0,313.0,High,32.17
+LBR,Liberia,2002,186.0,100.0,459.0,359.0,High,22.37
+LBR,Liberia,2003,216.0,118.0,517.0,399.0,High,16.13
+LBR,Liberia,2004,244.0,135.0,568.0,433.0,High,12.96
+LBR,Liberia,2005,268.0,150.0,612.0,462.0,High,9.84
+LBR,Liberia,2006,288.0,162.0,648.0,486.0,High,7.46
+LBR,Liberia,2007,305.0,173.0,677.0,504.0,Very High,5.9
+LBR,Liberia,2008,320.0,183.0,698.0,515.0,Very High,4.92
+LBR,Liberia,2009,329.0,189.0,710.0,521.0,Very High,2.81
+LBR,Liberia,2010,331.0,191.0,711.0,520.0,Very High,0.61
+LBR,Liberia,2011,328.0,189.0,704.0,515.0,Very High,-0.91
+LBR,Liberia,2012,324.0,187.0,692.0,505.0,Very High,-1.22
+LBR,Liberia,2013,315.0,183.0,666.0,483.0,Very High,-2.78
+LBR,Liberia,2014,302.0,177.0,627.0,450.0,Very High,-4.13
+LBR,Liberia,2015,289.0,171.0,592.0,421.0,High,-4.3
+LBR,Liberia,2016,279.0,167.0,561.0,394.0,High,-3.46
+LBR,Liberia,2017,268.0,162.0,529.0,367.0,High,-3.94
+LBR,Liberia,2018,257.0,157.0,501.0,344.0,High,-4.1
+LBR,Liberia,2019,249.0,152.0,479.0,327.0,High,-3.11
+LBR,Liberia,2020,240.0,147.0,460.0,313.0,High,-3.61
+LBR,Liberia,2021,232.0,143.0,443.0,300.0,High,-3.33
+LBR,Liberia,2022,224.0,137.0,427.0,290.0,High,-3.45
+LBR,Liberia,2023,215.0,132.0,413.0,281.0,High,-4.02
+LBR,Liberia,2024,207.0,126.0,402.0,276.0,High,-3.72
+LBY,Libya,2000,59.0,29.0,170.0,141.0,Moderate,
+LBY,Libya,2001,62.0,32.0,162.0,130.0,Moderate,5.08
+LBY,Libya,2002,63.0,35.0,155.0,120.0,Moderate,1.61
+LBY,Libya,2003,64.0,36.0,147.0,111.0,Moderate,1.59
+LBY,Libya,2004,65.0,38.0,139.0,101.0,Moderate,1.56
+LBY,Libya,2005,64.0,38.0,131.0,93.0,Moderate,-1.54
+LBY,Libya,2006,63.0,38.0,123.0,85.0,Moderate,-1.56
+LBY,Libya,2007,60.0,37.0,115.0,78.0,Moderate,-4.76
+LBY,Libya,2008,57.0,35.0,107.0,72.0,Moderate,-5.0
+LBY,Libya,2009,53.0,33.0,99.0,66.0,Moderate,-7.02
+LBY,Libya,2010,49.0,30.0,89.0,59.0,Moderate,-7.55
+LBY,Libya,2011,43.0,27.0,79.0,52.0,Moderate,-12.24
+LBY,Libya,2012,38.0,24.0,71.0,47.0,Moderate,-11.63
+LBY,Libya,2013,35.0,22.0,65.0,43.0,Moderate,-7.89
+LBY,Libya,2014,33.0,21.0,60.0,39.0,Moderate,-5.71
+LBY,Libya,2015,32.0,20.0,58.0,38.0,Moderate,-3.03
+LBY,Libya,2016,32.0,20.0,60.0,40.0,Moderate,0.0
+LBY,Libya,2017,34.0,22.0,64.0,42.0,Moderate,6.25
+LBY,Libya,2018,37.0,23.0,69.0,46.0,Moderate,8.82
+LBY,Libya,2019,40.0,24.0,76.0,52.0,Moderate,8.11
+LBY,Libya,2020,43.0,26.0,85.0,59.0,Moderate,7.5
+LBY,Libya,2021,47.0,28.0,96.0,68.0,Moderate,9.3
+LBY,Libya,2022,52.0,31.0,108.0,77.0,Moderate,10.64
+LBY,Libya,2023,57.0,33.0,123.0,90.0,Moderate,9.62
+LBY,Libya,2024,63.0,36.0,138.0,102.0,Moderate,10.53
+LSO,Lesotho,2000,827.0,443.0,1330.0,887.0,Very High,
+LSO,Lesotho,2001,923.0,454.0,1550.0,1096.0,Very High,11.61
+LSO,Lesotho,2002,1010.0,459.0,1770.0,1311.0,Very High,9.43
+LSO,Lesotho,2003,1080.0,459.0,1970.0,1511.0,Very High,6.93
+LSO,Lesotho,2004,1150.0,456.0,2150.0,1694.0,Very High,6.48
+LSO,Lesotho,2005,1200.0,453.0,2290.0,1837.0,Very High,4.35
+LSO,Lesotho,2006,1230.0,450.0,2380.0,1930.0,Very High,2.5
+LSO,Lesotho,2007,1230.0,450.0,2390.0,1940.0,Very High,0.0
+LSO,Lesotho,2008,1240.0,449.0,2420.0,1971.0,Very High,0.81
+LSO,Lesotho,2009,1230.0,450.0,2390.0,1940.0,Very High,-0.81
+LSO,Lesotho,2010,1180.0,454.0,2250.0,1796.0,Very High,-4.07
+LSO,Lesotho,2011,1120.0,457.0,2070.0,1613.0,Very High,-5.08
+LSO,Lesotho,2012,1040.0,459.0,1860.0,1401.0,Very High,-7.14
+LSO,Lesotho,2013,948.0,456.0,1620.0,1164.0,Very High,-8.85
+LSO,Lesotho,2014,853.0,447.0,1390.0,943.0,Very High,-10.02
+LSO,Lesotho,2015,780.0,436.0,1220.0,784.0,Very High,-8.56
+LSO,Lesotho,2016,721.0,423.0,1100.0,677.0,Very High,-7.56
+LSO,Lesotho,2017,681.0,413.0,1010.0,597.0,Very High,-5.55
+LSO,Lesotho,2018,659.0,407.0,970.0,563.0,Very High,-3.23
+LSO,Lesotho,2019,654.0,406.0,959.0,553.0,Very High,-0.76
+LSO,Lesotho,2020,599.0,369.0,900.0,531.0,Very High,-8.41
+LSO,Lesotho,2021,606.0,368.0,900.0,532.0,Very High,1.17
+LSO,Lesotho,2022,611.0,361.0,903.0,542.0,Very High,0.83
+LSO,Lesotho,2023,584.0,337.0,878.0,541.0,Very High,-4.42
+LSO,Lesotho,2024,548.0,304.0,837.0,533.0,Very High,-6.16
+MAR,Morocco,2000,114.0,93.0,138.0,45.0,High,
+MAR,Morocco,2001,110.0,90.0,133.0,43.0,High,-3.51
+MAR,Morocco,2002,115.0,93.0,138.0,45.0,High,4.55
+MAR,Morocco,2003,102.0,83.0,123.0,40.0,High,-11.3
+MAR,Morocco,2004,97.0,79.0,117.0,38.0,Moderate,-4.9
+MAR,Morocco,2005,97.0,79.0,117.0,38.0,Moderate,0.0
+MAR,Morocco,2006,95.0,78.0,115.0,37.0,Moderate,-2.06
+MAR,Morocco,2007,92.0,75.0,111.0,36.0,Moderate,-3.16
+MAR,Morocco,2008,96.0,78.0,115.0,37.0,Moderate,4.35
+MAR,Morocco,2009,96.0,78.0,116.0,38.0,Moderate,0.0
+MAR,Morocco,2010,98.0,80.0,118.0,38.0,Moderate,2.08
+MAR,Morocco,2011,98.0,80.0,118.0,38.0,Moderate,0.0
+MAR,Morocco,2012,97.0,79.0,116.0,37.0,Moderate,-1.02
+MAR,Morocco,2013,97.0,79.0,117.0,38.0,Moderate,0.0
+MAR,Morocco,2014,99.0,80.0,119.0,39.0,Moderate,2.06
+MAR,Morocco,2015,100.0,81.0,120.0,39.0,High,1.01
+MAR,Morocco,2016,101.0,82.0,122.0,40.0,High,1.0
+MAR,Morocco,2017,98.0,80.0,118.0,38.0,Moderate,-2.97
+MAR,Morocco,2018,97.0,79.0,117.0,38.0,Moderate,-1.02
+MAR,Morocco,2019,96.0,78.0,115.0,37.0,Moderate,-1.03
+MAR,Morocco,2020,89.0,73.0,108.0,35.0,Moderate,-7.29
+MAR,Morocco,2021,89.0,73.0,108.0,35.0,Moderate,0.0
+MAR,Morocco,2022,92.0,75.0,111.0,36.0,Moderate,3.37
+MAR,Morocco,2023,97.0,79.0,117.0,38.0,Moderate,5.43
+MAR,Morocco,2024,98.0,79.0,118.0,39.0,Moderate,1.03
+MDG,Madagascar,2000,207.0,104.0,593.0,489.0,High,
+MDG,Madagascar,2001,215.0,110.0,587.0,477.0,High,3.86
+MDG,Madagascar,2002,221.0,116.0,580.0,464.0,High,2.79
+MDG,Madagascar,2003,226.0,121.0,573.0,452.0,High,2.26
+MDG,Madagascar,2004,231.0,125.0,566.0,441.0,High,2.21
+MDG,Madagascar,2005,234.0,128.0,559.0,431.0,High,1.3
+MDG,Madagascar,2006,236.0,130.0,552.0,422.0,High,0.85
+MDG,Madagascar,2007,236.0,131.0,545.0,414.0,High,0.0
+MDG,Madagascar,2008,236.0,132.0,538.0,406.0,High,0.0
+MDG,Madagascar,2009,235.0,132.0,530.0,398.0,High,-0.42
+MDG,Madagascar,2010,233.0,131.0,523.0,392.0,High,-0.85
+MDG,Madagascar,2011,230.0,129.0,516.0,387.0,High,-1.29
+MDG,Madagascar,2012,227.0,128.0,508.0,380.0,High,-1.3
+MDG,Madagascar,2013,225.0,128.0,494.0,366.0,High,-0.88
+MDG,Madagascar,2014,221.0,128.0,476.0,348.0,High,-1.78
+MDG,Madagascar,2015,219.0,127.0,461.0,334.0,High,-0.9
+MDG,Madagascar,2016,217.0,128.0,446.0,318.0,High,-0.91
+MDG,Madagascar,2017,215.0,128.0,432.0,304.0,High,-0.92
+MDG,Madagascar,2018,214.0,129.0,421.0,292.0,High,-0.47
+MDG,Madagascar,2019,214.0,130.0,415.0,285.0,High,0.0
+MDG,Madagascar,2020,214.0,131.0,411.0,280.0,High,0.0
+MDG,Madagascar,2021,216.0,133.0,410.0,277.0,High,0.93
+MDG,Madagascar,2022,218.0,134.0,412.0,278.0,High,0.93
+MDG,Madagascar,2023,220.0,136.0,417.0,281.0,High,0.92
+MDG,Madagascar,2024,224.0,138.0,424.0,286.0,High,1.82
+MLI,Mali,2000,76.0,39.0,210.0,171.0,Moderate,
+MLI,Mali,2001,77.0,40.0,203.0,163.0,Moderate,1.32
+MLI,Mali,2002,78.0,42.0,196.0,154.0,Moderate,1.3
+MLI,Mali,2003,79.0,43.0,190.0,147.0,Moderate,1.28
+MLI,Mali,2004,79.0,44.0,184.0,140.0,Moderate,0.0
+MLI,Mali,2005,79.0,44.0,179.0,135.0,Moderate,0.0
+MLI,Mali,2006,78.0,45.0,173.0,128.0,Moderate,-1.27
+MLI,Mali,2007,78.0,44.0,168.0,124.0,Moderate,0.0
+MLI,Mali,2008,76.0,44.0,163.0,119.0,Moderate,-2.56
+MLI,Mali,2009,75.0,43.0,158.0,115.0,Moderate,-1.32
+MLI,Mali,2010,73.0,42.0,153.0,111.0,Moderate,-2.67
+MLI,Mali,2011,70.0,41.0,149.0,108.0,Moderate,-4.11
+MLI,Mali,2012,68.0,40.0,144.0,104.0,Moderate,-2.86
+MLI,Mali,2013,66.0,39.0,139.0,100.0,Moderate,-2.94
+MLI,Mali,2014,64.0,38.0,133.0,95.0,Moderate,-3.03
+MLI,Mali,2015,63.0,37.0,128.0,91.0,Moderate,-1.56
+MLI,Mali,2016,61.0,37.0,124.0,87.0,Moderate,-3.17
+MLI,Mali,2017,60.0,36.0,119.0,83.0,Moderate,-1.64
+MLI,Mali,2018,59.0,36.0,115.0,79.0,Moderate,-1.67
+MLI,Mali,2019,57.0,35.0,111.0,76.0,Moderate,-3.39
+MLI,Mali,2020,56.0,34.0,108.0,74.0,Moderate,-1.75
+MLI,Mali,2021,54.0,33.0,104.0,71.0,Moderate,-3.57
+MLI,Mali,2022,53.0,33.0,102.0,69.0,Moderate,-1.85
+MLI,Mali,2023,52.0,32.0,99.0,67.0,Moderate,-1.89
+MLI,Mali,2024,51.0,31.0,97.0,66.0,Moderate,-1.92
+MOZ,Mozambique,2000,336.0,215.0,484.0,269.0,Very High,
+MOZ,Mozambique,2001,338.0,216.0,486.0,270.0,Very High,0.6
+MOZ,Mozambique,2002,339.0,216.0,488.0,272.0,Very High,0.3
+MOZ,Mozambique,2003,339.0,216.0,490.0,274.0,Very High,0.0
+MOZ,Mozambique,2004,341.0,217.0,492.0,275.0,Very High,0.59
+MOZ,Mozambique,2005,342.0,217.0,496.0,279.0,Very High,0.29
+MOZ,Mozambique,2006,345.0,218.0,500.0,282.0,Very High,0.88
+MOZ,Mozambique,2007,348.0,219.0,506.0,287.0,Very High,0.87
+MOZ,Mozambique,2008,351.0,220.0,512.0,292.0,Very High,0.86
+MOZ,Mozambique,2009,354.0,221.0,518.0,297.0,Very High,0.85
+MOZ,Mozambique,2010,357.0,222.0,524.0,302.0,Very High,0.85
+MOZ,Mozambique,2011,359.0,222.0,529.0,307.0,Very High,0.56
+MOZ,Mozambique,2012,361.0,223.0,532.0,309.0,Very High,0.56
+MOZ,Mozambique,2013,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2014,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2015,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2016,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2017,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2018,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2019,361.0,223.0,532.0,309.0,Very High,0.0
+MOZ,Mozambique,2020,361.0,220.0,537.0,317.0,Very High,0.0
+MOZ,Mozambique,2021,361.0,220.0,537.0,317.0,Very High,0.0
+MOZ,Mozambique,2022,361.0,220.0,537.0,317.0,Very High,0.0
+MOZ,Mozambique,2023,361.0,220.0,537.0,317.0,Very High,0.0
+MOZ,Mozambique,2024,361.0,220.0,537.0,317.0,Very High,0.0
+MRT,Mauritania,2000,229.0,118.0,613.0,495.0,High,
+MRT,Mauritania,2001,224.0,118.0,576.0,458.0,High,-2.18
+MRT,Mauritania,2002,217.0,117.0,541.0,424.0,High,-3.12
+MRT,Mauritania,2003,210.0,115.0,507.0,392.0,High,-3.23
+MRT,Mauritania,2004,203.0,112.0,475.0,363.0,High,-3.33
+MRT,Mauritania,2005,195.0,109.0,444.0,335.0,High,-3.94
+MRT,Mauritania,2006,186.0,105.0,415.0,310.0,High,-4.62
+MRT,Mauritania,2007,176.0,100.0,386.0,286.0,High,-5.38
+MRT,Mauritania,2008,165.0,95.0,359.0,264.0,High,-6.25
+MRT,Mauritania,2009,155.0,89.0,333.0,244.0,High,-6.06
+MRT,Mauritania,2010,145.0,84.0,310.0,226.0,High,-6.45
+MRT,Mauritania,2011,134.0,77.0,290.0,213.0,High,-7.59
+MRT,Mauritania,2012,125.0,72.0,270.0,198.0,High,-6.72
+MRT,Mauritania,2013,118.0,68.0,252.0,184.0,High,-5.6
+MRT,Mauritania,2014,112.0,65.0,236.0,171.0,High,-5.08
+MRT,Mauritania,2015,107.0,63.0,221.0,158.0,High,-4.46
+MRT,Mauritania,2016,102.0,60.0,207.0,147.0,High,-4.67
+MRT,Mauritania,2017,98.0,59.0,195.0,136.0,Moderate,-3.92
+MRT,Mauritania,2018,94.0,57.0,184.0,127.0,Moderate,-4.08
+MRT,Mauritania,2019,89.0,54.0,172.0,118.0,Moderate,-5.32
+MRT,Mauritania,2020,84.0,51.0,161.0,110.0,Moderate,-5.62
+MRT,Mauritania,2021,79.0,49.0,151.0,102.0,Moderate,-5.95
+MRT,Mauritania,2022,75.0,46.0,142.0,96.0,Moderate,-5.06
+MRT,Mauritania,2023,70.0,43.0,133.0,90.0,Moderate,-6.67
+MRT,Mauritania,2024,65.0,40.0,125.0,85.0,Moderate,-7.14
+MUS,Mauritius,2000,32.0,26.0,38.0,12.0,Moderate,
+MUS,Mauritius,2001,24.0,19.0,29.0,10.0,Moderate,-25.0
+MUS,Mauritius,2002,26.0,21.0,32.0,11.0,Moderate,8.33
+MUS,Mauritius,2003,25.0,20.0,30.0,10.0,Moderate,-3.85
+MUS,Mauritius,2004,24.0,20.0,29.0,9.0,Moderate,-4.0
+MUS,Mauritius,2005,22.0,18.0,26.0,8.0,Moderate,-8.33
+MUS,Mauritius,2006,19.0,16.0,23.0,7.0,Moderate,-13.64
+MUS,Mauritius,2007,17.0,14.0,21.0,7.0,Moderate,-10.53
+MUS,Mauritius,2008,17.0,14.0,20.0,6.0,Moderate,0.0
+MUS,Mauritius,2009,17.0,14.0,21.0,7.0,Moderate,0.0
+MUS,Mauritius,2010,18.0,15.0,22.0,7.0,Moderate,5.88
+MUS,Mauritius,2011,16.0,13.0,19.0,6.0,Moderate,-11.11
+MUS,Mauritius,2012,17.0,14.0,21.0,7.0,Moderate,6.25
+MUS,Mauritius,2013,17.0,14.0,20.0,6.0,Moderate,0.0
+MUS,Mauritius,2014,16.0,13.0,19.0,6.0,Moderate,-5.88
+MUS,Mauritius,2015,16.0,13.0,19.0,6.0,Moderate,0.0
+MUS,Mauritius,2016,15.0,12.0,18.0,6.0,Moderate,-6.25
+MUS,Mauritius,2017,14.0,11.0,17.0,6.0,Moderate,-6.67
+MUS,Mauritius,2018,16.0,13.0,19.0,6.0,Moderate,14.29
+MUS,Mauritius,2019,14.0,12.0,17.0,5.0,Moderate,-12.5
+MUS,Mauritius,2020,12.0,9.9,15.0,5.1,Moderate,-14.29
+MUS,Mauritius,2021,11.0,8.9,13.0,4.1,Moderate,-8.33
+MUS,Mauritius,2022,15.0,12.0,17.0,5.0,Moderate,36.36
+MUS,Mauritius,2023,12.0,10.0,15.0,5.0,Moderate,-20.0
+MUS,Mauritius,2024,13.0,10.0,15.0,5.0,Moderate,8.33
+MWI,Malawi,2000,386.0,43.0,1100.0,1057.0,Very High,
+MWI,Malawi,2001,395.0,40.0,1140.0,1100.0,Very High,2.33
+MWI,Malawi,2002,401.0,39.0,1170.0,1131.0,Very High,1.52
+MWI,Malawi,2003,403.0,38.0,1190.0,1152.0,Very High,0.5
+MWI,Malawi,2004,402.0,39.0,1180.0,1141.0,Very High,-0.25
+MWI,Malawi,2005,398.0,40.0,1160.0,1120.0,Very High,-1.0
+MWI,Malawi,2006,392.0,41.0,1130.0,1089.0,Very High,-1.51
+MWI,Malawi,2007,383.0,43.0,1080.0,1037.0,Very High,-2.3
+MWI,Malawi,2008,371.0,47.0,1020.0,973.0,Very High,-3.13
+MWI,Malawi,2009,356.0,50.0,952.0,902.0,Very High,-4.04
+MWI,Malawi,2010,338.0,55.0,870.0,815.0,Very High,-5.06
+MWI,Malawi,2011,316.0,61.0,777.0,716.0,Very High,-6.51
+MWI,Malawi,2012,291.0,67.0,675.0,608.0,High,-7.91
+MWI,Malawi,2013,261.0,73.0,567.0,494.0,High,-10.31
+MWI,Malawi,2014,228.0,78.0,455.0,377.0,High,-12.64
+MWI,Malawi,2015,197.0,81.0,364.0,283.0,High,-13.6
+MWI,Malawi,2016,176.0,81.0,307.0,226.0,High,-10.66
+MWI,Malawi,2017,162.0,80.0,272.0,192.0,High,-7.95
+MWI,Malawi,2018,153.0,79.0,250.0,171.0,High,-5.56
+MWI,Malawi,2019,146.0,78.0,235.0,157.0,High,-4.58
+MWI,Malawi,2020,138.0,73.0,225.0,152.0,High,-5.48
+MWI,Malawi,2021,132.0,67.0,218.0,151.0,High,-4.35
+MWI,Malawi,2022,125.0,61.0,212.0,151.0,High,-5.3
+MWI,Malawi,2023,119.0,55.0,206.0,151.0,High,-4.8
+MWI,Malawi,2024,113.0,52.0,196.0,144.0,High,-5.04
+NAM,Namibia,2000,985.0,469.0,1690.0,1221.0,Very High,
+NAM,Namibia,2001,1100.0,471.0,1990.0,1519.0,Very High,11.68
+NAM,Namibia,2002,1190.0,468.0,2230.0,1762.0,Very High,8.18
+NAM,Namibia,2003,1240.0,464.0,2380.0,1916.0,Very High,4.2
+NAM,Namibia,2004,1260.0,462.0,2440.0,1978.0,Very High,1.61
+NAM,Namibia,2005,1250.0,463.0,2410.0,1947.0,Very High,-0.79
+NAM,Namibia,2006,1210.0,466.0,2300.0,1834.0,Very High,-3.2
+NAM,Namibia,2007,1140.0,470.0,2110.0,1640.0,Very High,-5.79
+NAM,Namibia,2008,1060.0,471.0,1880.0,1409.0,Very High,-7.02
+NAM,Namibia,2009,974.0,468.0,1660.0,1192.0,Very High,-8.11
+NAM,Namibia,2010,892.0,461.0,1460.0,999.0,Very High,-8.42
+NAM,Namibia,2011,815.0,450.0,1290.0,840.0,Very High,-8.63
+NAM,Namibia,2012,754.0,438.0,1150.0,712.0,Very High,-7.48
+NAM,Namibia,2013,710.0,427.0,1060.0,633.0,Very High,-5.84
+NAM,Namibia,2014,674.0,417.0,991.0,574.0,Very High,-5.07
+NAM,Namibia,2015,639.0,407.0,922.0,515.0,Very High,-5.19
+NAM,Namibia,2016,604.0,395.0,856.0,461.0,Very High,-5.48
+NAM,Namibia,2017,565.0,381.0,784.0,403.0,Very High,-6.46
+NAM,Namibia,2018,524.0,365.0,712.0,347.0,Very High,-7.26
+NAM,Namibia,2019,486.0,348.0,647.0,299.0,Very High,-7.25
+NAM,Namibia,2020,450.0,315.0,611.0,296.0,Very High,-7.41
+NAM,Namibia,2021,441.0,296.0,604.0,308.0,Very High,-2.0
+NAM,Namibia,2022,441.0,281.0,612.0,331.0,Very High,0.0
+NAM,Namibia,2023,432.0,257.0,607.0,350.0,Very High,-2.04
+NAM,Namibia,2024,422.0,236.0,600.0,364.0,Very High,-2.31
+NER,Niger,2000,83.0,41.0,246.0,205.0,Moderate,
+NER,Niger,2001,94.0,48.0,261.0,213.0,Moderate,13.25
+NER,Niger,2002,103.0,54.0,273.0,219.0,High,9.57
+NER,Niger,2003,112.0,60.0,282.0,222.0,High,8.74
+NER,Niger,2004,118.0,64.0,289.0,225.0,High,5.36
+NER,Niger,2005,123.0,68.0,293.0,225.0,High,4.24
+NER,Niger,2006,127.0,70.0,295.0,225.0,High,3.25
+NER,Niger,2007,129.0,72.0,294.0,222.0,High,1.57
+NER,Niger,2008,130.0,73.0,290.0,217.0,High,0.78
+NER,Niger,2009,129.0,73.0,284.0,211.0,High,-0.77
+NER,Niger,2010,126.0,72.0,276.0,204.0,High,-2.33
+NER,Niger,2011,122.0,70.0,266.0,196.0,High,-3.17
+NER,Niger,2012,117.0,67.0,254.0,187.0,High,-4.1
+NER,Niger,2013,111.0,64.0,239.0,175.0,High,-5.13
+NER,Niger,2014,104.0,61.0,221.0,160.0,High,-6.31
+NER,Niger,2015,98.0,58.0,205.0,147.0,Moderate,-5.77
+NER,Niger,2016,93.0,55.0,190.0,135.0,Moderate,-5.1
+NER,Niger,2017,88.0,53.0,176.0,123.0,Moderate,-5.38
+NER,Niger,2018,84.0,51.0,166.0,115.0,Moderate,-4.55
+NER,Niger,2019,82.0,50.0,159.0,109.0,Moderate,-2.38
+NER,Niger,2020,81.0,49.0,155.0,106.0,Moderate,-1.22
+NER,Niger,2021,80.0,50.0,153.0,103.0,Moderate,-1.23
+NER,Niger,2022,81.0,50.0,154.0,104.0,Moderate,1.25
+NER,Niger,2023,83.0,51.0,158.0,107.0,Moderate,2.47
+NER,Niger,2024,86.0,53.0,164.0,111.0,Moderate,3.61
+NGA,Nigeria,2000,219.0,143.0,311.0,168.0,High,
+NGA,Nigeria,2001,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2002,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2003,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2004,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2005,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2006,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2007,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2008,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2009,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2010,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2011,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2012,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2013,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2014,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2015,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2016,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2017,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2018,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2019,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2020,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2021,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2022,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2023,219.0,143.0,311.0,168.0,High,0.0
+NGA,Nigeria,2024,219.0,143.0,311.0,168.0,High,0.0
+RWA,Rwanda,2000,238.0,209.0,269.0,60.0,High,
+RWA,Rwanda,2001,215.0,186.0,245.0,59.0,High,-9.66
+RWA,Rwanda,2002,193.0,165.0,223.0,58.0,High,-10.23
+RWA,Rwanda,2003,173.0,146.0,202.0,56.0,High,-10.36
+RWA,Rwanda,2004,155.0,128.0,184.0,56.0,High,-10.4
+RWA,Rwanda,2005,138.0,112.0,166.0,54.0,High,-10.97
+RWA,Rwanda,2006,123.0,98.0,151.0,53.0,High,-10.87
+RWA,Rwanda,2007,110.0,86.0,138.0,52.0,High,-10.57
+RWA,Rwanda,2008,99.0,76.0,126.0,50.0,Moderate,-10.0
+RWA,Rwanda,2009,90.0,67.0,116.0,49.0,Moderate,-9.09
+RWA,Rwanda,2010,82.0,60.0,108.0,48.0,Moderate,-8.89
+RWA,Rwanda,2011,76.0,55.0,101.0,46.0,Moderate,-7.32
+RWA,Rwanda,2012,72.0,51.0,97.0,46.0,Moderate,-5.26
+RWA,Rwanda,2013,70.0,49.0,94.0,45.0,Moderate,-2.78
+RWA,Rwanda,2014,68.0,47.0,92.0,45.0,Moderate,-2.86
+RWA,Rwanda,2015,66.0,46.0,90.0,44.0,Moderate,-2.94
+RWA,Rwanda,2016,65.0,46.0,89.0,43.0,Moderate,-1.52
+RWA,Rwanda,2017,65.0,45.0,88.0,43.0,Moderate,0.0
+RWA,Rwanda,2018,64.0,45.0,87.0,42.0,Moderate,-1.54
+RWA,Rwanda,2019,63.0,44.0,86.0,42.0,Moderate,-1.56
+RWA,Rwanda,2020,63.0,44.0,85.0,41.0,Moderate,0.0
+RWA,Rwanda,2021,63.0,44.0,85.0,41.0,Moderate,0.0
+RWA,Rwanda,2022,62.0,44.0,84.0,40.0,Moderate,-1.59
+RWA,Rwanda,2023,62.0,44.0,83.0,39.0,Moderate,0.0
+RWA,Rwanda,2024,62.0,44.0,83.0,39.0,Moderate,0.0
+SDN,Sudan,2000,148.0,28.0,367.0,339.0,High,
+SDN,Sudan,2001,139.0,30.0,331.0,301.0,High,-6.08
+SDN,Sudan,2002,139.0,30.0,328.0,298.0,High,0.0
+SDN,Sudan,2003,138.0,30.0,325.0,295.0,High,-0.72
+SDN,Sudan,2004,142.0,29.0,341.0,312.0,High,2.9
+SDN,Sudan,2005,143.0,29.0,346.0,317.0,High,0.7
+SDN,Sudan,2006,146.0,28.0,359.0,331.0,High,2.1
+SDN,Sudan,2007,144.0,29.0,349.0,320.0,High,-1.37
+SDN,Sudan,2008,116.0,35.0,245.0,210.0,High,-19.44
+SDN,Sudan,2009,121.0,34.0,263.0,229.0,High,4.31
+SDN,Sudan,2010,119.0,34.0,254.0,220.0,High,-1.65
+SDN,Sudan,2011,105.0,37.0,208.0,171.0,High,-11.76
+SDN,Sudan,2012,103.0,38.0,202.0,164.0,High,-1.9
+SDN,Sudan,2013,100.0,38.0,190.0,152.0,High,-2.91
+SDN,Sudan,2014,94.0,38.0,173.0,135.0,Moderate,-6.0
+SDN,Sudan,2015,88.0,44.0,147.0,103.0,Moderate,-6.38
+SDN,Sudan,2016,82.0,49.0,123.0,74.0,Moderate,-6.82
+SDN,Sudan,2017,77.0,50.0,109.0,59.0,Moderate,-6.1
+SDN,Sudan,2018,71.0,48.0,100.0,52.0,Moderate,-7.79
+SDN,Sudan,2019,67.0,46.0,91.0,45.0,Moderate,-5.63
+SDN,Sudan,2020,62.0,42.0,86.0,44.0,Moderate,-7.46
+SDN,Sudan,2021,58.0,38.0,82.0,44.0,Moderate,-6.45
+SDN,Sudan,2022,54.0,35.0,78.0,43.0,Moderate,-6.9
+SDN,Sudan,2023,50.0,31.0,75.0,44.0,Moderate,-7.41
+SDN,Sudan,2024,47.0,29.0,70.0,41.0,Moderate,-6.0
+SEN,Senegal,2000,173.0,89.0,465.0,376.0,High,
+SEN,Senegal,2001,177.0,93.0,455.0,362.0,High,2.31
+SEN,Senegal,2002,180.0,97.0,445.0,348.0,High,1.69
+SEN,Senegal,2003,182.0,100.0,435.0,335.0,High,1.11
+SEN,Senegal,2004,184.0,102.0,425.0,323.0,High,1.1
+SEN,Senegal,2005,185.0,104.0,416.0,312.0,High,0.54
+SEN,Senegal,2006,185.0,105.0,407.0,302.0,High,0.0
+SEN,Senegal,2007,185.0,106.0,398.0,292.0,High,0.0
+SEN,Senegal,2008,184.0,106.0,390.0,284.0,High,-0.54
+SEN,Senegal,2009,182.0,106.0,382.0,276.0,High,-1.09
+SEN,Senegal,2010,181.0,106.0,377.0,271.0,High,-0.55
+SEN,Senegal,2011,179.0,105.0,373.0,268.0,High,-1.1
+SEN,Senegal,2012,177.0,104.0,366.0,262.0,High,-1.12
+SEN,Senegal,2013,174.0,102.0,356.0,254.0,High,-1.69
+SEN,Senegal,2014,170.0,101.0,344.0,243.0,High,-2.3
+SEN,Senegal,2015,165.0,99.0,331.0,232.0,High,-2.94
+SEN,Senegal,2016,159.0,96.0,315.0,219.0,High,-3.64
+SEN,Senegal,2017,152.0,92.0,298.0,206.0,High,-4.4
+SEN,Senegal,2018,147.0,90.0,284.0,194.0,High,-3.29
+SEN,Senegal,2019,143.0,87.0,274.0,187.0,High,-2.72
+SEN,Senegal,2020,139.0,85.0,266.0,181.0,High,-2.8
+SEN,Senegal,2021,136.0,83.0,260.0,177.0,High,-2.16
+SEN,Senegal,2022,134.0,82.0,257.0,175.0,High,-1.47
+SEN,Senegal,2023,133.0,81.0,256.0,175.0,High,-0.75
+SEN,Senegal,2024,132.0,80.0,258.0,178.0,High,-0.75
+SLE,Sierra Leone,2000,604.0,370.0,1160.0,790.0,Very High,
+SLE,Sierra Leone,2001,592.0,363.0,1140.0,777.0,Very High,-1.99
+SLE,Sierra Leone,2002,580.0,355.0,1120.0,765.0,Very High,-2.03
+SLE,Sierra Leone,2003,569.0,348.0,1090.0,742.0,Very High,-1.9
+SLE,Sierra Leone,2004,557.0,341.0,1070.0,729.0,Very High,-2.11
+SLE,Sierra Leone,2005,546.0,334.0,1050.0,716.0,Very High,-1.97
+SLE,Sierra Leone,2006,535.0,328.0,1030.0,702.0,Very High,-2.01
+SLE,Sierra Leone,2007,525.0,321.0,1010.0,689.0,Very High,-1.87
+SLE,Sierra Leone,2008,514.0,315.0,990.0,675.0,Very High,-2.1
+SLE,Sierra Leone,2009,504.0,308.0,970.0,662.0,Very High,-1.95
+SLE,Sierra Leone,2010,494.0,302.0,951.0,649.0,Very High,-1.98
+SLE,Sierra Leone,2011,484.0,296.0,932.0,636.0,Very High,-2.02
+SLE,Sierra Leone,2012,474.0,290.0,913.0,623.0,Very High,-2.07
+SLE,Sierra Leone,2013,465.0,285.0,895.0,610.0,Very High,-1.9
+SLE,Sierra Leone,2014,455.0,279.0,877.0,598.0,Very High,-2.15
+SLE,Sierra Leone,2015,446.0,273.0,859.0,586.0,Very High,-1.98
+SLE,Sierra Leone,2016,437.0,268.0,842.0,574.0,Very High,-2.02
+SLE,Sierra Leone,2017,429.0,262.0,825.0,563.0,Very High,-1.83
+SLE,Sierra Leone,2018,420.0,257.0,809.0,552.0,Very High,-2.1
+SLE,Sierra Leone,2019,412.0,252.0,793.0,541.0,Very High,-1.9
+SLE,Sierra Leone,2020,403.0,247.0,777.0,530.0,Very High,-2.18
+SLE,Sierra Leone,2021,395.0,242.0,761.0,519.0,Very High,-1.99
+SLE,Sierra Leone,2022,388.0,237.0,746.0,509.0,Very High,-1.77
+SLE,Sierra Leone,2023,380.0,233.0,731.0,498.0,Very High,-2.06
+SLE,Sierra Leone,2024,372.0,228.0,717.0,489.0,Very High,-2.11
+SOM,Somalia,2000,352.0,92.0,14000.0,13908.0,Very High,
+SOM,Somalia,2001,354.0,108.0,10500.0,10392.0,Very High,0.57
+SOM,Somalia,2002,351.0,121.0,7560.0,7439.0,Very High,-0.85
+SOM,Somalia,2003,345.0,131.0,5100.0,4969.0,Very High,-1.71
+SOM,Somalia,2004,336.0,138.0,3170.0,3032.0,Very High,-2.61
+SOM,Somalia,2005,323.0,141.0,1740.0,1599.0,Very High,-3.87
+SOM,Somalia,2006,308.0,143.0,669.0,526.0,Very High,-4.64
+SOM,Somalia,2007,287.0,140.0,542.0,402.0,High,-6.82
+SOM,Somalia,2008,261.0,132.0,415.0,283.0,High,-9.06
+SOM,Somalia,2009,238.0,126.0,519.0,393.0,High,-8.81
+SOM,Somalia,2010,220.0,120.0,434.0,314.0,High,-7.56
+SOM,Somalia,2011,204.0,113.0,431.0,318.0,High,-7.27
+SOM,Somalia,2012,192.0,109.0,418.0,309.0,High,-5.88
+SOM,Somalia,2013,187.0,108.0,393.0,285.0,High,-2.6
+SOM,Somalia,2014,188.0,110.0,391.0,281.0,High,0.53
+SOM,Somalia,2015,187.0,110.0,384.0,274.0,High,-0.53
+SOM,Somalia,2016,184.0,110.0,369.0,259.0,High,-1.6
+SOM,Somalia,2017,182.0,110.0,358.0,248.0,High,-1.09
+SOM,Somalia,2018,179.0,109.0,348.0,239.0,High,-1.65
+SOM,Somalia,2019,175.0,107.0,338.0,231.0,High,-2.23
+SOM,Somalia,2020,171.0,105.0,330.0,225.0,High,-2.29
+SOM,Somalia,2021,167.0,101.0,324.0,223.0,High,-2.34
+SOM,Somalia,2022,162.0,98.0,319.0,221.0,High,-2.99
+SOM,Somalia,2023,157.0,94.0,316.0,222.0,High,-3.09
+SOM,Somalia,2024,151.0,89.0,314.0,225.0,High,-3.82
+SSD,South Sudan,2011,415.0,257.0,786.0,529.0,Very High,
+SSD,South Sudan,2012,407.0,251.0,770.0,519.0,Very High,-1.93
+SSD,South Sudan,2013,399.0,246.0,755.0,509.0,Very High,-1.97
+SSD,South Sudan,2014,391.0,242.0,740.0,498.0,Very High,-2.01
+SSD,South Sudan,2015,383.0,237.0,725.0,488.0,Very High,-2.05
+SSD,South Sudan,2016,376.0,232.0,711.0,479.0,Very High,-1.83
+SSD,South Sudan,2017,368.0,227.0,696.0,469.0,Very High,-2.13
+SSD,South Sudan,2018,361.0,223.0,682.0,459.0,Very High,-1.9
+SSD,South Sudan,2019,353.0,218.0,669.0,451.0,Very High,-2.22
+SSD,South Sudan,2020,346.0,214.0,655.0,441.0,Very High,-1.98
+SSD,South Sudan,2021,339.0,210.0,642.0,432.0,Very High,-2.02
+SSD,South Sudan,2022,333.0,206.0,629.0,423.0,Very High,-1.77
+SSD,South Sudan,2023,326.0,201.0,617.0,416.0,Very High,-2.1
+SSD,South Sudan,2024,320.0,197.0,605.0,408.0,Very High,-1.84
+STP,Sao Tome and Principe,2000,254.0,207.0,306.0,99.0,High,
+STP,Sao Tome and Principe,2001,241.0,196.0,291.0,95.0,High,-5.12
+STP,Sao Tome and Principe,2002,220.0,179.0,266.0,87.0,High,-8.71
+STP,Sao Tome and Principe,2003,237.0,193.0,286.0,93.0,High,7.73
+STP,Sao Tome and Principe,2004,252.0,205.0,304.0,99.0,High,6.33
+STP,Sao Tome and Principe,2005,268.0,218.0,323.0,105.0,High,6.35
+STP,Sao Tome and Principe,2006,273.0,222.0,330.0,108.0,High,1.87
+STP,Sao Tome and Principe,2007,151.0,123.0,183.0,60.0,High,-44.69
+STP,Sao Tome and Principe,2008,101.0,82.0,122.0,40.0,High,-33.11
+STP,Sao Tome and Principe,2009,107.0,87.0,129.0,42.0,High,5.94
+STP,Sao Tome and Principe,2010,153.0,125.0,185.0,60.0,High,42.99
+STP,Sao Tome and Principe,2011,163.0,133.0,197.0,64.0,High,6.54
+STP,Sao Tome and Principe,2012,131.0,107.0,158.0,51.0,High,-19.63
+STP,Sao Tome and Principe,2013,159.0,130.0,192.0,62.0,High,21.37
+STP,Sao Tome and Principe,2014,163.0,133.0,197.0,64.0,High,2.52
+STP,Sao Tome and Principe,2015,175.0,143.0,211.0,68.0,High,7.36
+STP,Sao Tome and Principe,2016,175.0,143.0,211.0,68.0,High,0.0
+STP,Sao Tome and Principe,2017,122.0,99.0,147.0,48.0,High,-30.29
+STP,Sao Tome and Principe,2018,123.0,100.0,148.0,48.0,High,0.82
+STP,Sao Tome and Principe,2019,108.0,88.0,130.0,42.0,High,-12.2
+STP,Sao Tome and Principe,2020,69.0,56.0,83.0,27.0,Moderate,-36.11
+STP,Sao Tome and Principe,2021,59.0,48.0,71.0,23.0,Moderate,-14.49
+STP,Sao Tome and Principe,2022,87.0,71.0,105.0,34.0,Moderate,47.46
+STP,Sao Tome and Principe,2023,73.0,59.0,87.0,28.0,Moderate,-16.09
+STP,Sao Tome and Principe,2024,87.0,71.0,105.0,34.0,Moderate,19.18
+SWZ,Eswatini,2000,981.0,205.0,2340.0,2135.0,Very High,
+SWZ,Eswatini,2001,1010.0,197.0,2470.0,2273.0,Very High,2.96
+SWZ,Eswatini,2002,1110.0,171.0,2900.0,2729.0,Very High,9.9
+SWZ,Eswatini,2003,1270.0,129.0,3660.0,3531.0,Very High,14.41
+SWZ,Eswatini,2004,1320.0,117.0,3920.0,3803.0,Very High,3.94
+SWZ,Eswatini,2005,1420.0,93.0,4450.0,4357.0,Very High,7.58
+SWZ,Eswatini,2006,1460.0,84.0,4700.0,4616.0,Very High,2.82
+SWZ,Eswatini,2007,1430.0,91.0,4530.0,4439.0,Very High,-2.05
+SWZ,Eswatini,2008,1390.0,100.0,4290.0,4190.0,Very High,-2.8
+SWZ,Eswatini,2009,1590.0,58.0,5510.0,5452.0,Very High,14.39
+SWZ,Eswatini,2010,1590.0,59.0,5500.0,5441.0,Very High,0.0
+SWZ,Eswatini,2011,1300.0,120.0,3840.0,3720.0,Very High,-18.24
+SWZ,Eswatini,2012,1110.0,171.0,2910.0,2739.0,Very High,-14.62
+SWZ,Eswatini,2013,1030.0,194.0,2530.0,2336.0,Very High,-7.21
+SWZ,Eswatini,2014,855.0,233.0,1870.0,1637.0,Very High,-16.99
+SWZ,Eswatini,2015,648.0,260.0,1210.0,950.0,Very High,-24.21
+SWZ,Eswatini,2016,537.0,260.0,913.0,653.0,Very High,-17.13
+SWZ,Eswatini,2017,502.0,257.0,828.0,571.0,Very High,-6.52
+SWZ,Eswatini,2018,441.0,248.0,689.0,441.0,Very High,-12.15
+SWZ,Eswatini,2019,363.0,228.0,527.0,299.0,Very High,-17.69
+SWZ,Eswatini,2020,336.0,202.0,504.0,302.0,Very High,-7.44
+SWZ,Eswatini,2021,334.0,194.0,499.0,305.0,Very High,-0.6
+SWZ,Eswatini,2022,335.0,188.0,507.0,319.0,Very High,0.3
+SWZ,Eswatini,2023,326.0,175.0,499.0,324.0,Very High,-2.69
+SWZ,Eswatini,2024,319.0,166.0,492.0,326.0,Very High,-2.15
+SYC,Seychelles,2000,24.0,20.0,29.0,9.0,Moderate,
+SYC,Seychelles,2001,22.0,18.0,27.0,9.0,Moderate,-8.33
+SYC,Seychelles,2002,34.0,27.0,41.0,14.0,Moderate,54.55
+SYC,Seychelles,2003,11.0,9.3,14.0,4.699999999999999,Moderate,-67.65
+SYC,Seychelles,2004,20.0,17.0,25.0,8.0,Moderate,81.82
+SYC,Seychelles,2005,16.0,13.0,19.0,6.0,Moderate,-20.0
+SYC,Seychelles,2006,19.0,16.0,23.0,7.0,Moderate,18.75
+SYC,Seychelles,2007,19.0,15.0,22.0,7.0,Moderate,0.0
+SYC,Seychelles,2008,6.5,5.3,7.8,2.5,Low,-65.79
+SYC,Seychelles,2009,16.0,13.0,19.0,6.0,Moderate,146.15
+SYC,Seychelles,2010,18.0,15.0,22.0,7.0,Moderate,12.5
+SYC,Seychelles,2011,22.0,18.0,26.0,8.0,Moderate,22.22
+SYC,Seychelles,2012,20.0,16.0,24.0,8.0,Moderate,-9.09
+SYC,Seychelles,2013,24.0,19.0,28.0,9.0,Moderate,20.0
+SYC,Seychelles,2014,12.0,10.0,15.0,5.0,Moderate,-50.0
+SYC,Seychelles,2015,7.5,6.1,9.0,2.9000000000000004,Low,-37.5
+SYC,Seychelles,2016,11.0,8.9,13.0,4.1,Moderate,46.67
+SYC,Seychelles,2017,14.0,12.0,17.0,5.0,Moderate,27.27
+SYC,Seychelles,2018,13.0,11.0,16.0,5.0,Moderate,-7.14
+SYC,Seychelles,2019,12.0,9.7,14.0,4.300000000000001,Moderate,-7.69
+SYC,Seychelles,2020,7.5,6.1,9.0,2.9000000000000004,Low,-37.5
+SYC,Seychelles,2021,8.9,7.3,11.0,3.7,Low,18.67
+SYC,Seychelles,2022,13.0,10.0,15.0,5.0,Moderate,46.07
+SYC,Seychelles,2023,18.0,15.0,22.0,7.0,Moderate,38.46
+SYC,Seychelles,2024,17.0,14.0,20.0,6.0,Moderate,-5.56
+TCD,Chad,2000,123.0,61.0,362.0,301.0,High,
+TCD,Chad,2001,123.0,62.0,350.0,288.0,High,0.0
+TCD,Chad,2002,124.0,64.0,341.0,277.0,High,0.81
+TCD,Chad,2003,126.0,66.0,334.0,268.0,High,1.61
+TCD,Chad,2004,129.0,68.0,331.0,263.0,High,2.38
+TCD,Chad,2005,133.0,71.0,332.0,261.0,High,3.1
+TCD,Chad,2006,137.0,74.0,333.0,259.0,High,3.01
+TCD,Chad,2007,143.0,78.0,341.0,263.0,High,4.38
+TCD,Chad,2008,150.0,83.0,354.0,271.0,High,4.9
+TCD,Chad,2009,157.0,87.0,363.0,276.0,High,4.67
+TCD,Chad,2010,162.0,90.0,371.0,281.0,High,3.18
+TCD,Chad,2011,166.0,93.0,379.0,286.0,High,2.47
+TCD,Chad,2012,168.0,95.0,381.0,286.0,High,1.2
+TCD,Chad,2013,167.0,94.0,370.0,276.0,High,-0.6
+TCD,Chad,2014,162.0,93.0,351.0,258.0,High,-2.99
+TCD,Chad,2015,157.0,91.0,333.0,242.0,High,-3.09
+TCD,Chad,2016,152.0,89.0,315.0,226.0,High,-3.18
+TCD,Chad,2017,145.0,86.0,293.0,207.0,High,-4.61
+TCD,Chad,2018,139.0,84.0,276.0,192.0,High,-4.14
+TCD,Chad,2019,135.0,82.0,262.0,180.0,High,-2.88
+TCD,Chad,2020,131.0,80.0,250.0,170.0,High,-2.96
+TCD,Chad,2021,127.0,78.0,240.0,162.0,High,-3.05
+TCD,Chad,2022,123.0,76.0,232.0,156.0,High,-3.15
+TCD,Chad,2023,120.0,75.0,227.0,152.0,High,-2.44
+TCD,Chad,2024,118.0,73.0,222.0,149.0,High,-1.67
+TGO,Togo,2000,51.0,25.0,145.0,120.0,Moderate,
+TGO,Togo,2001,61.0,32.0,160.0,128.0,Moderate,19.61
+TGO,Togo,2002,69.0,37.0,173.0,136.0,Moderate,13.11
+TGO,Togo,2003,76.0,42.0,183.0,141.0,Moderate,10.14
+TGO,Togo,2004,82.0,45.0,191.0,146.0,Moderate,7.89
+TGO,Togo,2005,86.0,48.0,197.0,149.0,Moderate,4.88
+TGO,Togo,2006,90.0,51.0,200.0,149.0,Moderate,4.65
+TGO,Togo,2007,91.0,52.0,201.0,149.0,Moderate,1.11
+TGO,Togo,2008,91.0,52.0,199.0,147.0,Moderate,0.0
+TGO,Togo,2009,90.0,51.0,195.0,144.0,Moderate,-1.1
+TGO,Togo,2010,86.0,50.0,187.0,137.0,Moderate,-4.44
+TGO,Togo,2011,81.0,47.0,175.0,128.0,Moderate,-5.81
+TGO,Togo,2012,76.0,44.0,164.0,120.0,Moderate,-6.17
+TGO,Togo,2013,72.0,41.0,152.0,111.0,Moderate,-5.26
+TGO,Togo,2014,66.0,39.0,138.0,99.0,Moderate,-8.33
+TGO,Togo,2015,62.0,36.0,126.0,90.0,Moderate,-6.06
+TGO,Togo,2016,58.0,34.0,116.0,82.0,Moderate,-6.45
+TGO,Togo,2017,54.0,33.0,107.0,74.0,Moderate,-6.9
+TGO,Togo,2018,51.0,31.0,99.0,68.0,Moderate,-5.56
+TGO,Togo,2019,49.0,30.0,94.0,64.0,Moderate,-3.92
+TGO,Togo,2020,48.0,29.0,91.0,62.0,Moderate,-2.04
+TGO,Togo,2021,47.0,29.0,89.0,60.0,Moderate,-2.08
+TGO,Togo,2022,47.0,29.0,89.0,60.0,Moderate,0.0
+TGO,Togo,2023,47.0,29.0,90.0,61.0,Moderate,0.0
+TGO,Togo,2024,48.0,29.0,93.0,64.0,Moderate,2.13
+TUN,Tunisia,2000,57.0,46.0,69.0,23.0,Moderate,
+TUN,Tunisia,2001,49.0,40.0,59.0,19.0,Moderate,-14.04
+TUN,Tunisia,2002,44.0,36.0,53.0,17.0,Moderate,-10.2
+TUN,Tunisia,2003,42.0,34.0,50.0,16.0,Moderate,-4.55
+TUN,Tunisia,2004,39.0,32.0,47.0,15.0,Moderate,-7.14
+TUN,Tunisia,2005,38.0,31.0,46.0,15.0,Moderate,-2.56
+TUN,Tunisia,2006,38.0,31.0,46.0,15.0,Moderate,0.0
+TUN,Tunisia,2007,40.0,33.0,48.0,15.0,Moderate,5.26
+TUN,Tunisia,2008,39.0,32.0,47.0,15.0,Moderate,-2.5
+TUN,Tunisia,2009,36.0,29.0,44.0,15.0,Moderate,-7.69
+TUN,Tunisia,2010,39.0,32.0,47.0,15.0,Moderate,8.33
+TUN,Tunisia,2011,48.0,39.0,58.0,19.0,Moderate,23.08
+TUN,Tunisia,2012,51.0,41.0,61.0,20.0,Moderate,6.25
+TUN,Tunisia,2013,46.0,38.0,56.0,18.0,Moderate,-9.8
+TUN,Tunisia,2014,47.0,38.0,57.0,19.0,Moderate,2.17
+TUN,Tunisia,2015,50.0,41.0,60.0,19.0,Moderate,6.38
+TUN,Tunisia,2016,49.0,40.0,59.0,19.0,Moderate,-2.0
+TUN,Tunisia,2017,43.0,35.0,52.0,17.0,Moderate,-12.24
+TUN,Tunisia,2018,43.0,35.0,51.0,16.0,Moderate,0.0
+TUN,Tunisia,2019,42.0,34.0,51.0,17.0,Moderate,-2.33
+TUN,Tunisia,2020,41.0,34.0,50.0,16.0,Moderate,-2.38
+TUN,Tunisia,2021,40.0,33.0,49.0,16.0,Moderate,-2.44
+TUN,Tunisia,2022,39.0,32.0,47.0,15.0,Moderate,-2.5
+TUN,Tunisia,2023,38.0,31.0,46.0,15.0,Moderate,-2.56
+TUN,Tunisia,2024,39.0,31.0,47.0,16.0,Moderate,2.63
+TZA,Tanzania,2000,503.0,95.0,1240.0,1145.0,Very High,
+TZA,Tanzania,2001,506.0,100.0,1230.0,1130.0,Very High,0.6
+TZA,Tanzania,2002,509.0,105.0,1220.0,1115.0,Very High,0.59
+TZA,Tanzania,2003,510.0,110.0,1210.0,1100.0,Very High,0.2
+TZA,Tanzania,2004,510.0,115.0,1190.0,1075.0,Very High,0.0
+TZA,Tanzania,2005,510.0,120.0,1180.0,1060.0,Very High,0.0
+TZA,Tanzania,2006,504.0,123.0,1150.0,1027.0,Very High,-1.18
+TZA,Tanzania,2007,492.0,125.0,1110.0,985.0,Very High,-2.38
+TZA,Tanzania,2008,474.0,125.0,1050.0,925.0,Very High,-3.66
+TZA,Tanzania,2009,452.0,123.0,991.0,868.0,Very High,-4.64
+TZA,Tanzania,2010,426.0,120.0,921.0,801.0,Very High,-5.75
+TZA,Tanzania,2011,401.0,117.0,857.0,740.0,Very High,-5.87
+TZA,Tanzania,2012,378.0,113.0,797.0,684.0,Very High,-5.74
+TZA,Tanzania,2013,336.0,107.0,692.0,585.0,Very High,-11.11
+TZA,Tanzania,2014,327.0,108.0,663.0,555.0,Very High,-2.68
+TZA,Tanzania,2015,306.0,111.0,599.0,488.0,Very High,-6.42
+TZA,Tanzania,2016,287.0,111.0,545.0,434.0,High,-6.21
+TZA,Tanzania,2017,269.0,112.0,494.0,382.0,High,-6.27
+TZA,Tanzania,2018,253.0,112.0,449.0,337.0,High,-5.95
+TZA,Tanzania,2019,237.0,112.0,408.0,296.0,High,-6.32
+TZA,Tanzania,2020,222.0,105.0,383.0,278.0,High,-6.33
+TZA,Tanzania,2021,208.0,93.0,370.0,277.0,High,-6.31
+TZA,Tanzania,2022,195.0,81.0,358.0,277.0,High,-6.25
+TZA,Tanzania,2023,183.0,71.0,348.0,277.0,High,-6.15
+TZA,Tanzania,2024,172.0,67.0,326.0,259.0,High,-6.01
+UGA,Uganda,2000,276.0,106.0,527.0,421.0,High,
+UGA,Uganda,2001,266.0,137.0,437.0,300.0,High,-3.62
+UGA,Uganda,2002,256.0,150.0,390.0,240.0,High,-3.76
+UGA,Uganda,2003,248.0,156.0,360.0,204.0,High,-3.12
+UGA,Uganda,2004,240.0,156.0,341.0,185.0,High,-3.23
+UGA,Uganda,2005,233.0,145.0,342.0,197.0,High,-2.92
+UGA,Uganda,2006,227.0,141.0,333.0,192.0,High,-2.58
+UGA,Uganda,2007,222.0,139.0,324.0,185.0,High,-2.2
+UGA,Uganda,2008,217.0,139.0,312.0,173.0,High,-2.25
+UGA,Uganda,2009,213.0,135.0,309.0,174.0,High,-1.84
+UGA,Uganda,2010,210.0,135.0,301.0,166.0,High,-1.41
+UGA,Uganda,2011,207.0,141.0,286.0,145.0,High,-1.43
+UGA,Uganda,2012,205.0,133.0,291.0,158.0,High,-0.97
+UGA,Uganda,2013,203.0,132.0,289.0,157.0,High,-0.98
+UGA,Uganda,2014,202.0,127.0,295.0,168.0,High,-0.49
+UGA,Uganda,2015,202.0,119.0,305.0,186.0,High,0.0
+UGA,Uganda,2016,201.0,118.0,307.0,189.0,High,-0.5
+UGA,Uganda,2017,201.0,118.0,306.0,188.0,High,0.0
+UGA,Uganda,2018,200.0,118.0,304.0,186.0,High,-0.5
+UGA,Uganda,2019,200.0,117.0,303.0,186.0,High,0.0
+UGA,Uganda,2020,199.0,120.0,298.0,178.0,High,-0.5
+UGA,Uganda,2021,199.0,119.0,298.0,179.0,High,0.0
+UGA,Uganda,2022,198.0,119.0,297.0,178.0,High,-0.5
+UGA,Uganda,2023,198.0,118.0,297.0,179.0,High,0.0
+UGA,Uganda,2024,197.0,118.0,296.0,178.0,High,-0.51
+USA,United States,2000,7.7,6.3,9.3,3.000000000000001,Low,
+USA,United States,2001,7.4,6.0,8.9,2.9000000000000004,Low,-3.9
+USA,United States,2002,6.8,5.5,8.2,2.6999999999999993,Low,-8.11
+USA,United States,2003,6.6,5.3,7.9,2.6000000000000005,Low,-2.94
+USA,United States,2004,6.3,5.1,7.6,2.5,Low,-4.55
+USA,United States,2005,6.0,4.9,7.2,2.3,Low,-4.76
+USA,United States,2006,5.8,4.7,6.9,2.2,Low,-3.33
+USA,United States,2007,5.5,4.5,6.6,2.0999999999999996,Low,-5.17
+USA,United States,2008,5.2,4.2,6.3,2.0999999999999996,Low,-5.45
+USA,United States,2009,4.6,3.7,5.5,1.7999999999999998,Low,-11.54
+USA,United States,2010,4.4,3.6,5.3,1.6999999999999997,Low,-4.35
+USA,United States,2011,4.1,3.3,4.9,1.6000000000000005,Low,-6.82
+USA,United States,2012,3.8,3.1,4.6,1.4999999999999996,Low,-7.32
+USA,United States,2013,3.4,2.8,4.1,1.2999999999999998,Low,-10.53
+USA,United States,2014,3.3,2.7,4.0,1.2999999999999998,Low,-2.94
+USA,United States,2015,3.3,2.7,4.0,1.2999999999999998,Low,0.0
+USA,United States,2016,3.1,2.6,3.8,1.1999999999999997,Low,-6.06
+USA,United States,2017,3.0,2.5,3.7,1.2000000000000002,Low,-3.23
+USA,United States,2018,3.0,2.4,3.6,1.2000000000000002,Low,0.0
+USA,United States,2019,2.9,2.4,3.5,1.1,Low,-3.33
+USA,United States,2020,2.4,1.9,2.8,0.8999999999999999,Low,-17.24
+USA,United States,2021,2.6,2.1,3.1,1.0,Low,8.33
+USA,United States,2022,2.6,2.1,3.2,1.1,Low,0.0
+USA,United States,2023,3.1,2.5,3.8,1.2999999999999998,Low,19.23
+USA,United States,2024,3.2,2.6,3.9,1.2999999999999998,Low,3.23
+ZAF,South Africa,2000,762.0,416.0,1210.0,794.0,Very High,
+ZAF,South Africa,2001,867.0,429.0,1460.0,1031.0,Very High,13.78
+ZAF,South Africa,2002,971.0,434.0,1720.0,1286.0,Very High,12.0
+ZAF,South Africa,2003,1070.0,433.0,1980.0,1547.0,Very High,10.2
+ZAF,South Africa,2004,1150.0,427.0,2220.0,1793.0,Very High,7.48
+ZAF,South Africa,2005,1210.0,420.0,2410.0,1990.0,Very High,5.22
+ZAF,South Africa,2006,1250.0,415.0,2540.0,2125.0,Very High,3.31
+ZAF,South Africa,2007,1270.0,412.0,2600.0,2188.0,Very High,1.6
+ZAF,South Africa,2008,1270.0,592.0,2200.0,1608.0,Very High,0.0
+ZAF,South Africa,2009,1260.0,634.0,2090.0,1456.0,Very High,-0.79
+ZAF,South Africa,2010,1230.0,622.0,2050.0,1428.0,Very High,-2.38
+ZAF,South Africa,2011,1200.0,667.0,1890.0,1223.0,Very High,-2.44
+ZAF,South Africa,2012,1160.0,552.0,1990.0,1438.0,Very High,-3.33
+ZAF,South Africa,2013,1110.0,548.0,1850.0,1302.0,Very High,-4.31
+ZAF,South Africa,2014,1070.0,544.0,1760.0,1216.0,Very High,-3.6
+ZAF,South Africa,2015,988.0,534.0,1580.0,1046.0,Very High,-7.66
+ZAF,South Africa,2016,805.0,494.0,1190.0,696.0,Very High,-18.52
+ZAF,South Africa,2017,738.0,474.0,1060.0,586.0,Very High,-8.32
+ZAF,South Africa,2018,677.0,453.0,946.0,493.0,Very High,-8.27
+ZAF,South Africa,2019,615.0,427.0,835.0,408.0,Very High,-9.16
+ZAF,South Africa,2020,562.0,396.0,757.0,361.0,Very High,-8.62
+ZAF,South Africa,2021,513.0,348.0,709.0,361.0,Very High,-8.72
+ZAF,South Africa,2022,468.0,304.0,665.0,361.0,Very High,-8.77
+ZAF,South Africa,2023,427.0,265.0,626.0,361.0,Very High,-8.76
+ZAF,South Africa,2024,389.0,242.0,571.0,329.0,Very High,-8.9
+ZMB,Zambia,2000,759.0,238.0,1570.0,1332.0,Very High,
+ZMB,Zambia,2001,728.0,243.0,1470.0,1227.0,Very High,-4.08
+ZMB,Zambia,2002,695.0,336.0,1180.0,844.0,Very High,-4.53
+ZMB,Zambia,2003,662.0,390.0,1000.0,610.0,Very High,-4.75
+ZMB,Zambia,2004,631.0,356.0,983.0,627.0,Very High,-4.68
+ZMB,Zambia,2005,602.0,313.0,985.0,672.0,Very High,-4.6
+ZMB,Zambia,2006,577.0,299.0,944.0,645.0,Very High,-4.15
+ZMB,Zambia,2007,554.0,253.0,971.0,718.0,Very High,-3.99
+ZMB,Zambia,2008,534.0,252.0,918.0,666.0,Very High,-3.61
+ZMB,Zambia,2009,514.0,251.0,869.0,618.0,Very High,-3.75
+ZMB,Zambia,2010,495.0,250.0,822.0,572.0,Very High,-3.7
+ZMB,Zambia,2011,475.0,247.0,776.0,529.0,Very High,-4.04
+ZMB,Zambia,2012,456.0,245.0,732.0,487.0,Very High,-4.0
+ZMB,Zambia,2013,437.0,242.0,690.0,448.0,Very High,-4.17
+ZMB,Zambia,2014,406.0,236.0,623.0,387.0,Very High,-7.09
+ZMB,Zambia,2015,391.0,232.0,591.0,359.0,Very High,-3.69
+ZMB,Zambia,2016,376.0,229.0,557.0,328.0,Very High,-3.84
+ZMB,Zambia,2017,361.0,225.0,528.0,303.0,Very High,-3.99
+ZMB,Zambia,2018,346.0,221.0,500.0,279.0,Very High,-4.16
+ZMB,Zambia,2019,333.0,216.0,474.0,258.0,Very High,-3.76
+ZMB,Zambia,2020,319.0,208.0,455.0,247.0,Very High,-4.2
+ZMB,Zambia,2021,307.0,195.0,443.0,248.0,Very High,-3.76
+ZMB,Zambia,2022,295.0,184.0,431.0,247.0,High,-3.91
+ZMB,Zambia,2023,283.0,173.0,420.0,247.0,High,-4.07
+ZMB,Zambia,2024,272.0,166.0,403.0,237.0,High,-3.89
+ZWE,Zimbabwe,2000,605.0,166.0,1320.0,1154.0,Very High,
+ZWE,Zimbabwe,2001,617.0,211.0,1230.0,1019.0,Very High,1.98
+ZWE,Zimbabwe,2002,617.0,247.0,1150.0,903.0,Very High,0.0
+ZWE,Zimbabwe,2003,617.0,213.0,1230.0,1017.0,Very High,0.0
+ZWE,Zimbabwe,2004,607.0,208.0,1210.0,1002.0,Very High,-1.62
+ZWE,Zimbabwe,2005,588.0,114.0,1440.0,1326.0,Very High,-3.13
+ZWE,Zimbabwe,2006,561.0,121.0,1330.0,1209.0,Very High,-4.59
+ZWE,Zimbabwe,2007,527.0,129.0,1200.0,1071.0,Very High,-6.06
+ZWE,Zimbabwe,2008,487.0,137.0,1050.0,913.0,Very High,-7.59
+ZWE,Zimbabwe,2009,450.0,200.0,799.0,599.0,Very High,-7.6
+ZWE,Zimbabwe,2010,416.0,238.0,642.0,404.0,Very High,-7.56
+ZWE,Zimbabwe,2011,384.0,199.0,629.0,430.0,Very High,-7.69
+ZWE,Zimbabwe,2012,355.0,190.0,570.0,380.0,Very High,-7.55
+ZWE,Zimbabwe,2013,304.0,192.0,440.0,248.0,Very High,-14.37
+ZWE,Zimbabwe,2014,278.0,176.0,404.0,228.0,High,-8.55
+ZWE,Zimbabwe,2015,242.0,167.0,330.0,163.0,High,-12.95
+ZWE,Zimbabwe,2016,233.0,163.0,315.0,152.0,High,-3.72
+ZWE,Zimbabwe,2017,221.0,158.0,295.0,137.0,High,-5.15
+ZWE,Zimbabwe,2018,210.0,153.0,276.0,123.0,High,-4.98
+ZWE,Zimbabwe,2019,199.0,147.0,258.0,111.0,High,-5.24
+ZWE,Zimbabwe,2020,189.0,137.0,248.0,111.0,High,-5.03
+ZWE,Zimbabwe,2021,198.0,139.0,257.0,118.0,High,4.76
+ZWE,Zimbabwe,2022,209.0,144.0,277.0,133.0,High,5.56
+ZWE,Zimbabwe,2023,209.0,138.0,280.0,142.0,High,0.0
+ZWE,Zimbabwe,2024,203.0,129.0,272.0,143.0,High,-2.87

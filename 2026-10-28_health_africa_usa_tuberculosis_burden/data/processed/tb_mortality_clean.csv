@@ -1,0 +1,541 @@
+country_code,country_name,year,tb_mortality_per_100k
+AGO,Angola,2015,84.0
+AGO,Angola,2016,83.0
+AGO,Angola,2017,87.0
+AGO,Angola,2018,80.0
+AGO,Angola,2019,70.0
+AGO,Angola,2020,62.0
+AGO,Angola,2021,60.0
+AGO,Angola,2022,72.0
+AGO,Angola,2023,64.0
+AGO,Angola,2024,67.0
+BDI,Burundi,2015,24.0
+BDI,Burundi,2016,21.0
+BDI,Burundi,2017,19.0
+BDI,Burundi,2018,19.0
+BDI,Burundi,2019,20.0
+BDI,Burundi,2020,18.0
+BDI,Burundi,2021,18.0
+BDI,Burundi,2022,15.0
+BDI,Burundi,2023,13.0
+BDI,Burundi,2024,12.0
+BEN,Benin,2015,11.0
+BEN,Benin,2016,10.0
+BEN,Benin,2017,10.0
+BEN,Benin,2018,8.5
+BEN,Benin,2019,7.0
+BEN,Benin,2020,7.5
+BEN,Benin,2021,7.5
+BEN,Benin,2022,5.8
+BEN,Benin,2023,5.0
+BEN,Benin,2024,5.3
+BFA,Burkina Faso,2015,16.0
+BFA,Burkina Faso,2016,15.0
+BFA,Burkina Faso,2017,15.0
+BFA,Burkina Faso,2018,14.0
+BFA,Burkina Faso,2019,16.0
+BFA,Burkina Faso,2020,15.0
+BFA,Burkina Faso,2021,13.0
+BFA,Burkina Faso,2022,12.0
+BFA,Burkina Faso,2023,9.3
+BFA,Burkina Faso,2024,8.1
+BWA,Botswana,2015,39.0
+BWA,Botswana,2016,31.0
+BWA,Botswana,2017,35.0
+BWA,Botswana,2018,30.0
+BWA,Botswana,2019,40.0
+BWA,Botswana,2020,39.0
+BWA,Botswana,2021,34.0
+BWA,Botswana,2022,25.0
+BWA,Botswana,2023,26.0
+BWA,Botswana,2024,13.0
+CAF,Central African Republic,2015,82.0
+CAF,Central African Republic,2016,87.0
+CAF,Central African Republic,2017,92.0
+CAF,Central African Republic,2018,85.0
+CAF,Central African Republic,2019,76.0
+CAF,Central African Republic,2020,67.0
+CAF,Central African Republic,2021,64.0
+CAF,Central African Republic,2022,57.0
+CAF,Central African Republic,2023,53.0
+CAF,Central African Republic,2024,47.0
+CIV,Cote d'Ivoire,2015,26.0
+CIV,Cote d'Ivoire,2016,26.0
+CIV,Cote d'Ivoire,2017,24.0
+CIV,Cote d'Ivoire,2018,21.0
+CIV,Cote d'Ivoire,2019,20.0
+CIV,Cote d'Ivoire,2020,20.0
+CIV,Cote d'Ivoire,2021,18.0
+CIV,Cote d'Ivoire,2022,15.0
+CIV,Cote d'Ivoire,2023,14.0
+CIV,Cote d'Ivoire,2024,13.0
+CMR,Cameroon,2015,30.0
+CMR,Cameroon,2016,28.0
+CMR,Cameroon,2017,28.0
+CMR,Cameroon,2018,28.0
+CMR,Cameroon,2019,25.0
+CMR,Cameroon,2020,26.0
+CMR,Cameroon,2021,25.0
+CMR,Cameroon,2022,21.0
+CMR,Cameroon,2023,20.0
+CMR,Cameroon,2024,17.0
+COD,DR Congo,2015,116.0
+COD,DR Congo,2016,112.0
+COD,DR Congo,2017,106.0
+COD,DR Congo,2018,96.0
+COD,DR Congo,2019,92.0
+COD,DR Congo,2020,85.0
+COD,DR Congo,2021,79.0
+COD,DR Congo,2022,68.0
+COD,DR Congo,2023,63.0
+COD,DR Congo,2024,54.0
+COG,Congo,2015,47.0
+COG,Congo,2016,42.0
+COG,Congo,2017,43.0
+COG,Congo,2018,38.0
+COG,Congo,2019,33.0
+COG,Congo,2020,36.0
+COG,Congo,2021,32.0
+COG,Congo,2022,25.0
+COG,Congo,2023,25.0
+COG,Congo,2024,39.0
+COM,Comoros,2015,10.0
+COM,Comoros,2016,8.8
+COM,Comoros,2017,11.0
+COM,Comoros,2018,10.0
+COM,Comoros,2019,6.3
+COM,Comoros,2020,7.2
+COM,Comoros,2021,7.1
+COM,Comoros,2022,7.4
+COM,Comoros,2023,5.8
+COM,Comoros,2024,3.4
+CPV,Cabo Verde,2015,4.3
+CPV,Cabo Verde,2016,4.3
+CPV,Cabo Verde,2017,4.3
+CPV,Cabo Verde,2018,4.3
+CPV,Cabo Verde,2019,4.3
+CPV,Cabo Verde,2020,4.8
+CPV,Cabo Verde,2021,4.5
+CPV,Cabo Verde,2022,3.4
+CPV,Cabo Verde,2023,4.6
+CPV,Cabo Verde,2024,4.6
+DJI,Djibouti,2015,181.0
+DJI,Djibouti,2016,152.0
+DJI,Djibouti,2017,112.0
+DJI,Djibouti,2018,108.0
+DJI,Djibouti,2019,97.0
+DJI,Djibouti,2020,92.0
+DJI,Djibouti,2021,101.0
+DJI,Djibouti,2022,119.0
+DJI,Djibouti,2023,123.0
+DJI,Djibouti,2024,127.0
+DZA,Algeria,2015,11.0
+DZA,Algeria,2016,10.0
+DZA,Algeria,2017,9.9
+DZA,Algeria,2018,9.8
+DZA,Algeria,2019,8.5
+DZA,Algeria,2020,6.9
+DZA,Algeria,2021,7.5
+DZA,Algeria,2022,7.2
+DZA,Algeria,2023,7.2
+DZA,Algeria,2024,7.0
+EGY,Egypt,2015,0.43
+EGY,Egypt,2016,0.43
+EGY,Egypt,2017,0.43
+EGY,Egypt,2018,0.43
+EGY,Egypt,2019,0.43
+EGY,Egypt,2020,0.43
+EGY,Egypt,2021,0.43
+EGY,Egypt,2022,0.43
+EGY,Egypt,2023,0.43
+EGY,Egypt,2024,0.43
+ERI,Eritrea,2015,38.0
+ERI,Eritrea,2016,39.0
+ERI,Eritrea,2017,36.0
+ERI,Eritrea,2018,32.0
+ERI,Eritrea,2019,31.0
+ERI,Eritrea,2020,27.0
+ERI,Eritrea,2021,28.0
+ERI,Eritrea,2022,33.0
+ERI,Eritrea,2023,37.0
+ERI,Eritrea,2024,29.0
+ETH,Ethiopia,2015,26.0
+ETH,Ethiopia,2016,26.0
+ETH,Ethiopia,2017,25.0
+ETH,Ethiopia,2018,22.0
+ETH,Ethiopia,2019,19.0
+ETH,Ethiopia,2020,18.0
+ETH,Ethiopia,2021,16.0
+ETH,Ethiopia,2022,17.0
+ETH,Ethiopia,2023,19.0
+ETH,Ethiopia,2024,14.0
+GAB,Gabon,2015,62.0
+GAB,Gabon,2016,64.0
+GAB,Gabon,2017,66.0
+GAB,Gabon,2018,59.0
+GAB,Gabon,2019,62.0
+GAB,Gabon,2020,66.0
+GAB,Gabon,2021,61.0
+GAB,Gabon,2022,45.0
+GAB,Gabon,2023,40.0
+GAB,Gabon,2024,41.0
+GHA,Ghana,2015,37.0
+GHA,Ghana,2016,36.0
+GHA,Ghana,2017,36.0
+GHA,Ghana,2018,36.0
+GHA,Ghana,2019,34.0
+GHA,Ghana,2020,36.0
+GHA,Ghana,2021,36.0
+GHA,Ghana,2022,32.0
+GHA,Ghana,2023,29.0
+GHA,Ghana,2024,27.0
+GIN,Guinea,2015,26.0
+GIN,Guinea,2016,26.0
+GIN,Guinea,2017,24.0
+GIN,Guinea,2018,24.0
+GIN,Guinea,2019,20.0
+GIN,Guinea,2020,21.0
+GIN,Guinea,2021,18.0
+GIN,Guinea,2022,16.0
+GIN,Guinea,2023,17.0
+GIN,Guinea,2024,22.0
+GMB,Gambia,2015,21.0
+GMB,Gambia,2016,22.0
+GMB,Gambia,2017,21.0
+GMB,Gambia,2018,22.0
+GMB,Gambia,2019,19.0
+GMB,Gambia,2020,23.0
+GMB,Gambia,2021,25.0
+GMB,Gambia,2022,21.0
+GMB,Gambia,2023,17.0
+GMB,Gambia,2024,17.0
+GNB,Guinea-Bissau,2015,31.0
+GNB,Guinea-Bissau,2016,26.0
+GNB,Guinea-Bissau,2017,26.0
+GNB,Guinea-Bissau,2018,27.0
+GNB,Guinea-Bissau,2019,22.0
+GNB,Guinea-Bissau,2020,20.0
+GNB,Guinea-Bissau,2021,21.0
+GNB,Guinea-Bissau,2022,15.0
+GNB,Guinea-Bissau,2023,19.0
+GNB,Guinea-Bissau,2024,19.0
+GNQ,Equatorial Guinea,2015,34.0
+GNQ,Equatorial Guinea,2016,31.0
+GNQ,Equatorial Guinea,2017,37.0
+GNQ,Equatorial Guinea,2018,41.0
+GNQ,Equatorial Guinea,2019,40.0
+GNQ,Equatorial Guinea,2020,34.0
+GNQ,Equatorial Guinea,2021,30.0
+GNQ,Equatorial Guinea,2022,9.8
+GNQ,Equatorial Guinea,2023,3.5
+GNQ,Equatorial Guinea,2024,15.0
+KEN,Kenya,2015,64.0
+KEN,Kenya,2016,60.0
+KEN,Kenya,2017,50.0
+KEN,Kenya,2018,38.0
+KEN,Kenya,2019,37.0
+KEN,Kenya,2020,38.0
+KEN,Kenya,2021,40.0
+KEN,Kenya,2022,31.0
+KEN,Kenya,2023,28.0
+KEN,Kenya,2024,29.0
+LBR,Liberia,2015,65.0
+LBR,Liberia,2016,51.0
+LBR,Liberia,2017,44.0
+LBR,Liberia,2018,39.0
+LBR,Liberia,2019,35.0
+LBR,Liberia,2020,44.0
+LBR,Liberia,2021,39.0
+LBR,Liberia,2022,39.0
+LBR,Liberia,2023,35.0
+LBR,Liberia,2024,28.0
+LBY,Libya,2015,7.5
+LBY,Libya,2016,7.0
+LBY,Libya,2017,6.5
+LBY,Libya,2018,5.2
+LBY,Libya,2019,4.2
+LBY,Libya,2020,8.6
+LBY,Libya,2021,9.4
+LBY,Libya,2022,10.0
+LBY,Libya,2023,12.0
+LBY,Libya,2024,12.0
+LSO,Lesotho,2015,52.0
+LSO,Lesotho,2016,47.0
+LSO,Lesotho,2017,46.0
+LSO,Lesotho,2018,50.0
+LSO,Lesotho,2019,57.0
+LSO,Lesotho,2020,66.0
+LSO,Lesotho,2021,71.0
+LSO,Lesotho,2022,71.0
+LSO,Lesotho,2023,64.0
+LSO,Lesotho,2024,57.0
+MAR,Morocco,2015,7.3
+MAR,Morocco,2016,7.4
+MAR,Morocco,2017,7.2
+MAR,Morocco,2018,7.1
+MAR,Morocco,2019,7.0
+MAR,Morocco,2020,6.6
+MAR,Morocco,2021,6.6
+MAR,Morocco,2022,6.8
+MAR,Morocco,2023,7.1
+MAR,Morocco,2024,7.2
+MDG,Madagascar,2015,46.0
+MDG,Madagascar,2016,47.0
+MDG,Madagascar,2017,44.0
+MDG,Madagascar,2018,42.0
+MDG,Madagascar,2019,39.0
+MDG,Madagascar,2020,42.0
+MDG,Madagascar,2021,38.0
+MDG,Madagascar,2022,34.0
+MDG,Madagascar,2023,34.0
+MDG,Madagascar,2024,32.0
+MLI,Mali,2015,11.0
+MLI,Mali,2016,11.0
+MLI,Mali,2017,12.0
+MLI,Mali,2018,11.0
+MLI,Mali,2019,10.0
+MLI,Mali,2020,10.0
+MLI,Mali,2021,9.5
+MLI,Mali,2022,8.4
+MLI,Mali,2023,7.9
+MLI,Mali,2024,7.3
+MOZ,Mozambique,2015,33.0
+MOZ,Mozambique,2016,29.0
+MOZ,Mozambique,2017,22.0
+MOZ,Mozambique,2018,19.0
+MOZ,Mozambique,2019,19.0
+MOZ,Mozambique,2020,22.0
+MOZ,Mozambique,2021,24.0
+MOZ,Mozambique,2022,15.0
+MOZ,Mozambique,2023,13.0
+MOZ,Mozambique,2024,24.0
+MRT,Mauritania,2015,23.0
+MRT,Mauritania,2016,20.0
+MRT,Mauritania,2017,18.0
+MRT,Mauritania,2018,17.0
+MRT,Mauritania,2019,15.0
+MRT,Mauritania,2020,15.0
+MRT,Mauritania,2021,13.0
+MRT,Mauritania,2022,12.0
+MRT,Mauritania,2023,10.0
+MRT,Mauritania,2024,9.6
+MUS,Mauritius,2015,1.2
+MUS,Mauritius,2016,1.4
+MUS,Mauritius,2017,1.7
+MUS,Mauritius,2018,1.3
+MUS,Mauritius,2019,1.3
+MUS,Mauritius,2020,0.71
+MUS,Mauritius,2021,0.85
+MUS,Mauritius,2022,1.5
+MUS,Mauritius,2023,1.2
+MUS,Mauritius,2024,1.2
+MWI,Malawi,2015,22.0
+MWI,Malawi,2016,19.0
+MWI,Malawi,2017,16.0
+MWI,Malawi,2018,16.0
+MWI,Malawi,2019,14.0
+MWI,Malawi,2020,16.0
+MWI,Malawi,2021,15.0
+MWI,Malawi,2022,9.6
+MWI,Malawi,2023,8.1
+MWI,Malawi,2024,8.6
+NAM,Namibia,2015,65.0
+NAM,Namibia,2016,68.0
+NAM,Namibia,2017,64.0
+NAM,Namibia,2018,64.0
+NAM,Namibia,2019,57.0
+NAM,Namibia,2020,61.0
+NAM,Namibia,2021,60.0
+NAM,Namibia,2022,59.0
+NAM,Namibia,2023,56.0
+NAM,Namibia,2024,54.0
+NER,Niger,2015,20.0
+NER,Niger,2016,20.0
+NER,Niger,2017,18.0
+NER,Niger,2018,16.0
+NER,Niger,2019,15.0
+NER,Niger,2020,15.0
+NER,Niger,2021,13.0
+NER,Niger,2022,12.0
+NER,Niger,2023,12.0
+NER,Niger,2024,12.0
+NGA,Nigeria,2015,62.0
+NGA,Nigeria,2016,62.0
+NGA,Nigeria,2017,63.0
+NGA,Nigeria,2018,64.0
+NGA,Nigeria,2019,63.0
+NGA,Nigeria,2020,64.0
+NGA,Nigeria,2021,53.0
+NGA,Nigeria,2022,41.0
+NGA,Nigeria,2023,28.0
+NGA,Nigeria,2024,24.0
+RWA,Rwanda,2015,4.9
+RWA,Rwanda,2016,5.4
+RWA,Rwanda,2017,5.0
+RWA,Rwanda,2018,5.2
+RWA,Rwanda,2019,4.9
+RWA,Rwanda,2020,6.1
+RWA,Rwanda,2021,7.2
+RWA,Rwanda,2022,3.0
+RWA,Rwanda,2023,1.8
+RWA,Rwanda,2024,2.4
+SDN,Sudan,2015,18.0
+SDN,Sudan,2016,14.0
+SDN,Sudan,2017,13.0
+SDN,Sudan,2018,11.0
+SDN,Sudan,2019,9.9
+SDN,Sudan,2020,12.0
+SDN,Sudan,2021,9.5
+SDN,Sudan,2022,7.4
+SDN,Sudan,2023,11.0
+SDN,Sudan,2024,8.6
+SEN,Senegal,2015,32.0
+SEN,Senegal,2016,32.0
+SEN,Senegal,2017,29.0
+SEN,Senegal,2018,28.0
+SEN,Senegal,2019,27.0
+SEN,Senegal,2020,28.0
+SEN,Senegal,2021,26.0
+SEN,Senegal,2022,24.0
+SEN,Senegal,2023,19.0
+SEN,Senegal,2024,20.0
+SLE,Sierra Leone,2015,107.0
+SLE,Sierra Leone,2016,94.0
+SLE,Sierra Leone,2017,86.0
+SLE,Sierra Leone,2018,78.0
+SLE,Sierra Leone,2019,74.0
+SLE,Sierra Leone,2020,81.0
+SLE,Sierra Leone,2021,71.0
+SLE,Sierra Leone,2022,64.0
+SLE,Sierra Leone,2023,52.0
+SLE,Sierra Leone,2024,48.0
+SOM,Somalia,2015,39.0
+SOM,Somalia,2016,39.0
+SOM,Somalia,2017,34.0
+SOM,Somalia,2018,34.0
+SOM,Somalia,2019,33.0
+SOM,Somalia,2020,32.0
+SOM,Somalia,2021,31.0
+SOM,Somalia,2022,28.0
+SOM,Somalia,2023,27.0
+SOM,Somalia,2024,26.0
+SSD,South Sudan,2015,115.0
+SSD,South Sudan,2016,107.0
+SSD,South Sudan,2017,104.0
+SSD,South Sudan,2018,86.0
+SSD,South Sudan,2019,79.0
+SSD,South Sudan,2020,79.0
+SSD,South Sudan,2021,71.0
+SSD,South Sudan,2022,63.0
+SSD,South Sudan,2023,51.0
+SSD,South Sudan,2024,42.0
+STP,Sao Tome and Principe,2015,35.0
+STP,Sao Tome and Principe,2016,31.0
+STP,Sao Tome and Principe,2017,22.0
+STP,Sao Tome and Principe,2018,21.0
+STP,Sao Tome and Principe,2019,17.0
+STP,Sao Tome and Principe,2020,12.0
+STP,Sao Tome and Principe,2021,9.0
+STP,Sao Tome and Principe,2022,14.0
+STP,Sao Tome and Principe,2023,11.0
+STP,Sao Tome and Principe,2024,13.0
+SWZ,Eswatini,2015,35.0
+SWZ,Eswatini,2016,31.0
+SWZ,Eswatini,2017,30.0
+SWZ,Eswatini,2018,34.0
+SWZ,Eswatini,2019,22.0
+SWZ,Eswatini,2020,29.0
+SWZ,Eswatini,2021,30.0
+SWZ,Eswatini,2022,29.0
+SWZ,Eswatini,2023,29.0
+SWZ,Eswatini,2024,28.0
+TCD,Chad,2015,28.0
+TCD,Chad,2016,29.0
+TCD,Chad,2017,26.0
+TCD,Chad,2018,23.0
+TCD,Chad,2019,21.0
+TCD,Chad,2020,22.0
+TCD,Chad,2021,21.0
+TCD,Chad,2022,19.0
+TCD,Chad,2023,17.0
+TCD,Chad,2024,15.0
+TGO,Togo,2015,10.0
+TGO,Togo,2016,8.4
+TGO,Togo,2017,8.7
+TGO,Togo,2018,8.6
+TGO,Togo,2019,7.5
+TGO,Togo,2020,8.1
+TGO,Togo,2021,7.9
+TGO,Togo,2022,5.7
+TGO,Togo,2023,6.0
+TGO,Togo,2024,6.4
+TUN,Tunisia,2015,1.3
+TUN,Tunisia,2016,1.3
+TUN,Tunisia,2017,1.2
+TUN,Tunisia,2018,1.2
+TUN,Tunisia,2019,1.2
+TUN,Tunisia,2020,1.2
+TUN,Tunisia,2021,1.2
+TUN,Tunisia,2022,1.2
+TUN,Tunisia,2023,1.2
+TUN,Tunisia,2024,1.2
+TZA,Tanzania,2015,54.0
+TZA,Tanzania,2016,49.0
+TZA,Tanzania,2017,45.0
+TZA,Tanzania,2018,40.0
+TZA,Tanzania,2019,35.0
+TZA,Tanzania,2020,31.0
+TZA,Tanzania,2021,28.0
+TZA,Tanzania,2022,18.0
+TZA,Tanzania,2023,19.0
+TZA,Tanzania,2024,25.0
+UGA,Uganda,2015,25.0
+UGA,Uganda,2016,24.0
+UGA,Uganda,2017,25.0
+UGA,Uganda,2018,20.0
+UGA,Uganda,2019,16.0
+UGA,Uganda,2020,21.0
+UGA,Uganda,2021,14.0
+UGA,Uganda,2022,4.0
+UGA,Uganda,2023,8.7
+UGA,Uganda,2024,9.1
+USA,United States,2015,0.16
+USA,United States,2016,0.17
+USA,United States,2017,0.16
+USA,United States,2018,0.17
+USA,United States,2019,0.17
+USA,United States,2020,0.19
+USA,United States,2021,0.18
+USA,United States,2022,0.19
+USA,United States,2023,0.16
+USA,United States,2024,0.16
+ZAF,South Africa,2015,36.0
+ZAF,South Africa,2016,36.0
+ZAF,South Africa,2017,37.0
+ZAF,South Africa,2018,37.0
+ZAF,South Africa,2019,38.0
+ZAF,South Africa,2020,38.0
+ZAF,South Africa,2021,38.0
+ZAF,South Africa,2022,39.0
+ZAF,South Africa,2023,39.0
+ZAF,South Africa,2024,40.0
+ZMB,Zambia,2015,30.0
+ZMB,Zambia,2016,29.0
+ZMB,Zambia,2017,29.0
+ZMB,Zambia,2018,28.0
+ZMB,Zambia,2019,33.0
+ZMB,Zambia,2020,32.0
+ZMB,Zambia,2021,20.0
+ZMB,Zambia,2022,13.0
+ZMB,Zambia,2023,11.0
+ZMB,Zambia,2024,19.0
+ZWE,Zimbabwe,2015,7.9
+ZWE,Zimbabwe,2016,8.6
+ZWE,Zimbabwe,2017,8.3
+ZWE,Zimbabwe,2018,7.7
+ZWE,Zimbabwe,2019,11.0
+ZWE,Zimbabwe,2020,18.0
+ZWE,Zimbabwe,2021,20.0
+ZWE,Zimbabwe,2022,21.0
+ZWE,Zimbabwe,2023,20.0
+ZWE,Zimbabwe,2024,18.0

@@ -1,0 +1,73 @@
+name: CI - TB Burden Pipeline
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+  workflow_dispatch:
+
+env:
+  PYTHON_VERSION: "3.11"
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install flake8
+        run: pip install flake8==7.1.1
+
+      - name: Syntax errors and undefined names (blocking)
+        run: flake8 src dags --count --select=E9,F63,F7,F82 --show-source --statistics
+
+      - name: Style check
+        run: flake8 src dags --count --max-line-length=110 --statistics
+
+  smoke-test:
+    name: Smoke test ingestion
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Install pipeline dependencies
+        run: pip install pandas==2.3.3 numpy==1.26.4 requests==2.32.3 tenacity==9.0.0 PyYAML==6.0.2
+
+      - name: Ingestion dry-run (config + URL validation, no network)
+        run: python src/ingestion/ingest.py --dry-run
+
+      - name: Ingestion connectivity probe (WHO GHO + World Bank)
+        # Public APIs can be flaky; report but do not fail the build on outages.
+        continue-on-error: true
+        run: python src/ingestion/ingest.py --dry-run --check-connectivity
+
+      - name: Rebuild extracts from committed raw JSON (offline ingestion path)
+        run: python src/ingestion/ingest.py --from-cache
+
+      - name: Transform + load smoke run
+        run: |
+          python src/transformation/transform.py
+          python src/loading/load.py
+          python - <<'EOF'
+          import sqlite3
+          conn = sqlite3.connect("data/tb_burden.db")
+          n = conn.execute("SELECT COUNT(*) FROM tb_burden_summary").fetchone()[0]
+          usa = conn.execute("SELECT COUNT(*) FROM tb_burden_summary WHERE region='USA'").fetchone()[0]
+          print(f"tb_burden_summary rows={n}, USA rows={usa}")
+          assert n > 1000 and usa > 0, "unexpected row counts"
+          EOF
+
+      - name: Run analytical SQL
+        run: sqlite3 -header -column data/tb_burden.db < sql/queries.sql > /dev/null

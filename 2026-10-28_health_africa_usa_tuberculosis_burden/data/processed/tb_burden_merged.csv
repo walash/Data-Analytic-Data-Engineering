@@ -1,0 +1,1365 @@
+country_code,country_name,region,sub_region,year,tb_incidence_per_100k,low_estimate,high_estimate,uncertainty_range,burden_category,incidence_yoy_change_pct,tb_mortality_per_100k,case_fatality_ratio_pct,tb_treatment_success_pct,treatment_gap_to_target_pct,meets_treatment_target,health_expenditure_pct_gdp,data_completeness
+AGO,Angola,Africa,Central,2000,270.0,138.0,737.0,599.0,High,,,,,,,,1
+AGO,Angola,Africa,Central,2001,336.0,178.0,860.0,682.0,Very High,24.44,,,,,,,1
+AGO,Angola,Africa,Central,2002,390.0,211.0,959.0,748.0,Very High,16.07,,,,,,,1
+AGO,Angola,Africa,Central,2003,434.0,238.0,1040.0,802.0,Very High,11.28,,,,,,,1
+AGO,Angola,Africa,Central,2004,468.0,259.0,1090.0,831.0,Very High,7.83,,,,,,,1
+AGO,Angola,Africa,Central,2005,491.0,274.0,1130.0,856.0,Very High,4.91,,,,,,,1
+AGO,Angola,Africa,Central,2006,507.0,285.0,1140.0,855.0,Very High,3.26,,,,,,,1
+AGO,Angola,Africa,Central,2007,509.0,288.0,1130.0,842.0,Very High,0.39,,,,,,,1
+AGO,Angola,Africa,Central,2008,499.0,284.0,1100.0,816.0,Very High,-1.96,,,,,,,1
+AGO,Angola,Africa,Central,2009,489.0,280.0,1060.0,780.0,Very High,-2.0,,,,,,,1
+AGO,Angola,Africa,Central,2010,480.0,276.0,1040.0,764.0,Very High,-1.84,,,,,,,1
+AGO,Angola,Africa,Central,2011,469.0,269.0,1010.0,741.0,Very High,-2.29,,,,,,,1
+AGO,Angola,Africa,Central,2012,458.0,264.0,986.0,722.0,Very High,-2.35,,,,,,,1
+AGO,Angola,Africa,Central,2013,453.0,263.0,963.0,700.0,Very High,-1.09,,,,,,,1
+AGO,Angola,Africa,Central,2014,451.0,264.0,943.0,679.0,Very High,-0.44,,,34.0,56.0,0.0,,2
+AGO,Angola,Africa,Central,2015,445.0,263.0,917.0,654.0,Very High,-1.33,84.0,18.88,,,,,2
+AGO,Angola,Africa,Central,2016,433.0,258.0,877.0,619.0,Very High,-2.7,83.0,19.17,27.0,63.0,0.0,,3
+AGO,Angola,Africa,Central,2017,418.0,251.0,831.0,580.0,Very High,-3.46,87.0,20.81,25.0,65.0,0.0,,3
+AGO,Angola,Africa,Central,2018,403.0,245.0,790.0,545.0,Very High,-3.59,80.0,19.85,50.0,40.0,0.0,,3
+AGO,Angola,Africa,Central,2019,390.0,238.0,755.0,517.0,Very High,-3.23,70.0,17.95,69.0,21.0,0.0,,3
+AGO,Angola,Africa,Central,2020,373.0,241.0,538.0,297.0,Very High,-4.36,62.0,16.62,53.0,37.0,0.0,2.81688905,3
+AGO,Angola,Africa,Central,2021,371.0,241.0,539.0,298.0,Very High,-0.54,60.0,16.17,67.0,23.0,0.0,2.73987103,3
+AGO,Angola,Africa,Central,2022,379.0,248.0,550.0,302.0,Very High,2.16,72.0,19.0,65.0,25.0,0.0,2.60041046,3
+AGO,Angola,Africa,Central,2023,383.0,251.0,558.0,307.0,Very High,1.06,64.0,16.71,63.0,27.0,0.0,2.54692864,3
+AGO,Angola,Africa,Central,2024,373.0,243.0,545.0,302.0,Very High,-2.61,67.0,17.96,,,,,2
+BDI,Burundi,Africa,East,2000,213.0,110.0,575.0,465.0,High,,,,,,,,1
+BDI,Burundi,Africa,East,2001,209.0,110.0,543.0,433.0,High,-1.88,,,,,,,1
+BDI,Burundi,Africa,East,2002,205.0,110.0,513.0,403.0,High,-1.91,,,,,,,1
+BDI,Burundi,Africa,East,2003,200.0,109.0,484.0,375.0,High,-2.44,,,,,,,1
+BDI,Burundi,Africa,East,2004,194.0,107.0,457.0,350.0,High,-3.0,,,,,,,1
+BDI,Burundi,Africa,East,2005,188.0,105.0,431.0,326.0,High,-3.09,,,,,,,1
+BDI,Burundi,Africa,East,2006,182.0,103.0,407.0,304.0,High,-3.19,,,,,,,1
+BDI,Burundi,Africa,East,2007,175.0,100.0,383.0,283.0,High,-3.85,,,,,,,1
+BDI,Burundi,Africa,East,2008,168.0,97.0,361.0,264.0,High,-4.0,,,,,,,1
+BDI,Burundi,Africa,East,2009,160.0,93.0,341.0,248.0,High,-4.76,,,,,,,1
+BDI,Burundi,Africa,East,2010,154.0,90.0,325.0,235.0,High,-3.75,,,,,,,1
+BDI,Burundi,Africa,East,2011,148.0,86.0,313.0,227.0,High,-3.9,,,,,,,1
+BDI,Burundi,Africa,East,2012,142.0,83.0,299.0,216.0,High,-4.05,,,,,,,1
+BDI,Burundi,Africa,East,2013,136.0,80.0,283.0,203.0,High,-4.23,,,,,,,1
+BDI,Burundi,Africa,East,2014,130.0,77.0,267.0,190.0,High,-4.41,,,91.0,0.0,1.0,,2
+BDI,Burundi,Africa,East,2015,124.0,74.0,251.0,177.0,High,-4.62,24.0,19.35,92.0,0.0,1.0,,3
+BDI,Burundi,Africa,East,2016,118.0,71.0,235.0,164.0,High,-4.84,21.0,17.8,92.0,0.0,1.0,,3
+BDI,Burundi,Africa,East,2017,112.0,68.0,220.0,152.0,High,-5.08,19.0,16.96,93.0,0.0,1.0,,3
+BDI,Burundi,Africa,East,2018,106.0,65.0,207.0,142.0,High,-5.36,19.0,17.92,94.0,0.0,1.0,,3
+BDI,Burundi,Africa,East,2019,102.0,62.0,196.0,134.0,High,-3.77,20.0,19.61,94.0,0.0,1.0,,3
+BDI,Burundi,Africa,East,2020,97.0,60.0,186.0,126.0,Moderate,-4.9,18.0,18.56,95.0,0.0,1.0,10.70776176,3
+BDI,Burundi,Africa,East,2021,93.0,57.0,177.0,120.0,Moderate,-4.12,18.0,19.35,95.0,0.0,1.0,8.94190311,3
+BDI,Burundi,Africa,East,2022,89.0,55.0,170.0,115.0,Moderate,-4.3,15.0,16.85,94.0,0.0,1.0,8.6687746,3
+BDI,Burundi,Africa,East,2023,86.0,53.0,164.0,111.0,Moderate,-3.37,13.0,15.12,93.0,0.0,1.0,9.09471226,3
+BDI,Burundi,Africa,East,2024,83.0,51.0,160.0,109.0,Moderate,-3.49,12.0,14.46,,,,,2
+BEN,Benin,Africa,West,2000,71.0,36.0,194.0,158.0,Moderate,,,,,,,,1
+BEN,Benin,Africa,West,2001,75.0,39.0,196.0,157.0,Moderate,5.63,,,,,,,1
+BEN,Benin,Africa,West,2002,78.0,41.0,196.0,155.0,Moderate,4.0,,,,,,,1
+BEN,Benin,Africa,West,2003,80.0,43.0,196.0,153.0,Moderate,2.56,,,,,,,1
+BEN,Benin,Africa,West,2004,82.0,45.0,195.0,150.0,Moderate,2.5,,,,,,,1
+BEN,Benin,Africa,West,2005,83.0,46.0,193.0,147.0,Moderate,1.22,,,,,,,1
+BEN,Benin,Africa,West,2006,84.0,47.0,190.0,143.0,Moderate,1.2,,,,,,,1
+BEN,Benin,Africa,West,2007,84.0,47.0,186.0,139.0,Moderate,0.0,,,,,,,1
+BEN,Benin,Africa,West,2008,83.0,47.0,181.0,134.0,Moderate,-1.19,,,,,,,1
+BEN,Benin,Africa,West,2009,81.0,47.0,176.0,129.0,Moderate,-2.41,,,,,,,1
+BEN,Benin,Africa,West,2010,79.0,46.0,170.0,124.0,Moderate,-2.47,,,,,,,1
+BEN,Benin,Africa,West,2011,76.0,44.0,163.0,119.0,Moderate,-3.8,,,,,,,1
+BEN,Benin,Africa,West,2012,73.0,42.0,155.0,113.0,Moderate,-3.95,,,,,,,1
+BEN,Benin,Africa,West,2013,69.0,40.0,147.0,107.0,Moderate,-5.48,,,,,,,1
+BEN,Benin,Africa,West,2014,66.0,38.0,137.0,99.0,Moderate,-4.35,,,89.0,1.0,0.0,,2
+BEN,Benin,Africa,West,2015,62.0,37.0,129.0,92.0,Moderate,-6.06,11.0,17.74,88.0,2.0,0.0,,3
+BEN,Benin,Africa,West,2016,59.0,35.0,120.0,85.0,Moderate,-4.84,10.0,16.95,88.0,2.0,0.0,,3
+BEN,Benin,Africa,West,2017,56.0,34.0,112.0,78.0,Moderate,-5.08,10.0,17.86,87.0,3.0,0.0,,3
+BEN,Benin,Africa,West,2018,53.0,32.0,105.0,73.0,Moderate,-5.36,8.5,16.04,87.0,3.0,0.0,,3
+BEN,Benin,Africa,West,2019,51.0,31.0,98.0,67.0,Moderate,-3.77,7.0,13.73,89.0,1.0,0.0,,3
+BEN,Benin,Africa,West,2020,48.0,29.0,93.0,64.0,Moderate,-5.88,7.5,15.62,90.0,0.0,1.0,3.0512166,3
+BEN,Benin,Africa,West,2021,46.0,28.0,87.0,59.0,Moderate,-4.17,7.5,16.3,90.0,0.0,1.0,2.91589761,3
+BEN,Benin,Africa,West,2022,44.0,27.0,83.0,56.0,Moderate,-4.35,5.8,13.18,91.0,0.0,1.0,2.98184395,3
+BEN,Benin,Africa,West,2023,42.0,26.0,79.0,53.0,Moderate,-4.55,5.0,11.9,91.0,0.0,1.0,3.33732462,3
+BEN,Benin,Africa,West,2024,40.0,24.0,76.0,52.0,Moderate,-4.76,5.3,13.25,,,,,2
+BFA,Burkina Faso,Africa,West,2000,93.0,57.0,177.0,120.0,Moderate,,,,,,,,1
+BFA,Burkina Faso,Africa,West,2001,91.0,56.0,174.0,118.0,Moderate,-2.15,,,,,,,1
+BFA,Burkina Faso,Africa,West,2002,89.0,55.0,170.0,115.0,Moderate,-2.2,,,,,,,1
+BFA,Burkina Faso,Africa,West,2003,87.0,54.0,167.0,113.0,Moderate,-2.25,,,,,,,1
+BFA,Burkina Faso,Africa,West,2004,85.0,52.0,164.0,112.0,Moderate,-2.3,,,,,,,1
+BFA,Burkina Faso,Africa,West,2005,84.0,51.0,160.0,109.0,Moderate,-1.18,,,,,,,1
+BFA,Burkina Faso,Africa,West,2006,82.0,50.0,157.0,107.0,Moderate,-2.38,,,,,,,1
+BFA,Burkina Faso,Africa,West,2007,80.0,49.0,154.0,105.0,Moderate,-2.44,,,,,,,1
+BFA,Burkina Faso,Africa,West,2008,79.0,48.0,151.0,103.0,Moderate,-1.25,,,,,,,1
+BFA,Burkina Faso,Africa,West,2009,77.0,47.0,148.0,101.0,Moderate,-2.53,,,,,,,1
+BFA,Burkina Faso,Africa,West,2010,76.0,46.0,145.0,99.0,Moderate,-1.3,,,,,,,1
+BFA,Burkina Faso,Africa,West,2011,74.0,46.0,142.0,96.0,Moderate,-2.63,,,,,,,1
+BFA,Burkina Faso,Africa,West,2012,73.0,45.0,139.0,94.0,Moderate,-1.35,,,,,,,1
+BFA,Burkina Faso,Africa,West,2013,71.0,44.0,136.0,92.0,Moderate,-2.74,,,,,,,1
+BFA,Burkina Faso,Africa,West,2014,70.0,43.0,134.0,91.0,Moderate,-1.41,,,81.0,9.0,0.0,,2
+BFA,Burkina Faso,Africa,West,2015,68.0,42.0,131.0,89.0,Moderate,-2.86,16.0,23.53,78.0,12.0,0.0,,3
+BFA,Burkina Faso,Africa,West,2016,67.0,41.0,128.0,87.0,Moderate,-1.47,15.0,22.39,80.0,10.0,0.0,,3
+BFA,Burkina Faso,Africa,West,2017,66.0,40.0,126.0,86.0,Moderate,-1.49,15.0,22.73,80.0,10.0,0.0,,3
+BFA,Burkina Faso,Africa,West,2018,64.0,40.0,123.0,83.0,Moderate,-3.03,14.0,21.88,80.0,10.0,0.0,,3
+BFA,Burkina Faso,Africa,West,2019,63.0,39.0,121.0,82.0,Moderate,-1.56,16.0,25.4,81.0,9.0,0.0,,3
+BFA,Burkina Faso,Africa,West,2020,62.0,38.0,119.0,81.0,Moderate,-1.59,15.0,24.19,82.0,8.0,0.0,6.89469957,3
+BFA,Burkina Faso,Africa,West,2021,61.0,37.0,116.0,79.0,Moderate,-1.61,13.0,21.31,82.0,8.0,0.0,7.08691931,3
+BFA,Burkina Faso,Africa,West,2022,59.0,36.0,114.0,78.0,Moderate,-3.28,12.0,20.34,82.0,8.0,0.0,7.41435528,3
+BFA,Burkina Faso,Africa,West,2023,58.0,36.0,112.0,76.0,Moderate,-1.69,9.3,16.03,81.0,9.0,0.0,7.79943228,3
+BFA,Burkina Faso,Africa,West,2024,57.0,35.0,109.0,74.0,Moderate,-1.72,8.1,14.21,,,,,2
+BWA,Botswana,Africa,Southern,2000,976.0,545.0,2230.0,1685.0,Very High,,,,,,,,1
+BWA,Botswana,Africa,Southern,2001,938.0,527.0,2120.0,1593.0,Very High,-3.89,,,,,,,1
+BWA,Botswana,Africa,Southern,2002,901.0,510.0,2010.0,1500.0,Very High,-3.94,,,,,,,1
+BWA,Botswana,Africa,Southern,2003,863.0,492.0,1910.0,1418.0,Very High,-4.22,,,,,,,1
+BWA,Botswana,Africa,Southern,2004,826.0,474.0,1800.0,1326.0,Very High,-4.29,,,,,,,1
+BWA,Botswana,Africa,Southern,2005,788.0,456.0,1700.0,1244.0,Very High,-4.6,,,,,,,1
+BWA,Botswana,Africa,Southern,2006,751.0,438.0,1590.0,1152.0,Very High,-4.7,,,,,,,1
+BWA,Botswana,Africa,Southern,2007,714.0,420.0,1480.0,1060.0,Very High,-4.93,,,,,,,1
+BWA,Botswana,Africa,Southern,2008,676.0,402.0,1380.0,978.0,Very High,-5.32,,,,,,,1
+BWA,Botswana,Africa,Southern,2009,639.0,384.0,1270.0,886.0,Very High,-5.47,,,,,,,1
+BWA,Botswana,Africa,Southern,2010,601.0,366.0,1160.0,794.0,Very High,-5.95,,,,,,,1
+BWA,Botswana,Africa,Southern,2011,568.0,346.0,1100.0,754.0,Very High,-5.49,,,,,,,1
+BWA,Botswana,Africa,Southern,2012,536.0,326.0,1040.0,714.0,Very High,-5.63,,,,,,,1
+BWA,Botswana,Africa,Southern,2013,503.0,306.0,974.0,668.0,Very High,-6.16,,,,,,,1
+BWA,Botswana,Africa,Southern,2014,470.0,286.0,911.0,625.0,Very High,-6.56,,,77.0,13.0,0.0,,2
+BWA,Botswana,Africa,Southern,2015,437.0,266.0,848.0,582.0,Very High,-7.02,39.0,8.92,79.0,11.0,0.0,,3
+BWA,Botswana,Africa,Southern,2016,405.0,246.0,785.0,539.0,Very High,-7.32,31.0,7.65,79.0,11.0,0.0,,3
+BWA,Botswana,Africa,Southern,2017,372.0,226.0,722.0,496.0,Very High,-8.15,35.0,9.41,78.0,12.0,0.0,,3
+BWA,Botswana,Africa,Southern,2018,339.0,206.0,658.0,452.0,Very High,-8.87,30.0,8.85,82.0,8.0,0.0,,3
+BWA,Botswana,Africa,Southern,2019,306.0,186.0,595.0,409.0,Very High,-9.73,40.0,13.07,72.0,18.0,0.0,,3
+BWA,Botswana,Africa,Southern,2020,274.0,166.0,532.0,366.0,High,-10.46,39.0,14.23,78.0,12.0,0.0,6.1213398,3
+BWA,Botswana,Africa,Southern,2021,241.0,146.0,469.0,323.0,High,-12.04,34.0,14.11,76.0,14.0,0.0,6.30315065,3
+BWA,Botswana,Africa,Southern,2022,208.0,126.0,406.0,280.0,High,-13.69,25.0,12.02,76.0,14.0,0.0,5.73650789,3
+BWA,Botswana,Africa,Southern,2023,175.0,106.0,343.0,237.0,High,-15.87,26.0,14.86,84.0,6.0,0.0,6.25574684,3
+BWA,Botswana,Africa,Southern,2024,143.0,86.0,280.0,194.0,High,-18.29,13.0,9.09,,,,,2
+CAF,Central African Republic,Africa,Central,2000,681.0,422.0,1280.0,858.0,Very High,,,,,,,,1
+CAF,Central African Republic,Africa,Central,2001,667.0,414.0,1260.0,846.0,Very High,-2.06,,,,,,,1
+CAF,Central African Republic,Africa,Central,2002,654.0,405.0,1230.0,825.0,Very High,-1.95,,,,,,,1
+CAF,Central African Republic,Africa,Central,2003,641.0,397.0,1210.0,813.0,Very High,-1.99,,,,,,,1
+CAF,Central African Republic,Africa,Central,2004,628.0,389.0,1180.0,791.0,Very High,-2.03,,,,,,,1
+CAF,Central African Republic,Africa,Central,2005,615.0,381.0,1160.0,779.0,Very High,-2.07,,,,,,,1
+CAF,Central African Republic,Africa,Central,2006,603.0,374.0,1130.0,756.0,Very High,-1.95,,,,,,,1
+CAF,Central African Republic,Africa,Central,2007,591.0,366.0,1110.0,744.0,Very High,-1.99,,,,,,,1
+CAF,Central African Republic,Africa,Central,2008,579.0,359.0,1090.0,731.0,Very High,-2.03,,,,,,,1
+CAF,Central African Republic,Africa,Central,2009,568.0,352.0,1070.0,718.0,Very High,-1.9,,,,,,,1
+CAF,Central African Republic,Africa,Central,2010,556.0,345.0,1050.0,705.0,Very High,-2.11,,,,,,,1
+CAF,Central African Republic,Africa,Central,2011,545.0,338.0,1030.0,692.0,Very High,-1.98,,,,,,,1
+CAF,Central African Republic,Africa,Central,2012,534.0,331.0,1010.0,679.0,Very High,-2.02,,,,,,,1
+CAF,Central African Republic,Africa,Central,2013,524.0,325.0,985.0,660.0,Very High,-1.87,,,,,,,1
+CAF,Central African Republic,Africa,Central,2014,513.0,318.0,965.0,647.0,Very High,-2.1,,,70.0,20.0,0.0,,2
+CAF,Central African Republic,Africa,Central,2015,503.0,312.0,946.0,634.0,Very High,-1.95,82.0,16.3,78.0,12.0,0.0,,3
+CAF,Central African Republic,Africa,Central,2016,493.0,305.0,927.0,622.0,Very High,-1.99,87.0,17.65,78.0,12.0,0.0,,3
+CAF,Central African Republic,Africa,Central,2017,483.0,299.0,909.0,610.0,Very High,-2.03,92.0,19.05,78.0,12.0,0.0,,3
+CAF,Central African Republic,Africa,Central,2018,473.0,293.0,891.0,598.0,Very High,-2.07,85.0,17.97,79.0,11.0,0.0,,3
+CAF,Central African Republic,Africa,Central,2019,464.0,288.0,873.0,585.0,Very High,-1.9,76.0,16.38,81.0,9.0,0.0,,3
+CAF,Central African Republic,Africa,Central,2020,455.0,282.0,855.0,573.0,Very High,-1.94,67.0,14.73,79.0,11.0,0.0,8.98488045,3
+CAF,Central African Republic,Africa,Central,2021,446.0,276.0,838.0,562.0,Very High,-1.98,64.0,14.35,83.0,7.0,0.0,9.15097523,3
+CAF,Central African Republic,Africa,Central,2022,437.0,271.0,821.0,550.0,Very High,-2.02,57.0,13.04,90.0,0.0,1.0,9.94993496,3
+CAF,Central African Republic,Africa,Central,2023,428.0,265.0,805.0,540.0,Very High,-2.06,53.0,12.38,89.0,1.0,0.0,10.65553188,3
+CAF,Central African Republic,Africa,Central,2024,419.0,260.0,789.0,529.0,Very High,-2.1,47.0,11.22,,,,,2
+CIV,Cote d'Ivoire,Africa,West,2000,166.0,86.0,441.0,355.0,High,,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2001,180.0,96.0,455.0,359.0,High,8.43,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2002,191.0,104.0,467.0,363.0,High,6.11,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2003,201.0,110.0,475.0,365.0,High,5.24,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2004,208.0,116.0,480.0,364.0,High,3.48,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2005,213.0,120.0,482.0,362.0,High,2.4,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2006,217.0,123.0,481.0,358.0,High,1.88,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2007,218.0,124.0,477.0,353.0,High,0.46,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2008,217.0,125.0,470.0,345.0,High,-0.46,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2009,215.0,124.0,460.0,336.0,High,-0.92,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2010,209.0,121.0,445.0,324.0,High,-2.79,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2011,201.0,117.0,427.0,310.0,High,-3.83,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2012,193.0,112.0,408.0,296.0,High,-3.98,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2013,184.0,107.0,383.0,276.0,High,-4.66,,,,,,,1
+CIV,Cote d'Ivoire,Africa,West,2014,173.0,102.0,355.0,253.0,High,-5.98,,,79.0,11.0,0.0,,2
+CIV,Cote d'Ivoire,Africa,West,2015,162.0,97.0,329.0,232.0,High,-6.36,26.0,16.05,80.0,10.0,0.0,,3
+CIV,Cote d'Ivoire,Africa,West,2016,153.0,91.0,304.0,213.0,High,-5.56,26.0,16.99,82.0,8.0,0.0,,3
+CIV,Cote d'Ivoire,Africa,West,2017,142.0,86.0,279.0,193.0,High,-7.19,24.0,16.9,83.0,7.0,0.0,,3
+CIV,Cote d'Ivoire,Africa,West,2018,133.0,81.0,258.0,177.0,High,-6.34,21.0,15.79,84.0,6.0,0.0,,3
+CIV,Cote d'Ivoire,Africa,West,2019,126.0,77.0,241.0,164.0,High,-5.26,20.0,15.87,84.0,6.0,0.0,,3
+CIV,Cote d'Ivoire,Africa,West,2020,118.0,73.0,226.0,153.0,High,-6.35,20.0,16.95,84.0,6.0,0.0,3.62327886,3
+CIV,Cote d'Ivoire,Africa,West,2021,112.0,69.0,213.0,144.0,High,-5.08,18.0,16.07,85.0,5.0,0.0,3.76207662,3
+CIV,Cote d'Ivoire,Africa,West,2022,107.0,66.0,204.0,138.0,High,-4.46,15.0,14.02,87.0,3.0,0.0,3.63847613,3
+CIV,Cote d'Ivoire,Africa,West,2023,103.0,63.0,197.0,134.0,High,-3.74,14.0,13.59,88.0,2.0,0.0,3.43218303,3
+CIV,Cote d'Ivoire,Africa,West,2024,99.0,60.0,192.0,132.0,Moderate,-3.88,13.0,13.13,,,,,2
+CMR,Cameroon,Africa,Central,2000,84.0,43.0,226.0,183.0,Moderate,,,,,,,,1
+CMR,Cameroon,Africa,Central,2001,131.0,71.0,319.0,248.0,High,55.95,,,,,,,1
+CMR,Cameroon,Africa,Central,2002,172.0,95.0,398.0,303.0,High,31.3,,,,,,,1
+CMR,Cameroon,Africa,Central,2003,206.0,116.0,465.0,349.0,High,19.77,,,,,,,1
+CMR,Cameroon,Africa,Central,2004,234.0,133.0,518.0,385.0,High,13.59,,,,,,,1
+CMR,Cameroon,Africa,Central,2005,255.0,146.0,558.0,412.0,High,8.97,,,,,,,1
+CMR,Cameroon,Africa,Central,2006,271.0,155.0,587.0,432.0,High,6.27,,,,,,,1
+CMR,Cameroon,Africa,Central,2007,279.0,161.0,600.0,439.0,High,2.95,,,,,,,1
+CMR,Cameroon,Africa,Central,2008,280.0,161.0,598.0,437.0,High,0.36,,,,,,,1
+CMR,Cameroon,Africa,Central,2009,278.0,161.0,591.0,430.0,High,-0.71,,,,,,,1
+CMR,Cameroon,Africa,Central,2010,271.0,157.0,575.0,418.0,High,-2.52,,,,,,,1
+CMR,Cameroon,Africa,Central,2011,259.0,150.0,550.0,400.0,High,-4.43,,,,,,,1
+CMR,Cameroon,Africa,Central,2012,248.0,144.0,525.0,381.0,High,-4.25,,,,,,,1
+CMR,Cameroon,Africa,Central,2013,238.0,139.0,497.0,358.0,High,-4.03,,,,,,,1
+CMR,Cameroon,Africa,Central,2014,226.0,133.0,465.0,332.0,High,-5.04,,,84.0,6.0,0.0,,2
+CMR,Cameroon,Africa,Central,2015,214.0,127.0,434.0,307.0,High,-5.31,30.0,14.02,84.0,6.0,0.0,,3
+CMR,Cameroon,Africa,Central,2016,202.0,121.0,404.0,283.0,High,-5.61,28.0,13.86,84.0,6.0,0.0,,3
+CMR,Cameroon,Africa,Central,2017,189.0,114.0,372.0,258.0,High,-6.44,28.0,14.81,84.0,6.0,0.0,,3
+CMR,Cameroon,Africa,Central,2018,177.0,108.0,344.0,236.0,High,-6.35,28.0,15.82,84.0,6.0,0.0,,3
+CMR,Cameroon,Africa,Central,2019,168.0,102.0,322.0,220.0,High,-5.08,25.0,14.88,86.0,4.0,0.0,,3
+CMR,Cameroon,Africa,Central,2020,158.0,97.0,302.0,205.0,High,-5.95,26.0,16.46,86.0,4.0,0.0,4.25051928,3
+CMR,Cameroon,Africa,Central,2021,150.0,92.0,286.0,194.0,High,-5.06,25.0,16.67,88.0,2.0,0.0,4.34109783,3
+CMR,Cameroon,Africa,Central,2022,143.0,88.0,273.0,185.0,High,-4.67,21.0,14.69,89.0,1.0,0.0,4.49439144,3
+CMR,Cameroon,Africa,Central,2023,137.0,84.0,263.0,179.0,High,-4.2,20.0,14.6,89.0,1.0,0.0,4.5545516,3
+CMR,Cameroon,Africa,Central,2024,132.0,80.0,257.0,177.0,High,-3.65,17.0,12.88,,,,,2
+COD,DR Congo,Africa,Central,2000,612.0,375.0,1180.0,805.0,Very High,,,,,,,,1
+COD,DR Congo,Africa,Central,2001,600.0,367.0,1150.0,783.0,Very High,-1.96,,,,,,,1
+COD,DR Congo,Africa,Central,2002,588.0,360.0,1130.0,770.0,Very High,-2.0,,,,,,,1
+COD,DR Congo,Africa,Central,2003,576.0,353.0,1110.0,757.0,Very High,-2.04,,,,,,,1
+COD,DR Congo,Africa,Central,2004,564.0,346.0,1080.0,734.0,Very High,-2.08,,,,,,,1
+COD,DR Congo,Africa,Central,2005,553.0,339.0,1060.0,721.0,Very High,-1.95,,,,,,,1
+COD,DR Congo,Africa,Central,2006,542.0,332.0,1040.0,708.0,Very High,-1.99,,,,,,,1
+COD,DR Congo,Africa,Central,2007,531.0,325.0,1020.0,695.0,Very High,-2.03,,,,,,,1
+COD,DR Congo,Africa,Central,2008,521.0,319.0,1000.0,681.0,Very High,-1.88,,,,,,,1
+COD,DR Congo,Africa,Central,2009,510.0,313.0,981.0,668.0,Very High,-2.11,,,,,,,1
+COD,DR Congo,Africa,Central,2010,500.0,306.0,961.0,655.0,Very High,-1.96,,,,,,,1
+COD,DR Congo,Africa,Central,2011,490.0,300.0,942.0,642.0,Very High,-2.0,,,,,,,1
+COD,DR Congo,Africa,Central,2012,480.0,294.0,923.0,629.0,Very High,-2.04,,,,,,,1
+COD,DR Congo,Africa,Central,2013,471.0,288.0,905.0,617.0,Very High,-1.88,,,,,,,1
+COD,DR Congo,Africa,Central,2014,461.0,283.0,886.0,603.0,Very High,-2.12,,,89.0,1.0,0.0,,2
+COD,DR Congo,Africa,Central,2015,452.0,277.0,869.0,592.0,Very High,-1.95,116.0,25.66,89.0,1.0,0.0,,3
+COD,DR Congo,Africa,Central,2016,443.0,271.0,851.0,580.0,Very High,-1.99,112.0,25.28,89.0,1.0,0.0,,3
+COD,DR Congo,Africa,Central,2017,434.0,266.0,834.0,568.0,Very High,-2.03,106.0,24.42,90.0,0.0,1.0,,3
+COD,DR Congo,Africa,Central,2018,426.0,261.0,818.0,557.0,Very High,-1.84,96.0,22.54,93.0,0.0,1.0,,3
+COD,DR Congo,Africa,Central,2019,417.0,255.0,801.0,546.0,Very High,-2.11,92.0,22.06,92.0,0.0,1.0,,3
+COD,DR Congo,Africa,Central,2020,409.0,250.0,785.0,535.0,Very High,-1.92,85.0,20.78,94.0,0.0,1.0,3.97694445,3
+COD,DR Congo,Africa,Central,2021,401.0,245.0,770.0,525.0,Very High,-1.96,79.0,19.7,95.0,0.0,1.0,3.86727977,3
+COD,DR Congo,Africa,Central,2022,392.0,240.0,754.0,514.0,Very High,-2.24,68.0,17.35,95.0,0.0,1.0,3.9417696,3
+COD,DR Congo,Africa,Central,2023,385.0,236.0,739.0,503.0,Very High,-1.79,63.0,16.36,95.0,0.0,1.0,3.68495083,3
+COD,DR Congo,Africa,Central,2024,377.0,231.0,724.0,493.0,Very High,-2.08,54.0,14.32,,,,,2
+COG,Congo,Africa,Central,2000,569.0,294.0,1530.0,1236.0,Very High,,,,,,,,1
+COG,Congo,Africa,Central,2001,550.0,289.0,1430.0,1141.0,Very High,-3.34,,,,,,,1
+COG,Congo,Africa,Central,2002,532.0,284.0,1340.0,1056.0,Very High,-3.27,,,,,,,1
+COG,Congo,Africa,Central,2003,515.0,279.0,1260.0,981.0,Very High,-3.2,,,,,,,1
+COG,Congo,Africa,Central,2004,499.0,274.0,1180.0,906.0,Very High,-3.11,,,,,,,1
+COG,Congo,Africa,Central,2005,484.0,269.0,1120.0,851.0,Very High,-3.01,,,,,,,1
+COG,Congo,Africa,Central,2006,470.0,264.0,1060.0,796.0,Very High,-2.89,,,,,,,1
+COG,Congo,Africa,Central,2007,458.0,259.0,1020.0,761.0,Very High,-2.55,,,,,,,1
+COG,Congo,Africa,Central,2008,448.0,255.0,989.0,734.0,Very High,-2.18,,,,,,,1
+COG,Congo,Africa,Central,2009,438.0,250.0,957.0,707.0,Very High,-2.23,,,,,,,1
+COG,Congo,Africa,Central,2010,426.0,244.0,927.0,683.0,Very High,-2.74,,,,,,,1
+COG,Congo,Africa,Central,2011,415.0,238.0,902.0,664.0,Very High,-2.58,,,,,,,1
+COG,Congo,Africa,Central,2012,402.0,231.0,871.0,640.0,Very High,-3.13,,,,,,,1
+COG,Congo,Africa,Central,2013,385.0,223.0,823.0,600.0,Very High,-4.23,,,,,,,1
+COG,Congo,Africa,Central,2014,365.0,213.0,767.0,554.0,Very High,-5.19,,,69.0,21.0,0.0,,2
+COG,Congo,Africa,Central,2015,348.0,205.0,717.0,512.0,Very High,-4.66,47.0,13.51,71.0,19.0,0.0,,3
+COG,Congo,Africa,Central,2016,334.0,199.0,676.0,477.0,Very High,-4.02,42.0,12.57,77.0,13.0,0.0,,3
+COG,Congo,Africa,Central,2017,321.0,193.0,636.0,443.0,Very High,-3.89,43.0,13.4,66.0,24.0,0.0,,3
+COG,Congo,Africa,Central,2018,311.0,189.0,606.0,417.0,Very High,-3.12,38.0,12.22,62.0,28.0,0.0,,3
+COG,Congo,Africa,Central,2019,304.0,186.0,586.0,400.0,Very High,-2.25,33.0,10.86,72.0,18.0,0.0,,3
+COG,Congo,Africa,Central,2020,300.0,184.0,573.0,389.0,Very High,-1.32,36.0,12.0,75.0,15.0,0.0,4.01775074,3
+COG,Congo,Africa,Central,2021,297.0,183.0,565.0,382.0,High,-1.0,32.0,10.77,78.0,12.0,0.0,3.46133351,3
+COG,Congo,Africa,Central,2022,297.0,183.0,565.0,382.0,High,0.0,25.0,8.42,82.0,8.0,0.0,2.30011368,3
+COG,Congo,Africa,Central,2023,298.0,183.0,570.0,387.0,High,0.34,25.0,8.39,86.0,4.0,0.0,3.29744148,3
+COG,Congo,Africa,Central,2024,302.0,185.0,582.0,397.0,Very High,1.34,39.0,12.91,,,,,2
+COM,Comoros,Africa,East,2000,51.0,27.0,128.0,101.0,Moderate,,,,,,,,1
+COM,Comoros,Africa,East,2001,49.0,26.0,117.0,91.0,Moderate,-3.92,,,,,,,1
+COM,Comoros,Africa,East,2002,47.0,26.0,109.0,83.0,Moderate,-4.08,,,,,,,1
+COM,Comoros,Africa,East,2003,45.0,25.0,102.0,77.0,Moderate,-4.26,,,,,,,1
+COM,Comoros,Africa,East,2004,44.0,25.0,96.0,71.0,Moderate,-2.22,,,,,,,1
+COM,Comoros,Africa,East,2005,43.0,25.0,92.0,67.0,Moderate,-2.27,,,,,,,1
+COM,Comoros,Africa,East,2006,43.0,25.0,89.0,64.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2007,43.0,25.0,89.0,64.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2008,44.0,26.0,90.0,64.0,Moderate,2.33,,,,,,,1
+COM,Comoros,Africa,East,2009,44.0,26.0,91.0,65.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2010,44.0,26.0,90.0,64.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2011,43.0,25.0,89.0,64.0,Moderate,-2.27,,,,,,,1
+COM,Comoros,Africa,East,2012,43.0,25.0,88.0,63.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2013,42.0,25.0,87.0,62.0,Moderate,-2.33,,,,,,,1
+COM,Comoros,Africa,East,2014,42.0,25.0,85.0,60.0,Moderate,0.0,,,,,,,1
+COM,Comoros,Africa,East,2015,42.0,25.0,83.0,58.0,Moderate,0.0,10.0,23.81,91.0,0.0,1.0,,3
+COM,Comoros,Africa,East,2016,41.0,25.0,81.0,56.0,Moderate,-2.38,8.8,21.46,89.0,1.0,0.0,,3
+COM,Comoros,Africa,East,2017,40.0,24.0,79.0,55.0,Moderate,-2.44,11.0,27.5,94.0,0.0,1.0,,3
+COM,Comoros,Africa,East,2018,39.0,24.0,76.0,52.0,Moderate,-2.5,10.0,25.64,,,,,2
+COM,Comoros,Africa,East,2019,37.0,23.0,72.0,49.0,Moderate,-5.13,6.3,17.03,,,,,2
+COM,Comoros,Africa,East,2020,35.0,21.0,67.0,46.0,Moderate,-5.41,7.2,20.57,92.0,0.0,1.0,5.902421,3
+COM,Comoros,Africa,East,2021,32.0,20.0,62.0,42.0,Moderate,-8.57,7.1,22.19,,,,6.46315002,2
+COM,Comoros,Africa,East,2022,29.0,18.0,56.0,38.0,Moderate,-9.38,7.4,25.52,85.0,5.0,0.0,8.47119522,3
+COM,Comoros,Africa,East,2023,26.0,16.0,49.0,33.0,Moderate,-10.34,5.8,22.31,92.0,0.0,1.0,6.55212021,3
+COM,Comoros,Africa,East,2024,22.0,13.0,42.0,29.0,Moderate,-15.38,3.4,15.45,,,,,2
+CPV,Cabo Verde,Africa,West,2000,176.0,144.0,213.0,69.0,High,,,,,,,,1
+CPV,Cabo Verde,Africa,West,2001,168.0,137.0,203.0,66.0,High,-4.55,,,,,,,1
+CPV,Cabo Verde,Africa,West,2002,104.0,85.0,125.0,40.0,High,-38.1,,,,,,,1
+CPV,Cabo Verde,Africa,West,2003,156.0,127.0,188.0,61.0,High,50.0,,,,,,,1
+CPV,Cabo Verde,Africa,West,2004,135.0,110.0,163.0,53.0,High,-13.46,,,,,,,1
+CPV,Cabo Verde,Africa,West,2005,126.0,102.0,152.0,50.0,High,-6.67,,,,,,,1
+CPV,Cabo Verde,Africa,West,2006,106.0,86.0,128.0,42.0,High,-15.87,,,,,,,1
+CPV,Cabo Verde,Africa,West,2007,105.0,85.0,126.0,41.0,High,-0.94,,,,,,,1
+CPV,Cabo Verde,Africa,West,2008,121.0,98.0,146.0,48.0,High,15.24,,,,,,,1
+CPV,Cabo Verde,Africa,West,2009,114.0,93.0,138.0,45.0,High,-5.79,,,,,,,1
+CPV,Cabo Verde,Africa,West,2010,117.0,95.0,141.0,46.0,High,2.63,,,,,,,1
+CPV,Cabo Verde,Africa,West,2011,121.0,99.0,146.0,47.0,High,3.42,,,,,,,1
+CPV,Cabo Verde,Africa,West,2012,131.0,106.0,157.0,51.0,High,8.26,,,,,,,1
+CPV,Cabo Verde,Africa,West,2013,92.0,75.0,110.0,35.0,Moderate,-29.77,,,,,,,1
+CPV,Cabo Verde,Africa,West,2014,81.0,66.0,98.0,32.0,Moderate,-11.96,,,92.0,0.0,1.0,,2
+CPV,Cabo Verde,Africa,West,2015,78.0,63.0,94.0,31.0,Moderate,-3.7,4.3,5.51,89.0,1.0,0.0,,3
+CPV,Cabo Verde,Africa,West,2016,70.0,57.0,85.0,28.0,Moderate,-10.26,4.3,6.14,87.0,3.0,0.0,,3
+CPV,Cabo Verde,Africa,West,2017,70.0,57.0,84.0,27.0,Moderate,0.0,4.3,6.14,91.0,0.0,1.0,,3
+CPV,Cabo Verde,Africa,West,2018,56.0,46.0,67.0,21.0,Moderate,-20.0,4.3,7.68,90.0,0.0,1.0,,3
+CPV,Cabo Verde,Africa,West,2019,57.0,46.0,68.0,22.0,Moderate,1.79,4.3,7.54,89.0,1.0,0.0,,3
+CPV,Cabo Verde,Africa,West,2020,57.0,46.0,69.0,23.0,Moderate,0.0,4.8,8.42,91.0,0.0,1.0,7.03399324,3
+CPV,Cabo Verde,Africa,West,2021,49.0,40.0,60.0,20.0,Moderate,-14.04,4.5,9.18,92.0,0.0,1.0,6.60773611,3
+CPV,Cabo Verde,Africa,West,2022,39.0,32.0,47.0,15.0,Moderate,-20.41,3.4,8.72,71.0,19.0,0.0,6.70243406,3
+CPV,Cabo Verde,Africa,West,2023,53.0,43.0,64.0,21.0,Moderate,35.9,4.6,8.68,55.0,35.0,0.0,5.84791613,3
+CPV,Cabo Verde,Africa,West,2024,47.0,38.0,57.0,19.0,Moderate,-11.32,4.6,9.79,,,,,2
+DJI,Djibouti,Africa,East,2000,2700.0,2200.0,3260.0,1060.0,Very High,,,,,,,,1
+DJI,Djibouti,Africa,East,2001,2650.0,2150.0,3190.0,1040.0,Very High,-1.85,,,,,,,1
+DJI,Djibouti,Africa,East,2002,1870.0,1520.0,2250.0,730.0,Very High,-29.43,,,,,,,1
+DJI,Djibouti,Africa,East,2003,1780.0,1440.0,2140.0,700.0,Very High,-4.81,,,,,,,1
+DJI,Djibouti,Africa,East,2004,1530.0,1240.0,1840.0,600.0,Very High,-14.04,,,,,,,1
+DJI,Djibouti,Africa,East,2005,1530.0,1250.0,1850.0,600.0,Very High,0.0,,,,,,,1
+DJI,Djibouti,Africa,East,2006,1350.0,1100.0,1630.0,530.0,Very High,-11.76,,,,,,,1
+DJI,Djibouti,Africa,East,2007,1320.0,1070.0,1590.0,520.0,Very High,-2.22,,,,,,,1
+DJI,Djibouti,Africa,East,2008,1390.0,1130.0,1680.0,550.0,Very High,5.3,,,,,,,1
+DJI,Djibouti,Africa,East,2009,1320.0,1080.0,1590.0,510.0,Very High,-5.04,,,,,,,1
+DJI,Djibouti,Africa,East,2010,1350.0,1100.0,1630.0,530.0,Very High,2.27,,,,,,,1
+DJI,Djibouti,Africa,East,2011,1140.0,926.0,1370.0,444.0,Very High,-15.56,,,,,,,1
+DJI,Djibouti,Africa,East,2012,1020.0,832.0,1230.0,398.0,Very High,-10.53,,,,,,,1
+DJI,Djibouti,Africa,East,2013,889.0,723.0,1070.0,347.0,Very High,-12.84,,,,,,,1
+DJI,Djibouti,Africa,East,2014,651.0,530.0,785.0,255.0,Very High,-26.77,,,81.0,9.0,0.0,,2
+DJI,Djibouti,Africa,East,2015,691.0,562.0,833.0,271.0,Very High,6.14,181.0,26.19,85.0,5.0,0.0,,3
+DJI,Djibouti,Africa,East,2016,600.0,488.0,723.0,235.0,Very High,-13.17,152.0,25.33,86.0,4.0,0.0,,3
+DJI,Djibouti,Africa,East,2017,454.0,369.0,547.0,178.0,Very High,-24.33,112.0,24.67,85.0,5.0,0.0,,3
+DJI,Djibouti,Africa,East,2018,433.0,352.0,522.0,170.0,Very High,-4.63,108.0,24.94,84.0,6.0,0.0,,3
+DJI,Djibouti,Africa,East,2019,389.0,317.0,469.0,152.0,Very High,-10.16,97.0,24.94,82.0,8.0,0.0,,3
+DJI,Djibouti,Africa,East,2020,366.0,298.0,441.0,143.0,Very High,-5.91,92.0,25.14,85.0,5.0,0.0,2.33861232,3
+DJI,Djibouti,Africa,East,2021,392.0,319.0,472.0,153.0,Very High,7.1,101.0,25.77,82.0,8.0,0.0,2.87128091,3
+DJI,Djibouti,Africa,East,2022,462.0,376.0,557.0,181.0,Very High,17.86,119.0,25.76,,,,2.52554536,2
+DJI,Djibouti,Africa,East,2023,477.0,388.0,575.0,187.0,Very High,3.25,123.0,25.79,84.0,6.0,0.0,2.28316021,3
+DJI,Djibouti,Africa,East,2024,495.0,403.0,596.0,193.0,Very High,3.77,127.0,25.66,,,,,2
+DZA,Algeria,Africa,North,2000,118.0,96.0,142.0,46.0,High,,,,,,,,1
+DZA,Algeria,Africa,North,2001,111.0,91.0,134.0,43.0,High,-5.93,,,,,,,1
+DZA,Algeria,Africa,North,2002,112.0,91.0,134.0,43.0,High,0.9,,,,,,,1
+DZA,Algeria,Africa,North,2003,112.0,91.0,135.0,44.0,High,0.0,,,,,,,1
+DZA,Algeria,Africa,North,2004,109.0,89.0,132.0,43.0,High,-2.68,,,,,,,1
+DZA,Algeria,Africa,North,2005,113.0,92.0,136.0,44.0,High,3.67,,,,,,,1
+DZA,Algeria,Africa,North,2006,107.0,87.0,129.0,42.0,High,-5.31,,,,,,,1
+DZA,Algeria,Africa,North,2007,104.0,84.0,125.0,41.0,High,-2.8,,,,,,,1
+DZA,Algeria,Africa,North,2008,95.0,78.0,115.0,37.0,Moderate,-8.65,,,,,,,1
+DZA,Algeria,Africa,North,2009,96.0,78.0,116.0,38.0,Moderate,1.05,,,,,,,1
+DZA,Algeria,Africa,North,2010,95.0,77.0,114.0,37.0,Moderate,-1.04,,,,,,,1
+DZA,Algeria,Africa,North,2011,87.0,71.0,105.0,34.0,Moderate,-8.42,,,,,,,1
+DZA,Algeria,Africa,North,2012,85.0,69.0,102.0,33.0,Moderate,-2.3,,,,,,,1
+DZA,Algeria,Africa,North,2013,77.0,62.0,92.0,30.0,Moderate,-9.41,,,,,,,1
+DZA,Algeria,Africa,North,2014,80.0,65.0,96.0,31.0,Moderate,3.9,,,88.0,2.0,0.0,,2
+DZA,Algeria,Africa,North,2015,81.0,66.0,97.0,31.0,Moderate,1.25,11.0,13.58,90.0,0.0,1.0,,3
+DZA,Algeria,Africa,North,2016,76.0,62.0,91.0,29.0,Moderate,-6.17,10.0,13.16,,,,,2
+DZA,Algeria,Africa,North,2017,75.0,61.0,90.0,29.0,Moderate,-1.32,9.9,13.2,91.0,0.0,1.0,,3
+DZA,Algeria,Africa,North,2018,74.0,60.0,90.0,30.0,Moderate,-1.33,9.8,13.24,85.0,5.0,0.0,,3
+DZA,Algeria,Africa,North,2019,65.0,53.0,78.0,25.0,Moderate,-12.16,8.5,13.08,86.0,4.0,0.0,,3
+DZA,Algeria,Africa,North,2020,52.0,43.0,63.0,20.0,Moderate,-20.0,6.9,13.27,89.0,1.0,0.0,5.63830757,3
+DZA,Algeria,Africa,North,2021,57.0,46.0,69.0,23.0,Moderate,9.62,7.5,13.16,90.0,0.0,1.0,5.02188873,3
+DZA,Algeria,Africa,North,2022,55.0,45.0,67.0,22.0,Moderate,-3.51,7.2,13.09,90.0,0.0,1.0,3.63464284,3
+DZA,Algeria,Africa,North,2023,55.0,44.0,66.0,22.0,Moderate,0.0,7.2,13.09,,,,4.35082531,2
+DZA,Algeria,Africa,North,2024,54.0,44.0,65.0,21.0,Moderate,-1.82,7.0,12.96,,,,,2
+EGY,Egypt,Africa,North,2000,21.0,17.0,26.0,9.0,Moderate,,,,,,,,1
+EGY,Egypt,Africa,North,2001,21.0,16.0,25.0,9.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2002,20.0,16.0,24.0,8.0,Moderate,-4.76,,,,,,,1
+EGY,Egypt,Africa,North,2003,19.0,15.0,24.0,9.0,Moderate,-5.0,,,,,,,1
+EGY,Egypt,Africa,North,2004,19.0,15.0,23.0,8.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2005,18.0,14.0,22.0,8.0,Moderate,-5.26,,,,,,,1
+EGY,Egypt,Africa,North,2006,17.0,14.0,21.0,7.0,Moderate,-5.56,,,,,,,1
+EGY,Egypt,Africa,North,2007,17.0,13.0,21.0,8.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2008,16.0,13.0,20.0,7.0,Moderate,-5.88,,,,,,,1
+EGY,Egypt,Africa,North,2009,16.0,12.0,19.0,7.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2010,15.0,12.0,19.0,7.0,Moderate,-6.25,,,,,,,1
+EGY,Egypt,Africa,North,2011,15.0,12.0,18.0,6.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2012,14.0,11.0,18.0,7.0,Moderate,-6.67,,,,,,,1
+EGY,Egypt,Africa,North,2013,14.0,11.0,17.0,6.0,Moderate,0.0,,,,,,,1
+EGY,Egypt,Africa,North,2014,13.0,10.0,17.0,7.0,Moderate,-7.14,,,84.0,6.0,0.0,,2
+EGY,Egypt,Africa,North,2015,13.0,10.0,16.0,6.0,Moderate,0.0,0.43,3.31,85.0,5.0,0.0,,3
+EGY,Egypt,Africa,North,2016,13.0,9.8,16.0,6.199999999999999,Moderate,0.0,0.43,3.31,87.0,3.0,0.0,,3
+EGY,Egypt,Africa,North,2017,12.0,9.5,15.0,5.5,Moderate,-7.69,0.43,3.58,86.0,4.0,0.0,,3
+EGY,Egypt,Africa,North,2018,12.0,9.2,15.0,5.800000000000001,Moderate,0.0,0.43,3.58,86.0,4.0,0.0,,3
+EGY,Egypt,Africa,North,2019,11.0,9.0,14.0,5.0,Moderate,-8.33,0.43,3.91,87.0,3.0,0.0,,3
+EGY,Egypt,Africa,North,2020,11.0,8.7,14.0,5.300000000000001,Moderate,0.0,0.43,3.91,89.0,1.0,0.0,4.15384626,3
+EGY,Egypt,Africa,North,2021,11.0,8.5,13.0,4.5,Moderate,0.0,0.43,3.91,88.0,2.0,0.0,4.60955143,3
+EGY,Egypt,Africa,North,2022,11.0,8.3,13.0,4.699999999999999,Moderate,0.0,0.43,3.91,87.0,3.0,0.0,4.72362804,3
+EGY,Egypt,Africa,North,2023,10.0,8.1,13.0,4.9,Moderate,-9.09,0.43,4.3,88.0,2.0,0.0,4.88449335,3
+EGY,Egypt,Africa,North,2024,10.0,8.0,12.0,4.0,Moderate,0.0,0.43,4.3,,,,,2
+ERI,Eritrea,Africa,East,2000,1440.0,1170.0,1730.0,560.0,Very High,,,,,,,,1
+ERI,Eritrea,Africa,East,2001,538.0,438.0,648.0,210.0,Very High,-62.64,,,,,,,1
+ERI,Eritrea,Africa,East,2002,498.0,406.0,601.0,195.0,Very High,-7.43,,,,,,,1
+ERI,Eritrea,Africa,East,2003,756.0,615.0,911.0,296.0,Very High,51.81,,,,,,,1
+ERI,Eritrea,Africa,East,2004,617.0,502.0,744.0,242.0,Very High,-18.39,,,,,,,1
+ERI,Eritrea,Africa,East,2005,483.0,393.0,582.0,189.0,Very High,-21.72,,,,,,,1
+ERI,Eritrea,Africa,East,2006,375.0,305.0,451.0,146.0,Very High,-22.36,,,,,,,1
+ERI,Eritrea,Africa,East,2007,417.0,339.0,502.0,163.0,Very High,11.2,,,,,,,1
+ERI,Eritrea,Africa,East,2008,312.0,254.0,376.0,122.0,Very High,-25.18,,,,,,,1
+ERI,Eritrea,Africa,East,2009,281.0,228.0,338.0,110.0,High,-9.94,,,,,,,1
+ERI,Eritrea,Africa,East,2010,258.0,210.0,311.0,101.0,High,-8.19,,,,,,,1
+ERI,Eritrea,Africa,East,2011,262.0,214.0,316.0,102.0,High,1.55,,,,,,,1
+ERI,Eritrea,Africa,East,2012,261.0,212.0,314.0,102.0,High,-0.38,,,,,,,1
+ERI,Eritrea,Africa,East,2013,229.0,186.0,276.0,90.0,High,-12.26,,,,,,,1
+ERI,Eritrea,Africa,East,2014,186.0,151.0,224.0,73.0,High,-18.78,,,91.0,0.0,1.0,,2
+ERI,Eritrea,Africa,East,2015,156.0,127.0,188.0,61.0,High,-16.13,38.0,24.36,90.0,0.0,1.0,,3
+ERI,Eritrea,Africa,East,2016,163.0,133.0,197.0,64.0,High,4.49,39.0,23.93,91.0,0.0,1.0,,3
+ERI,Eritrea,Africa,East,2017,147.0,119.0,177.0,58.0,High,-9.82,36.0,24.49,92.0,0.0,1.0,,3
+ERI,Eritrea,Africa,East,2018,132.0,108.0,159.0,51.0,High,-10.2,32.0,24.24,93.0,0.0,1.0,,3
+ERI,Eritrea,Africa,East,2019,127.0,103.0,153.0,50.0,High,-3.79,31.0,24.41,93.0,0.0,1.0,,3
+ERI,Eritrea,Africa,East,2020,111.0,90.0,133.0,43.0,High,-12.6,27.0,24.32,91.0,0.0,1.0,4.31117725,3
+ERI,Eritrea,Africa,East,2021,111.0,90.0,134.0,44.0,High,0.0,28.0,25.23,93.0,0.0,1.0,4.17839003,3
+ERI,Eritrea,Africa,East,2022,134.0,109.0,161.0,52.0,High,20.72,33.0,24.63,94.0,0.0,1.0,3.87537837,3
+ERI,Eritrea,Africa,East,2023,149.0,121.0,179.0,58.0,High,11.19,37.0,24.83,93.0,0.0,1.0,3.6837678,3
+ERI,Eritrea,Africa,East,2024,115.0,93.0,138.0,45.0,High,-22.82,29.0,25.22,,,,,2
+ETH,Ethiopia,Africa,East,2000,489.0,284.0,749.0,465.0,Very High,,,,,,,,1
+ETH,Ethiopia,Africa,East,2001,462.0,265.0,713.0,448.0,Very High,-5.52,,,,,,,1
+ETH,Ethiopia,Africa,East,2002,437.0,247.0,679.0,432.0,Very High,-5.41,,,,,,,1
+ETH,Ethiopia,Africa,East,2003,412.0,230.0,645.0,415.0,Very High,-5.72,,,,,,,1
+ETH,Ethiopia,Africa,East,2004,388.0,215.0,612.0,397.0,Very High,-5.83,,,,,,,1
+ETH,Ethiopia,Africa,East,2005,366.0,200.0,581.0,381.0,Very High,-5.67,,,,,,,1
+ETH,Ethiopia,Africa,East,2006,345.0,186.0,550.0,364.0,Very High,-5.74,,,,,,,1
+ETH,Ethiopia,Africa,East,2007,324.0,174.0,521.0,347.0,Very High,-6.09,,,,,,,1
+ETH,Ethiopia,Africa,East,2008,305.0,162.0,492.0,330.0,Very High,-5.86,,,,,,,1
+ETH,Ethiopia,Africa,East,2009,287.0,151.0,464.0,313.0,High,-5.9,,,,,,,1
+ETH,Ethiopia,Africa,East,2010,269.0,142.0,438.0,296.0,High,-6.27,,,,,,,1
+ETH,Ethiopia,Africa,East,2011,253.0,133.0,412.0,279.0,High,-5.95,,,,,,,1
+ETH,Ethiopia,Africa,East,2012,238.0,122.0,392.0,270.0,High,-5.93,,,,,,,1
+ETH,Ethiopia,Africa,East,2013,224.0,113.0,373.0,260.0,High,-5.88,,,,,,,1
+ETH,Ethiopia,Africa,East,2014,211.0,105.0,355.0,250.0,High,-5.8,,,89.0,1.0,0.0,,2
+ETH,Ethiopia,Africa,East,2015,200.0,97.0,338.0,241.0,High,-5.21,26.0,13.0,84.0,6.0,0.0,,3
+ETH,Ethiopia,Africa,East,2016,189.0,91.0,322.0,231.0,High,-5.5,26.0,13.76,90.0,0.0,1.0,,3
+ETH,Ethiopia,Africa,East,2017,179.0,85.0,307.0,222.0,High,-5.29,25.0,13.97,96.0,0.0,1.0,,3
+ETH,Ethiopia,Africa,East,2018,170.0,81.0,293.0,212.0,High,-5.03,22.0,12.94,88.0,2.0,0.0,,3
+ETH,Ethiopia,Africa,East,2019,163.0,77.0,280.0,203.0,High,-4.12,19.0,11.66,90.0,0.0,1.0,,3
+ETH,Ethiopia,Africa,East,2020,156.0,75.0,268.0,193.0,High,-4.29,18.0,11.54,86.0,4.0,0.0,3.48096275,3
+ETH,Ethiopia,Africa,East,2021,151.0,73.0,256.0,183.0,High,-3.21,16.0,10.6,87.0,3.0,0.0,3.20779967,3
+ETH,Ethiopia,Africa,East,2022,146.0,72.0,246.0,174.0,High,-3.31,17.0,11.64,86.0,4.0,0.0,2.85298109,3
+ETH,Ethiopia,Africa,East,2023,143.0,72.0,237.0,165.0,High,-2.05,19.0,13.29,96.0,0.0,1.0,2.80310345,3
+ETH,Ethiopia,Africa,East,2024,141.0,74.0,229.0,155.0,High,-1.4,14.0,9.93,,,,,2
+GAB,Gabon,Africa,Central,2000,332.0,178.0,809.0,631.0,Very High,,,,,,,,1
+GAB,Gabon,Africa,Central,2001,336.0,186.0,779.0,593.0,Very High,1.2,,,,,,,1
+GAB,Gabon,Africa,Central,2002,342.0,194.0,759.0,565.0,Very High,1.79,,,,,,,1
+GAB,Gabon,Africa,Central,2003,350.0,203.0,748.0,545.0,Very High,2.34,,,,,,,1
+GAB,Gabon,Africa,Central,2004,361.0,213.0,747.0,534.0,Very High,3.14,,,,,,,1
+GAB,Gabon,Africa,Central,2005,373.0,223.0,754.0,531.0,Very High,3.32,,,,,,,1
+GAB,Gabon,Africa,Central,2006,387.0,232.0,767.0,535.0,Very High,3.75,,,,,,,1
+GAB,Gabon,Africa,Central,2007,405.0,244.0,797.0,553.0,Very High,4.65,,,,,,,1
+GAB,Gabon,Africa,Central,2008,426.0,257.0,840.0,583.0,Very High,5.19,,,,,,,1
+GAB,Gabon,Africa,Central,2009,445.0,269.0,878.0,609.0,Very High,4.46,,,,,,,1
+GAB,Gabon,Africa,Central,2010,461.0,277.0,913.0,636.0,Very High,3.6,,,,,,,1
+GAB,Gabon,Africa,Central,2011,475.0,284.0,949.0,665.0,Very High,3.04,,,,,,,1
+GAB,Gabon,Africa,Central,2012,483.0,289.0,971.0,682.0,Very High,1.68,,,,,,,1
+GAB,Gabon,Africa,Central,2013,488.0,292.0,978.0,686.0,Very High,1.04,,,,,,,1
+GAB,Gabon,Africa,Central,2014,491.0,295.0,978.0,683.0,Very High,0.61,,,58.0,32.0,0.0,,2
+GAB,Gabon,Africa,Central,2015,488.0,294.0,967.0,673.0,Very High,-0.61,62.0,12.7,50.0,40.0,0.0,,3
+GAB,Gabon,Africa,Central,2016,475.0,287.0,934.0,647.0,Very High,-2.66,64.0,13.47,48.0,42.0,0.0,,3
+GAB,Gabon,Africa,Central,2017,456.0,277.0,888.0,611.0,Very High,-4.0,66.0,14.47,25.0,65.0,0.0,,3
+GAB,Gabon,Africa,Central,2018,440.0,268.0,851.0,583.0,Very High,-3.51,59.0,13.41,50.0,40.0,0.0,,3
+GAB,Gabon,Africa,Central,2019,427.0,261.0,823.0,562.0,Very High,-2.95,62.0,14.52,67.0,23.0,0.0,,3
+GAB,Gabon,Africa,Central,2020,413.0,253.0,795.0,542.0,Very High,-3.28,66.0,15.98,63.0,27.0,0.0,3.4401269,3
+GAB,Gabon,Africa,Central,2021,401.0,245.0,769.0,524.0,Very High,-2.91,61.0,15.21,57.0,33.0,0.0,2.79254127,3
+GAB,Gabon,Africa,Central,2022,390.0,239.0,750.0,511.0,Very High,-2.74,45.0,11.54,65.0,25.0,0.0,2.89087176,3
+GAB,Gabon,Africa,Central,2023,380.0,232.0,733.0,501.0,Very High,-2.56,40.0,10.53,71.0,19.0,0.0,3.13430715,3
+GAB,Gabon,Africa,Central,2024,371.0,226.0,720.0,494.0,Very High,-2.37,41.0,11.05,,,,,2
+GHA,Ghana,Africa,West,2000,216.0,64.0,459.0,395.0,High,,,,,,,,1
+GHA,Ghana,Africa,West,2001,214.0,65.0,449.0,384.0,High,-0.93,,,,,,,1
+GHA,Ghana,Africa,West,2002,212.0,67.0,439.0,372.0,High,-0.93,,,,,,,1
+GHA,Ghana,Africa,West,2003,209.0,68.0,429.0,361.0,High,-1.42,,,,,,,1
+GHA,Ghana,Africa,West,2004,206.0,69.0,418.0,349.0,High,-1.44,,,,,,,1
+GHA,Ghana,Africa,West,2005,203.0,70.0,406.0,336.0,High,-1.46,,,,,,,1
+GHA,Ghana,Africa,West,2006,199.0,70.0,395.0,325.0,High,-1.97,,,,,,,1
+GHA,Ghana,Africa,West,2007,196.0,71.0,383.0,312.0,High,-1.51,,,,,,,1
+GHA,Ghana,Africa,West,2008,191.0,71.0,371.0,300.0,High,-2.55,,,,,,,1
+GHA,Ghana,Africa,West,2009,187.0,71.0,358.0,287.0,High,-2.09,,,,,,,1
+GHA,Ghana,Africa,West,2010,183.0,71.0,346.0,275.0,High,-2.14,,,,,,,1
+GHA,Ghana,Africa,West,2011,178.0,71.0,333.0,262.0,High,-2.73,,,,,,,1
+GHA,Ghana,Africa,West,2012,173.0,70.0,321.0,251.0,High,-2.81,,,,,,,1
+GHA,Ghana,Africa,West,2013,168.0,70.0,308.0,238.0,High,-2.89,,,,,,,1
+GHA,Ghana,Africa,West,2014,165.0,70.0,301.0,231.0,High,-1.79,,,85.0,5.0,0.0,,2
+GHA,Ghana,Africa,West,2015,160.0,70.0,287.0,217.0,High,-3.03,37.0,23.12,85.0,5.0,0.0,,3
+GHA,Ghana,Africa,West,2016,156.0,70.0,275.0,205.0,High,-2.5,36.0,23.08,85.0,5.0,0.0,,3
+GHA,Ghana,Africa,West,2017,152.0,70.0,264.0,194.0,High,-2.56,36.0,23.68,85.0,5.0,0.0,,3
+GHA,Ghana,Africa,West,2018,148.0,70.0,254.0,184.0,High,-2.63,36.0,24.32,84.0,6.0,0.0,,3
+GHA,Ghana,Africa,West,2019,144.0,70.0,244.0,174.0,High,-2.7,34.0,23.61,84.0,6.0,0.0,,3
+GHA,Ghana,Africa,West,2020,140.0,66.0,241.0,175.0,High,-2.78,36.0,25.71,86.0,4.0,0.0,4.4331708,3
+GHA,Ghana,Africa,West,2021,136.0,63.0,237.0,174.0,High,-2.86,36.0,26.47,87.0,3.0,0.0,3.86030865,3
+GHA,Ghana,Africa,West,2022,133.0,60.0,234.0,174.0,High,-2.21,32.0,24.06,87.0,3.0,0.0,3.67459154,3
+GHA,Ghana,Africa,West,2023,129.0,57.0,231.0,174.0,High,-3.01,29.0,22.48,90.0,0.0,1.0,2.94686937,3
+GHA,Ghana,Africa,West,2024,126.0,55.0,225.0,170.0,High,-2.33,27.0,21.43,,,,,2
+GIN,Guinea,Africa,West,2000,120.0,60.0,350.0,290.0,High,,,,,,,,1
+GIN,Guinea,Africa,West,2001,133.0,68.0,365.0,297.0,High,10.83,,,,,,,1
+GIN,Guinea,Africa,West,2002,144.0,75.0,379.0,304.0,High,8.27,,,,,,,1
+GIN,Guinea,Africa,West,2003,154.0,82.0,391.0,309.0,High,6.94,,,,,,,1
+GIN,Guinea,Africa,West,2004,163.0,88.0,402.0,314.0,High,5.84,,,,,,,1
+GIN,Guinea,Africa,West,2005,171.0,93.0,410.0,317.0,High,4.91,,,,,,,1
+GIN,Guinea,Africa,West,2006,177.0,98.0,417.0,319.0,High,3.51,,,,,,,1
+GIN,Guinea,Africa,West,2007,183.0,101.0,423.0,322.0,High,3.39,,,,,,,1
+GIN,Guinea,Africa,West,2008,187.0,104.0,427.0,323.0,High,2.19,,,,,,,1
+GIN,Guinea,Africa,West,2009,190.0,106.0,428.0,322.0,High,1.6,,,,,,,1
+GIN,Guinea,Africa,West,2010,189.0,107.0,424.0,317.0,High,-0.53,,,,,,,1
+GIN,Guinea,Africa,West,2011,187.0,106.0,417.0,311.0,High,-1.06,,,,,,,1
+GIN,Guinea,Africa,West,2012,185.0,105.0,409.0,304.0,High,-1.07,,,,,,,1
+GIN,Guinea,Africa,West,2013,183.0,105.0,397.0,292.0,High,-1.08,,,,,,,1
+GIN,Guinea,Africa,West,2014,179.0,104.0,380.0,276.0,High,-2.19,,,83.0,7.0,0.0,,2
+GIN,Guinea,Africa,West,2015,177.0,104.0,368.0,264.0,High,-1.12,26.0,14.69,80.0,10.0,0.0,,3
+GIN,Guinea,Africa,West,2016,177.0,105.0,360.0,255.0,High,0.0,26.0,14.69,85.0,5.0,0.0,,3
+GIN,Guinea,Africa,West,2017,178.0,107.0,353.0,246.0,High,0.56,24.0,13.48,88.0,2.0,0.0,,3
+GIN,Guinea,Africa,West,2018,178.0,108.0,348.0,240.0,High,0.0,24.0,13.48,90.0,0.0,1.0,,3
+GIN,Guinea,Africa,West,2019,178.0,109.0,344.0,235.0,High,0.0,20.0,11.24,89.0,1.0,0.0,,3
+GIN,Guinea,Africa,West,2020,179.0,109.0,342.0,233.0,High,0.56,21.0,11.73,91.0,0.0,1.0,3.90094519,3
+GIN,Guinea,Africa,West,2021,179.0,110.0,341.0,231.0,High,0.0,18.0,10.06,89.0,1.0,0.0,3.7175858,3
+GIN,Guinea,Africa,West,2022,179.0,110.0,340.0,230.0,High,0.0,16.0,8.94,90.0,0.0,1.0,3.83292699,3
+GIN,Guinea,Africa,West,2023,178.0,110.0,340.0,230.0,High,-0.56,17.0,9.55,90.0,0.0,1.0,3.69442987,3
+GIN,Guinea,Africa,West,2024,178.0,109.0,341.0,232.0,High,0.0,22.0,12.36,,,,,2
+GMB,Gambia,Africa,West,2000,187.0,125.0,261.0,136.0,High,,,,,,,,1
+GMB,Gambia,Africa,West,2001,189.0,130.0,259.0,129.0,High,1.07,,,,,,,1
+GMB,Gambia,Africa,West,2002,190.0,136.0,253.0,117.0,High,0.53,,,,,,,1
+GMB,Gambia,Africa,West,2003,191.0,138.0,253.0,115.0,High,0.53,,,,,,,1
+GMB,Gambia,Africa,West,2004,191.0,148.0,240.0,92.0,High,0.0,,,,,,,1
+GMB,Gambia,Africa,West,2005,190.0,136.0,253.0,117.0,High,-0.52,,,,,,,1
+GMB,Gambia,Africa,West,2006,188.0,110.0,286.0,176.0,High,-1.05,,,,,,,1
+GMB,Gambia,Africa,West,2007,186.0,110.0,282.0,172.0,High,-1.06,,,,,,,1
+GMB,Gambia,Africa,West,2008,183.0,131.0,243.0,112.0,High,-1.61,,,,,,,1
+GMB,Gambia,Africa,West,2009,180.0,128.0,241.0,113.0,High,-1.64,,,,,,,1
+GMB,Gambia,Africa,West,2010,179.0,109.0,266.0,157.0,High,-0.56,,,,,,,1
+GMB,Gambia,Africa,West,2011,178.0,132.0,231.0,99.0,High,-0.56,,,,,,,1
+GMB,Gambia,Africa,West,2012,177.0,131.0,231.0,100.0,High,-0.56,,,,,,,1
+GMB,Gambia,Africa,West,2013,176.0,126.0,235.0,109.0,High,-0.56,,,,,,,1
+GMB,Gambia,Africa,West,2014,175.0,126.0,232.0,106.0,High,-0.57,,,88.0,2.0,0.0,,2
+GMB,Gambia,Africa,West,2015,173.0,125.0,228.0,103.0,High,-1.14,21.0,12.14,82.0,8.0,0.0,,3
+GMB,Gambia,Africa,West,2016,170.0,123.0,223.0,100.0,High,-1.73,22.0,12.94,80.0,10.0,0.0,,3
+GMB,Gambia,Africa,West,2017,166.0,122.0,218.0,96.0,High,-2.35,21.0,12.65,81.0,9.0,0.0,,3
+GMB,Gambia,Africa,West,2018,162.0,120.0,211.0,91.0,High,-2.41,22.0,13.58,88.0,2.0,0.0,,3
+GMB,Gambia,Africa,West,2019,158.0,117.0,204.0,87.0,High,-2.47,19.0,12.03,84.0,6.0,0.0,,3
+GMB,Gambia,Africa,West,2020,153.0,113.0,200.0,87.0,High,-3.16,23.0,15.03,87.0,3.0,0.0,4.01436949,3
+GMB,Gambia,Africa,West,2021,149.0,109.0,196.0,87.0,High,-2.61,25.0,16.78,84.0,6.0,0.0,3.74321485,3
+GMB,Gambia,Africa,West,2022,145.0,105.0,192.0,87.0,High,-2.68,21.0,14.48,87.0,3.0,0.0,3.53697729,3
+GMB,Gambia,Africa,West,2023,142.0,101.0,189.0,88.0,High,-2.07,17.0,11.97,87.0,3.0,0.0,2.89250112,3
+GMB,Gambia,Africa,West,2024,138.0,99.0,184.0,85.0,High,-2.82,17.0,12.32,,,,,2
+GNB,Guinea-Bissau,Africa,West,2000,202.0,102.0,564.0,462.0,High,,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2001,225.0,118.0,595.0,477.0,High,11.39,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2002,245.0,131.0,619.0,488.0,High,8.89,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2003,261.0,141.0,637.0,496.0,High,6.53,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2004,273.0,150.0,648.0,498.0,High,4.6,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2005,281.0,156.0,653.0,497.0,High,2.93,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2006,286.0,160.0,652.0,492.0,High,1.78,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2007,286.0,161.0,643.0,482.0,High,0.0,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2008,282.0,160.0,626.0,466.0,High,-1.4,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2009,276.0,157.0,606.0,449.0,High,-2.13,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2010,266.0,152.0,581.0,429.0,High,-3.62,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2011,253.0,145.0,550.0,405.0,High,-4.89,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2012,241.0,138.0,521.0,383.0,High,-4.74,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2013,230.0,133.0,490.0,357.0,High,-4.56,,,,,,,1
+GNB,Guinea-Bissau,Africa,West,2014,218.0,128.0,457.0,329.0,High,-5.22,,,81.0,9.0,0.0,,2
+GNB,Guinea-Bissau,Africa,West,2015,209.0,123.0,428.0,305.0,High,-4.13,31.0,14.83,79.0,11.0,0.0,,3
+GNB,Guinea-Bissau,Africa,West,2016,203.0,121.0,408.0,287.0,High,-2.87,26.0,12.81,76.0,14.0,0.0,,3
+GNB,Guinea-Bissau,Africa,West,2017,198.0,119.0,391.0,272.0,High,-2.46,26.0,13.13,64.0,26.0,0.0,,3
+GNB,Guinea-Bissau,Africa,West,2018,194.0,118.0,377.0,259.0,High,-2.02,27.0,13.92,71.0,19.0,0.0,,3
+GNB,Guinea-Bissau,Africa,West,2019,189.0,116.0,364.0,248.0,High,-2.58,22.0,11.64,73.0,17.0,0.0,,3
+GNB,Guinea-Bissau,Africa,West,2020,186.0,114.0,354.0,240.0,High,-1.59,20.0,10.75,75.0,15.0,0.0,8.98898792,3
+GNB,Guinea-Bissau,Africa,West,2021,183.0,112.0,346.0,234.0,High,-1.61,21.0,11.48,75.0,15.0,0.0,8.39794922,3
+GNB,Guinea-Bissau,Africa,West,2022,180.0,111.0,341.0,230.0,High,-1.64,15.0,8.33,78.0,12.0,0.0,8.33752728,3
+GNB,Guinea-Bissau,Africa,West,2023,178.0,109.0,338.0,229.0,High,-1.11,19.0,10.67,75.0,15.0,0.0,8.82204819,3
+GNB,Guinea-Bissau,Africa,West,2024,176.0,108.0,337.0,229.0,High,-1.12,19.0,10.8,,,,,2
+GNQ,Equatorial Guinea,Africa,Central,2000,323.0,197.0,626.0,429.0,Very High,,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2001,316.0,193.0,614.0,421.0,Very High,-2.17,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2002,310.0,189.0,601.0,412.0,Very High,-1.9,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2003,304.0,185.0,589.0,404.0,Very High,-1.94,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2004,298.0,182.0,578.0,396.0,High,-1.97,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2005,292.0,178.0,566.0,388.0,High,-2.01,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2006,286.0,174.0,555.0,381.0,High,-2.05,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2007,280.0,171.0,544.0,373.0,High,-2.1,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2008,275.0,167.0,533.0,366.0,High,-1.79,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2009,269.0,164.0,522.0,358.0,High,-2.18,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2010,264.0,161.0,512.0,351.0,High,-1.86,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2011,259.0,158.0,501.0,343.0,High,-1.89,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2012,253.0,154.0,491.0,337.0,High,-2.32,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2013,248.0,151.0,482.0,331.0,High,-1.98,,,,,,,1
+GNQ,Equatorial Guinea,Africa,Central,2014,243.0,148.0,472.0,324.0,High,-2.02,,,58.0,32.0,0.0,,2
+GNQ,Equatorial Guinea,Africa,Central,2015,239.0,145.0,463.0,318.0,High,-1.65,34.0,14.23,43.0,47.0,0.0,,3
+GNQ,Equatorial Guinea,Africa,Central,2016,234.0,142.0,453.0,311.0,High,-2.09,31.0,13.25,89.0,1.0,0.0,,3
+GNQ,Equatorial Guinea,Africa,Central,2017,229.0,140.0,444.0,304.0,High,-2.14,37.0,16.16,75.0,15.0,0.0,,3
+GNQ,Equatorial Guinea,Africa,Central,2018,225.0,137.0,435.0,298.0,High,-1.75,41.0,18.22,65.0,25.0,0.0,,3
+GNQ,Equatorial Guinea,Africa,Central,2019,220.0,134.0,427.0,293.0,High,-2.22,40.0,18.18,76.0,14.0,0.0,,3
+GNQ,Equatorial Guinea,Africa,Central,2020,216.0,131.0,418.0,287.0,High,-1.82,34.0,15.74,74.0,16.0,0.0,3.70560718,3
+GNQ,Equatorial Guinea,Africa,Central,2021,211.0,129.0,410.0,281.0,High,-2.31,30.0,14.22,59.0,31.0,0.0,3.5103004,3
+GNQ,Equatorial Guinea,Africa,Central,2022,207.0,126.0,402.0,276.0,High,-1.9,9.8,4.73,82.0,8.0,0.0,2.83726358,3
+GNQ,Equatorial Guinea,Africa,Central,2023,203.0,124.0,394.0,270.0,High,-1.93,3.5,1.72,68.0,22.0,0.0,3.49941635,3
+GNQ,Equatorial Guinea,Africa,Central,2024,199.0,121.0,386.0,265.0,High,-1.97,15.0,7.54,,,,,2
+KEN,Kenya,Africa,East,2000,451.0,182.0,839.0,657.0,Very High,,,,,,,,1
+KEN,Kenya,Africa,East,2001,499.0,178.0,982.0,804.0,Very High,10.64,,,,,,,1
+KEN,Kenya,Africa,East,2002,534.0,174.0,1090.0,916.0,Very High,7.01,,,,,,,1
+KEN,Kenya,Africa,East,2003,610.0,161.0,1350.0,1189.0,Very High,14.23,,,,,,,1
+KEN,Kenya,Africa,East,2004,634.0,155.0,1440.0,1285.0,Very High,3.93,,,,,,,1
+KEN,Kenya,Africa,East,2005,630.0,156.0,1420.0,1264.0,Very High,-0.63,,,,,,,1
+KEN,Kenya,Africa,East,2006,646.0,153.0,1490.0,1337.0,Very High,2.54,,,,,,,1
+KEN,Kenya,Africa,East,2007,618.0,159.0,1380.0,1221.0,Very High,-4.33,,,,,,,1
+KEN,Kenya,Africa,East,2008,564.0,169.0,1190.0,1021.0,Very High,-8.74,,,,,,,1
+KEN,Kenya,Africa,East,2009,566.0,169.0,1200.0,1031.0,Very High,0.35,,,,,,,1
+KEN,Kenya,Africa,East,2010,531.0,174.0,1080.0,906.0,Very High,-6.18,,,,,,,1
+KEN,Kenya,Africa,East,2011,506.0,177.0,1000.0,823.0,Very High,-4.71,,,,,,,1
+KEN,Kenya,Africa,East,2012,471.0,181.0,897.0,716.0,Very High,-6.92,,,,,,,1
+KEN,Kenya,Africa,East,2013,443.0,182.0,816.0,634.0,Very High,-5.94,,,,,,,1
+KEN,Kenya,Africa,East,2014,423.0,183.0,761.0,578.0,Very High,-4.51,,,87.0,3.0,0.0,,2
+KEN,Kenya,Africa,East,2015,380.0,182.0,651.0,469.0,Very High,-10.17,64.0,16.84,87.0,3.0,0.0,,3
+KEN,Kenya,Africa,East,2016,348.0,179.0,573.0,394.0,Very High,-8.42,60.0,17.24,81.0,9.0,0.0,,3
+KEN,Kenya,Africa,East,2017,319.0,175.0,505.0,330.0,Very High,-8.33,50.0,15.67,83.0,7.0,0.0,,3
+KEN,Kenya,Africa,East,2018,292.0,170.0,446.0,276.0,High,-8.46,38.0,13.01,84.0,6.0,0.0,,3
+KEN,Kenya,Africa,East,2019,267.0,163.0,396.0,233.0,High,-8.56,37.0,13.86,86.0,4.0,0.0,,3
+KEN,Kenya,Africa,East,2020,248.0,150.0,377.0,227.0,High,-7.12,38.0,15.32,85.0,5.0,0.0,4.49248886,3
+KEN,Kenya,Africa,East,2021,247.0,145.0,377.0,232.0,High,-0.4,40.0,16.19,87.0,3.0,0.0,4.56992722,3
+KEN,Kenya,Africa,East,2022,238.0,136.0,375.0,239.0,High,-3.64,31.0,13.03,89.0,1.0,0.0,4.32241869,3
+KEN,Kenya,Africa,East,2023,214.0,118.0,344.0,226.0,High,-10.08,28.0,13.08,89.0,1.0,0.0,4.35172892,3
+KEN,Kenya,Africa,East,2024,207.0,109.0,339.0,230.0,High,-3.27,29.0,14.01,,,,,2
+LBR,Liberia,Africa,West,2000,115.0,58.0,319.0,261.0,High,,,,,,,,1
+LBR,Liberia,Africa,West,2001,152.0,80.0,393.0,313.0,High,32.17,,,,,,,1
+LBR,Liberia,Africa,West,2002,186.0,100.0,459.0,359.0,High,22.37,,,,,,,1
+LBR,Liberia,Africa,West,2003,216.0,118.0,517.0,399.0,High,16.13,,,,,,,1
+LBR,Liberia,Africa,West,2004,244.0,135.0,568.0,433.0,High,12.96,,,,,,,1
+LBR,Liberia,Africa,West,2005,268.0,150.0,612.0,462.0,High,9.84,,,,,,,1
+LBR,Liberia,Africa,West,2006,288.0,162.0,648.0,486.0,High,7.46,,,,,,,1
+LBR,Liberia,Africa,West,2007,305.0,173.0,677.0,504.0,Very High,5.9,,,,,,,1
+LBR,Liberia,Africa,West,2008,320.0,183.0,698.0,515.0,Very High,4.92,,,,,,,1
+LBR,Liberia,Africa,West,2009,329.0,189.0,710.0,521.0,Very High,2.81,,,,,,,1
+LBR,Liberia,Africa,West,2010,331.0,191.0,711.0,520.0,Very High,0.61,,,,,,,1
+LBR,Liberia,Africa,West,2011,328.0,189.0,704.0,515.0,Very High,-0.91,,,,,,,1
+LBR,Liberia,Africa,West,2012,324.0,187.0,692.0,505.0,Very High,-1.22,,,,,,,1
+LBR,Liberia,Africa,West,2013,315.0,183.0,666.0,483.0,Very High,-2.78,,,,,,,1
+LBR,Liberia,Africa,West,2014,302.0,177.0,627.0,450.0,Very High,-4.13,,,74.0,16.0,0.0,,2
+LBR,Liberia,Africa,West,2015,289.0,171.0,592.0,421.0,High,-4.3,65.0,22.49,77.0,13.0,0.0,,3
+LBR,Liberia,Africa,West,2016,279.0,167.0,561.0,394.0,High,-3.46,51.0,18.28,77.0,13.0,0.0,,3
+LBR,Liberia,Africa,West,2017,268.0,162.0,529.0,367.0,High,-3.94,44.0,16.42,77.0,13.0,0.0,,3
+LBR,Liberia,Africa,West,2018,257.0,157.0,501.0,344.0,High,-4.1,39.0,15.18,75.0,15.0,0.0,,3
+LBR,Liberia,Africa,West,2019,249.0,152.0,479.0,327.0,High,-3.11,35.0,14.06,75.0,15.0,0.0,,3
+LBR,Liberia,Africa,West,2020,240.0,147.0,460.0,313.0,High,-3.61,44.0,18.33,76.0,14.0,0.0,12.90504265,3
+LBR,Liberia,Africa,West,2021,232.0,143.0,443.0,300.0,High,-3.33,39.0,16.81,78.0,12.0,0.0,13.27175999,3
+LBR,Liberia,Africa,West,2022,224.0,137.0,427.0,290.0,High,-3.45,39.0,17.41,78.0,12.0,0.0,13.58819675,3
+LBR,Liberia,Africa,West,2023,215.0,132.0,413.0,281.0,High,-4.02,35.0,16.28,,,,13.00574875,2
+LBR,Liberia,Africa,West,2024,207.0,126.0,402.0,276.0,High,-3.72,28.0,13.53,,,,,2
+LBY,Libya,Africa,North,2000,59.0,29.0,170.0,141.0,Moderate,,,,,,,,1
+LBY,Libya,Africa,North,2001,62.0,32.0,162.0,130.0,Moderate,5.08,,,,,,,1
+LBY,Libya,Africa,North,2002,63.0,35.0,155.0,120.0,Moderate,1.61,,,,,,,1
+LBY,Libya,Africa,North,2003,64.0,36.0,147.0,111.0,Moderate,1.59,,,,,,,1
+LBY,Libya,Africa,North,2004,65.0,38.0,139.0,101.0,Moderate,1.56,,,,,,,1
+LBY,Libya,Africa,North,2005,64.0,38.0,131.0,93.0,Moderate,-1.54,,,,,,,1
+LBY,Libya,Africa,North,2006,63.0,38.0,123.0,85.0,Moderate,-1.56,,,,,,,1
+LBY,Libya,Africa,North,2007,60.0,37.0,115.0,78.0,Moderate,-4.76,,,,,,,1
+LBY,Libya,Africa,North,2008,57.0,35.0,107.0,72.0,Moderate,-5.0,,,,,,,1
+LBY,Libya,Africa,North,2009,53.0,33.0,99.0,66.0,Moderate,-7.02,,,,,,,1
+LBY,Libya,Africa,North,2010,49.0,30.0,89.0,59.0,Moderate,-7.55,,,,,,,1
+LBY,Libya,Africa,North,2011,43.0,27.0,79.0,52.0,Moderate,-12.24,,,,,,,1
+LBY,Libya,Africa,North,2012,38.0,24.0,71.0,47.0,Moderate,-11.63,,,,,,,1
+LBY,Libya,Africa,North,2013,35.0,22.0,65.0,43.0,Moderate,-7.89,,,,,,,1
+LBY,Libya,Africa,North,2014,33.0,21.0,60.0,39.0,Moderate,-5.71,,,57.0,33.0,0.0,,2
+LBY,Libya,Africa,North,2015,32.0,20.0,58.0,38.0,Moderate,-3.03,7.5,23.44,61.0,29.0,0.0,,3
+LBY,Libya,Africa,North,2016,32.0,20.0,60.0,40.0,Moderate,0.0,7.0,21.88,59.0,31.0,0.0,,3
+LBY,Libya,Africa,North,2017,34.0,22.0,64.0,42.0,Moderate,6.25,6.5,19.12,59.0,31.0,0.0,,3
+LBY,Libya,Africa,North,2018,37.0,23.0,69.0,46.0,Moderate,8.82,5.2,14.05,69.0,21.0,0.0,,3
+LBY,Libya,Africa,North,2019,40.0,24.0,76.0,52.0,Moderate,8.11,4.2,10.5,70.0,20.0,0.0,,3
+LBY,Libya,Africa,North,2020,43.0,26.0,85.0,59.0,Moderate,7.5,8.6,20.0,69.0,21.0,0.0,7.10674047,3
+LBY,Libya,Africa,North,2021,47.0,28.0,96.0,68.0,Moderate,9.3,9.4,20.0,62.0,28.0,0.0,6.05457449,3
+LBY,Libya,Africa,North,2022,52.0,31.0,108.0,77.0,Moderate,10.64,10.0,19.23,60.0,30.0,0.0,4.74433613,3
+LBY,Libya,Africa,North,2023,57.0,33.0,123.0,90.0,Moderate,9.62,12.0,21.05,57.0,33.0,0.0,7.80515862,3
+LBY,Libya,Africa,North,2024,63.0,36.0,138.0,102.0,Moderate,10.53,12.0,19.05,,,,,2
+LSO,Lesotho,Africa,Southern,2000,827.0,443.0,1330.0,887.0,Very High,,,,,,,,1
+LSO,Lesotho,Africa,Southern,2001,923.0,454.0,1550.0,1096.0,Very High,11.61,,,,,,,1
+LSO,Lesotho,Africa,Southern,2002,1010.0,459.0,1770.0,1311.0,Very High,9.43,,,,,,,1
+LSO,Lesotho,Africa,Southern,2003,1080.0,459.0,1970.0,1511.0,Very High,6.93,,,,,,,1
+LSO,Lesotho,Africa,Southern,2004,1150.0,456.0,2150.0,1694.0,Very High,6.48,,,,,,,1
+LSO,Lesotho,Africa,Southern,2005,1200.0,453.0,2290.0,1837.0,Very High,4.35,,,,,,,1
+LSO,Lesotho,Africa,Southern,2006,1230.0,450.0,2380.0,1930.0,Very High,2.5,,,,,,,1
+LSO,Lesotho,Africa,Southern,2007,1230.0,450.0,2390.0,1940.0,Very High,0.0,,,,,,,1
+LSO,Lesotho,Africa,Southern,2008,1240.0,449.0,2420.0,1971.0,Very High,0.81,,,,,,,1
+LSO,Lesotho,Africa,Southern,2009,1230.0,450.0,2390.0,1940.0,Very High,-0.81,,,,,,,1
+LSO,Lesotho,Africa,Southern,2010,1180.0,454.0,2250.0,1796.0,Very High,-4.07,,,,,,,1
+LSO,Lesotho,Africa,Southern,2011,1120.0,457.0,2070.0,1613.0,Very High,-5.08,,,,,,,1
+LSO,Lesotho,Africa,Southern,2012,1040.0,459.0,1860.0,1401.0,Very High,-7.14,,,,,,,1
+LSO,Lesotho,Africa,Southern,2013,948.0,456.0,1620.0,1164.0,Very High,-8.85,,,,,,,1
+LSO,Lesotho,Africa,Southern,2014,853.0,447.0,1390.0,943.0,Very High,-10.02,,,70.0,20.0,0.0,,2
+LSO,Lesotho,Africa,Southern,2015,780.0,436.0,1220.0,784.0,Very High,-8.56,52.0,6.67,74.0,16.0,0.0,,3
+LSO,Lesotho,Africa,Southern,2016,721.0,423.0,1100.0,677.0,Very High,-7.56,47.0,6.52,77.0,13.0,0.0,,3
+LSO,Lesotho,Africa,Southern,2017,681.0,413.0,1010.0,597.0,Very High,-5.55,46.0,6.75,76.0,14.0,0.0,,3
+LSO,Lesotho,Africa,Southern,2018,659.0,407.0,970.0,563.0,Very High,-3.23,50.0,7.59,77.0,13.0,0.0,,3
+LSO,Lesotho,Africa,Southern,2019,654.0,406.0,959.0,553.0,Very High,-0.76,57.0,8.72,78.0,12.0,0.0,,3
+LSO,Lesotho,Africa,Southern,2020,599.0,369.0,900.0,531.0,Very High,-8.41,66.0,11.02,76.0,14.0,0.0,10.40836906,3
+LSO,Lesotho,Africa,Southern,2021,606.0,368.0,900.0,532.0,Very High,1.17,71.0,11.72,77.0,13.0,0.0,10.66165733,3
+LSO,Lesotho,Africa,Southern,2022,611.0,361.0,903.0,542.0,Very High,0.83,71.0,11.62,80.0,10.0,0.0,12.89569187,3
+LSO,Lesotho,Africa,Southern,2023,584.0,337.0,878.0,541.0,Very High,-4.42,64.0,10.96,82.0,8.0,0.0,12.61182117,3
+LSO,Lesotho,Africa,Southern,2024,548.0,304.0,837.0,533.0,Very High,-6.16,57.0,10.4,,,,,2
+MAR,Morocco,Africa,North,2000,114.0,93.0,138.0,45.0,High,,,,,,,,1
+MAR,Morocco,Africa,North,2001,110.0,90.0,133.0,43.0,High,-3.51,,,,,,,1
+MAR,Morocco,Africa,North,2002,115.0,93.0,138.0,45.0,High,4.55,,,,,,,1
+MAR,Morocco,Africa,North,2003,102.0,83.0,123.0,40.0,High,-11.3,,,,,,,1
+MAR,Morocco,Africa,North,2004,97.0,79.0,117.0,38.0,Moderate,-4.9,,,,,,,1
+MAR,Morocco,Africa,North,2005,97.0,79.0,117.0,38.0,Moderate,0.0,,,,,,,1
+MAR,Morocco,Africa,North,2006,95.0,78.0,115.0,37.0,Moderate,-2.06,,,,,,,1
+MAR,Morocco,Africa,North,2007,92.0,75.0,111.0,36.0,Moderate,-3.16,,,,,,,1
+MAR,Morocco,Africa,North,2008,96.0,78.0,115.0,37.0,Moderate,4.35,,,,,,,1
+MAR,Morocco,Africa,North,2009,96.0,78.0,116.0,38.0,Moderate,0.0,,,,,,,1
+MAR,Morocco,Africa,North,2010,98.0,80.0,118.0,38.0,Moderate,2.08,,,,,,,1
+MAR,Morocco,Africa,North,2011,98.0,80.0,118.0,38.0,Moderate,0.0,,,,,,,1
+MAR,Morocco,Africa,North,2012,97.0,79.0,116.0,37.0,Moderate,-1.02,,,,,,,1
+MAR,Morocco,Africa,North,2013,97.0,79.0,117.0,38.0,Moderate,0.0,,,,,,,1
+MAR,Morocco,Africa,North,2014,99.0,80.0,119.0,39.0,Moderate,2.06,,,86.0,4.0,0.0,,2
+MAR,Morocco,Africa,North,2015,100.0,81.0,120.0,39.0,High,1.01,7.3,7.3,88.0,2.0,0.0,,3
+MAR,Morocco,Africa,North,2016,101.0,82.0,122.0,40.0,High,1.0,7.4,7.33,87.0,3.0,0.0,,3
+MAR,Morocco,Africa,North,2017,98.0,80.0,118.0,38.0,Moderate,-2.97,7.2,7.35,88.0,2.0,0.0,,3
+MAR,Morocco,Africa,North,2018,97.0,79.0,117.0,38.0,Moderate,-1.02,7.1,7.32,88.0,2.0,0.0,,3
+MAR,Morocco,Africa,North,2019,96.0,78.0,115.0,37.0,Moderate,-1.03,7.0,7.29,89.0,1.0,0.0,,3
+MAR,Morocco,Africa,North,2020,89.0,73.0,108.0,35.0,Moderate,-7.29,6.6,7.42,88.0,2.0,0.0,5.78939486,3
+MAR,Morocco,Africa,North,2021,89.0,73.0,108.0,35.0,Moderate,0.0,6.6,7.42,87.0,3.0,0.0,5.45314503,3
+MAR,Morocco,Africa,North,2022,92.0,75.0,111.0,36.0,Moderate,3.37,6.8,7.39,87.0,3.0,0.0,5.75281,3
+MAR,Morocco,Africa,North,2023,97.0,79.0,117.0,38.0,Moderate,5.43,7.1,7.32,87.0,3.0,0.0,6.06396198,3
+MAR,Morocco,Africa,North,2024,98.0,79.0,118.0,39.0,Moderate,1.03,7.2,7.35,,,,,2
+MDG,Madagascar,Africa,East,2000,207.0,104.0,593.0,489.0,High,,,,,,,,1
+MDG,Madagascar,Africa,East,2001,215.0,110.0,587.0,477.0,High,3.86,,,,,,,1
+MDG,Madagascar,Africa,East,2002,221.0,116.0,580.0,464.0,High,2.79,,,,,,,1
+MDG,Madagascar,Africa,East,2003,226.0,121.0,573.0,452.0,High,2.26,,,,,,,1
+MDG,Madagascar,Africa,East,2004,231.0,125.0,566.0,441.0,High,2.21,,,,,,,1
+MDG,Madagascar,Africa,East,2005,234.0,128.0,559.0,431.0,High,1.3,,,,,,,1
+MDG,Madagascar,Africa,East,2006,236.0,130.0,552.0,422.0,High,0.85,,,,,,,1
+MDG,Madagascar,Africa,East,2007,236.0,131.0,545.0,414.0,High,0.0,,,,,,,1
+MDG,Madagascar,Africa,East,2008,236.0,132.0,538.0,406.0,High,0.0,,,,,,,1
+MDG,Madagascar,Africa,East,2009,235.0,132.0,530.0,398.0,High,-0.42,,,,,,,1
+MDG,Madagascar,Africa,East,2010,233.0,131.0,523.0,392.0,High,-0.85,,,,,,,1
+MDG,Madagascar,Africa,East,2011,230.0,129.0,516.0,387.0,High,-1.29,,,,,,,1
+MDG,Madagascar,Africa,East,2012,227.0,128.0,508.0,380.0,High,-1.3,,,,,,,1
+MDG,Madagascar,Africa,East,2013,225.0,128.0,494.0,366.0,High,-0.88,,,,,,,1
+MDG,Madagascar,Africa,East,2014,221.0,128.0,476.0,348.0,High,-1.78,,,83.0,7.0,0.0,,2
+MDG,Madagascar,Africa,East,2015,219.0,127.0,461.0,334.0,High,-0.9,46.0,21.0,82.0,8.0,0.0,,3
+MDG,Madagascar,Africa,East,2016,217.0,128.0,446.0,318.0,High,-0.91,47.0,21.66,84.0,6.0,0.0,,3
+MDG,Madagascar,Africa,East,2017,215.0,128.0,432.0,304.0,High,-0.92,44.0,20.47,84.0,6.0,0.0,,3
+MDG,Madagascar,Africa,East,2018,214.0,129.0,421.0,292.0,High,-0.47,42.0,19.63,83.0,7.0,0.0,,3
+MDG,Madagascar,Africa,East,2019,214.0,130.0,415.0,285.0,High,0.0,39.0,18.22,82.0,8.0,0.0,,3
+MDG,Madagascar,Africa,East,2020,214.0,131.0,411.0,280.0,High,0.0,42.0,19.63,83.0,7.0,0.0,3.72316122,3
+MDG,Madagascar,Africa,East,2021,216.0,133.0,410.0,277.0,High,0.93,38.0,17.59,83.0,7.0,0.0,3.55335546,3
+MDG,Madagascar,Africa,East,2022,218.0,134.0,412.0,278.0,High,0.93,34.0,15.6,75.0,15.0,0.0,3.14948058,3
+MDG,Madagascar,Africa,East,2023,220.0,136.0,417.0,281.0,High,0.92,34.0,15.45,82.0,8.0,0.0,3.42822957,3
+MDG,Madagascar,Africa,East,2024,224.0,138.0,424.0,286.0,High,1.82,32.0,14.29,,,,,2
+MLI,Mali,Africa,West,2000,76.0,39.0,210.0,171.0,Moderate,,,,,,,,1
+MLI,Mali,Africa,West,2001,77.0,40.0,203.0,163.0,Moderate,1.32,,,,,,,1
+MLI,Mali,Africa,West,2002,78.0,42.0,196.0,154.0,Moderate,1.3,,,,,,,1
+MLI,Mali,Africa,West,2003,79.0,43.0,190.0,147.0,Moderate,1.28,,,,,,,1
+MLI,Mali,Africa,West,2004,79.0,44.0,184.0,140.0,Moderate,0.0,,,,,,,1
+MLI,Mali,Africa,West,2005,79.0,44.0,179.0,135.0,Moderate,0.0,,,,,,,1
+MLI,Mali,Africa,West,2006,78.0,45.0,173.0,128.0,Moderate,-1.27,,,,,,,1
+MLI,Mali,Africa,West,2007,78.0,44.0,168.0,124.0,Moderate,0.0,,,,,,,1
+MLI,Mali,Africa,West,2008,76.0,44.0,163.0,119.0,Moderate,-2.56,,,,,,,1
+MLI,Mali,Africa,West,2009,75.0,43.0,158.0,115.0,Moderate,-1.32,,,,,,,1
+MLI,Mali,Africa,West,2010,73.0,42.0,153.0,111.0,Moderate,-2.67,,,,,,,1
+MLI,Mali,Africa,West,2011,70.0,41.0,149.0,108.0,Moderate,-4.11,,,,,,,1
+MLI,Mali,Africa,West,2012,68.0,40.0,144.0,104.0,Moderate,-2.86,,,,,,,1
+MLI,Mali,Africa,West,2013,66.0,39.0,139.0,100.0,Moderate,-2.94,,,,,,,1
+MLI,Mali,Africa,West,2014,64.0,38.0,133.0,95.0,Moderate,-3.03,,,73.0,17.0,0.0,,2
+MLI,Mali,Africa,West,2015,63.0,37.0,128.0,91.0,Moderate,-1.56,11.0,17.46,77.0,13.0,0.0,,3
+MLI,Mali,Africa,West,2016,61.0,37.0,124.0,87.0,Moderate,-3.17,11.0,18.03,77.0,13.0,0.0,,3
+MLI,Mali,Africa,West,2017,60.0,36.0,119.0,83.0,Moderate,-1.64,12.0,20.0,78.0,12.0,0.0,,3
+MLI,Mali,Africa,West,2018,59.0,36.0,115.0,79.0,Moderate,-1.67,11.0,18.64,80.0,10.0,0.0,,3
+MLI,Mali,Africa,West,2019,57.0,35.0,111.0,76.0,Moderate,-3.39,10.0,17.54,82.0,8.0,0.0,,3
+MLI,Mali,Africa,West,2020,56.0,34.0,108.0,74.0,Moderate,-1.75,10.0,17.86,82.0,8.0,0.0,3.50623369,3
+MLI,Mali,Africa,West,2021,54.0,33.0,104.0,71.0,Moderate,-3.57,9.5,17.59,82.0,8.0,0.0,3.54318666,3
+MLI,Mali,Africa,West,2022,53.0,33.0,102.0,69.0,Moderate,-1.85,8.4,15.85,84.0,6.0,0.0,3.72170115,3
+MLI,Mali,Africa,West,2023,52.0,32.0,99.0,67.0,Moderate,-1.89,7.9,15.19,84.0,6.0,0.0,3.81316996,3
+MLI,Mali,Africa,West,2024,51.0,31.0,97.0,66.0,Moderate,-1.92,7.3,14.31,,,,,2
+MOZ,Mozambique,Africa,Southern,2000,336.0,215.0,484.0,269.0,Very High,,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2001,338.0,216.0,486.0,270.0,Very High,0.6,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2002,339.0,216.0,488.0,272.0,Very High,0.3,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2003,339.0,216.0,490.0,274.0,Very High,0.0,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2004,341.0,217.0,492.0,275.0,Very High,0.59,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2005,342.0,217.0,496.0,279.0,Very High,0.29,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2006,345.0,218.0,500.0,282.0,Very High,0.88,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2007,348.0,219.0,506.0,287.0,Very High,0.87,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2008,351.0,220.0,512.0,292.0,Very High,0.86,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2009,354.0,221.0,518.0,297.0,Very High,0.85,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2010,357.0,222.0,524.0,302.0,Very High,0.85,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2011,359.0,222.0,529.0,307.0,Very High,0.56,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2012,361.0,223.0,532.0,309.0,Very High,0.56,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2013,361.0,223.0,532.0,309.0,Very High,0.0,,,,,,,1
+MOZ,Mozambique,Africa,Southern,2014,361.0,223.0,532.0,309.0,Very High,0.0,,,89.0,1.0,0.0,,2
+MOZ,Mozambique,Africa,Southern,2015,361.0,223.0,532.0,309.0,Very High,0.0,33.0,9.14,88.0,2.0,0.0,,3
+MOZ,Mozambique,Africa,Southern,2016,361.0,223.0,532.0,309.0,Very High,0.0,29.0,8.03,90.0,0.0,1.0,,3
+MOZ,Mozambique,Africa,Southern,2017,361.0,223.0,532.0,309.0,Very High,0.0,22.0,6.09,90.0,0.0,1.0,,3
+MOZ,Mozambique,Africa,Southern,2018,361.0,223.0,532.0,309.0,Very High,0.0,19.0,5.26,93.0,0.0,1.0,,3
+MOZ,Mozambique,Africa,Southern,2019,361.0,223.0,532.0,309.0,Very High,0.0,19.0,5.26,94.0,0.0,1.0,,3
+MOZ,Mozambique,Africa,Southern,2020,361.0,220.0,537.0,317.0,Very High,0.0,22.0,6.09,94.0,0.0,1.0,7.55190039,3
+MOZ,Mozambique,Africa,Southern,2021,361.0,220.0,537.0,317.0,Very High,0.0,24.0,6.65,94.0,0.0,1.0,8.64841366,3
+MOZ,Mozambique,Africa,Southern,2022,361.0,220.0,537.0,317.0,Very High,0.0,15.0,4.16,95.0,0.0,1.0,8.24868107,3
+MOZ,Mozambique,Africa,Southern,2023,361.0,220.0,537.0,317.0,Very High,0.0,13.0,3.6,95.0,0.0,1.0,8.50126553,3
+MOZ,Mozambique,Africa,Southern,2024,361.0,220.0,537.0,317.0,Very High,0.0,24.0,6.65,,,,,2
+MRT,Mauritania,Africa,West,2000,229.0,118.0,613.0,495.0,High,,,,,,,,1
+MRT,Mauritania,Africa,West,2001,224.0,118.0,576.0,458.0,High,-2.18,,,,,,,1
+MRT,Mauritania,Africa,West,2002,217.0,117.0,541.0,424.0,High,-3.12,,,,,,,1
+MRT,Mauritania,Africa,West,2003,210.0,115.0,507.0,392.0,High,-3.23,,,,,,,1
+MRT,Mauritania,Africa,West,2004,203.0,112.0,475.0,363.0,High,-3.33,,,,,,,1
+MRT,Mauritania,Africa,West,2005,195.0,109.0,444.0,335.0,High,-3.94,,,,,,,1
+MRT,Mauritania,Africa,West,2006,186.0,105.0,415.0,310.0,High,-4.62,,,,,,,1
+MRT,Mauritania,Africa,West,2007,176.0,100.0,386.0,286.0,High,-5.38,,,,,,,1
+MRT,Mauritania,Africa,West,2008,165.0,95.0,359.0,264.0,High,-6.25,,,,,,,1
+MRT,Mauritania,Africa,West,2009,155.0,89.0,333.0,244.0,High,-6.06,,,,,,,1
+MRT,Mauritania,Africa,West,2010,145.0,84.0,310.0,226.0,High,-6.45,,,,,,,1
+MRT,Mauritania,Africa,West,2011,134.0,77.0,290.0,213.0,High,-7.59,,,,,,,1
+MRT,Mauritania,Africa,West,2012,125.0,72.0,270.0,198.0,High,-6.72,,,,,,,1
+MRT,Mauritania,Africa,West,2013,118.0,68.0,252.0,184.0,High,-5.6,,,,,,,1
+MRT,Mauritania,Africa,West,2014,112.0,65.0,236.0,171.0,High,-5.08,,,70.0,20.0,0.0,,2
+MRT,Mauritania,Africa,West,2015,107.0,63.0,221.0,158.0,High,-4.46,23.0,21.5,71.0,19.0,0.0,,3
+MRT,Mauritania,Africa,West,2016,102.0,60.0,207.0,147.0,High,-4.67,20.0,19.61,70.0,20.0,0.0,,3
+MRT,Mauritania,Africa,West,2017,98.0,59.0,195.0,136.0,Moderate,-3.92,18.0,18.37,77.0,13.0,0.0,,3
+MRT,Mauritania,Africa,West,2018,94.0,57.0,184.0,127.0,Moderate,-4.08,17.0,18.09,81.0,9.0,0.0,,3
+MRT,Mauritania,Africa,West,2019,89.0,54.0,172.0,118.0,Moderate,-5.32,15.0,16.85,81.0,9.0,0.0,,3
+MRT,Mauritania,Africa,West,2020,84.0,51.0,161.0,110.0,Moderate,-5.62,15.0,17.86,75.0,15.0,0.0,3.00147843,3
+MRT,Mauritania,Africa,West,2021,79.0,49.0,151.0,102.0,Moderate,-5.95,13.0,16.46,83.0,7.0,0.0,3.78022528,3
+MRT,Mauritania,Africa,West,2022,75.0,46.0,142.0,96.0,Moderate,-5.06,12.0,16.0,84.0,6.0,0.0,4.66962671,3
+MRT,Mauritania,Africa,West,2023,70.0,43.0,133.0,90.0,Moderate,-6.67,10.0,14.29,,,,4.34333467,2
+MRT,Mauritania,Africa,West,2024,65.0,40.0,125.0,85.0,Moderate,-7.14,9.6,14.77,,,,,2
+MUS,Mauritius,Africa,East,2000,32.0,26.0,38.0,12.0,Moderate,,,,,,,,1
+MUS,Mauritius,Africa,East,2001,24.0,19.0,29.0,10.0,Moderate,-25.0,,,,,,,1
+MUS,Mauritius,Africa,East,2002,26.0,21.0,32.0,11.0,Moderate,8.33,,,,,,,1
+MUS,Mauritius,Africa,East,2003,25.0,20.0,30.0,10.0,Moderate,-3.85,,,,,,,1
+MUS,Mauritius,Africa,East,2004,24.0,20.0,29.0,9.0,Moderate,-4.0,,,,,,,1
+MUS,Mauritius,Africa,East,2005,22.0,18.0,26.0,8.0,Moderate,-8.33,,,,,,,1
+MUS,Mauritius,Africa,East,2006,19.0,16.0,23.0,7.0,Moderate,-13.64,,,,,,,1
+MUS,Mauritius,Africa,East,2007,17.0,14.0,21.0,7.0,Moderate,-10.53,,,,,,,1
+MUS,Mauritius,Africa,East,2008,17.0,14.0,20.0,6.0,Moderate,0.0,,,,,,,1
+MUS,Mauritius,Africa,East,2009,17.0,14.0,21.0,7.0,Moderate,0.0,,,,,,,1
+MUS,Mauritius,Africa,East,2010,18.0,15.0,22.0,7.0,Moderate,5.88,,,,,,,1
+MUS,Mauritius,Africa,East,2011,16.0,13.0,19.0,6.0,Moderate,-11.11,,,,,,,1
+MUS,Mauritius,Africa,East,2012,17.0,14.0,21.0,7.0,Moderate,6.25,,,,,,,1
+MUS,Mauritius,Africa,East,2013,17.0,14.0,20.0,6.0,Moderate,0.0,,,,,,,1
+MUS,Mauritius,Africa,East,2014,16.0,13.0,19.0,6.0,Moderate,-5.88,,,90.0,0.0,1.0,,2
+MUS,Mauritius,Africa,East,2015,16.0,13.0,19.0,6.0,Moderate,0.0,1.2,7.5,91.0,0.0,1.0,,3
+MUS,Mauritius,Africa,East,2016,15.0,12.0,18.0,6.0,Moderate,-6.25,1.4,9.33,89.0,1.0,0.0,,3
+MUS,Mauritius,Africa,East,2017,14.0,11.0,17.0,6.0,Moderate,-6.67,1.7,12.14,88.0,2.0,0.0,,3
+MUS,Mauritius,Africa,East,2018,16.0,13.0,19.0,6.0,Moderate,14.29,1.3,8.12,81.0,9.0,0.0,,3
+MUS,Mauritius,Africa,East,2019,14.0,12.0,17.0,5.0,Moderate,-12.5,1.3,9.29,79.0,11.0,0.0,,3
+MUS,Mauritius,Africa,East,2020,12.0,9.9,15.0,5.1,Moderate,-14.29,0.71,5.92,83.0,7.0,0.0,6.09606028,3
+MUS,Mauritius,Africa,East,2021,11.0,8.9,13.0,4.1,Moderate,-8.33,0.85,7.73,81.0,9.0,0.0,6.6160841,3
+MUS,Mauritius,Africa,East,2022,15.0,12.0,17.0,5.0,Moderate,36.36,1.5,10.0,66.0,24.0,0.0,5.84209728,3
+MUS,Mauritius,Africa,East,2023,12.0,10.0,15.0,5.0,Moderate,-20.0,1.2,10.0,65.0,25.0,0.0,5.56544495,3
+MUS,Mauritius,Africa,East,2024,13.0,10.0,15.0,5.0,Moderate,8.33,1.2,9.23,,,,,2
+MWI,Malawi,Africa,Southern,2000,386.0,43.0,1100.0,1057.0,Very High,,,,,,,,1
+MWI,Malawi,Africa,Southern,2001,395.0,40.0,1140.0,1100.0,Very High,2.33,,,,,,,1
+MWI,Malawi,Africa,Southern,2002,401.0,39.0,1170.0,1131.0,Very High,1.52,,,,,,,1
+MWI,Malawi,Africa,Southern,2003,403.0,38.0,1190.0,1152.0,Very High,0.5,,,,,,,1
+MWI,Malawi,Africa,Southern,2004,402.0,39.0,1180.0,1141.0,Very High,-0.25,,,,,,,1
+MWI,Malawi,Africa,Southern,2005,398.0,40.0,1160.0,1120.0,Very High,-1.0,,,,,,,1
+MWI,Malawi,Africa,Southern,2006,392.0,41.0,1130.0,1089.0,Very High,-1.51,,,,,,,1
+MWI,Malawi,Africa,Southern,2007,383.0,43.0,1080.0,1037.0,Very High,-2.3,,,,,,,1
+MWI,Malawi,Africa,Southern,2008,371.0,47.0,1020.0,973.0,Very High,-3.13,,,,,,,1
+MWI,Malawi,Africa,Southern,2009,356.0,50.0,952.0,902.0,Very High,-4.04,,,,,,,1
+MWI,Malawi,Africa,Southern,2010,338.0,55.0,870.0,815.0,Very High,-5.06,,,,,,,1
+MWI,Malawi,Africa,Southern,2011,316.0,61.0,777.0,716.0,Very High,-6.51,,,,,,,1
+MWI,Malawi,Africa,Southern,2012,291.0,67.0,675.0,608.0,High,-7.91,,,,,,,1
+MWI,Malawi,Africa,Southern,2013,261.0,73.0,567.0,494.0,High,-10.31,,,,,,,1
+MWI,Malawi,Africa,Southern,2014,228.0,78.0,455.0,377.0,High,-12.64,,,85.0,5.0,0.0,,2
+MWI,Malawi,Africa,Southern,2015,197.0,81.0,364.0,283.0,High,-13.6,22.0,11.17,81.0,9.0,0.0,,3
+MWI,Malawi,Africa,Southern,2016,176.0,81.0,307.0,226.0,High,-10.66,19.0,10.8,82.0,8.0,0.0,,3
+MWI,Malawi,Africa,Southern,2017,162.0,80.0,272.0,192.0,High,-7.95,16.0,9.88,86.0,4.0,0.0,,3
+MWI,Malawi,Africa,Southern,2018,153.0,79.0,250.0,171.0,High,-5.56,16.0,10.46,88.0,2.0,0.0,,3
+MWI,Malawi,Africa,Southern,2019,146.0,78.0,235.0,157.0,High,-4.58,14.0,9.59,88.0,2.0,0.0,,3
+MWI,Malawi,Africa,Southern,2020,138.0,73.0,225.0,152.0,High,-5.48,16.0,11.59,90.0,0.0,1.0,7.03859568,3
+MWI,Malawi,Africa,Southern,2021,132.0,67.0,218.0,151.0,High,-4.35,15.0,11.36,90.0,0.0,1.0,7.5164628,3
+MWI,Malawi,Africa,Southern,2022,125.0,61.0,212.0,151.0,High,-5.3,9.6,7.68,90.0,0.0,1.0,6.62527609,3
+MWI,Malawi,Africa,Southern,2023,119.0,55.0,206.0,151.0,High,-4.8,8.1,6.81,91.0,0.0,1.0,6.53459597,3
+MWI,Malawi,Africa,Southern,2024,113.0,52.0,196.0,144.0,High,-5.04,8.6,7.61,,,,,2
+NAM,Namibia,Africa,Southern,2000,985.0,469.0,1690.0,1221.0,Very High,,,,,,,,1
+NAM,Namibia,Africa,Southern,2001,1100.0,471.0,1990.0,1519.0,Very High,11.68,,,,,,,1
+NAM,Namibia,Africa,Southern,2002,1190.0,468.0,2230.0,1762.0,Very High,8.18,,,,,,,1
+NAM,Namibia,Africa,Southern,2003,1240.0,464.0,2380.0,1916.0,Very High,4.2,,,,,,,1
+NAM,Namibia,Africa,Southern,2004,1260.0,462.0,2440.0,1978.0,Very High,1.61,,,,,,,1
+NAM,Namibia,Africa,Southern,2005,1250.0,463.0,2410.0,1947.0,Very High,-0.79,,,,,,,1
+NAM,Namibia,Africa,Southern,2006,1210.0,466.0,2300.0,1834.0,Very High,-3.2,,,,,,,1
+NAM,Namibia,Africa,Southern,2007,1140.0,470.0,2110.0,1640.0,Very High,-5.79,,,,,,,1
+NAM,Namibia,Africa,Southern,2008,1060.0,471.0,1880.0,1409.0,Very High,-7.02,,,,,,,1
+NAM,Namibia,Africa,Southern,2009,974.0,468.0,1660.0,1192.0,Very High,-8.11,,,,,,,1
+NAM,Namibia,Africa,Southern,2010,892.0,461.0,1460.0,999.0,Very High,-8.42,,,,,,,1
+NAM,Namibia,Africa,Southern,2011,815.0,450.0,1290.0,840.0,Very High,-8.63,,,,,,,1
+NAM,Namibia,Africa,Southern,2012,754.0,438.0,1150.0,712.0,Very High,-7.48,,,,,,,1
+NAM,Namibia,Africa,Southern,2013,710.0,427.0,1060.0,633.0,Very High,-5.84,,,,,,,1
+NAM,Namibia,Africa,Southern,2014,674.0,417.0,991.0,574.0,Very High,-5.07,,,87.0,3.0,0.0,,2
+NAM,Namibia,Africa,Southern,2015,639.0,407.0,922.0,515.0,Very High,-5.19,65.0,10.17,83.0,7.0,0.0,,3
+NAM,Namibia,Africa,Southern,2016,604.0,395.0,856.0,461.0,Very High,-5.48,68.0,11.26,84.0,6.0,0.0,,3
+NAM,Namibia,Africa,Southern,2017,565.0,381.0,784.0,403.0,Very High,-6.46,64.0,11.33,86.0,4.0,0.0,,3
+NAM,Namibia,Africa,Southern,2018,524.0,365.0,712.0,347.0,Very High,-7.26,64.0,12.21,86.0,4.0,0.0,,3
+NAM,Namibia,Africa,Southern,2019,486.0,348.0,647.0,299.0,Very High,-7.25,57.0,11.73,87.0,3.0,0.0,,3
+NAM,Namibia,Africa,Southern,2020,450.0,315.0,611.0,296.0,Very High,-7.41,61.0,13.56,88.0,2.0,0.0,9.56060219,3
+NAM,Namibia,Africa,Southern,2021,441.0,296.0,604.0,308.0,Very High,-2.0,60.0,13.61,87.0,3.0,0.0,10.19644737,3
+NAM,Namibia,Africa,Southern,2022,441.0,281.0,612.0,331.0,Very High,0.0,59.0,13.38,88.0,2.0,0.0,9.6219883,3
+NAM,Namibia,Africa,Southern,2023,432.0,257.0,607.0,350.0,Very High,-2.04,56.0,12.96,88.0,2.0,0.0,9.48251629,3
+NAM,Namibia,Africa,Southern,2024,422.0,236.0,600.0,364.0,Very High,-2.31,54.0,12.8,,,,,2
+NER,Niger,Africa,West,2000,83.0,41.0,246.0,205.0,Moderate,,,,,,,,1
+NER,Niger,Africa,West,2001,94.0,48.0,261.0,213.0,Moderate,13.25,,,,,,,1
+NER,Niger,Africa,West,2002,103.0,54.0,273.0,219.0,High,9.57,,,,,,,1
+NER,Niger,Africa,West,2003,112.0,60.0,282.0,222.0,High,8.74,,,,,,,1
+NER,Niger,Africa,West,2004,118.0,64.0,289.0,225.0,High,5.36,,,,,,,1
+NER,Niger,Africa,West,2005,123.0,68.0,293.0,225.0,High,4.24,,,,,,,1
+NER,Niger,Africa,West,2006,127.0,70.0,295.0,225.0,High,3.25,,,,,,,1
+NER,Niger,Africa,West,2007,129.0,72.0,294.0,222.0,High,1.57,,,,,,,1
+NER,Niger,Africa,West,2008,130.0,73.0,290.0,217.0,High,0.78,,,,,,,1
+NER,Niger,Africa,West,2009,129.0,73.0,284.0,211.0,High,-0.77,,,,,,,1
+NER,Niger,Africa,West,2010,126.0,72.0,276.0,204.0,High,-2.33,,,,,,,1
+NER,Niger,Africa,West,2011,122.0,70.0,266.0,196.0,High,-3.17,,,,,,,1
+NER,Niger,Africa,West,2012,117.0,67.0,254.0,187.0,High,-4.1,,,,,,,1
+NER,Niger,Africa,West,2013,111.0,64.0,239.0,175.0,High,-5.13,,,,,,,1
+NER,Niger,Africa,West,2014,104.0,61.0,221.0,160.0,High,-6.31,,,79.0,11.0,0.0,,2
+NER,Niger,Africa,West,2015,98.0,58.0,205.0,147.0,Moderate,-5.77,20.0,20.41,80.0,10.0,0.0,,3
+NER,Niger,Africa,West,2016,93.0,55.0,190.0,135.0,Moderate,-5.1,20.0,21.51,81.0,9.0,0.0,,3
+NER,Niger,Africa,West,2017,88.0,53.0,176.0,123.0,Moderate,-5.38,18.0,20.45,82.0,8.0,0.0,,3
+NER,Niger,Africa,West,2018,84.0,51.0,166.0,115.0,Moderate,-4.55,16.0,19.05,83.0,7.0,0.0,,3
+NER,Niger,Africa,West,2019,82.0,50.0,159.0,109.0,Moderate,-2.38,15.0,18.29,83.0,7.0,0.0,,3
+NER,Niger,Africa,West,2020,81.0,49.0,155.0,106.0,Moderate,-1.22,15.0,18.52,84.0,6.0,0.0,6.17012262,3
+NER,Niger,Africa,West,2021,80.0,50.0,153.0,103.0,Moderate,-1.23,13.0,16.25,86.0,4.0,0.0,5.81452751,3
+NER,Niger,Africa,West,2022,81.0,50.0,154.0,104.0,Moderate,1.25,12.0,14.81,86.0,4.0,0.0,4.34980488,3
+NER,Niger,Africa,West,2023,83.0,51.0,158.0,107.0,Moderate,2.47,12.0,14.46,88.0,2.0,0.0,4.04895782,3
+NER,Niger,Africa,West,2024,86.0,53.0,164.0,111.0,Moderate,3.61,12.0,13.95,,,,,2
+NGA,Nigeria,Africa,West,2000,219.0,143.0,311.0,168.0,High,,,,,,,,1
+NGA,Nigeria,Africa,West,2001,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2002,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2003,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2004,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2005,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2006,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2007,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2008,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2009,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2010,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2011,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2012,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2013,219.0,143.0,311.0,168.0,High,0.0,,,,,,,1
+NGA,Nigeria,Africa,West,2014,219.0,143.0,311.0,168.0,High,0.0,,,87.0,3.0,0.0,,2
+NGA,Nigeria,Africa,West,2015,219.0,143.0,311.0,168.0,High,0.0,62.0,28.31,84.0,6.0,0.0,,3
+NGA,Nigeria,Africa,West,2016,219.0,143.0,311.0,168.0,High,0.0,62.0,28.31,86.0,4.0,0.0,,3
+NGA,Nigeria,Africa,West,2017,219.0,143.0,311.0,168.0,High,0.0,63.0,28.77,86.0,4.0,0.0,,3
+NGA,Nigeria,Africa,West,2018,219.0,143.0,311.0,168.0,High,0.0,64.0,29.22,87.0,3.0,0.0,,3
+NGA,Nigeria,Africa,West,2019,219.0,143.0,311.0,168.0,High,0.0,63.0,28.77,88.0,2.0,0.0,,3
+NGA,Nigeria,Africa,West,2020,219.0,143.0,311.0,168.0,High,0.0,64.0,29.22,90.0,0.0,1.0,3.38063431,3
+NGA,Nigeria,Africa,West,2021,219.0,143.0,311.0,168.0,High,0.0,53.0,24.2,91.0,0.0,1.0,4.07625723,3
+NGA,Nigeria,Africa,West,2022,219.0,143.0,311.0,168.0,High,0.0,41.0,18.72,93.0,0.0,1.0,4.21020174,3
+NGA,Nigeria,Africa,West,2023,219.0,143.0,311.0,168.0,High,0.0,28.0,12.79,94.0,0.0,1.0,4.19086456,3
+NGA,Nigeria,Africa,West,2024,219.0,143.0,311.0,168.0,High,0.0,24.0,10.96,,,,,2
+RWA,Rwanda,Africa,East,2000,238.0,209.0,269.0,60.0,High,,,,,,,,1
+RWA,Rwanda,Africa,East,2001,215.0,186.0,245.0,59.0,High,-9.66,,,,,,,1
+RWA,Rwanda,Africa,East,2002,193.0,165.0,223.0,58.0,High,-10.23,,,,,,,1
+RWA,Rwanda,Africa,East,2003,173.0,146.0,202.0,56.0,High,-10.36,,,,,,,1
+RWA,Rwanda,Africa,East,2004,155.0,128.0,184.0,56.0,High,-10.4,,,,,,,1
+RWA,Rwanda,Africa,East,2005,138.0,112.0,166.0,54.0,High,-10.97,,,,,,,1
+RWA,Rwanda,Africa,East,2006,123.0,98.0,151.0,53.0,High,-10.87,,,,,,,1
+RWA,Rwanda,Africa,East,2007,110.0,86.0,138.0,52.0,High,-10.57,,,,,,,1
+RWA,Rwanda,Africa,East,2008,99.0,76.0,126.0,50.0,Moderate,-10.0,,,,,,,1
+RWA,Rwanda,Africa,East,2009,90.0,67.0,116.0,49.0,Moderate,-9.09,,,,,,,1
+RWA,Rwanda,Africa,East,2010,82.0,60.0,108.0,48.0,Moderate,-8.89,,,,,,,1
+RWA,Rwanda,Africa,East,2011,76.0,55.0,101.0,46.0,Moderate,-7.32,,,,,,,1
+RWA,Rwanda,Africa,East,2012,72.0,51.0,97.0,46.0,Moderate,-5.26,,,,,,,1
+RWA,Rwanda,Africa,East,2013,70.0,49.0,94.0,45.0,Moderate,-2.78,,,,,,,1
+RWA,Rwanda,Africa,East,2014,68.0,47.0,92.0,45.0,Moderate,-2.86,,,86.0,4.0,0.0,,2
+RWA,Rwanda,Africa,East,2015,66.0,46.0,90.0,44.0,Moderate,-2.94,4.9,7.42,87.0,3.0,0.0,,3
+RWA,Rwanda,Africa,East,2016,65.0,46.0,89.0,43.0,Moderate,-1.52,5.4,8.31,86.0,4.0,0.0,,3
+RWA,Rwanda,Africa,East,2017,65.0,45.0,88.0,43.0,Moderate,0.0,5.0,7.69,86.0,4.0,0.0,,3
+RWA,Rwanda,Africa,East,2018,64.0,45.0,87.0,42.0,Moderate,-1.54,5.2,8.12,86.0,4.0,0.0,,3
+RWA,Rwanda,Africa,East,2019,63.0,44.0,86.0,42.0,Moderate,-1.56,4.9,7.78,87.0,3.0,0.0,,3
+RWA,Rwanda,Africa,East,2020,63.0,44.0,85.0,41.0,Moderate,0.0,6.1,9.68,89.0,1.0,0.0,5.79862261,3
+RWA,Rwanda,Africa,East,2021,63.0,44.0,85.0,41.0,Moderate,0.0,7.2,11.43,87.0,3.0,0.0,6.23147202,3
+RWA,Rwanda,Africa,East,2022,62.0,44.0,84.0,40.0,Moderate,-1.59,3.0,4.84,89.0,1.0,0.0,5.92842579,3
+RWA,Rwanda,Africa,East,2023,62.0,44.0,83.0,39.0,Moderate,0.0,1.8,2.9,90.0,0.0,1.0,5.12708998,3
+RWA,Rwanda,Africa,East,2024,62.0,44.0,83.0,39.0,Moderate,0.0,2.4,3.87,,,,,2
+SDN,Sudan,Africa,North,2000,148.0,28.0,367.0,339.0,High,,,,,,,,1
+SDN,Sudan,Africa,North,2001,139.0,30.0,331.0,301.0,High,-6.08,,,,,,,1
+SDN,Sudan,Africa,North,2002,139.0,30.0,328.0,298.0,High,0.0,,,,,,,1
+SDN,Sudan,Africa,North,2003,138.0,30.0,325.0,295.0,High,-0.72,,,,,,,1
+SDN,Sudan,Africa,North,2004,142.0,29.0,341.0,312.0,High,2.9,,,,,,,1
+SDN,Sudan,Africa,North,2005,143.0,29.0,346.0,317.0,High,0.7,,,,,,,1
+SDN,Sudan,Africa,North,2006,146.0,28.0,359.0,331.0,High,2.1,,,,,,,1
+SDN,Sudan,Africa,North,2007,144.0,29.0,349.0,320.0,High,-1.37,,,,,,,1
+SDN,Sudan,Africa,North,2008,116.0,35.0,245.0,210.0,High,-19.44,,,,,,,1
+SDN,Sudan,Africa,North,2009,121.0,34.0,263.0,229.0,High,4.31,,,,,,,1
+SDN,Sudan,Africa,North,2010,119.0,34.0,254.0,220.0,High,-1.65,,,,,,,1
+SDN,Sudan,Africa,North,2011,105.0,37.0,208.0,171.0,High,-11.76,,,,,,,1
+SDN,Sudan,Africa,North,2012,103.0,38.0,202.0,164.0,High,-1.9,,,,,,,1
+SDN,Sudan,Africa,North,2013,100.0,38.0,190.0,152.0,High,-2.91,,,,,,,1
+SDN,Sudan,Africa,North,2014,94.0,38.0,173.0,135.0,Moderate,-6.0,,,82.0,8.0,0.0,,2
+SDN,Sudan,Africa,North,2015,88.0,44.0,147.0,103.0,Moderate,-6.38,18.0,20.45,79.0,11.0,0.0,,3
+SDN,Sudan,Africa,North,2016,82.0,49.0,123.0,74.0,Moderate,-6.82,14.0,17.07,78.0,12.0,0.0,,3
+SDN,Sudan,Africa,North,2017,77.0,50.0,109.0,59.0,Moderate,-6.1,13.0,16.88,80.0,10.0,0.0,,3
+SDN,Sudan,Africa,North,2018,71.0,48.0,100.0,52.0,Moderate,-7.79,11.0,15.49,84.0,6.0,0.0,,3
+SDN,Sudan,Africa,North,2019,67.0,46.0,91.0,45.0,Moderate,-5.63,9.9,14.78,83.0,7.0,0.0,,3
+SDN,Sudan,Africa,North,2020,62.0,42.0,86.0,44.0,Moderate,-7.46,12.0,19.35,86.0,4.0,0.0,3.04323435,3
+SDN,Sudan,Africa,North,2021,58.0,38.0,82.0,44.0,Moderate,-6.45,9.5,16.38,88.0,2.0,0.0,2.9669323,3
+SDN,Sudan,Africa,North,2022,54.0,35.0,78.0,43.0,Moderate,-6.9,7.4,13.7,66.0,24.0,0.0,3.79416442,3
+SDN,Sudan,Africa,North,2023,50.0,31.0,75.0,44.0,Moderate,-7.41,11.0,22.0,62.0,28.0,0.0,2.85165739,3
+SDN,Sudan,Africa,North,2024,47.0,29.0,70.0,41.0,Moderate,-6.0,8.6,18.3,,,,,2
+SEN,Senegal,Africa,West,2000,173.0,89.0,465.0,376.0,High,,,,,,,,1
+SEN,Senegal,Africa,West,2001,177.0,93.0,455.0,362.0,High,2.31,,,,,,,1
+SEN,Senegal,Africa,West,2002,180.0,97.0,445.0,348.0,High,1.69,,,,,,,1
+SEN,Senegal,Africa,West,2003,182.0,100.0,435.0,335.0,High,1.11,,,,,,,1
+SEN,Senegal,Africa,West,2004,184.0,102.0,425.0,323.0,High,1.1,,,,,,,1
+SEN,Senegal,Africa,West,2005,185.0,104.0,416.0,312.0,High,0.54,,,,,,,1
+SEN,Senegal,Africa,West,2006,185.0,105.0,407.0,302.0,High,0.0,,,,,,,1
+SEN,Senegal,Africa,West,2007,185.0,106.0,398.0,292.0,High,0.0,,,,,,,1
+SEN,Senegal,Africa,West,2008,184.0,106.0,390.0,284.0,High,-0.54,,,,,,,1
+SEN,Senegal,Africa,West,2009,182.0,106.0,382.0,276.0,High,-1.09,,,,,,,1
+SEN,Senegal,Africa,West,2010,181.0,106.0,377.0,271.0,High,-0.55,,,,,,,1
+SEN,Senegal,Africa,West,2011,179.0,105.0,373.0,268.0,High,-1.1,,,,,,,1
+SEN,Senegal,Africa,West,2012,177.0,104.0,366.0,262.0,High,-1.12,,,,,,,1
+SEN,Senegal,Africa,West,2013,174.0,102.0,356.0,254.0,High,-1.69,,,,,,,1
+SEN,Senegal,Africa,West,2014,170.0,101.0,344.0,243.0,High,-2.3,,,87.0,3.0,0.0,,2
+SEN,Senegal,Africa,West,2015,165.0,99.0,331.0,232.0,High,-2.94,32.0,19.39,86.0,4.0,0.0,,3
+SEN,Senegal,Africa,West,2016,159.0,96.0,315.0,219.0,High,-3.64,32.0,20.13,86.0,4.0,0.0,,3
+SEN,Senegal,Africa,West,2017,152.0,92.0,298.0,206.0,High,-4.4,29.0,19.08,87.0,3.0,0.0,,3
+SEN,Senegal,Africa,West,2018,147.0,90.0,284.0,194.0,High,-3.29,28.0,19.05,89.0,1.0,0.0,,3
+SEN,Senegal,Africa,West,2019,143.0,87.0,274.0,187.0,High,-2.72,27.0,18.88,91.0,0.0,1.0,,3
+SEN,Senegal,Africa,West,2020,139.0,85.0,266.0,181.0,High,-2.8,28.0,20.14,89.0,1.0,0.0,5.15119171,3
+SEN,Senegal,Africa,West,2021,136.0,83.0,260.0,177.0,High,-2.16,26.0,19.12,81.0,9.0,0.0,4.44256258,3
+SEN,Senegal,Africa,West,2022,134.0,82.0,257.0,175.0,High,-1.47,24.0,17.91,90.0,0.0,1.0,4.0444808,3
+SEN,Senegal,Africa,West,2023,133.0,81.0,256.0,175.0,High,-0.75,19.0,14.29,89.0,1.0,0.0,4.32314825,3
+SEN,Senegal,Africa,West,2024,132.0,80.0,258.0,178.0,High,-0.75,20.0,15.15,,,,,2
+SLE,Sierra Leone,Africa,West,2000,604.0,370.0,1160.0,790.0,Very High,,,,,,,,1
+SLE,Sierra Leone,Africa,West,2001,592.0,363.0,1140.0,777.0,Very High,-1.99,,,,,,,1
+SLE,Sierra Leone,Africa,West,2002,580.0,355.0,1120.0,765.0,Very High,-2.03,,,,,,,1
+SLE,Sierra Leone,Africa,West,2003,569.0,348.0,1090.0,742.0,Very High,-1.9,,,,,,,1
+SLE,Sierra Leone,Africa,West,2004,557.0,341.0,1070.0,729.0,Very High,-2.11,,,,,,,1
+SLE,Sierra Leone,Africa,West,2005,546.0,334.0,1050.0,716.0,Very High,-1.97,,,,,,,1
+SLE,Sierra Leone,Africa,West,2006,535.0,328.0,1030.0,702.0,Very High,-2.01,,,,,,,1
+SLE,Sierra Leone,Africa,West,2007,525.0,321.0,1010.0,689.0,Very High,-1.87,,,,,,,1
+SLE,Sierra Leone,Africa,West,2008,514.0,315.0,990.0,675.0,Very High,-2.1,,,,,,,1
+SLE,Sierra Leone,Africa,West,2009,504.0,308.0,970.0,662.0,Very High,-1.95,,,,,,,1
+SLE,Sierra Leone,Africa,West,2010,494.0,302.0,951.0,649.0,Very High,-1.98,,,,,,,1
+SLE,Sierra Leone,Africa,West,2011,484.0,296.0,932.0,636.0,Very High,-2.02,,,,,,,1
+SLE,Sierra Leone,Africa,West,2012,474.0,290.0,913.0,623.0,Very High,-2.07,,,,,,,1
+SLE,Sierra Leone,Africa,West,2013,465.0,285.0,895.0,610.0,Very High,-1.9,,,,,,,1
+SLE,Sierra Leone,Africa,West,2014,455.0,279.0,877.0,598.0,Very High,-2.15,,,85.0,5.0,0.0,,2
+SLE,Sierra Leone,Africa,West,2015,446.0,273.0,859.0,586.0,Very High,-1.98,107.0,23.99,88.0,2.0,0.0,,3
+SLE,Sierra Leone,Africa,West,2016,437.0,268.0,842.0,574.0,Very High,-2.02,94.0,21.51,89.0,1.0,0.0,,3
+SLE,Sierra Leone,Africa,West,2017,429.0,262.0,825.0,563.0,Very High,-1.83,86.0,20.05,90.0,0.0,1.0,,3
+SLE,Sierra Leone,Africa,West,2018,420.0,257.0,809.0,552.0,Very High,-2.1,78.0,18.57,89.0,1.0,0.0,,3
+SLE,Sierra Leone,Africa,West,2019,412.0,252.0,793.0,541.0,Very High,-1.9,74.0,17.96,88.0,2.0,0.0,,3
+SLE,Sierra Leone,Africa,West,2020,403.0,247.0,777.0,530.0,Very High,-2.18,81.0,20.1,89.0,1.0,0.0,5.66489744,3
+SLE,Sierra Leone,Africa,West,2021,395.0,242.0,761.0,519.0,Very High,-1.99,71.0,17.97,91.0,0.0,1.0,5.07244635,3
+SLE,Sierra Leone,Africa,West,2022,388.0,237.0,746.0,509.0,Very High,-1.77,64.0,16.49,92.0,0.0,1.0,4.80377436,3
+SLE,Sierra Leone,Africa,West,2023,380.0,233.0,731.0,498.0,Very High,-2.06,52.0,13.68,92.0,0.0,1.0,4.71883011,3
+SLE,Sierra Leone,Africa,West,2024,372.0,228.0,717.0,489.0,Very High,-2.11,48.0,12.9,,,,,2
+SOM,Somalia,Africa,East,2000,352.0,92.0,14000.0,13908.0,Very High,,,,,,,,1
+SOM,Somalia,Africa,East,2001,354.0,108.0,10500.0,10392.0,Very High,0.57,,,,,,,1
+SOM,Somalia,Africa,East,2002,351.0,121.0,7560.0,7439.0,Very High,-0.85,,,,,,,1
+SOM,Somalia,Africa,East,2003,345.0,131.0,5100.0,4969.0,Very High,-1.71,,,,,,,1
+SOM,Somalia,Africa,East,2004,336.0,138.0,3170.0,3032.0,Very High,-2.61,,,,,,,1
+SOM,Somalia,Africa,East,2005,323.0,141.0,1740.0,1599.0,Very High,-3.87,,,,,,,1
+SOM,Somalia,Africa,East,2006,308.0,143.0,669.0,526.0,Very High,-4.64,,,,,,,1
+SOM,Somalia,Africa,East,2007,287.0,140.0,542.0,402.0,High,-6.82,,,,,,,1
+SOM,Somalia,Africa,East,2008,261.0,132.0,415.0,283.0,High,-9.06,,,,,,,1
+SOM,Somalia,Africa,East,2009,238.0,126.0,519.0,393.0,High,-8.81,,,,,,,1
+SOM,Somalia,Africa,East,2010,220.0,120.0,434.0,314.0,High,-7.56,,,,,,,1
+SOM,Somalia,Africa,East,2011,204.0,113.0,431.0,318.0,High,-7.27,,,,,,,1
+SOM,Somalia,Africa,East,2012,192.0,109.0,418.0,309.0,High,-5.88,,,,,,,1
+SOM,Somalia,Africa,East,2013,187.0,108.0,393.0,285.0,High,-2.6,,,,,,,1
+SOM,Somalia,Africa,East,2014,188.0,110.0,391.0,281.0,High,0.53,,,86.0,4.0,0.0,,2
+SOM,Somalia,Africa,East,2015,187.0,110.0,384.0,274.0,High,-0.53,39.0,20.86,84.0,6.0,0.0,,3
+SOM,Somalia,Africa,East,2016,184.0,110.0,369.0,259.0,High,-1.6,39.0,21.2,88.0,2.0,0.0,,3
+SOM,Somalia,Africa,East,2017,182.0,110.0,358.0,248.0,High,-1.09,34.0,18.68,86.0,4.0,0.0,,3
+SOM,Somalia,Africa,East,2018,179.0,109.0,348.0,239.0,High,-1.65,34.0,18.99,87.0,3.0,0.0,,3
+SOM,Somalia,Africa,East,2019,175.0,107.0,338.0,231.0,High,-2.23,33.0,18.86,92.0,0.0,1.0,,3
+SOM,Somalia,Africa,East,2020,171.0,105.0,330.0,225.0,High,-2.29,32.0,18.71,90.0,0.0,1.0,2.47010517,3
+SOM,Somalia,Africa,East,2021,167.0,101.0,324.0,223.0,High,-2.34,31.0,18.56,93.0,0.0,1.0,2.73509169,3
+SOM,Somalia,Africa,East,2022,162.0,98.0,319.0,221.0,High,-2.99,28.0,17.28,91.0,0.0,1.0,2.8469162,3
+SOM,Somalia,Africa,East,2023,157.0,94.0,316.0,222.0,High,-3.09,27.0,17.2,93.0,0.0,1.0,3.74413586,3
+SOM,Somalia,Africa,East,2024,151.0,89.0,314.0,225.0,High,-3.82,26.0,17.22,,,,,2
+SSD,South Sudan,Africa,East,2011,415.0,257.0,786.0,529.0,Very High,,,,,,,,1
+SSD,South Sudan,Africa,East,2012,407.0,251.0,770.0,519.0,Very High,-1.93,,,,,,,1
+SSD,South Sudan,Africa,East,2013,399.0,246.0,755.0,509.0,Very High,-1.97,,,,,,,1
+SSD,South Sudan,Africa,East,2014,391.0,242.0,740.0,498.0,Very High,-2.01,,,71.0,19.0,0.0,,2
+SSD,South Sudan,Africa,East,2015,383.0,237.0,725.0,488.0,Very High,-2.05,115.0,30.03,80.0,10.0,0.0,,3
+SSD,South Sudan,Africa,East,2016,376.0,232.0,711.0,479.0,Very High,-1.83,107.0,28.46,82.0,8.0,0.0,,3
+SSD,South Sudan,Africa,East,2017,368.0,227.0,696.0,469.0,Very High,-2.13,104.0,28.26,80.0,10.0,0.0,,3
+SSD,South Sudan,Africa,East,2018,361.0,223.0,682.0,459.0,Very High,-1.9,86.0,23.82,81.0,9.0,0.0,,3
+SSD,South Sudan,Africa,East,2019,353.0,218.0,669.0,451.0,Very High,-2.22,79.0,22.38,85.0,5.0,0.0,,3
+SSD,South Sudan,Africa,East,2020,346.0,214.0,655.0,441.0,Very High,-1.98,79.0,22.83,82.0,8.0,0.0,9.35116673,3
+SSD,South Sudan,Africa,East,2021,339.0,210.0,642.0,432.0,Very High,-2.02,71.0,20.94,84.0,6.0,0.0,6.30117083,3
+SSD,South Sudan,Africa,East,2022,333.0,206.0,629.0,423.0,Very High,-1.77,63.0,18.92,82.0,8.0,0.0,6.57254314,3
+SSD,South Sudan,Africa,East,2023,326.0,201.0,617.0,416.0,Very High,-2.1,51.0,15.64,85.0,5.0,0.0,11.61002254,3
+SSD,South Sudan,Africa,East,2024,320.0,197.0,605.0,408.0,Very High,-1.84,42.0,13.12,,,,,2
+STP,Sao Tome and Principe,Africa,Central,2000,254.0,207.0,306.0,99.0,High,,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2001,241.0,196.0,291.0,95.0,High,-5.12,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2002,220.0,179.0,266.0,87.0,High,-8.71,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2003,237.0,193.0,286.0,93.0,High,7.73,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2004,252.0,205.0,304.0,99.0,High,6.33,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2005,268.0,218.0,323.0,105.0,High,6.35,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2006,273.0,222.0,330.0,108.0,High,1.87,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2007,151.0,123.0,183.0,60.0,High,-44.69,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2008,101.0,82.0,122.0,40.0,High,-33.11,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2009,107.0,87.0,129.0,42.0,High,5.94,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2010,153.0,125.0,185.0,60.0,High,42.99,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2011,163.0,133.0,197.0,64.0,High,6.54,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2012,131.0,107.0,158.0,51.0,High,-19.63,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2013,159.0,130.0,192.0,62.0,High,21.37,,,,,,,1
+STP,Sao Tome and Principe,Africa,Central,2014,163.0,133.0,197.0,64.0,High,2.52,,,74.0,16.0,0.0,,2
+STP,Sao Tome and Principe,Africa,Central,2015,175.0,143.0,211.0,68.0,High,7.36,35.0,20.0,78.0,12.0,0.0,,3
+STP,Sao Tome and Principe,Africa,Central,2016,175.0,143.0,211.0,68.0,High,0.0,31.0,17.71,78.0,12.0,0.0,,3
+STP,Sao Tome and Principe,Africa,Central,2017,122.0,99.0,147.0,48.0,High,-30.29,22.0,18.03,75.0,15.0,0.0,,3
+STP,Sao Tome and Principe,Africa,Central,2018,123.0,100.0,148.0,48.0,High,0.82,21.0,17.07,72.0,18.0,0.0,,3
+STP,Sao Tome and Principe,Africa,Central,2019,108.0,88.0,130.0,42.0,High,-12.2,17.0,15.74,70.0,20.0,0.0,,3
+STP,Sao Tome and Principe,Africa,Central,2020,69.0,56.0,83.0,27.0,Moderate,-36.11,12.0,17.39,71.0,19.0,0.0,7.32044411,3
+STP,Sao Tome and Principe,Africa,Central,2021,59.0,48.0,71.0,23.0,Moderate,-14.49,9.0,15.25,70.0,20.0,0.0,7.85889721,3
+STP,Sao Tome and Principe,Africa,Central,2022,87.0,71.0,105.0,34.0,Moderate,47.46,14.0,16.09,79.0,11.0,0.0,5.7744813,3
+STP,Sao Tome and Principe,Africa,Central,2023,73.0,59.0,87.0,28.0,Moderate,-16.09,11.0,15.07,70.0,20.0,0.0,5.77292156,3
+STP,Sao Tome and Principe,Africa,Central,2024,87.0,71.0,105.0,34.0,Moderate,19.18,13.0,14.94,,,,,2
+SWZ,Eswatini,Africa,Southern,2000,981.0,205.0,2340.0,2135.0,Very High,,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2001,1010.0,197.0,2470.0,2273.0,Very High,2.96,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2002,1110.0,171.0,2900.0,2729.0,Very High,9.9,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2003,1270.0,129.0,3660.0,3531.0,Very High,14.41,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2004,1320.0,117.0,3920.0,3803.0,Very High,3.94,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2005,1420.0,93.0,4450.0,4357.0,Very High,7.58,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2006,1460.0,84.0,4700.0,4616.0,Very High,2.82,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2007,1430.0,91.0,4530.0,4439.0,Very High,-2.05,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2008,1390.0,100.0,4290.0,4190.0,Very High,-2.8,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2009,1590.0,58.0,5510.0,5452.0,Very High,14.39,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2010,1590.0,59.0,5500.0,5441.0,Very High,0.0,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2011,1300.0,120.0,3840.0,3720.0,Very High,-18.24,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2012,1110.0,171.0,2910.0,2739.0,Very High,-14.62,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2013,1030.0,194.0,2530.0,2336.0,Very High,-7.21,,,,,,,1
+SWZ,Eswatini,Africa,Southern,2014,855.0,233.0,1870.0,1637.0,Very High,-16.99,,,78.0,12.0,0.0,,2
+SWZ,Eswatini,Africa,Southern,2015,648.0,260.0,1210.0,950.0,Very High,-24.21,35.0,5.4,80.0,10.0,0.0,,3
+SWZ,Eswatini,Africa,Southern,2016,537.0,260.0,913.0,653.0,Very High,-17.13,31.0,5.77,83.0,7.0,0.0,,3
+SWZ,Eswatini,Africa,Southern,2017,502.0,257.0,828.0,571.0,Very High,-6.52,30.0,5.98,86.0,4.0,0.0,,3
+SWZ,Eswatini,Africa,Southern,2018,441.0,248.0,689.0,441.0,Very High,-12.15,34.0,7.71,90.0,0.0,1.0,,3
+SWZ,Eswatini,Africa,Southern,2019,363.0,228.0,527.0,299.0,Very High,-17.69,22.0,6.06,86.0,4.0,0.0,,3
+SWZ,Eswatini,Africa,Southern,2020,336.0,202.0,504.0,302.0,Very High,-7.44,29.0,8.63,81.0,9.0,0.0,7.0983777,3
+SWZ,Eswatini,Africa,Southern,2021,334.0,194.0,499.0,305.0,Very High,-0.6,30.0,8.98,79.0,11.0,0.0,7.40552139,3
+SWZ,Eswatini,Africa,Southern,2022,335.0,188.0,507.0,319.0,Very High,0.3,29.0,8.66,83.0,7.0,0.0,7.2449131,3
+SWZ,Eswatini,Africa,Southern,2023,326.0,175.0,499.0,324.0,Very High,-2.69,29.0,8.9,83.0,7.0,0.0,7.49763966,3
+SWZ,Eswatini,Africa,Southern,2024,319.0,166.0,492.0,326.0,Very High,-2.15,28.0,8.78,,,,,2
+SYC,Seychelles,Africa,East,2000,24.0,20.0,29.0,9.0,Moderate,,,,,,,,1
+SYC,Seychelles,Africa,East,2001,22.0,18.0,27.0,9.0,Moderate,-8.33,,,,,,,1
+SYC,Seychelles,Africa,East,2002,34.0,27.0,41.0,14.0,Moderate,54.55,,,,,,,1
+SYC,Seychelles,Africa,East,2003,11.0,9.3,14.0,4.699999999999999,Moderate,-67.65,,,,,,,1
+SYC,Seychelles,Africa,East,2004,20.0,17.0,25.0,8.0,Moderate,81.82,,,,,,,1
+SYC,Seychelles,Africa,East,2005,16.0,13.0,19.0,6.0,Moderate,-20.0,,,,,,,1
+SYC,Seychelles,Africa,East,2006,19.0,16.0,23.0,7.0,Moderate,18.75,,,,,,,1
+SYC,Seychelles,Africa,East,2007,19.0,15.0,22.0,7.0,Moderate,0.0,,,,,,,1
+SYC,Seychelles,Africa,East,2008,6.5,5.3,7.8,2.5,Low,-65.79,,,,,,,1
+SYC,Seychelles,Africa,East,2009,16.0,13.0,19.0,6.0,Moderate,146.15,,,,,,,1
+SYC,Seychelles,Africa,East,2010,18.0,15.0,22.0,7.0,Moderate,12.5,,,,,,,1
+SYC,Seychelles,Africa,East,2011,22.0,18.0,26.0,8.0,Moderate,22.22,,,,,,,1
+SYC,Seychelles,Africa,East,2012,20.0,16.0,24.0,8.0,Moderate,-9.09,,,,,,,1
+SYC,Seychelles,Africa,East,2013,24.0,19.0,28.0,9.0,Moderate,20.0,,,,,,,1
+SYC,Seychelles,Africa,East,2014,12.0,10.0,15.0,5.0,Moderate,-50.0,,,69.0,21.0,0.0,,2
+SYC,Seychelles,Africa,East,2015,7.5,6.1,9.0,2.9000000000000004,Low,-37.5,,,88.0,2.0,0.0,,2
+SYC,Seychelles,Africa,East,2016,11.0,8.9,13.0,4.1,Moderate,46.67,,,60.0,30.0,0.0,,2
+SYC,Seychelles,Africa,East,2017,14.0,12.0,17.0,5.0,Moderate,27.27,,,56.0,34.0,0.0,,2
+SYC,Seychelles,Africa,East,2018,13.0,11.0,16.0,5.0,Moderate,-7.14,,,67.0,23.0,0.0,,2
+SYC,Seychelles,Africa,East,2019,12.0,9.7,14.0,4.300000000000001,Moderate,-7.69,,,57.0,33.0,0.0,,2
+SYC,Seychelles,Africa,East,2020,7.5,6.1,9.0,2.9000000000000004,Low,-37.5,,,78.0,12.0,0.0,5.83709192,2
+SYC,Seychelles,Africa,East,2021,8.9,7.3,11.0,3.7,Low,18.67,,,45.0,45.0,0.0,5.2088151,2
+SYC,Seychelles,Africa,East,2022,13.0,10.0,15.0,5.0,Moderate,46.07,,,50.0,40.0,0.0,4.39909697,2
+SYC,Seychelles,Africa,East,2023,18.0,15.0,22.0,7.0,Moderate,38.46,,,87.0,3.0,0.0,4.48238087,2
+SYC,Seychelles,Africa,East,2024,17.0,14.0,20.0,6.0,Moderate,-5.56,,,,,,,1
+TCD,Chad,Africa,Central,2000,123.0,61.0,362.0,301.0,High,,,,,,,,1
+TCD,Chad,Africa,Central,2001,123.0,62.0,350.0,288.0,High,0.0,,,,,,,1
+TCD,Chad,Africa,Central,2002,124.0,64.0,341.0,277.0,High,0.81,,,,,,,1
+TCD,Chad,Africa,Central,2003,126.0,66.0,334.0,268.0,High,1.61,,,,,,,1
+TCD,Chad,Africa,Central,2004,129.0,68.0,331.0,263.0,High,2.38,,,,,,,1
+TCD,Chad,Africa,Central,2005,133.0,71.0,332.0,261.0,High,3.1,,,,,,,1
+TCD,Chad,Africa,Central,2006,137.0,74.0,333.0,259.0,High,3.01,,,,,,,1
+TCD,Chad,Africa,Central,2007,143.0,78.0,341.0,263.0,High,4.38,,,,,,,1
+TCD,Chad,Africa,Central,2008,150.0,83.0,354.0,271.0,High,4.9,,,,,,,1
+TCD,Chad,Africa,Central,2009,157.0,87.0,363.0,276.0,High,4.67,,,,,,,1
+TCD,Chad,Africa,Central,2010,162.0,90.0,371.0,281.0,High,3.18,,,,,,,1
+TCD,Chad,Africa,Central,2011,166.0,93.0,379.0,286.0,High,2.47,,,,,,,1
+TCD,Chad,Africa,Central,2012,168.0,95.0,381.0,286.0,High,1.2,,,,,,,1
+TCD,Chad,Africa,Central,2013,167.0,94.0,370.0,276.0,High,-0.6,,,,,,,1
+TCD,Chad,Africa,Central,2014,162.0,93.0,351.0,258.0,High,-2.99,,,68.0,22.0,0.0,,2
+TCD,Chad,Africa,Central,2015,157.0,91.0,333.0,242.0,High,-3.09,28.0,17.83,77.0,13.0,0.0,,3
+TCD,Chad,Africa,Central,2016,152.0,89.0,315.0,226.0,High,-3.18,29.0,19.08,74.0,16.0,0.0,,3
+TCD,Chad,Africa,Central,2017,145.0,86.0,293.0,207.0,High,-4.61,26.0,17.93,79.0,11.0,0.0,,3
+TCD,Chad,Africa,Central,2018,139.0,84.0,276.0,192.0,High,-4.14,23.0,16.55,78.0,12.0,0.0,,3
+TCD,Chad,Africa,Central,2019,135.0,82.0,262.0,180.0,High,-2.88,21.0,15.56,80.0,10.0,0.0,,3
+TCD,Chad,Africa,Central,2020,131.0,80.0,250.0,170.0,High,-2.96,22.0,16.79,81.0,9.0,0.0,4.35215092,3
+TCD,Chad,Africa,Central,2021,127.0,78.0,240.0,162.0,High,-3.05,21.0,16.54,82.0,8.0,0.0,3.9722333,3
+TCD,Chad,Africa,Central,2022,123.0,76.0,232.0,156.0,High,-3.15,19.0,15.45,83.0,7.0,0.0,4.15823555,3
+TCD,Chad,Africa,Central,2023,120.0,75.0,227.0,152.0,High,-2.44,17.0,14.17,84.0,6.0,0.0,4.99707747,3
+TCD,Chad,Africa,Central,2024,118.0,73.0,222.0,149.0,High,-1.67,15.0,12.71,,,,,2
+TGO,Togo,Africa,West,2000,51.0,25.0,145.0,120.0,Moderate,,,,,,,,1
+TGO,Togo,Africa,West,2001,61.0,32.0,160.0,128.0,Moderate,19.61,,,,,,,1
+TGO,Togo,Africa,West,2002,69.0,37.0,173.0,136.0,Moderate,13.11,,,,,,,1
+TGO,Togo,Africa,West,2003,76.0,42.0,183.0,141.0,Moderate,10.14,,,,,,,1
+TGO,Togo,Africa,West,2004,82.0,45.0,191.0,146.0,Moderate,7.89,,,,,,,1
+TGO,Togo,Africa,West,2005,86.0,48.0,197.0,149.0,Moderate,4.88,,,,,,,1
+TGO,Togo,Africa,West,2006,90.0,51.0,200.0,149.0,Moderate,4.65,,,,,,,1
+TGO,Togo,Africa,West,2007,91.0,52.0,201.0,149.0,Moderate,1.11,,,,,,,1
+TGO,Togo,Africa,West,2008,91.0,52.0,199.0,147.0,Moderate,0.0,,,,,,,1
+TGO,Togo,Africa,West,2009,90.0,51.0,195.0,144.0,Moderate,-1.1,,,,,,,1
+TGO,Togo,Africa,West,2010,86.0,50.0,187.0,137.0,Moderate,-4.44,,,,,,,1
+TGO,Togo,Africa,West,2011,81.0,47.0,175.0,128.0,Moderate,-5.81,,,,,,,1
+TGO,Togo,Africa,West,2012,76.0,44.0,164.0,120.0,Moderate,-6.17,,,,,,,1
+TGO,Togo,Africa,West,2013,72.0,41.0,152.0,111.0,Moderate,-5.26,,,,,,,1
+TGO,Togo,Africa,West,2014,66.0,39.0,138.0,99.0,Moderate,-8.33,,,88.0,2.0,0.0,,2
+TGO,Togo,Africa,West,2015,62.0,36.0,126.0,90.0,Moderate,-6.06,10.0,16.13,86.0,4.0,0.0,,3
+TGO,Togo,Africa,West,2016,58.0,34.0,116.0,82.0,Moderate,-6.45,8.4,14.48,85.0,5.0,0.0,,3
+TGO,Togo,Africa,West,2017,54.0,33.0,107.0,74.0,Moderate,-6.9,8.7,16.11,82.0,8.0,0.0,,3
+TGO,Togo,Africa,West,2018,51.0,31.0,99.0,68.0,Moderate,-5.56,8.6,16.86,81.0,9.0,0.0,,3
+TGO,Togo,Africa,West,2019,49.0,30.0,94.0,64.0,Moderate,-3.92,7.5,15.31,87.0,3.0,0.0,,3
+TGO,Togo,Africa,West,2020,48.0,29.0,91.0,62.0,Moderate,-2.04,8.1,16.88,86.0,4.0,0.0,6.18928432,3
+TGO,Togo,Africa,West,2021,47.0,29.0,89.0,60.0,Moderate,-2.08,7.9,16.81,87.0,3.0,0.0,5.6165967,3
+TGO,Togo,Africa,West,2022,47.0,29.0,89.0,60.0,Moderate,0.0,5.7,12.13,86.0,4.0,0.0,6.24094057,3
+TGO,Togo,Africa,West,2023,47.0,29.0,90.0,61.0,Moderate,0.0,6.0,12.77,85.0,5.0,0.0,6.10829544,3
+TGO,Togo,Africa,West,2024,48.0,29.0,93.0,64.0,Moderate,2.13,6.4,13.33,,,,,2
+TUN,Tunisia,Africa,North,2000,57.0,46.0,69.0,23.0,Moderate,,,,,,,,1
+TUN,Tunisia,Africa,North,2001,49.0,40.0,59.0,19.0,Moderate,-14.04,,,,,,,1
+TUN,Tunisia,Africa,North,2002,44.0,36.0,53.0,17.0,Moderate,-10.2,,,,,,,1
+TUN,Tunisia,Africa,North,2003,42.0,34.0,50.0,16.0,Moderate,-4.55,,,,,,,1
+TUN,Tunisia,Africa,North,2004,39.0,32.0,47.0,15.0,Moderate,-7.14,,,,,,,1
+TUN,Tunisia,Africa,North,2005,38.0,31.0,46.0,15.0,Moderate,-2.56,,,,,,,1
+TUN,Tunisia,Africa,North,2006,38.0,31.0,46.0,15.0,Moderate,0.0,,,,,,,1
+TUN,Tunisia,Africa,North,2007,40.0,33.0,48.0,15.0,Moderate,5.26,,,,,,,1
+TUN,Tunisia,Africa,North,2008,39.0,32.0,47.0,15.0,Moderate,-2.5,,,,,,,1
+TUN,Tunisia,Africa,North,2009,36.0,29.0,44.0,15.0,Moderate,-7.69,,,,,,,1
+TUN,Tunisia,Africa,North,2010,39.0,32.0,47.0,15.0,Moderate,8.33,,,,,,,1
+TUN,Tunisia,Africa,North,2011,48.0,39.0,58.0,19.0,Moderate,23.08,,,,,,,1
+TUN,Tunisia,Africa,North,2012,51.0,41.0,61.0,20.0,Moderate,6.25,,,,,,,1
+TUN,Tunisia,Africa,North,2013,46.0,38.0,56.0,18.0,Moderate,-9.8,,,,,,,1
+TUN,Tunisia,Africa,North,2014,47.0,38.0,57.0,19.0,Moderate,2.17,,,91.0,0.0,1.0,,2
+TUN,Tunisia,Africa,North,2015,50.0,41.0,60.0,19.0,Moderate,6.38,1.3,2.6,91.0,0.0,1.0,,3
+TUN,Tunisia,Africa,North,2016,49.0,40.0,59.0,19.0,Moderate,-2.0,1.3,2.65,88.0,2.0,0.0,,3
+TUN,Tunisia,Africa,North,2017,43.0,35.0,52.0,17.0,Moderate,-12.24,1.2,2.79,89.0,1.0,0.0,,3
+TUN,Tunisia,Africa,North,2018,43.0,35.0,51.0,16.0,Moderate,0.0,1.2,2.79,,,,,2
+TUN,Tunisia,Africa,North,2019,42.0,34.0,51.0,17.0,Moderate,-2.33,1.2,2.86,90.0,0.0,1.0,,3
+TUN,Tunisia,Africa,North,2020,41.0,34.0,50.0,16.0,Moderate,-2.38,1.2,2.93,88.0,2.0,0.0,7.05612612,3
+TUN,Tunisia,Africa,North,2021,40.0,33.0,49.0,16.0,Moderate,-2.44,1.2,3.0,84.0,6.0,0.0,7.34183979,3
+TUN,Tunisia,Africa,North,2022,39.0,32.0,47.0,15.0,Moderate,-2.5,1.2,3.08,93.0,0.0,1.0,7.51270723,3
+TUN,Tunisia,Africa,North,2023,38.0,31.0,46.0,15.0,Moderate,-2.56,1.2,3.16,,,,7.98537874,2
+TUN,Tunisia,Africa,North,2024,39.0,31.0,47.0,16.0,Moderate,2.63,1.2,3.08,,,,,2
+TZA,Tanzania,Africa,East,2000,503.0,95.0,1240.0,1145.0,Very High,,,,,,,,1
+TZA,Tanzania,Africa,East,2001,506.0,100.0,1230.0,1130.0,Very High,0.6,,,,,,,1
+TZA,Tanzania,Africa,East,2002,509.0,105.0,1220.0,1115.0,Very High,0.59,,,,,,,1
+TZA,Tanzania,Africa,East,2003,510.0,110.0,1210.0,1100.0,Very High,0.2,,,,,,,1
+TZA,Tanzania,Africa,East,2004,510.0,115.0,1190.0,1075.0,Very High,0.0,,,,,,,1
+TZA,Tanzania,Africa,East,2005,510.0,120.0,1180.0,1060.0,Very High,0.0,,,,,,,1
+TZA,Tanzania,Africa,East,2006,504.0,123.0,1150.0,1027.0,Very High,-1.18,,,,,,,1
+TZA,Tanzania,Africa,East,2007,492.0,125.0,1110.0,985.0,Very High,-2.38,,,,,,,1
+TZA,Tanzania,Africa,East,2008,474.0,125.0,1050.0,925.0,Very High,-3.66,,,,,,,1
+TZA,Tanzania,Africa,East,2009,452.0,123.0,991.0,868.0,Very High,-4.64,,,,,,,1
+TZA,Tanzania,Africa,East,2010,426.0,120.0,921.0,801.0,Very High,-5.75,,,,,,,1
+TZA,Tanzania,Africa,East,2011,401.0,117.0,857.0,740.0,Very High,-5.87,,,,,,,1
+TZA,Tanzania,Africa,East,2012,378.0,113.0,797.0,684.0,Very High,-5.74,,,,,,,1
+TZA,Tanzania,Africa,East,2013,336.0,107.0,692.0,585.0,Very High,-11.11,,,,,,,1
+TZA,Tanzania,Africa,East,2014,327.0,108.0,663.0,555.0,Very High,-2.68,,,90.0,0.0,1.0,,2
+TZA,Tanzania,Africa,East,2015,306.0,111.0,599.0,488.0,Very High,-6.42,54.0,17.65,90.0,0.0,1.0,,3
+TZA,Tanzania,Africa,East,2016,287.0,111.0,545.0,434.0,High,-6.21,49.0,17.07,90.0,0.0,1.0,,3
+TZA,Tanzania,Africa,East,2017,269.0,112.0,494.0,382.0,High,-6.27,45.0,16.73,90.0,0.0,1.0,,3
+TZA,Tanzania,Africa,East,2018,253.0,112.0,449.0,337.0,High,-5.95,40.0,15.81,92.0,0.0,1.0,,3
+TZA,Tanzania,Africa,East,2019,237.0,112.0,408.0,296.0,High,-6.32,35.0,14.77,93.0,0.0,1.0,,3
+TZA,Tanzania,Africa,East,2020,222.0,105.0,383.0,278.0,High,-6.33,31.0,13.96,96.0,0.0,1.0,3.05028677,3
+TZA,Tanzania,Africa,East,2021,208.0,93.0,370.0,277.0,High,-6.31,28.0,13.46,96.0,0.0,1.0,3.46963334,3
+TZA,Tanzania,Africa,East,2022,195.0,81.0,358.0,277.0,High,-6.25,18.0,9.23,96.0,0.0,1.0,3.13497496,3
+TZA,Tanzania,Africa,East,2023,183.0,71.0,348.0,277.0,High,-6.15,19.0,10.38,96.0,0.0,1.0,3.05201221,3
+TZA,Tanzania,Africa,East,2024,172.0,67.0,326.0,259.0,High,-6.01,25.0,14.53,,,,,2
+UGA,Uganda,Africa,East,2000,276.0,106.0,527.0,421.0,High,,,,,,,,1
+UGA,Uganda,Africa,East,2001,266.0,137.0,437.0,300.0,High,-3.62,,,,,,,1
+UGA,Uganda,Africa,East,2002,256.0,150.0,390.0,240.0,High,-3.76,,,,,,,1
+UGA,Uganda,Africa,East,2003,248.0,156.0,360.0,204.0,High,-3.12,,,,,,,1
+UGA,Uganda,Africa,East,2004,240.0,156.0,341.0,185.0,High,-3.23,,,,,,,1
+UGA,Uganda,Africa,East,2005,233.0,145.0,342.0,197.0,High,-2.92,,,,,,,1
+UGA,Uganda,Africa,East,2006,227.0,141.0,333.0,192.0,High,-2.58,,,,,,,1
+UGA,Uganda,Africa,East,2007,222.0,139.0,324.0,185.0,High,-2.2,,,,,,,1
+UGA,Uganda,Africa,East,2008,217.0,139.0,312.0,173.0,High,-2.25,,,,,,,1
+UGA,Uganda,Africa,East,2009,213.0,135.0,309.0,174.0,High,-1.84,,,,,,,1
+UGA,Uganda,Africa,East,2010,210.0,135.0,301.0,166.0,High,-1.41,,,,,,,1
+UGA,Uganda,Africa,East,2011,207.0,141.0,286.0,145.0,High,-1.43,,,,,,,1
+UGA,Uganda,Africa,East,2012,205.0,133.0,291.0,158.0,High,-0.97,,,,,,,1
+UGA,Uganda,Africa,East,2013,203.0,132.0,289.0,157.0,High,-0.98,,,,,,,1
+UGA,Uganda,Africa,East,2014,202.0,127.0,295.0,168.0,High,-0.49,,,75.0,15.0,0.0,,2
+UGA,Uganda,Africa,East,2015,202.0,119.0,305.0,186.0,High,0.0,25.0,12.38,75.0,15.0,0.0,,3
+UGA,Uganda,Africa,East,2016,201.0,118.0,307.0,189.0,High,-0.5,24.0,11.94,77.0,13.0,0.0,,3
+UGA,Uganda,Africa,East,2017,201.0,118.0,306.0,188.0,High,0.0,25.0,12.44,72.0,18.0,0.0,,3
+UGA,Uganda,Africa,East,2018,200.0,118.0,304.0,186.0,High,-0.5,20.0,10.0,74.0,16.0,0.0,,3
+UGA,Uganda,Africa,East,2019,200.0,117.0,303.0,186.0,High,0.0,16.0,8.0,82.0,8.0,0.0,,3
+UGA,Uganda,Africa,East,2020,199.0,120.0,298.0,178.0,High,-0.5,21.0,10.55,85.0,5.0,0.0,5.23865509,3
+UGA,Uganda,Africa,East,2021,199.0,119.0,298.0,179.0,High,0.0,14.0,7.04,88.0,2.0,0.0,5.47374916,3
+UGA,Uganda,Africa,East,2022,198.0,119.0,297.0,178.0,High,-0.5,4.0,2.02,90.0,0.0,1.0,4.45071125,3
+UGA,Uganda,Africa,East,2023,198.0,118.0,297.0,179.0,High,0.0,8.7,4.39,92.0,0.0,1.0,4.23600149,3
+UGA,Uganda,Africa,East,2024,197.0,118.0,296.0,178.0,High,-0.51,9.1,4.62,,,,,2
+ZAF,South Africa,Africa,Southern,2000,762.0,416.0,1210.0,794.0,Very High,,,,,,,,1
+ZAF,South Africa,Africa,Southern,2001,867.0,429.0,1460.0,1031.0,Very High,13.78,,,,,,,1
+ZAF,South Africa,Africa,Southern,2002,971.0,434.0,1720.0,1286.0,Very High,12.0,,,,,,,1
+ZAF,South Africa,Africa,Southern,2003,1070.0,433.0,1980.0,1547.0,Very High,10.2,,,,,,,1
+ZAF,South Africa,Africa,Southern,2004,1150.0,427.0,2220.0,1793.0,Very High,7.48,,,,,,,1
+ZAF,South Africa,Africa,Southern,2005,1210.0,420.0,2410.0,1990.0,Very High,5.22,,,,,,,1
+ZAF,South Africa,Africa,Southern,2006,1250.0,415.0,2540.0,2125.0,Very High,3.31,,,,,,,1
+ZAF,South Africa,Africa,Southern,2007,1270.0,412.0,2600.0,2188.0,Very High,1.6,,,,,,,1
+ZAF,South Africa,Africa,Southern,2008,1270.0,592.0,2200.0,1608.0,Very High,0.0,,,,,,,1
+ZAF,South Africa,Africa,Southern,2009,1260.0,634.0,2090.0,1456.0,Very High,-0.79,,,,,,,1
+ZAF,South Africa,Africa,Southern,2010,1230.0,622.0,2050.0,1428.0,Very High,-2.38,,,,,,,1
+ZAF,South Africa,Africa,Southern,2011,1200.0,667.0,1890.0,1223.0,Very High,-2.44,,,,,,,1
+ZAF,South Africa,Africa,Southern,2012,1160.0,552.0,1990.0,1438.0,Very High,-3.33,,,,,,,1
+ZAF,South Africa,Africa,Southern,2013,1110.0,548.0,1850.0,1302.0,Very High,-4.31,,,,,,,1
+ZAF,South Africa,Africa,Southern,2014,1070.0,544.0,1760.0,1216.0,Very High,-3.6,,,78.0,12.0,0.0,,2
+ZAF,South Africa,Africa,Southern,2015,988.0,534.0,1580.0,1046.0,Very High,-7.66,36.0,3.64,81.0,9.0,0.0,,3
+ZAF,South Africa,Africa,Southern,2016,805.0,494.0,1190.0,696.0,Very High,-18.52,36.0,4.47,82.0,8.0,0.0,,3
+ZAF,South Africa,Africa,Southern,2017,738.0,474.0,1060.0,586.0,Very High,-8.32,37.0,5.01,77.0,13.0,0.0,,3
+ZAF,South Africa,Africa,Southern,2018,677.0,453.0,946.0,493.0,Very High,-8.27,37.0,5.47,71.0,19.0,0.0,,3
+ZAF,South Africa,Africa,Southern,2019,615.0,427.0,835.0,408.0,Very High,-9.16,38.0,6.18,79.0,11.0,0.0,,3
+ZAF,South Africa,Africa,Southern,2020,562.0,396.0,757.0,361.0,Very High,-8.62,38.0,6.76,78.0,12.0,0.0,9.02174091,3
+ZAF,South Africa,Africa,Southern,2021,513.0,348.0,709.0,361.0,Very High,-8.72,38.0,7.41,79.0,11.0,0.0,8.6645031,3
+ZAF,South Africa,Africa,Southern,2022,468.0,304.0,665.0,361.0,Very High,-8.77,39.0,8.33,76.0,14.0,0.0,8.74512291,3
+ZAF,South Africa,Africa,Southern,2023,427.0,265.0,626.0,361.0,Very High,-8.76,39.0,9.13,71.0,19.0,0.0,8.90966797,3
+ZAF,South Africa,Africa,Southern,2024,389.0,242.0,571.0,329.0,Very High,-8.9,40.0,10.28,,,,,2
+ZMB,Zambia,Africa,Southern,2000,759.0,238.0,1570.0,1332.0,Very High,,,,,,,,1
+ZMB,Zambia,Africa,Southern,2001,728.0,243.0,1470.0,1227.0,Very High,-4.08,,,,,,,1
+ZMB,Zambia,Africa,Southern,2002,695.0,336.0,1180.0,844.0,Very High,-4.53,,,,,,,1
+ZMB,Zambia,Africa,Southern,2003,662.0,390.0,1000.0,610.0,Very High,-4.75,,,,,,,1
+ZMB,Zambia,Africa,Southern,2004,631.0,356.0,983.0,627.0,Very High,-4.68,,,,,,,1
+ZMB,Zambia,Africa,Southern,2005,602.0,313.0,985.0,672.0,Very High,-4.6,,,,,,,1
+ZMB,Zambia,Africa,Southern,2006,577.0,299.0,944.0,645.0,Very High,-4.15,,,,,,,1
+ZMB,Zambia,Africa,Southern,2007,554.0,253.0,971.0,718.0,Very High,-3.99,,,,,,,1
+ZMB,Zambia,Africa,Southern,2008,534.0,252.0,918.0,666.0,Very High,-3.61,,,,,,,1
+ZMB,Zambia,Africa,Southern,2009,514.0,251.0,869.0,618.0,Very High,-3.75,,,,,,,1
+ZMB,Zambia,Africa,Southern,2010,495.0,250.0,822.0,572.0,Very High,-3.7,,,,,,,1
+ZMB,Zambia,Africa,Southern,2011,475.0,247.0,776.0,529.0,Very High,-4.04,,,,,,,1
+ZMB,Zambia,Africa,Southern,2012,456.0,245.0,732.0,487.0,Very High,-4.0,,,,,,,1
+ZMB,Zambia,Africa,Southern,2013,437.0,242.0,690.0,448.0,Very High,-4.17,,,,,,,1
+ZMB,Zambia,Africa,Southern,2014,406.0,236.0,623.0,387.0,Very High,-7.09,,,85.0,5.0,0.0,,2
+ZMB,Zambia,Africa,Southern,2015,391.0,232.0,591.0,359.0,Very High,-3.69,30.0,7.67,85.0,5.0,0.0,,3
+ZMB,Zambia,Africa,Southern,2016,376.0,229.0,557.0,328.0,Very High,-3.84,29.0,7.71,88.0,2.0,0.0,,3
+ZMB,Zambia,Africa,Southern,2017,361.0,225.0,528.0,303.0,Very High,-3.99,29.0,8.03,90.0,0.0,1.0,,3
+ZMB,Zambia,Africa,Southern,2018,346.0,221.0,500.0,279.0,Very High,-4.16,28.0,8.09,90.0,0.0,1.0,,3
+ZMB,Zambia,Africa,Southern,2019,333.0,216.0,474.0,258.0,Very High,-3.76,33.0,9.91,89.0,1.0,0.0,,3
+ZMB,Zambia,Africa,Southern,2020,319.0,208.0,455.0,247.0,Very High,-4.2,32.0,10.03,91.0,0.0,1.0,6.3067441,3
+ZMB,Zambia,Africa,Southern,2021,307.0,195.0,443.0,248.0,Very High,-3.76,20.0,6.51,92.0,0.0,1.0,6.63951397,3
+ZMB,Zambia,Africa,Southern,2022,295.0,184.0,431.0,247.0,High,-3.91,13.0,4.41,93.0,0.0,1.0,5.21042967,3
+ZMB,Zambia,Africa,Southern,2023,283.0,173.0,420.0,247.0,High,-4.07,11.0,3.89,92.0,0.0,1.0,5.97841072,3
+ZMB,Zambia,Africa,Southern,2024,272.0,166.0,403.0,237.0,High,-3.89,19.0,6.99,,,,,2
+ZWE,Zimbabwe,Africa,Southern,2000,605.0,166.0,1320.0,1154.0,Very High,,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2001,617.0,211.0,1230.0,1019.0,Very High,1.98,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2002,617.0,247.0,1150.0,903.0,Very High,0.0,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2003,617.0,213.0,1230.0,1017.0,Very High,0.0,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2004,607.0,208.0,1210.0,1002.0,Very High,-1.62,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2005,588.0,114.0,1440.0,1326.0,Very High,-3.13,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2006,561.0,121.0,1330.0,1209.0,Very High,-4.59,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2007,527.0,129.0,1200.0,1071.0,Very High,-6.06,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2008,487.0,137.0,1050.0,913.0,Very High,-7.59,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2009,450.0,200.0,799.0,599.0,Very High,-7.6,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2010,416.0,238.0,642.0,404.0,Very High,-7.56,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2011,384.0,199.0,629.0,430.0,Very High,-7.69,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2012,355.0,190.0,570.0,380.0,Very High,-7.55,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2013,304.0,192.0,440.0,248.0,Very High,-14.37,,,,,,,1
+ZWE,Zimbabwe,Africa,Southern,2014,278.0,176.0,404.0,228.0,High,-8.55,,,81.0,9.0,0.0,,2
+ZWE,Zimbabwe,Africa,Southern,2015,242.0,167.0,330.0,163.0,High,-12.95,7.9,3.26,81.0,9.0,0.0,,3
+ZWE,Zimbabwe,Africa,Southern,2016,233.0,163.0,315.0,152.0,High,-3.72,8.6,3.69,81.0,9.0,0.0,,3
+ZWE,Zimbabwe,Africa,Southern,2017,221.0,158.0,295.0,137.0,High,-5.15,8.3,3.76,83.0,7.0,0.0,,3
+ZWE,Zimbabwe,Africa,Southern,2018,210.0,153.0,276.0,123.0,High,-4.98,7.7,3.67,84.0,6.0,0.0,,3
+ZWE,Zimbabwe,Africa,Southern,2019,199.0,147.0,258.0,111.0,High,-5.24,11.0,5.53,84.0,6.0,0.0,,3
+ZWE,Zimbabwe,Africa,Southern,2020,189.0,137.0,248.0,111.0,High,-5.03,18.0,9.52,88.0,2.0,0.0,2.95440102,3
+ZWE,Zimbabwe,Africa,Southern,2021,198.0,139.0,257.0,118.0,High,4.76,20.0,10.1,90.0,0.0,1.0,2.67111874,3
+ZWE,Zimbabwe,Africa,Southern,2022,209.0,144.0,277.0,133.0,High,5.56,21.0,10.05,89.0,1.0,0.0,3.39519501,3
+ZWE,Zimbabwe,Africa,Southern,2023,209.0,138.0,280.0,142.0,High,0.0,20.0,9.57,91.0,0.0,1.0,2.92601609,3
+ZWE,Zimbabwe,Africa,Southern,2024,203.0,129.0,272.0,143.0,High,-2.87,18.0,8.87,,,,,2
+USA,United States,USA,North America,2000,7.7,6.3,9.3,3.000000000000001,Low,,,,,,,,1
+USA,United States,USA,North America,2001,7.4,6.0,8.9,2.9000000000000004,Low,-3.9,,,,,,,1
+USA,United States,USA,North America,2002,6.8,5.5,8.2,2.6999999999999993,Low,-8.11,,,,,,,1
+USA,United States,USA,North America,2003,6.6,5.3,7.9,2.6000000000000005,Low,-2.94,,,,,,,1
+USA,United States,USA,North America,2004,6.3,5.1,7.6,2.5,Low,-4.55,,,,,,,1
+USA,United States,USA,North America,2005,6.0,4.9,7.2,2.3,Low,-4.76,,,,,,,1
+USA,United States,USA,North America,2006,5.8,4.7,6.9,2.2,Low,-3.33,,,,,,,1
+USA,United States,USA,North America,2007,5.5,4.5,6.6,2.0999999999999996,Low,-5.17,,,,,,,1
+USA,United States,USA,North America,2008,5.2,4.2,6.3,2.0999999999999996,Low,-5.45,,,,,,,1
+USA,United States,USA,North America,2009,4.6,3.7,5.5,1.7999999999999998,Low,-11.54,,,,,,,1
+USA,United States,USA,North America,2010,4.4,3.6,5.3,1.6999999999999997,Low,-4.35,,,,,,,1
+USA,United States,USA,North America,2011,4.1,3.3,4.9,1.6000000000000005,Low,-6.82,,,,,,,1
+USA,United States,USA,North America,2012,3.8,3.1,4.6,1.4999999999999996,Low,-7.32,,,,,,,1
+USA,United States,USA,North America,2013,3.4,2.8,4.1,1.2999999999999998,Low,-10.53,,,,,,,1
+USA,United States,USA,North America,2014,3.3,2.7,4.0,1.2999999999999998,Low,-2.94,,,85.0,5.0,0.0,,2
+USA,United States,USA,North America,2015,3.3,2.7,4.0,1.2999999999999998,Low,0.0,0.16,4.85,83.0,7.0,0.0,,3
+USA,United States,USA,North America,2016,3.1,2.6,3.8,1.1999999999999997,Low,-6.06,0.17,5.48,80.0,10.0,0.0,,3
+USA,United States,USA,North America,2017,3.0,2.5,3.7,1.2000000000000002,Low,-3.23,0.16,5.33,77.0,13.0,0.0,,3
+USA,United States,USA,North America,2018,3.0,2.4,3.6,1.2000000000000002,Low,0.0,0.17,5.67,79.0,11.0,0.0,,3
+USA,United States,USA,North America,2019,2.9,2.4,3.5,1.1,Low,-3.33,0.17,5.86,75.0,15.0,0.0,,3
+USA,United States,USA,North America,2020,2.4,1.9,2.8,0.8999999999999999,Low,-17.24,0.19,7.92,74.0,16.0,0.0,18.51597404,3
+USA,United States,USA,North America,2021,2.6,2.1,3.1,1.0,Low,8.33,0.18,6.92,76.0,14.0,0.0,17.35207748,3
+USA,United States,USA,North America,2022,2.6,2.1,3.2,1.1,Low,0.0,0.19,7.31,72.0,18.0,0.0,16.52875137,3
+USA,United States,USA,North America,2023,3.1,2.5,3.8,1.2999999999999998,Low,19.23,0.16,5.16,,,,16.69414902,2
+USA,United States,USA,North America,2024,3.2,2.6,3.9,1.2999999999999998,Low,3.23,0.16,5.0,,,,,2

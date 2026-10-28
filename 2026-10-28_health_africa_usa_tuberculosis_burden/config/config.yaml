@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------------------
+# Tuberculosis Burden in Africa & USA - pipeline configuration
+# All sources are public, keyless APIs. No secrets are required.
+# ---------------------------------------------------------------------------
+
+project:
+  name: health_africa_usa_tuberculosis_burden
+  domain: Health
+  description: TB incidence, mortality, treatment success and health spending for Africa and the USA
+
+data_sources:
+  who_tb_incidence:
+    url: "https://ghoapi.azureedge.net/api/MDG_0000000020"
+    provider: WHO Global Health Observatory
+    indicator: MDG_0000000020
+    description: Incidence of tuberculosis (per 100 000 population per year)
+    raw_file: who_tb_incidence_raw.json
+  wb_tb_mortality:
+    url: "https://api.worldbank.org/v2/country/all/indicator/SH.TBS.MORT?format=json&per_page=500&mrv=10"
+    provider: World Bank
+    indicator: SH.TBS.MORT
+    description: Tuberculosis death rate (per 100 000 people)
+    raw_file: wb_tb_mortality_raw.json
+  wb_tb_treatment_success:
+    url: "https://api.worldbank.org/v2/country/all/indicator/SH.TBS.CURE.ZS?format=json&per_page=500&mrv=10"
+    provider: World Bank
+    indicator: SH.TBS.CURE.ZS
+    description: Tuberculosis treatment success rate (% of new cases)
+    raw_file: wb_tb_treatment_success_raw.json
+  wb_health_expenditure:
+    url: "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.CHEX.GD.ZS?format=json&per_page=500&mrv=5"
+    provider: World Bank
+    indicator: SH.XPD.CHEX.GD.ZS
+    description: Current health expenditure (% of GDP)
+    raw_file: wb_health_expenditure_raw.json
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database: data/tb_burden.db
+  reports_dir: data/reports
+  raw_csv:
+    incidence: africa_tb_incidence.csv
+    mortality: africa_tb_mortality.csv
+    treatment_success: africa_tb_treatment_success.csv
+    usa_incidence: usa_tb_incidence.csv
+    usa_mortality: usa_tb_mortality.csv
+    usa_treatment_success: usa_tb_treatment_success.csv
+  processed_csv:
+    incidence: tb_incidence_clean.csv
+    mortality: tb_mortality_clean.csv
+    treatment_success: tb_treatment_success_clean.csv
+    health_expenditure: health_expenditure_clean.csv
+    countries: countries.csv
+    merged: tb_burden_merged.csv
+
+pipeline:
+  log_level: INFO
+  request_timeout_seconds: 60
+  max_retries: 6
+  backoff_multiplier: 2
+  backoff_max_seconds: 30
+  min_year: 2000
+  # Burden bands (WHO convention, per 100k): low <10, moderate 10-99, high 100-299, very high >=300
+  incidence_bands:
+    low: 10
+    moderate: 100
+    high: 300
+  treatment_success_target_pct: 90
+
+geography:
+  usa_code: USA
+  # 54 African Union member states (ISO-3166 alpha-3)
+  africa_codes:
+    north: [DZA, EGY, LBY, MAR, SDN, TUN]
+    west: [BEN, BFA, CIV, CPV, GHA, GIN, GMB, GNB, LBR, MLI, MRT, NER, NGA, SEN, SLE, TGO]
+    central: [AGO, CAF, CMR, COD, COG, GAB, GNQ, STP, TCD]
+    east: [BDI, COM, DJI, ERI, ETH, KEN, MDG, MUS, RWA, SOM, SSD, SYC, TZA, UGA]
+    southern: [BWA, LSO, MOZ, MWI, NAM, SWZ, ZAF, ZMB, ZWE]
+
+api_keys: {}

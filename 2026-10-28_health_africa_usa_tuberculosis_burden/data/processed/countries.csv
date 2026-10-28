@@ -1,0 +1,56 @@
+country_code,country_name,region,sub_region
+DZA,Algeria,Africa,North
+AGO,Angola,Africa,Central
+BEN,Benin,Africa,West
+BWA,Botswana,Africa,Southern
+BFA,Burkina Faso,Africa,West
+BDI,Burundi,Africa,East
+CPV,Cabo Verde,Africa,West
+CMR,Cameroon,Africa,Central
+CAF,Central African Republic,Africa,Central
+TCD,Chad,Africa,Central
+COM,Comoros,Africa,East
+COG,Congo,Africa,Central
+CIV,Cote d'Ivoire,Africa,West
+COD,DR Congo,Africa,Central
+DJI,Djibouti,Africa,East
+EGY,Egypt,Africa,North
+GNQ,Equatorial Guinea,Africa,Central
+ERI,Eritrea,Africa,East
+SWZ,Eswatini,Africa,Southern
+ETH,Ethiopia,Africa,East
+GAB,Gabon,Africa,Central
+GMB,Gambia,Africa,West
+GHA,Ghana,Africa,West
+GIN,Guinea,Africa,West
+GNB,Guinea-Bissau,Africa,West
+KEN,Kenya,Africa,East
+LSO,Lesotho,Africa,Southern
+LBR,Liberia,Africa,West
+LBY,Libya,Africa,North
+MDG,Madagascar,Africa,East
+MWI,Malawi,Africa,Southern
+MLI,Mali,Africa,West
+MRT,Mauritania,Africa,West
+MUS,Mauritius,Africa,East
+MAR,Morocco,Africa,North
+MOZ,Mozambique,Africa,Southern
+NAM,Namibia,Africa,Southern
+NER,Niger,Africa,West
+NGA,Nigeria,Africa,West
+RWA,Rwanda,Africa,East
+STP,Sao Tome and Principe,Africa,Central
+SEN,Senegal,Africa,West
+SYC,Seychelles,Africa,East
+SLE,Sierra Leone,Africa,West
+SOM,Somalia,Africa,East
+ZAF,South Africa,Africa,Southern
+SSD,South Sudan,Africa,East
+SDN,Sudan,Africa,North
+TZA,Tanzania,Africa,East
+TGO,Togo,Africa,West
+TUN,Tunisia,Africa,North
+UGA,Uganda,Africa,East
+ZMB,Zambia,Africa,Southern
+ZWE,Zimbabwe,Africa,Southern
+USA,United States,USA,North America

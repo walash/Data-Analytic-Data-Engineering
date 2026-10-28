@@ -1,0 +1,40 @@
+# Run from the docker/ directory:
+#   docker compose up --build            # full ETL run
+#   docker compose run --rm sqlite       # open the warehouse in the sqlite3 shell
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: tb-burden-pipeline:latest
+    container_name: tb_burden_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      CONFIG_PATH: /app/config/config.yaml
+      DB_PATH: /app/data/tb_burden.db
+    volumes:
+      - ../data/raw:/app/data/raw
+      - ../data/processed:/app/data/processed
+      - tb_sqlite_data:/app/db
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             DB_PATH=/app/db/tb_burden.db python src/loading/load.py"
+    restart: "no"
+
+  sqlite:
+    image: tb-burden-pipeline:latest
+    container_name: tb_burden_sqlite
+    volumes:
+      - tb_sqlite_data:/app/db
+      - ../sql:/app/sql:ro
+    entrypoint: ["sqlite3", "-header", "-column", "/app/db/tb_burden.db"]
+    stdin_open: true
+    tty: true
+    profiles: ["tools"]
+
+volumes:
+  tb_sqlite_data:
+    name: tb_burden_sqlite_data
