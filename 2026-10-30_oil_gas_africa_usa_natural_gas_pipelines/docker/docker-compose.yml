@@ -1,0 +1,42 @@
+# Run from the docker/ directory:
+#   docker compose up --build pipeline            # one-off ETL run
+#   docker compose --profile airflow up -d        # Airflow UI on http://localhost:8080
+name: africa-usa-natural-gas-pipelines
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-natural-gas-pipelines:latest
+    container_name: ngas_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      EIA_API_KEY: "${EIA_API_KEY:-}"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+      - ../reports:/app/reports
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  airflow:
+    image: apache/airflow:2.10.5-python3.11
+    container_name: ngas_airflow
+    profiles: ["airflow"]
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DAGS_FOLDER: "/opt/project/dags"
+      NGAS_PROJECT_ROOT: "/opt/project"
+      _PIP_ADDITIONAL_REQUIREMENTS: "tenacity==9.2.1 PyYAML==6.0.3"
+    volumes:
+      - ..:/opt/project
+    ports:
+      - "8080:8080"
+    command: standalone
+    restart: unless-stopped

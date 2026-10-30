@@ -1,0 +1,24 @@
+# Core pipeline (ingest -> transform -> load)
+pandas==2.3.3
+numpy==1.26.4
+requests==2.34.2
+tenacity==9.2.1
+PyYAML==6.0.3
+
+# Analysis notebook and visualisation
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==5.24.1
+nbformat==5.11.1
+nbconvert==7.17.2
+nbclient==0.11.0
+ipykernel==7.4.0
+
+# Quality checks
+flake8==7.5.0
+
+# Orchestration: Apache Airflow is NOT installed from this file because it must be
+# installed with its official constraints file. docker/docker-compose.yml runs it
+# from the pinned image apache/airflow:2.10.5-python3.11. For a local install use:
+#   pip install "apache-airflow==2.10.5" --constraint \
+#     "https://raw.githubusercontent.com/apache/airflow/constraints-2.10.5/constraints-3.11.txt"

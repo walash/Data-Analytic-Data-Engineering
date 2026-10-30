@@ -1,0 +1,198 @@
+# =============================================================================
+# Natural Gas Pipelines — Africa & USA Trade Flows and Infrastructure
+# Central configuration consumed by ingest.py, transform.py, load.py and the DAG
+# =============================================================================
+
+project:
+  name: africa_usa_natural_gas_pipelines
+  description: >
+    ETL pipeline analysing natural-gas dependency, gas rents and fuel-export
+    exposure across African gas producers/consumers and the USA, enriched with
+    a reference catalogue of major cross-border gas pipelines.
+
+# -----------------------------------------------------------------------------
+# API keys
+# The World Bank Indicators API is public and needs NO key. The keys below are
+# OPTIONAL and only required if you extend the pipeline with these sources.
+# Replace the "YOUR_..._HERE" values with your own keys (or set the matching
+# environment variables, which take precedence over this file).
+# -----------------------------------------------------------------------------
+api_keys:
+  EIA_API_KEY: "YOUR_EIA_API_KEY_HERE"            # https://www.eia.gov/opendata/register.php
+  IEA_API_KEY: "YOUR_IEA_API_KEY_HERE"            # https://www.iea.org/data-and-statistics
+  COMTRADE_API_KEY: "YOUR_UN_COMTRADE_API_KEY_HERE"  # https://comtradeplus.un.org/
+
+# -----------------------------------------------------------------------------
+# World Bank indicator sources (public, no authentication)
+# -----------------------------------------------------------------------------
+worldbank:
+  base_url: "https://api.worldbank.org/v2"
+  per_page: 1000
+  indicators:
+    ngas_electricity_pct:
+      code: "EG.ELC.NGAS.ZS"
+      name: "Electricity production from natural gas sources (% of total)"
+      url: "https://api.worldbank.org/v2/country/all/indicator/EG.ELC.NGAS.ZS?format=json&per_page=1000&mrv=5"
+      raw_file: "wb_ngas_electricity_pct.csv"
+    ngas_rents_gdp_pct:
+      code: "NY.GDP.NGAS.RT.ZS"
+      name: "Natural gas rents (% of GDP)"
+      url: "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.NGAS.RT.ZS?format=json&per_page=1000&mrv=5"
+      raw_file: "wb_ngas_rents_gdp_pct.csv"
+    fuel_exports_pct:
+      code: "TX.VAL.FUEL.ZS.UN"
+      name: "Fuel exports (% of merchandise exports)"
+      url: "https://api.worldbank.org/v2/country/all/indicator/TX.VAL.FUEL.ZS.UN?format=json&per_page=1000&mrv=5"
+      raw_file: "wb_fuel_exports_pct.csv"
+
+# -----------------------------------------------------------------------------
+# Geographic scope (ISO3 codes)
+# focus: the ten African pipeline countries + USA highlighted in the analysis
+# africa: wider African set retained for regional context
+# -----------------------------------------------------------------------------
+countries:
+  focus:
+    - DZA   # Algeria
+    - NGA   # Nigeria
+    - EGY   # Egypt
+    - LBY   # Libya
+    - TZA   # Tanzania
+    - MOZ   # Mozambique
+    - GHA   # Ghana
+    - CMR   # Cameroon
+    - GAB   # Gabon
+    - AGO   # Angola
+    - USA   # United States
+  africa:
+    - DZA
+    - NGA
+    - EGY
+    - LBY
+    - TZA
+    - MOZ
+    - GHA
+    - CMR
+    - GAB
+    - AGO
+    - BEN
+    - CIV
+    - GNQ
+    - ETH
+    - KEN
+    - MAR
+    - TUN
+    - ZAF
+    - SEN
+    - COG
+  north_america:
+    - USA
+
+# -----------------------------------------------------------------------------
+# Reference catalogue of major gas pipelines touching the focus countries.
+# Capacities are approximate nameplate figures from public operator / press
+# sources, in billion cubic metres per year (bcm/y). Verify before using them
+# for commercial decisions.
+# -----------------------------------------------------------------------------
+reference_pipelines:
+  - name: "Trans-Mediterranean (Enrico Mattei)"
+    origin_iso3: DZA
+    destination: "Tunisia, Italy"
+    region: "North Africa - Europe"
+    length_km: 2475
+    capacity_bcm_y: 33.5
+    start_year: 1983
+    status: "Operational"
+  - name: "Medgaz"
+    origin_iso3: DZA
+    destination: "Spain"
+    region: "North Africa - Europe"
+    length_km: 757
+    capacity_bcm_y: 10.5
+    start_year: 2011
+    status: "Operational"
+  - name: "Maghreb-Europe (Pedro Duran Farell)"
+    origin_iso3: DZA
+    destination: "Morocco, Spain"
+    region: "North Africa - Europe"
+    length_km: 1620
+    capacity_bcm_y: 12.0
+    start_year: 1996
+    status: "Algerian flows suspended (2021)"
+  - name: "Greenstream"
+    origin_iso3: LBY
+    destination: "Italy"
+    region: "North Africa - Europe"
+    length_km: 520
+    capacity_bcm_y: 8.0
+    start_year: 2004
+    status: "Operational"
+  - name: "Arab Gas Pipeline"
+    origin_iso3: EGY
+    destination: "Jordan, Syria, Lebanon"
+    region: "North Africa - Middle East"
+    length_km: 1200
+    capacity_bcm_y: 10.3
+    start_year: 2003
+    status: "Partially operational"
+  - name: "West African Gas Pipeline"
+    origin_iso3: NGA
+    destination: "Benin, Togo, Ghana"
+    region: "West Africa"
+    length_km: 678
+    capacity_bcm_y: 4.7
+    start_year: 2010
+    status: "Operational"
+  - name: "Ajaokuta-Kaduna-Kano (AKK)"
+    origin_iso3: NGA
+    destination: "Nigeria (domestic)"
+    region: "West Africa"
+    length_km: 614
+    capacity_bcm_y: 22.7
+    start_year: 2025
+    status: "Under construction"
+  - name: "ROMPCO Mozambique-South Africa"
+    origin_iso3: MOZ
+    destination: "South Africa"
+    region: "Southern Africa"
+    length_km: 865
+    capacity_bcm_y: 5.0
+    start_year: 2004
+    status: "Operational"
+  - name: "Mtwara-Dar es Salaam"
+    origin_iso3: TZA
+    destination: "Tanzania (domestic)"
+    region: "East Africa"
+    length_km: 542
+    capacity_bcm_y: 8.1
+    start_year: 2015
+    status: "Operational"
+  - name: "Transcontinental (Transco)"
+    origin_iso3: USA
+    destination: "US Gulf Coast to Northeast"
+    region: "North America"
+    length_km: 16000
+    capacity_bcm_y: 190.0
+    start_year: 1951
+    status: "Operational"
+
+# -----------------------------------------------------------------------------
+# Filesystem layout (relative to project root)
+# -----------------------------------------------------------------------------
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  database: "data/natural_gas.db"
+  report_dir: "reports"
+
+# -----------------------------------------------------------------------------
+# Runtime behaviour
+# -----------------------------------------------------------------------------
+pipeline:
+  log_level: "INFO"
+  request_timeout_seconds: 30
+  max_retries: 5
+  retry_backoff_seconds: 2
+  min_year: 2000
+  max_year: 2026
+  pct_min: 0.0
+  pct_max: 100.0
