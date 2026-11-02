@@ -1,0 +1,30 @@
+world_bank:
+  base_url: "https://api.worldbank.org/v2"
+  indicators:
+    urban_population: "SP.URB.TOTL"
+    urban_growth_rate: "SP.URB.GROW"
+    gdp_per_capita: "NY.GDP.PCAP.CD"
+    urban_pct_total: "SP.URB.TOTL.IN.ZS"
+  per_page: 500
+  mrv: 5
+  timeout_seconds: 30
+  max_retries: 3
+
+brt_data:
+  source_url: "https://brtdata.org/"
+  local_path: "data/raw/brt_systems_africa_usa.csv"
+
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  database: "data/transit_analytics.db"
+  logs: "logs"
+
+pipeline:
+  schedule: "@weekly"
+  retries: 2
+  retry_delay_minutes: 5
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

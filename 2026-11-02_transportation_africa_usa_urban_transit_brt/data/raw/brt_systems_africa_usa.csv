@@ -1,0 +1,21 @@
+city,country,iso3,continent,system_name,year_opened,corridor_length_km,daily_ridership,num_stations,fleet_size,status,operator,source
+Lagos,Nigeria,NGA,Africa,Lagos BRT-Lite,2008,22.0,200000,24,220,Operational,LAMATA,ITDP BRT Data
+Johannesburg,South Africa,ZAF,Africa,Rea Vaya,2009,25.0,42000,33,145,Operational,City of Johannesburg,ITDP BRT Data
+Cape Town,South Africa,ZAF,Africa,MyCiTi,2011,41.0,35000,52,120,Operational,City of Cape Town,ITDP BRT Data
+Dar es Salaam,Tanzania,TZA,Africa,DART,2016,20.9,180000,29,140,Operational,DART Agency,ITDP BRT Data
+Accra,Ghana,GHA,Africa,Accra BRT,2023,38.0,50000,40,100,Operational,GPRTU/AAYALOLO,ITDP BRT Data
+Nairobi,Kenya,KEN,Africa,Nairobi BRT,2022,28.0,75000,35,80,Operational,NMS,ITDP BRT Data
+Abidjan,Cote d'Ivoire,CIV,Africa,Abidjan BRT,2024,22.5,60000,28,90,Operational,SOTRA,ITDP BRT Data
+Addis Ababa,Ethiopia,ETH,Africa,Addis Ababa BRT,2015,24.0,120000,30,110,Operational,AACRA,ITDP BRT Data
+Kampala,Uganda,UGA,Africa,Kampala BRT,2023,18.0,45000,22,60,Operational,KCCA,ITDP BRT Data
+Dakar,Senegal,SEN,Africa,Dakar BRT,2024,18.3,55000,23,121,Operational,CETUD,ITDP BRT Data
+Los Angeles,United States,USA,North America,Metro Rapid,2000,580.0,350000,450,2200,Operational,LA Metro,ITDP BRT Data
+Cleveland,United States,USA,North America,HealthLine,2008,9.7,16000,36,60,Operational,GCRTA,ITDP BRT Data
+New York,United States,USA,North America,Select Bus Service,2008,320.0,400000,600,1800,Operational,MTA,ITDP BRT Data
+Chicago,United States,USA,North America,Jeffery Jump,2012,14.5,12000,28,45,Operational,CTA,ITDP BRT Data
+Eugene,United States,USA,North America,EmX,2007,27.0,18000,50,30,Operational,Lane Transit District,ITDP BRT Data
+Pittsburgh,United States,USA,North America,East Busway,1983,10.5,25000,12,200,Operational,Port Authority,ITDP BRT Data
+Boston,United States,USA,North America,Silver Line,2002,12.0,30000,18,60,Operational,MBTA,ITDP BRT Data
+Houston,United States,USA,North America,Silver Line BRT,2019,24.0,8000,30,25,Operational,METRO,ITDP BRT Data
+Denver,United States,USA,North America,Flatiron Flyer,2016,29.0,10000,12,30,Operational,RTD,ITDP BRT Data
+San Francisco,United States,USA,North America,Rapid Network,2015,85.0,120000,180,400,Operational,SFMTA,ITDP BRT Data
