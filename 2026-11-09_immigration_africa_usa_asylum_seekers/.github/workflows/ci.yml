@@ -1,0 +1,56 @@
+name: CI - Africa USA Asylum Immigration Pipeline
+
+on:
+  push:
+  pull_request:
+
+env:
+  PROJECT_SUBDIR: 2026-11-09_immigration_africa_usa_asylum_seekers
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Locate project directory (standalone repo or monorepo sub-folder)
+        run: |
+          if [ -d "$PROJECT_SUBDIR" ]; then echo "PROJECT_DIR=$PROJECT_SUBDIR" >> "$GITHUB_ENV"; else echo "PROJECT_DIR=." >> "$GITHUB_ENV"; fi
+      - name: Install flake8
+        run: pip install flake8==7.0.0
+      - name: Run flake8
+        run: |
+          cd "$PROJECT_DIR"
+          flake8 src dags --max-line-length=120 --count --show-source --statistics
+
+  smoke_test:
+    name: Smoke test (ingest --dry-run)
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Locate project directory (standalone repo or monorepo sub-folder)
+        run: |
+          if [ -d "$PROJECT_SUBDIR" ]; then echo "PROJECT_DIR=$PROJECT_SUBDIR" >> "$GITHUB_ENV"; else echo "PROJECT_DIR=." >> "$GITHUB_ENV"; fi
+      - name: Install requirements (Airflow excluded)
+        run: |
+          cd "$PROJECT_DIR"
+          python -m pip install --upgrade pip
+          grep -v -i "apache-airflow" requirements.txt > /tmp/requirements-ci.txt
+          pip install -r /tmp/requirements-ci.txt
+      - name: Dry-run ingestion
+        run: |
+          cd "$PROJECT_DIR"
+          python src/ingestion/ingest.py --dry-run
+      - name: Transform and load committed raw data
+        run: |
+          cd "$PROJECT_DIR"
+          python src/transformation/transform.py
+          python src/loading/load.py
+          python -c "import sqlite3; c = sqlite3.connect('data/africa_usa_immigration.db'); print({t: c.execute(f'SELECT COUNT(*) FROM {t}').fetchone()[0] for t in ('migration_flows', 'remittance_flows', 'country_profiles')})"

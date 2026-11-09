@@ -1,0 +1,22 @@
+# Core pipeline
+pandas==2.1.4
+numpy==1.26.4
+requests==2.31.0
+tenacity==8.2.3
+pyyaml==6.0.1
+sqlalchemy==2.0.25
+
+# Analysis / notebook
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+jupyter==1.0.0
+nbformat==5.9.2
+
+# Linting (CI)
+flake8==7.0.0
+
+# Orchestration (installed separately - Airflow has strict, conflicting pins):
+#   pip install "apache-airflow==2.8.1" \
+#     --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.1/constraints-3.11.txt"
+# apache-airflow==2.8.1

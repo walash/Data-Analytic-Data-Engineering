@@ -1,0 +1,114 @@
+# ---------------------------------------------------------------------------
+# African Asylum Seekers & Immigration Flows to the USA - pipeline configuration
+# All paths are relative to the project root. Every path can be overridden
+# with an environment variable (see docker/docker-compose.yml).
+# No API keys are required: the World Bank Open Data API is public.
+# ---------------------------------------------------------------------------
+
+api:
+  worldbank_base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 1000          # rows per API page
+  mrv: 5                  # most recent values (years) per country
+  request_timeout: 30     # seconds
+  max_retries: 4
+  backoff_seconds: 2
+  indicators:
+    - code: "SM.POP.NETM"
+      name: "net_migration"
+      description: "Net migration (immigrants minus emigrants)"
+    - code: "SM.POP.TOTL"
+      name: "migrant_stock_total"
+      description: "International migrant stock, total"
+    - code: "SM.POP.TOTL.ZS"
+      name: "migrant_stock_pct_pop"
+      description: "International migrant stock (% of population)"
+    - code: "BX.TRF.PWKR.DT.GD.ZS"
+      name: "remittances_pct_gdp"
+      description: "Personal remittances, received (% of GDP)"
+
+reference_sources:
+  unhcr_refugee_data_finder: "https://www.unhcr.org/refugee-statistics/"
+  dhs_yearbook: "https://www.dhs.gov/immigration-statistics/yearbook"
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  db_path: "data/africa_usa_immigration.db"
+  report_path: "data/pipeline_report.txt"
+  migration_raw_file: "africa_usa_migration_data.csv"
+  remittances_raw_file: "africa_remittances_migration.csv"
+  migration_processed_file: "processed_migration.csv"
+  remittances_processed_file: "processed_remittances.csv"
+
+pipeline:
+  log_level: "INFO"
+  years_range:
+    start: 2021
+    end: 2025
+  usa_iso_code: "USA"
+  remittance_thresholds:     # % of GDP
+    high: 10.0               # >= 10  -> high
+    medium: 3.0              # >= 3   -> medium, below -> low
+  african_country_iso_codes:
+    - DZA
+    - AGO
+    - BEN
+    - BWA
+    - BFA
+    - BDI
+    - CPV
+    - CMR
+    - CAF
+    - TCD
+    - COM
+    - COD
+    - COG
+    - CIV
+    - DJI
+    - EGY
+    - GNQ
+    - ERI
+    - SWZ
+    - ETH
+    - GAB
+    - GMB
+    - GHA
+    - GIN
+    - GNB
+    - KEN
+    - LSO
+    - LBR
+    - LBY
+    - MDG
+    - MWI
+    - MLI
+    - MRT
+    - MUS
+    - MAR
+    - MOZ
+    - NAM
+    - NER
+    - NGA
+    - RWA
+    - STP
+    - SEN
+    - SLE
+    - SOM
+    - ZAF
+    - SSD
+    - SDN
+    - TZA
+    - TGO
+    - TUN
+    - UGA
+    - ZMB
+    - ZWE
+  # UN M49-style sub-regions used for regional aggregation
+  subregions:
+    North Africa: [DZA, EGY, LBY, MAR, SDN, TUN]
+    West Africa: [BEN, BFA, CPV, CIV, GMB, GHA, GIN, GNB, LBR, MLI, MRT, NER, NGA, SEN, SLE, TGO]
+    East Africa: [BDI, COM, DJI, ERI, ETH, KEN, MDG, MWI, MUS, MOZ, RWA, SOM, SSD, TZA, UGA, ZMB, ZWE]
+    Central Africa: [AGO, CMR, CAF, TCD, COD, COG, GNQ, GAB, STP]
+    Southern Africa: [BWA, SWZ, LSO, NAM, ZAF]
+    North America: [USA]

@@ -1,0 +1,41 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-asylum-pipeline:latest
+    container_name: africa_usa_asylum_pipeline
+    environment:
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+      RAW_DATA_DIR: /app/data/raw
+      PROCESSED_DATA_DIR: /app/data/processed
+      DB_PATH: /app/data/africa_usa_immigration.db
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  # SQLite is file-based (no server). This lightweight service shares the same
+  # volume and lets you inspect the warehouse once the pipeline has finished:
+  #   docker compose run --rm sqlite
+  sqlite:
+    image: keinos/sqlite3:latest
+    container_name: africa_usa_asylum_sqlite
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      DB_PATH: /data/africa_usa_immigration.db
+    volumes:
+      - ../data:/data
+      - ../sql:/sql:ro
+    entrypoint: ["sqlite3", "-header", "-column", "/data/africa_usa_immigration.db"]
+    stdin_open: true
+    tty: true
+    profiles: ["tools"]
