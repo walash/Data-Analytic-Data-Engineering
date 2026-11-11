@@ -1,0 +1,80 @@
+# Configuration for the AI-Driven Climate & Environmental Monitoring pipeline
+# (Africa and USA). All paths are relative to the project root.
+
+world_bank_api:
+  base_url: "https://api.worldbank.org/v2"
+  per_page: 1000
+  mrv: 10
+  timeout_seconds: 30
+  max_retries: 3
+  backoff_factor: 2
+
+countries:
+  - US
+  - NG
+  - KE
+  - ZA
+  - ET
+  - GH
+  - EG
+  - TZ
+  - UG
+  - SN
+  - CM
+  - CI
+  - MZ
+  - ZM
+  - ZW
+  - AO
+  - SD
+  - ML
+  - BF
+  - NE
+  - RW
+  - MG
+  - BJ
+  - TG
+  - GN
+  - SL
+  - LR
+  - GM
+  - GW
+  - CV
+
+indicators:
+  AG.LND.FRST.ZS:
+    name: "Forest area (% of land area)"
+    file: "forest_area.csv"
+    column: "forest_area_pct"
+  EG.FEC.RNEW.ZS:
+    name: "Renewable energy consumption (% of total final energy consumption)"
+    file: "renewable_energy.csv"
+    column: "renewable_energy_pct"
+  AG.LND.AGRI.ZS:
+    name: "Agricultural land (% of land area)"
+    file: "agricultural_land.csv"
+    column: "agricultural_land_pct"
+  EG.USE.ELEC.KH.PC:
+    name: "Electric power consumption (kWh per capita)"
+    file: "electric_power_consumption.csv"
+    column: "electric_power_kwh_pc"
+  EG.ELC.ACCS.ZS:
+    name: "Access to electricity (% of population)"
+    file: "electricity_access.csv"
+    column: "electricity_access_pct"
+
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  database: "data/climate_monitoring.db"
+  reports: "data/reports"
+
+ml:
+  forecast_years: [2025, 2026, 2027]
+  model: "LinearRegression"
+  target_indicator: "EG.FEC.RNEW.ZS"
+  min_training_points: 3
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

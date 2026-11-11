@@ -1,0 +1,301 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2024,51.152931739793
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2023,51.5620357744445
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2022,51.971139809096
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2021,52.3802438437475
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2020,52.789347878399
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2019,53.1984519130504
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2018,53.6075559477019
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2017,54.0166599823534
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2016,54.4257640170049
+AGO,Angola,AG.LND.FRST.ZS,Forest area (% of land area),2015,54.8348680516564
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2024,28.1185704150408
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2023,28.4500709471444
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2022,28.7816601631784
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2021,29.113160695282
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2020,29.4446612273856
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2019,29.7761617594892
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2018,30.1076622915928
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2017,30.4392515076268
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2016,30.7707520397304
+BEN,Benin,AG.LND.FRST.ZS,Forest area (% of land area),2015,31.102252571834
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2024,12.269115497076
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2023,12.7072002923977
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2022,13.1452850877193
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2021,13.5833698830409
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2020,14.0214546783626
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2019,14.4595394736842
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2018,14.8976242690058
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2017,15.3357090643275
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2016,15.7737938596491
+BFA,Burkina Faso,AG.LND.FRST.ZS,Forest area (% of land area),2015,16.2118786549708
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2024,12.1224842767296
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2023,12.3766352201258
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2022,12.6308176100629
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2021,12.8849685534591
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2020,13.1391194968553
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2019,13.3091194968553
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2018,13.4790880503145
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2017,13.6490880503145
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2016,13.8190566037736
+CIV,Cote d'Ivoire,AG.LND.FRST.ZS,Forest area (% of land area),2015,13.9890566037736
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2024,40.7441771910897
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2023,40.9915804615938
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2022,41.239004886717
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2021,41.4864081572211
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2020,41.7338325823444
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2019,42.1114425334772
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2018,42.4890313299909
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2017,42.8666412811237
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2016,43.2442300776375
+CMR,Cameroon,AG.LND.FRST.ZS,Forest area (% of land area),2015,43.6218400287703
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2024,12.5161290322581
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2023,12.3622828784119
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2022,12.2084367245658
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2021,12.0545905707196
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2020,11.9007444168735
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2019,11.7468982630273
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2018,11.5930521091811
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2017,11.439205955335
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2016,11.2853598014888
+CPV,Cabo Verde,AG.LND.FRST.ZS,Forest area (% of land area),2015,11.1315136476427
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2024,0.0041187402682204
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2023,0.0041187402682204
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2022,0.00410869456024913
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2021,0.00410869456024913
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2020,0.00409864885227786
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2019,0.00409864885227786
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2018,0.00409864885227786
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2017,0.00409864885227786
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2016,0.00409864885227786
+EGY,"Egypt, Arab Rep.",AG.LND.FRST.ZS,Forest area (% of land area),2015,0.00409864885227786
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2024,23.8393996870964
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2023,23.8428930285381
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2022,23.8390613067712
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2021,23.8401811950618
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2020,23.8392029652963
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2019,23.8403429227783
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2018,23.8430197911001
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2017,23.8462209763109
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2016,23.8491014033163
+ETH,Ethiopia,AG.LND.FRST.ZS,Forest area (% of land area),2015,23.853776533299
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2024,30.8554803039559
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2023,30.6984920868621
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2022,30.5415038697683
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2021,30.3845156526746
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2020,30.2279259877818
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2019,30.070539218487
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2018,29.9126307462424
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2017,29.7556473587062
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2016,29.5986639711699
+GHA,Ghana,AG.LND.FRST.ZS,Forest area (% of land area),2015,29.4416805836337
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2024,20.0403304574312
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2023,20.3129985349178
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2022,20.5856259156764
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2021,20.8582939931629
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2020,21.1309620706495
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2019,21.4036301481361
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2018,21.6762575288947
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2017,21.9489256063812
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2016,22.2215529871398
+GIN,Guinea,AG.LND.FRST.ZS,Forest area (% of land area),2015,22.4942210646264
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2024,21.3438735177866
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2023,21.9901185770751
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2022,22.6353754940711
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2021,23.2816205533597
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2020,23.9268774703557
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2019,24.4990118577075
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2018,25.0701581027668
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2017,25.6422924901186
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2016,26.2134387351779
+GMB,"Gambia, The",AG.LND.FRST.ZS,Forest area (% of land area),2015,26.7855731225296
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2024,74.8161450924609
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2023,74.9669274537696
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2022,75.1173541963016
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2021,75.2681365576102
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2020,75.4189189189189
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2019,75.5697012802276
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2018,75.7204836415363
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2017,75.8709103840683
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2016,76.021692745377
+GNB,Guinea-Bissau,AG.LND.FRST.ZS,Forest area (% of land area),2015,76.1724751066856
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2024,6.62673874122022
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2023,6.51579346583773
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2022,6.40480598020611
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2021,6.29381849457449
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2020,6.18283100894287
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2019,6.13200124438545
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2018,6.0808452240191
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2017,6.02932271226741
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2016,5.97746697028071
+KEN,Kenya,AG.LND.FRST.ZS,Forest area (% of land area),2015,5.92523745128009
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2024,66.1036129568106
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2023,66.5249169435216
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2022,66.9462209302326
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2021,67.3675249169435
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2020,67.7888289036545
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2019,68.8418812292359
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2018,69.8949335548173
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2017,70.9479858803987
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2016,72.0010382059801
+LBR,Liberia,AG.LND.FRST.ZS,Forest area (% of land area),2015,73.0540905315615
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2024,17.2677208662771
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2023,17.481333791681
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2022,17.6949295290478
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2021,17.9085424544517
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2020,18.1221553798556
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2019,18.329150910966
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2018,18.5361292540392
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2017,18.7431247851495
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2016,18.9501031282228
+MDG,Madagascar,AG.LND.FRST.ZS,Forest area (% of land area),2015,19.1570986593331
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2024,8.67061687114302
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2023,8.75301387488834
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2022,8.83541907407863
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2021,8.91781607782394
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2020,9.00022127701424
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2019,9.08262647620453
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2018,9.16502347994984
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2017,9.24742867914013
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2016,9.32982568288545
+MLI,Mali,AG.LND.FRST.ZS,Forest area (% of land area),2015,9.41223088207574
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2024,41.3412472341616
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2023,41.6808158905364
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2022,42.0203718304128
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2021,42.3599404867876
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2020,42.6995091431623
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2019,43.0390777995371
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2018,43.3786464559119
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2017,43.7182151122867
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2016,44.0577837686615
+MOZ,Mozambique,AG.LND.FRST.ZS,Forest area (% of land area),2015,44.3973524250362
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2024,0.836835872740191
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2023,0.84071998105313
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2022,0.844604089366069
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2021,0.848488197679008
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2020,0.852372305991948
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2019,0.862177311123392
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2018,0.871982316254835
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2017,0.881787321386279
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2016,0.891592326517723
+NER,Niger,AG.LND.FRST.ZS,Forest area (% of land area),2015,0.901397331649167
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2024,18.9475279159393
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2023,19.086838609089
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2022,19.2261602819592
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2021,19.365470975109
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2020,19.5047816682587
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2019,19.6440923614085
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2018,19.7834030545582
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2017,19.9227247274284
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2016,20.0620354205782
+NGA,Nigeria,AG.LND.FRST.ZS,Forest area (% of land area),2015,20.2013461137279
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2024,26.0939407114964
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2023,25.4737063525452
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2022,24.8601236801144
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2021,24.2476126372471
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2020,22.7738143494122
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2019,22.1836238346169
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2018,21.5934333198216
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2017,21.0032428050263
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2016,20.4130522902311
+RWA,Rwanda,AG.LND.FRST.ZS,Forest area (% of land area),2015,19.8228617754358
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2024,11.8600321199143
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2023,11.9532548179872
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2022,12.04647751606
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2021,12.1397002141328
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2020,12.2329229122056
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2019,12.3261456102784
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2018,12.4193683083512
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2017,12.512591006424
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2016,12.6058137044968
+SDN,Sudan,AG.LND.FRST.ZS,Forest area (% of land area),2015,12.6990364025696
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2024,45.0052459356983
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2023,45.0859606295123
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2022,45.1666753233262
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2021,45.2473900171402
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2020,45.3281047109541
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2019,45.4088194047681
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2018,45.4895860385395
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2017,45.5703007323534
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2016,45.6510673661248
+SEN,Senegal,AG.LND.FRST.ZS,Forest area (% of land area),2015,45.7317820599387
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2024,34.0260459961208
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2023,34.2992518703242
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2022,34.5725962870601
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2021,34.8458021612635
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2020,35.1191465779994
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2019,35.3924909947354
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2018,35.6656968689388
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2017,35.9390412856747
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2016,36.2122471598781
+SLE,Sierra Leone,AG.LND.FRST.ZS,Forest area (% of land area),2015,36.485591576614
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2024,22.4567015995587
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2023,22.4008089722375
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2022,22.3449163449163
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2021,22.2890237175951
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2020,22.2331310902739
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2019,22.2875528589814
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2018,22.3419746276889
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2017,22.3965802537231
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2016,22.4510020224306
+TGO,Togo,AG.LND.FRST.ZS,Forest area (% of land area),2015,22.5054237911381
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2024,49.6255656108597
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2023,50.1561085972851
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2022,50.6866515837104
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2021,51.2171945701357
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2020,51.7477375565611
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2019,52.1720478663355
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2018,52.70151275683
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2017,53.2309776473245
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2016,53.7604425378189
+TZA,Tanzania,AG.LND.FRST.ZS,Forest area (% of land area),2015,54.2899074283134
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2024,11.9477857570317
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2023,12.0879214043487
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2022,12.2280071813285
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2021,12.3681428286455
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2020,12.5082784759625
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2019,12.6484141232795
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2018,12.7884999002593
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2017,12.9286355475763
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2016,13.0687213245562
+UGA,Uganda,AG.LND.FRST.ZS,Forest area (% of land area),2015,13.2088569718731
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2024,33.7764090858406
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2023,33.7842801576838
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2022,33.792151229527
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2021,33.8000223013702
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2020,33.8078933732134
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2019,33.8262592075142
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2018,33.8446250418151
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2017,33.8629908761159
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2016,33.8813567104167
+USA,United States,AG.LND.FRST.ZS,Forest area (% of land area),2015,33.8997225447175
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2024,18.7899084156988
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2023,18.7177291050128
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2022,18.6455415509154
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2021,18.5733622402295
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2020,18.5011746861321
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2019,18.4289871320347
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2018,18.3568078213488
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2017,18.2846202672514
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2016,18.2124409565655
+ZAF,South Africa,AG.LND.FRST.ZS,Forest area (% of land area),2015,18.1402534024681
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2024,60.4950967863436
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2023,60.6257818910666
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2022,60.7564804476789
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2021,60.8871655524018
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2020,61.0178641090141
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2019,61.1241474865145
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2018,61.2304174121255
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2017,61.3367007896259
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2016,61.442970715237
+ZMB,Zambia,AG.LND.FRST.ZS,Forest area (% of land area),2015,61.5492540927373
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2024,35.7218818663565
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2023,35.8588858730774
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2022,35.9958898797984
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2021,36.1328938865193
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2020,36.2698978932403
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2019,36.4103399250355
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2018,36.5507819568308
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2017,36.6912498384387
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2016,36.8316918702339
+ZWE,Zimbabwe,AG.LND.FRST.ZS,Forest area (% of land area),2015,36.9721339020292

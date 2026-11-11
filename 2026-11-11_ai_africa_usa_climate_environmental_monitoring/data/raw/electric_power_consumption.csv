@@ -1,0 +1,209 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,353.45651089936
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,379.103010494775
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,373.031827755774
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,394.730414127544
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,439.11817393803
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,411.266102851676
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,370.736573340292
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,315.199297075801
+AGO,Angola,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,331.664900231538
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,122.660157242854
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,114.662043901248
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,105.309051541913
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,113.244820465956
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,98.4685048831427
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,98.6897288428983
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,96.9043345066564
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,95.1014055074096
+BEN,Benin,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,92.068263531
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,145.442772600416
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,140.885588394502
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,126.66023310281
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,126.481894289597
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,131.898174423114
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,124.034250245397
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,118.943426181293
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,112.192336268178
+BFA,Burkina Faso,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,108.87073583584
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,365.939620275798
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,353.786896305786
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,329.198859733584
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,308.066171709492
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,290.225477736832
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,278.863458668069
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,259.756592707161
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,272.618059554926
+CIV,Cote d'Ivoire,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,239.636113254613
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,202.309153658266
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,204.280969229316
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,209.063361759847
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,219.276752302499
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,206.939508880353
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,223.358377674042
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,241.752294157516
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,242.740969524093
+CMR,Cameroon,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,233.263513455033
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,1555.43770012419
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,1524.78127095524
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,1483.27646718005
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,1459.17777451245
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,1431.42132830586
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,1509.96960963248
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,1557.63378420568
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,1564.91967674335
+EGY,"Egypt, Arab Rep.",EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,1478.93755564303
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,157.375713073914
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,112.781173162289
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,95.8732572287945
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,84.1175599639321
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,93.6193915200374
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,92.6407675901917
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,92.2387451156602
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,81.0730855857406
+ETH,Ethiopia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,81.1483241249976
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,597.89561888093
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,564.994926884211
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,552.502821188307
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,542.211680584058
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,503.546668885278
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,469.785528590296
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,444.388811977184
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,408.852814786176
+GHA,Ghana,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,342.03386738215
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,195.293727720461
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,190.082933008388
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,189.355465367737
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,184.426039295693
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,172.643819770653
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,175.810605144907
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,178.142110438668
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,175.597404158555
+KEN,Kenya,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,173.266602252732
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,76.7402902103166
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,80.0745430526006
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,81.4133702766487
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,80.1587466513094
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,70.250438322671
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,82.8503526313704
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,82.2333546196851
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,81.2665941849776
+MDG,Madagascar,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,66.7051035189643
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,389.613397133718
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,390.662628035663
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,397.688086989546
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,406.177659755644
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,417.428866872611
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,459.102715197705
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,450.331173296726
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,472.868499704595
+MOZ,Mozambique,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,481.909112175558
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,64.2561973382175
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,61.6211083947789
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,60.3666889183234
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,61.7905211544788
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,59.8289549627106
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,59.3522059694113
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,55.615475145674
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,56.1686470157887
+NER,Niger,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,65.2139663467895
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,140.562460777052
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,144.201225765272
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,140.859842211882
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,153.01839223508
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,145.306331424672
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,138.310195685441
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,139.505092631211
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,138.229048934756
+NGA,Nigeria,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,177.391238499885
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,79.2617184768255
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,76.6779335454565
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,69.5185638006802
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,61.9980442162863
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,56.1005008710885
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,56.2769414116339
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,57.4151369042719
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,48.7622581760785
+RWA,Rwanda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,48.6610533624662
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,191.758153680979
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,250.225851711588
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,307.674575149282
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,298.271634773217
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,297.012789118077
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,292.964536998464
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,305.195977915378
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,311.581791824032
+SDN,Sudan,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,287.252327272209
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,419.306383574864
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,386.832900633287
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,399.521774928173
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,329.600129888931
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,312.164609920211
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,310.52554399758
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,271.6391054245
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,263.069432882787
+SEN,Senegal,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,275.831867207475
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,242.310824477747
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,245.748645707303
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,217.261547705331
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,181.573594134001
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,180.789706902392
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,185.828600675203
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,139.041479948395
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,187.182925640456
+TGO,Togo,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,137.899735643568
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,171.396923726414
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,134.964321593904
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,131.645190451371
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,129.045787571789
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,119.331902728164
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,121.740824161383
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,110.956072067997
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,107.972829443359
+TZA,Tanzania,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,105.696318109911
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,98.6702173815855
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,95.2799806135246
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,89.8489896554032
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,84.2718716436369
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,78.9299323537414
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,80.8146357142503
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,75.1819445159174
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,69.0687010315355
+UGA,Uganda,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,75.6459831905605
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2025,13063.5600394666
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,12933.7026197975
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,12710.8412318637
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,12968.9908185331
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,12676.1905924491
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,12385.1754698495
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,12765.8122078838
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,13020.2554030622
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,12600.0965271555
+USA,United States,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,12784.7057163031
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,3308.19100048874
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,3247.14853342661
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,3404.62349072379
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,3518.45270679031
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,3477.81901111187
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,3768.65196675465
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,3906.31764444206
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,3939.81715536776
+ZAF,South Africa,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,3935.6578258883
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,513.817621767551
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,726.501902507556
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,704.56228268057
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,674.875802192933
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,618.487627755236
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,714.330507033144
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,749.155607325401
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,719.555629963787
+ZMB,Zambia,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,661.329091746139
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2024,552.710943778885
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,512.336527501493
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,557.842352407011
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,463.689474280585
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,482.066979551859
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,540.357615637316
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,642.790305892094
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,543.528086650164
+ZWE,Zimbabwe,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,512.249958802199

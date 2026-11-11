@@ -1,0 +1,48 @@
+# Run from the docker/ directory:
+#   docker compose up --build pipeline      # run the ETL once
+#   docker compose up -d adminer            # inspect the SQLite DB at http://localhost:8080
+# In Adminer choose System "SQLite 3", Database "/data/climate_monitoring.db",
+# leave username empty and use password "adminer". Adminer refuses password-less
+# SQLite logins by default, so the inline config below enables the official
+# login-password-less plugin with that password (requires Docker Compose >= 2.23).
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: climate-monitoring:latest
+    container_name: climate_monitoring_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      RAW_DATA_DIR: "/app/data/raw"
+      PROCESSED_DATA_DIR: "/app/data/processed"
+      DB_PATH: "/app/data/climate_monitoring.db"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    restart: "no"
+
+  adminer:
+    image: adminer:4.8.1
+    container_name: climate_monitoring_adminer
+    depends_on:
+      - pipeline
+    environment:
+      ADMINER_DEFAULT_SERVER: "/data/climate_monitoring.db"
+    configs:
+      - source: adminer_sqlite_login
+        target: /var/www/html/plugins-enabled/login-password-less.php
+    volumes:
+      - ../data:/data
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
+configs:
+  adminer_sqlite_login:
+    content: |
+      <?php
+      require_once('plugins/login-password-less.php');
+      return new AdminerLoginPasswordLess(password_hash('adminer', PASSWORD_DEFAULT));

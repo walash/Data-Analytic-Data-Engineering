@@ -1,0 +1,301 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,55.5
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,51.1
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,48.5
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,48.2
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,47
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,45.6
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,45.3
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,42.9
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,41.8
+AGO,Angola,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,42
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,59
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,57
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,56.5
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,42
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,41
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,40
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,39
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,34.5
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,37
+BEN,Benin,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,29.6
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,34
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,21.7
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,19.5
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,19
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,18.5
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,17.6
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,14.4
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,17
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,16.6
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,16.2
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,72.9
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,72.4
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,70.4
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,71.1
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,69.9
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,68.6
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,67.1
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,65.6
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,64.3
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,62.6
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,72
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,72
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,71
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,65.4
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,64.3
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,63.2
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,62.2
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,60.9
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,59.8
+CMR,Cameroon,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,58.6
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,98.4
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,98.6
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,97.1
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,95.5
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,93.7
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,91.4
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,90.2
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,88.6
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,87.5
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,86.4
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,100
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,99.3
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,56.6
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,55.4
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,55
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,54.2
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,51.1
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,48
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,44.8
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,44.3
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,42.9
+ETH,Ethiopia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,29
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,91.9
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,89.5
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,85.1
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,86.3
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,85.4
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,83.5
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,80.4
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,79
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,79.3
+GHA,Ghana,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,74
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,53.8
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,51.1
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,47.7
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,46.8
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,44.7
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,42.2
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,45
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,35.4
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,33.5
+GIN,Guinea,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,34.9
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,69
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,66.9
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,65.4
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,63.7
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,62.2
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,62.1
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,60.3
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,56.2
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,56.4
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,54.7
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,43.7
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,40.5
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,37.4
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,35.8
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,33.4
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,30.9
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,28.4
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,26
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,22.9
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,20.1
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,77
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,76.2
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,76
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,76.5
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,71.5
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,69.7
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,61.2
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,55.8
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,53.1
+KEN,Kenya,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,41.6
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,34.9
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,32.5
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,31.8
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,29.8
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,27.6
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,23.1
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,22.8
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,24.2
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,17.7
+LBR,Liberia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,15.2
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,42.5
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,39.4
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,36.1
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,35.1
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,32
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,31
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,36.5
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,24.1
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,22.9
+MDG,Madagascar,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,23.8
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,49.5
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,54.5
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,53
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,53.4
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,50.6
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,47.9
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,50.9
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,34.8
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,38.8
+MLI,Mali,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,37.6
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,36.9
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,36
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,33.2
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,31.5
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,30.6
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,29.7
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,31.1
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,24.3
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,26.2
+MOZ,Mozambique,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,24
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,21.3
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,20.1
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,19.5
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,18.6
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,18.7
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,18.5
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,17.6
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,17.6
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,17
+NER,Niger,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,16.6
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,62.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,61.2
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,60.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,59.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,55.4
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,55.4
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,56.5
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,54.4
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,59.3
+NGA,Nigeria,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,52.5
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,72
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,63.9
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,50.6
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,48.7
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,45.2
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,46.6
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,38
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,34.1
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,29.4
+RWA,Rwanda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,22.8
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,66
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,66
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,63.2
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,61.8
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,59.7
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,57.6
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,55.3
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,53
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,50.5
+SDN,Sudan,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,48
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,82.9
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,74.2
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,67.9
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,68
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,64.3
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,70.4
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,66
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,61.7
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,64.5
+SEN,Senegal,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,60.5
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,39.2
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,35.5
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,29.4
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,27.5
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,26.3
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,22.7
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,26.1
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,23.4
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,20.3
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,19.7
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,61.1
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,59.2
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,57.2
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,55.7
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,54.1
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,52.5
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,50
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,48
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,46.8
+TGO,Togo,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,44.7
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,52.4
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,48.3
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,45.8
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,42.7
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,39.9
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,37.7
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,34.9
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,32.1
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,32.8
+TZA,Tanzania,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,26.2
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,55.3
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,51.5
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,47.1
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,45.2
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,42.1
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,41.3
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,41.9
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,32.4
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,26.7
+UGA,Uganda,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,18.5
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,100
+USA,United States,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,100
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,90.2
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,87.7
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,86.5
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,89.3
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,90
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,85
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,84.7
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,84.4
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,83.9
+ZAF,South Africa,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,85.3
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,53.6
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,51.1
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,47.8
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,46.7
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,44.6
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,43
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,40.2
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,40.3
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,35.4
+ZMB,Zambia,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,31.1
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,62
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,62
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,50.1
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,49
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,52.7
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,46.7
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,45.4
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,44
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,42.5
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,33.7

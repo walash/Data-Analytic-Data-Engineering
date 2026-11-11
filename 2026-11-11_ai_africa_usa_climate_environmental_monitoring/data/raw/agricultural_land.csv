@@ -1,0 +1,301 @@
+country_code,country_name,indicator_id,indicator_name,year,value
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,36.3241918665276
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,36.3188256998476
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,36.1508622764097
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,36.0733376112938
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,36.0361674821529
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,35.9977861554504
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,35.906457046603
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,35.8595091040347
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,35.8791609850004
+AGO,Angola,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,36.0001443811663
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,43.1411848173111
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,42.7430826534232
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,43.2855622561192
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,41.5428343384179
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,39.7825470024831
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,41.8181979425328
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,40.3148279531749
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,36.5955125931181
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,34.3805427456545
+BEN,Benin,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,36.1229159276339
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,62.5760233918129
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,62.6061038011696
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,62.5720029239766
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,62.046418128655
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,61.7061403508772
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,61.2637061403509
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,61.0588084795322
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,60.4484283625731
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,59.9370614035088
+BFA,Burkina Faso,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,59.4955774853801
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,83.8629245283019
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,81.4265408805031
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,83.6127358490566
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,81.8311949685535
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,81.477893081761
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,80.8783018867924
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,81.9000628930818
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,78.1709119496855
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,75.7008805031446
+CIV,Cote d'Ivoire,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,77.285534591195
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,21.0848511772546
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,20.9365149880476
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,20.8921114425335
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,20.8477290516384
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,20.8033255061243
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,20.7589431152292
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,20.714539569715
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,20.67015717882
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,20.6257536333058
+CMR,Cameroon,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,20.6257536333058
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,24.7890818858561
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,24.8387096774194
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,24.8759305210918
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,24.7816377171216
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,24.7866004962779
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,24.7965260545906
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,24.8734491315136
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,24.8982630272953
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,24.8014888337469
+CPV,Cabo Verde,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,24.9156327543424
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,4.24832990104978
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,4.13682254256869
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,4.0775528655382
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,4.05042945401577
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,3.98915063539103
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,3.93992666633181
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,3.88065698930132
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,3.85450680596715
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,3.75083168416294
+EGY,"Egypt, Arab Rep.",AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,3.80719985936009
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,34.2712212472156
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,34.2712212472156
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,34.2606939137246
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,34.5364693277064
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,34.2679358013142
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,34.0097979208873
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,33.7530851796324
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,33.4295372416876
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,33.241331912246
+ETH,Ethiopia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,33.0556231612332
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,55.3897676381008
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,55.3897676381008
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,55.393019913595
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,55.393019913595
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,55.393750274689
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,54.8490548623716
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,53.6940318185813
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,53.1069702030412
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,54.3110661861651
+GHA,Ghana,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,54.5640766458645
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,73.2240761842748
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,73.1241250203484
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,71.8979326062185
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,70.4162461338108
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,68.9658147484942
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,68.7576509848608
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,69.6648217483314
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,68.8490558359108
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,68.0758993976884
+GIN,Guinea,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,67.5789516522872
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,76.1166007905138
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,76.00395256917
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,75.199604743083
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,72.8814229249012
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,70.6185770750988
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,68.3577075098814
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,66.5088932806324
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,64.6571146245059
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,64.0750988142292
+GMB,"Gambia, The",AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,63.5760869565217
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,31.3979374110953
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,30.3605974395448
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,29.99679943101
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,29.9953769559033
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,29.4843527738265
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,29.1856330014225
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,28.9601706970128
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,28.4068278805121
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,28.4206970128023
+GNB,Guinea-Bissau,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,28.2990753911807
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,50.0384588899601
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,49.9050142000973
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,49.568798038412
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,49.1347297178418
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,49.0831869022716
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,49.0794674154629
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,49.0670305020658
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,48.9968838705257
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,48.9661062231514
+KEN,Kenya,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,48.9237275477805
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,20.0985257475083
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,20.0763081395349
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,20.0539867109635
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,20.03176910299
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,20.0095514950166
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,19.9873338870432
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,19.797549833887
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,19.483907807309
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,19.1702657807309
+LBR,Liberia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,18.8584925249169
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,70.3550704709522
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,70.3550704709522
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,70.3308009625301
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,70.3216741148161
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,70.3128394637332
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,70.3038844963905
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,70.3038844963905
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,70.3038844963905
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,70.3038844963905
+MDG,Madagascar,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,70.2856651770368
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,34.1546316557258
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,34.1566477351888
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,34.1566477351888
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,34.7051852580336
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,34.1997885575197
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,33.8381563526992
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,33.7163146723051
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,33.4333587392127
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,33.3963563051656
+MLI,Mali,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,33.3830469025316
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,56.1118670362929
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,56.1396653017625
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,55.9592436226761
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,55.8023601821003
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,55.6629873598006
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,55.545779394186
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,55.3658409420382
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,55.0176250667616
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,54.5416210992141
+MOZ,Mozambique,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,53.9760166840459
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,36.8033867529802
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,36.8033867529802
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,36.8033867529802
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,36.8033867529802
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,36.8033867529802
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,36.7163969369227
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,36.6299123707271
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,36.5434278045315
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,36.4569511328649
+NER,Niger,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,36.3704665666693
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,77.0868495888095
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,77.0789002711991
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,76.0557769799181
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,75.0540312043655
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,74.8916960374189
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,75.1139475388957
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,77.2707818658937
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,77.2326932156307
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,75.9800718073718
+NGA,Nigeria,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,74.7611361814728
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,75.6676475197479
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,75.2629364745477
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,78.3172100458542
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,81.3474990534685
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,73.552492906364
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,73.3469801378192
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,75.8001621402513
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,78.6996351844345
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,79.3696797730036
+RWA,Rwanda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,80.0798540737738
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,60.3131691648822
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,60.3131691648822
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,60.3131691648822
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,60.3131691648822
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,60.3167023554604
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,60.3167023554604
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,60.3155781584583
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,60.1510278372591
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,59.9865096359743
+SDN,Sudan,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,59.8232762312634
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,49.4081961252792
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,49.4081961252792
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,49.4081961252792
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,49.4081961252792
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,48.9926764660053
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,48.810886615073
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,48.605412143562
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,48.4236222926297
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,48.2418324416974
+SEN,Senegal,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,48.4495922713343
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,55.2434192297035
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,54.7104461069548
+SLE,Sierra Leone,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,54.7104461069548
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,69.0763007905865
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,69.0049641478213
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,68.8952013237728
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,68.7440706012135
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,68.7622724765582
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,68.7216400073543
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,68.6594962309248
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,68.6697922412208
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,68.8069498069498
+TGO,Togo,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,68.7699944842802
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,45.1097285067873
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,45.1097285067873
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,45.1097285067873
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,44.6824660633484
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,44.6836990950226
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,44.3553736735155
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,44.1169338451118
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,43.8785053059381
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,43.6400654775344
+TZA,Tanzania,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,43.4016369383608
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,80.2762816676641
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,80.2762816676641
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,80.2762816676641
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,80.2762816676641
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,80.7949331737482
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,81.3135846798324
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,80.0219429483343
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,78.7303012168362
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,78.3532814681827
+UGA,Uganda,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,77.9762617195292
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,46.0829796817026
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,46.0829796817026
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,46.0829796817026
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,46.2076629257211
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,46.3323472629441
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,46.4570305069626
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,46.5817148441856
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,46.7063980882041
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,46.6130537353702
+USA,United States,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,46.5197082893319
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,79.4178502831612
+ZAF,South Africa,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,79.4178502831612
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,32.0699632763422
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,32.0698825650063
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,32.0698960168956
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,32.0697211423344
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,32.0696000753306
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,32.0706224189187
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,32.0689005770861
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,32.0696000753306
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,31.9337763488882
+ZMB,Zambia,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,31.9332382733155
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2024,48.0571797854466
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2023,48.0556804963164
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2022,48.0623238981517
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2021,48.0734910171901
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2020,48.0812718107794
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2019,48.0840894403516
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2018,48.0811942613416
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2017,48.0861832751713
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2016,48.091921933566
+ZWE,Zimbabwe,AG.LND.AGRI.ZS,Agricultural land (% of land area),2015,48.097014346646
