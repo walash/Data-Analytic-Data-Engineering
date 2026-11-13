@@ -1,0 +1,224 @@
+iso3,country_name,region_group,africa_subregion,year,diabetes_prevalence,ncd_deaths
+AGO,Angola,Africa,Central Africa,2010,,26.2226
+AGO,Angola,Africa,Central Africa,2011,2.9,
+AGO,Angola,Africa,Central Africa,2015,,30.6735
+AGO,Angola,Africa,Central Africa,2019,,35.2602
+AGO,Angola,Africa,Central Africa,2020,,36.1246
+AGO,Angola,Africa,Central Africa,2021,,35.3016
+AGO,Angola,Africa,Central Africa,2024,4.9,
+BDI,Burundi,Africa,East Africa,2010,,28.1219
+BDI,Burundi,Africa,East Africa,2011,2.7,
+BDI,Burundi,Africa,East Africa,2015,,32.8899
+BDI,Burundi,Africa,East Africa,2019,,36.8832
+BDI,Burundi,Africa,East Africa,2020,,37.5895
+BDI,Burundi,Africa,East Africa,2021,,38.8474
+BDI,Burundi,Africa,East Africa,2024,4.3,
+BEN,Benin,Africa,West Africa,2010,,32.1988
+BEN,Benin,Africa,West Africa,2011,2.0,
+BEN,Benin,Africa,West Africa,2015,,34.6663
+BEN,Benin,Africa,West Africa,2019,,36.7246
+BEN,Benin,Africa,West Africa,2020,,37.6989
+BEN,Benin,Africa,West Africa,2021,,36.2332
+BEN,Benin,Africa,West Africa,2024,8.1,
+BFA,Burkina Faso,Africa,West Africa,2010,,27.3125
+BFA,Burkina Faso,Africa,West Africa,2011,3.0,
+BFA,Burkina Faso,Africa,West Africa,2015,,32.8202
+BFA,Burkina Faso,Africa,West Africa,2019,,36.1213
+BFA,Burkina Faso,Africa,West Africa,2020,,36.7673
+BFA,Burkina Faso,Africa,West Africa,2021,,35.6164
+BFA,Burkina Faso,Africa,West Africa,2024,4.5,
+BWA,Botswana,Africa,Southern Africa,2010,,33.4737
+BWA,Botswana,Africa,Southern Africa,2011,10.8,
+BWA,Botswana,Africa,Southern Africa,2015,,38.9657
+BWA,Botswana,Africa,Southern Africa,2019,,39.7323
+BWA,Botswana,Africa,Southern Africa,2020,,42.4992
+BWA,Botswana,Africa,Southern Africa,2021,,28.349
+BWA,Botswana,Africa,Southern Africa,2024,4.6,
+CAF,Central African Republic,Africa,Central Africa,2010,,20.3013
+CAF,Central African Republic,Africa,Central Africa,2011,3.2,
+CAF,Central African Republic,Africa,Central Africa,2015,,23.1116
+CAF,Central African Republic,Africa,Central Africa,2019,,25.0324
+CAF,Central African Republic,Africa,Central Africa,2020,,25.2716
+CAF,Central African Republic,Africa,Central Africa,2021,,22.7645
+CAF,Central African Republic,Africa,Central Africa,2024,7.6,
+CIV,Cote d'Ivoire,Africa,West Africa,2010,,25.4307
+CIV,Cote d'Ivoire,Africa,West Africa,2011,4.9,
+CIV,Cote d'Ivoire,Africa,West Africa,2015,,32.4448
+CIV,Cote d'Ivoire,Africa,West Africa,2019,,36.3174
+CIV,Cote d'Ivoire,Africa,West Africa,2020,,36.0974
+CIV,Cote d'Ivoire,Africa,West Africa,2021,,35.6702
+CIV,Cote d'Ivoire,Africa,West Africa,2024,5.0,
+CMR,Cameroon,Africa,Central Africa,2000,0.0,
+CMR,Cameroon,Africa,Central Africa,2010,,29.3244
+CMR,Cameroon,Africa,Central Africa,2011,6.1,
+CMR,Cameroon,Africa,Central Africa,2015,,33.4771
+CMR,Cameroon,Africa,Central Africa,2019,,36.7779
+CMR,Cameroon,Africa,Central Africa,2020,,37.0464
+CMR,Cameroon,Africa,Central Africa,2021,,35.72
+CMR,Cameroon,Africa,Central Africa,2024,6.9,
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2010,,27.6341
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2011,3.1,
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2015,,31.3317
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2019,,34.0716
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2020,,35.0003
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2021,,34.5598
+COD,"Congo, Dem. Rep.",Africa,Central Africa,2024,7.7,
+COG,"Congo, Rep.",Africa,Central Africa,2010,,35.256
+COG,"Congo, Rep.",Africa,Central Africa,2011,5.5,
+COG,"Congo, Rep.",Africa,Central Africa,2015,,34.4002
+COG,"Congo, Rep.",Africa,Central Africa,2019,,36.0071
+COG,"Congo, Rep.",Africa,Central Africa,2020,,35.2663
+COG,"Congo, Rep.",Africa,Central Africa,2021,,34.0124
+COG,"Congo, Rep.",Africa,Central Africa,2024,8.1,
+COM,Comoros,Africa,East Africa,2010,,45.8681
+COM,Comoros,Africa,East Africa,2011,8.4,
+COM,Comoros,Africa,East Africa,2015,,51.2162
+COM,Comoros,Africa,East Africa,2019,,52.5619
+COM,Comoros,Africa,East Africa,2020,,54.2549
+COM,Comoros,Africa,East Africa,2021,,49.6982
+COM,Comoros,Africa,East Africa,2024,10.8,
+CPV,Cabo Verde,Africa,West Africa,2010,,60.0959
+CPV,Cabo Verde,Africa,West Africa,2011,5.4,
+CPV,Cabo Verde,Africa,West Africa,2015,,65.3258
+CPV,Cabo Verde,Africa,West Africa,2019,,70.7244
+CPV,Cabo Verde,Africa,West Africa,2020,,67.1479
+CPV,Cabo Verde,Africa,West Africa,2021,,64.1201
+CPV,Cabo Verde,Africa,West Africa,2024,6.8,
+DJI,Djibouti,Africa,East Africa,2011,6.3,
+DJI,Djibouti,Africa,East Africa,2024,6.5,
+DZA,Algeria,Africa,North Africa,2010,,75.0567
+DZA,Algeria,Africa,North Africa,2011,7.0,
+DZA,Algeria,Africa,North Africa,2015,,77.2798
+DZA,Algeria,Africa,North Africa,2019,,80.1853
+DZA,Algeria,Africa,North Africa,2020,,62.5514
+DZA,Algeria,Africa,North Africa,2021,,73.8911
+DZA,Algeria,Africa,North Africa,2024,17.5,
+EGY,"Egypt, Arab Rep.",Africa,North Africa,2011,16.6,
+EGY,"Egypt, Arab Rep.",Africa,North Africa,2024,22.4,
+ERI,Eritrea,Africa,East Africa,2011,3.6,
+ERI,Eritrea,Africa,East Africa,2024,4.4,
+ETH,Ethiopia,Africa,East Africa,2011,3.4,
+ETH,Ethiopia,Africa,East Africa,2024,4.4,
+GAB,Gabon,Africa,Central Africa,2011,10.3,
+GAB,Gabon,Africa,Central Africa,2024,8.5,
+GHA,Ghana,Africa,West Africa,2011,5.0,
+GHA,Ghana,Africa,West Africa,2024,2.7,
+GIN,Guinea,Africa,West Africa,2011,4.4,
+GIN,Guinea,Africa,West Africa,2024,4.6,
+GMB,"Gambia, The",Africa,West Africa,2011,2.0,
+GMB,"Gambia, The",Africa,West Africa,2024,5.5,
+GNB,Guinea-Bissau,Africa,West Africa,2011,3.0,
+GNB,Guinea-Bissau,Africa,West Africa,2024,4.8,
+GNQ,Equatorial Guinea,Africa,Central Africa,2011,4.2,
+GNQ,Equatorial Guinea,Africa,Central Africa,2024,8.2,
+KEN,Kenya,Africa,East Africa,2011,5.1,
+KEN,Kenya,Africa,East Africa,2024,3.1,
+LBR,Liberia,Africa,West Africa,2011,3.3,
+LBR,Liberia,Africa,West Africa,2024,9.2,
+LBY,Libya,Africa,North Africa,2011,13.8,
+LBY,Libya,Africa,North Africa,2024,15.8,
+LSO,Lesotho,Africa,Southern Africa,2011,3.4,
+LSO,Lesotho,Africa,Southern Africa,2024,6.2,
+MAR,Morocco,Africa,North Africa,2011,6.8,
+MAR,Morocco,Africa,North Africa,2024,11.9,
+MDG,Madagascar,Africa,East Africa,2011,4.7,
+MDG,Madagascar,Africa,East Africa,2024,4.6,
+MLI,Mali,Africa,West Africa,2011,1.9,
+MLI,Mali,Africa,West Africa,2024,4.8,
+MOZ,Mozambique,Africa,East Africa,2011,3.1,
+MOZ,Mozambique,Africa,East Africa,2024,3.0,
+MRT,Mauritania,Africa,West Africa,2011,4.3,
+MRT,Mauritania,Africa,West Africa,2024,5.2,
+MUS,Mauritius,Africa,East Africa,2000,15.0,
+MUS,Mauritius,Africa,East Africa,2011,14.8,
+MUS,Mauritius,Africa,East Africa,2024,20.1,
+MWI,Malawi,Africa,East Africa,2011,5.6,
+MWI,Malawi,Africa,East Africa,2024,5.7,
+NAM,Namibia,Africa,Southern Africa,2011,7.8,
+NAM,Namibia,Africa,Southern Africa,2024,5.3,
+NER,Niger,Africa,West Africa,2011,4.2,
+NER,Niger,Africa,West Africa,2024,4.1,
+NGA,Nigeria,Africa,West Africa,2011,4.8,
+NGA,Nigeria,Africa,West Africa,2024,3.0,
+RWA,Rwanda,Africa,East Africa,2011,3.1,
+RWA,Rwanda,Africa,East Africa,2024,2.1,
+SDN,Sudan,Africa,North Africa,2011,8.6,
+SDN,Sudan,Africa,North Africa,2024,19.0,
+SEN,Senegal,Africa,West Africa,2011,3.2,
+SEN,Senegal,Africa,West Africa,2024,3.8,
+SLE,Sierra Leone,Africa,West Africa,2011,3.2,
+SLE,Sierra Leone,Africa,West Africa,2024,4.8,
+SOM,"Somalia, Fed. Rep.",Africa,East Africa,2011,4.3,
+SOM,"Somalia, Fed. Rep.",Africa,East Africa,2024,5.8,
+SSD,South Sudan,Africa,East Africa,2024,4.6,
+STP,Sao Tome and Principe,Africa,Central Africa,2011,5.5,
+STP,Sao Tome and Principe,Africa,Central Africa,2024,12.1,
+SWZ,Eswatini,Africa,Southern Africa,2011,3.1,
+SWZ,Eswatini,Africa,Southern Africa,2024,7.9,
+SYC,Seychelles,Africa,East Africa,2011,12.1,
+SYC,Seychelles,Africa,East Africa,2024,9.3,
+TCD,Chad,Africa,Central Africa,2010,,20.7112
+TCD,Chad,Africa,Central Africa,2011,3.9,
+TCD,Chad,Africa,Central Africa,2015,,22.2273
+TCD,Chad,Africa,Central Africa,2019,,23.9959
+TCD,Chad,Africa,Central Africa,2020,,24.2222
+TCD,Chad,Africa,Central Africa,2021,,23.4757
+TCD,Chad,Africa,Central Africa,2024,7.3,
+TGO,Togo,Africa,West Africa,2011,3.3,
+TGO,Togo,Africa,West Africa,2024,4.8,
+TUN,Tunisia,Africa,North Africa,2011,9.5,
+TUN,Tunisia,Africa,North Africa,2024,16.0,
+TZA,Tanzania,Africa,East Africa,2011,2.8,
+TZA,Tanzania,Africa,East Africa,2024,9.8,
+UGA,Uganda,Africa,East Africa,2011,2.8,
+UGA,Uganda,Africa,East Africa,2024,2.2,
+ZAF,South Africa,Africa,Southern Africa,2011,7.0,
+ZAF,South Africa,Africa,Southern Africa,2024,7.2,
+ZMB,Zambia,Africa,East Africa,2011,4.8,
+ZMB,Zambia,Africa,East Africa,2024,10.3,
+ZWE,Zimbabwe,Africa,East Africa,2011,9.8,
+ZWE,Zimbabwe,Africa,East Africa,2024,1.5,
+AFE,Africa Eastern and Southern,Benchmark,,2010,,29.4291
+AFE,Africa Eastern and Southern,Benchmark,,2011,4.5891,
+AFE,Africa Eastern and Southern,Benchmark,,2015,,35.336
+AFE,Africa Eastern and Southern,Benchmark,,2019,,39.8106
+AFE,Africa Eastern and Southern,Benchmark,,2020,,39.7693
+AFE,Africa Eastern and Southern,Benchmark,,2021,,36.618
+AFE,Africa Eastern and Southern,Benchmark,,2024,6.454,
+AFW,Africa Western and Central,Benchmark,,2010,,25.3376
+AFW,Africa Western and Central,Benchmark,,2011,4.4159,
+AFW,Africa Western and Central,Benchmark,,2015,,28.0221
+AFW,Africa Western and Central,Benchmark,,2019,,30.6797
+AFW,Africa Western and Central,Benchmark,,2020,,31.2128
+AFW,Africa Western and Central,Benchmark,,2021,,31.3558
+AFW,Africa Western and Central,Benchmark,,2024,4.2178,
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2010,,59.6521
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2011,10.7226,
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2015,,62.4349
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2019,,67.0543
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2020,,60.0573
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2021,,56.7874
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,2024,20.1369,
+NAC,North America,Benchmark,,2010,,88.0361
+NAC,North America,Benchmark,,2011,9.2978,
+NAC,North America,Benchmark,,2015,,87.8943
+NAC,North America,Benchmark,,2019,,88.3158
+NAC,North America,Benchmark,,2020,,79.4479
+NAC,North America,Benchmark,,2021,,78.1115
+NAC,North America,Benchmark,,2024,13.0353,
+SSF,Sub-Saharan Africa,Benchmark,,2010,,27.6997
+SSF,Sub-Saharan Africa,Benchmark,,2011,4.5182,
+SSF,Sub-Saharan Africa,Benchmark,,2015,,32.11
+SSF,Sub-Saharan Africa,Benchmark,,2019,,35.8471
+SSF,Sub-Saharan Africa,Benchmark,,2020,,36.1003
+SSF,Sub-Saharan Africa,Benchmark,,2021,,34.4513
+SSF,Sub-Saharan Africa,Benchmark,,2024,5.5607,
+WLD,World,Benchmark,,2010,,66.999
+WLD,World,Benchmark,,2011,8.1407,
+WLD,World,Benchmark,,2015,,70.861
+WLD,World,Benchmark,,2019,,73.7226
+WLD,World,Benchmark,,2020,,68.767
+WLD,World,Benchmark,,2021,,63.3728
+WLD,World,Benchmark,,2024,10.7978,
+USA,United States,USA,,2011,9.4,
+USA,United States,USA,,2024,13.7,

@@ -1,0 +1,40 @@
+# -----------------------------------------------------------------------------
+# Usage (from the project root):
+#   docker compose -f docker/docker-compose.yml up --build pipeline
+#   docker compose -f docker/docker-compose.yml run --rm sqlite        # SQL shell
+#   docker compose -f docker/docker-compose.yml run --rm sqlite \
+#       sh -c "sqlite3 /data/ncd_health.db < /sql/queries.sql"
+# -----------------------------------------------------------------------------
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-ncd:latest
+    container_name: ncd_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      CONFIG_PATH: /app/config/config.yaml
+      NCD_DB_PATH: /app/data/ncd_health.db
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    restart: "no"
+
+  sqlite:
+    image: keinos/sqlite3:3.46.1
+    container_name: ncd_sqlite
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      SQLITE_DATABASE: /data/ncd_health.db
+    volumes:
+      - ../data:/data
+      - ../sql:/sql:ro
+    working_dir: /data
+    entrypoint: ["sqlite3"]
+    command: ["/data/ncd_health.db"]
+    stdin_open: true
+    tty: true

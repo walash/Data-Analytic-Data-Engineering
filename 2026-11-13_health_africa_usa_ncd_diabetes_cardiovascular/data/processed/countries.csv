@@ -1,0 +1,254 @@
+iso3,country_id,country_name,region_group,africa_subregion,is_aggregate
+ABW,AW,Aruba,Other,,0
+AFE,ZH,Africa Eastern and Southern,Benchmark,,1
+AFG,AF,Afghanistan,Other,,0
+AFW,ZI,Africa Western and Central,Benchmark,,1
+AGO,AO,Angola,Africa,Central Africa,0
+ALB,AL,Albania,Other,,0
+AND,AD,Andorra,Other,,0
+ARB,1A,Arab World,Aggregate,,1
+ARE,AE,United Arab Emirates,Other,,0
+ARG,AR,Argentina,Other,,0
+ARM,AM,Armenia,Other,,0
+ATG,AG,Antigua and Barbuda,Other,,0
+AUS,AU,Australia,Other,,0
+AUT,AT,Austria,Other,,0
+AZE,AZ,Azerbaijan,Other,,0
+BDI,BI,Burundi,Africa,East Africa,0
+BEL,BE,Belgium,Other,,0
+BEN,BJ,Benin,Africa,West Africa,0
+BFA,BF,Burkina Faso,Africa,West Africa,0
+BGD,BD,Bangladesh,Other,,0
+BGR,BG,Bulgaria,Other,,0
+BHR,BH,Bahrain,Other,,0
+BHS,BS,"Bahamas, The",Other,,0
+BIH,BA,Bosnia and Herzegovina,Other,,0
+BLR,BY,Belarus,Other,,0
+BLZ,BZ,Belize,Other,,0
+BMU,BM,Bermuda,Other,,0
+BOL,BO,Bolivia,Other,,0
+BRA,BR,Brazil,Other,,0
+BRB,BB,Barbados,Other,,0
+BRN,BN,Brunei Darussalam,Other,,0
+BTN,BT,Bhutan,Other,,0
+BWA,BW,Botswana,Africa,Southern Africa,0
+CAF,CF,Central African Republic,Africa,Central Africa,0
+CAN,CA,Canada,Other,,0
+CEB,B8,Central Europe and the Baltics,Aggregate,,1
+CHE,CH,Switzerland,Other,,0
+CHL,CL,Chile,Other,,0
+CHN,CN,China,Other,,0
+CIV,CI,Cote d'Ivoire,Africa,West Africa,0
+CMR,CM,Cameroon,Africa,Central Africa,0
+COD,CD,"Congo, Dem. Rep.",Africa,Central Africa,0
+COG,CG,"Congo, Rep.",Africa,Central Africa,0
+COL,CO,Colombia,Other,,0
+COM,KM,Comoros,Africa,East Africa,0
+CPV,CV,Cabo Verde,Africa,West Africa,0
+CRI,CR,Costa Rica,Other,,0
+CSS,S3,Caribbean small states,Aggregate,,1
+CUB,CU,Cuba,Other,,0
+CUW,CW,Curacao,Other,,0
+CYM,KY,Cayman Islands,Other,,0
+CYP,CY,Cyprus,Other,,0
+CZE,CZ,Czechia,Other,,0
+DEU,DE,Germany,Other,,0
+DJI,DJ,Djibouti,Africa,East Africa,0
+DMA,DM,Dominica,Other,,0
+DNK,DK,Denmark,Other,,0
+DOM,DO,Dominican Republic,Other,,0
+DZA,DZ,Algeria,Africa,North Africa,0
+EAP,4E,East Asia & Pacific (excluding high income),Aggregate,,1
+EAR,V2,Early-demographic dividend,Aggregate,,1
+EAS,Z4,East Asia & Pacific,Aggregate,,1
+ECA,7E,Europe & Central Asia (excluding high income),Aggregate,,1
+ECS,Z7,Europe & Central Asia,Aggregate,,1
+ECU,EC,Ecuador,Other,,0
+EGY,EG,"Egypt, Arab Rep.",Africa,North Africa,0
+EMU,XC,Euro area,Aggregate,,1
+ERI,ER,Eritrea,Africa,East Africa,0
+ESP,ES,Spain,Other,,0
+EST,EE,Estonia,Other,,0
+ETH,ET,Ethiopia,Africa,East Africa,0
+EUU,EU,European Union,Aggregate,,1
+FCV,F2,"Fragility, Conflict, and Violence (FCV) situations",Other,,0
+FIN,FI,Finland,Other,,0
+FJI,FJ,Fiji,Other,,0
+FRA,FR,France,Other,,0
+FRO,FO,Faroe Islands,Other,,0
+FSM,FM,"Micronesia, Fed. Sts.",Other,,0
+GAB,GA,Gabon,Africa,Central Africa,0
+GBR,GB,United Kingdom,Other,,0
+GEO,GE,Georgia,Other,,0
+GHA,GH,Ghana,Africa,West Africa,0
+GIN,GN,Guinea,Africa,West Africa,0
+GMB,GM,"Gambia, The",Africa,West Africa,0
+GNB,GW,Guinea-Bissau,Africa,West Africa,0
+GNQ,GQ,Equatorial Guinea,Africa,Central Africa,0
+GRC,GR,Greece,Other,,0
+GRD,GD,Grenada,Other,,0
+GRL,GL,Greenland,Other,,0
+GTM,GT,Guatemala,Other,,0
+GUM,GU,Guam,Other,,0
+GUY,GY,Guyana,Other,,0
+HKG,HK,"Hong Kong SAR, China",Other,,0
+HND,HN,Honduras,Other,,0
+HPC,XE,Heavily indebted poor countries (HIPC),Aggregate,,1
+HRV,HR,Croatia,Other,,0
+HTI,HT,Haiti,Other,,0
+HUN,HU,Hungary,Other,,0
+IBD,XF,IBRD only,Aggregate,,1
+IBT,ZT,IDA & IBRD total,Aggregate,,1
+IDA,XG,IDA total,Aggregate,,1
+IDB,XH,IDA blend,Aggregate,,1
+IDN,ID,Indonesia,Other,,0
+IDX,XI,IDA only,Aggregate,,1
+IMN,IM,Isle of Man,Other,,0
+IND,IN,India,Other,,0
+IRL,IE,Ireland,Other,,0
+IRN,IR,"Iran, Islamic Rep.",Other,,0
+IRQ,IQ,Iraq,Other,,0
+ISL,IS,Iceland,Other,,0
+ISR,IL,Israel,Other,,0
+ITA,IT,Italy,Other,,0
+JAM,JM,Jamaica,Other,,0
+JOR,JO,Jordan,Other,,0
+JPN,JP,Japan,Other,,0
+KAZ,KZ,Kazakhstan,Other,,0
+KEN,KE,Kenya,Africa,East Africa,0
+KGZ,KG,Kyrgyz Republic,Other,,0
+KHM,KH,Cambodia,Other,,0
+KIR,KI,Kiribati,Other,,0
+KNA,KN,St. Kitts and Nevis,Other,,0
+KOR,KR,"Korea, Rep.",Other,,0
+KWT,KW,Kuwait,Other,,0
+LAC,XJ,Latin America & Caribbean (excluding high income),Aggregate,,1
+LAO,LA,Lao PDR,Other,,0
+LBN,LB,Lebanon,Other,,0
+LBR,LR,Liberia,Africa,West Africa,0
+LBY,LY,Libya,Africa,North Africa,0
+LCA,LC,St. Lucia,Other,,0
+LCN,ZJ,Latin America & Caribbean,Aggregate,,1
+LDC,XL,Least developed countries: UN classification,Aggregate,,1
+LIE,LI,Liechtenstein,Other,,0
+LKA,LK,Sri Lanka,Other,,0
+LMY,XO,Low & middle income,Aggregate,,1
+LSO,LS,Lesotho,Africa,Southern Africa,0
+LTE,V3,Late-demographic dividend,Aggregate,,1
+LTU,LT,Lithuania,Other,,0
+LUX,LU,Luxembourg,Other,,0
+LVA,LV,Latvia,Other,,0
+MAC,MO,"Macao SAR, China",Other,,0
+MAR,MA,Morocco,Africa,North Africa,0
+MCO,MC,Monaco,Other,,0
+MDA,MD,Moldova,Other,,0
+MDG,MG,Madagascar,Africa,East Africa,0
+MDV,MV,Maldives,Other,,0
+MEA,ZQ,"Middle East, North Africa, Afghanistan & Pakistan",Benchmark,,1
+MEX,MX,Mexico,Other,,0
+MHL,MH,Marshall Islands,Other,,0
+MIC,XP,Middle income,Aggregate,,1
+MKD,MK,North Macedonia,Other,,0
+MLI,ML,Mali,Africa,West Africa,0
+MLT,MT,Malta,Other,,0
+MMR,MM,Myanmar,Other,,0
+MNA,XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregate,,1
+MNE,ME,Montenegro,Other,,0
+MNG,MN,Mongolia,Other,,0
+MOZ,MZ,Mozambique,Africa,East Africa,0
+MRT,MR,Mauritania,Africa,West Africa,0
+MUS,MU,Mauritius,Africa,East Africa,0
+MWI,MW,Malawi,Africa,East Africa,0
+MYS,MY,Malaysia,Other,,0
+NAC,XU,North America,Benchmark,,1
+NAM,,Namibia,Africa,Southern Africa,0
+NCL,NC,New Caledonia,Other,,0
+NER,NE,Niger,Africa,West Africa,0
+NGA,NG,Nigeria,Africa,West Africa,0
+NIC,NI,Nicaragua,Other,,0
+NLD,NL,Netherlands,Other,,0
+NOR,NO,Norway,Other,,0
+NPL,NP,Nepal,Other,,0
+NRU,NR,Naoero,Other,,0
+NZL,NZ,New Zealand,Other,,0
+OED,OE,OECD members,Aggregate,,1
+OMN,OM,Oman,Other,,0
+OSS,S4,Other small states,Aggregate,,1
+PAK,PK,Pakistan,Other,,0
+PAN,PA,Panama,Other,,0
+PER,PE,Peru,Other,,0
+PHL,PH,Philippines,Other,,0
+PLW,PW,Palau,Other,,0
+PNG,PG,Papua New Guinea,Other,,0
+POL,PL,Poland,Other,,0
+PRE,V1,Pre-demographic dividend,Aggregate,,1
+PRI,PR,Puerto Rico (US),Other,,0
+PRK,KP,"Korea, Dem. People's Rep.",Other,,0
+PRT,PT,Portugal,Other,,0
+PRY,PY,Paraguay,Other,,0
+PSE,PS,West Bank and Gaza,Other,,0
+PSS,S2,Pacific island small states,Aggregate,,1
+PST,V4,Post-demographic dividend,Aggregate,,1
+PYF,PF,French Polynesia,Other,,0
+QAT,QA,Qatar,Other,,0
+ROU,RO,Romania,Other,,0
+RUS,RU,Russian Federation,Other,,0
+RWA,RW,Rwanda,Africa,East Africa,0
+SAS,8S,South Asia,Aggregate,,1
+SAU,SA,Saudi Arabia,Other,,0
+SDN,SD,Sudan,Africa,North Africa,0
+SEN,SN,Senegal,Africa,West Africa,0
+SGP,SG,Singapore,Other,,0
+SLB,SB,Solomon Islands,Other,,0
+SLE,SL,Sierra Leone,Africa,West Africa,0
+SLV,SV,El Salvador,Other,,0
+SMR,SM,San Marino,Other,,0
+SOM,SO,"Somalia, Fed. Rep.",Africa,East Africa,0
+SRB,RS,Serbia,Other,,0
+SSA,ZF,Sub-Saharan Africa (excluding high income),Aggregate,,1
+SSD,SS,South Sudan,Africa,East Africa,0
+SSF,ZG,Sub-Saharan Africa,Benchmark,,1
+SST,S1,Small states,Aggregate,,1
+STP,ST,Sao Tome and Principe,Africa,Central Africa,0
+SUR,SR,Suriname,Other,,0
+SVK,SK,Slovak Republic,Other,,0
+SVN,SI,Slovenia,Other,,0
+SWE,SE,Sweden,Other,,0
+SWZ,SZ,Eswatini,Africa,Southern Africa,0
+SYC,SC,Seychelles,Africa,East Africa,0
+SYR,SY,Syrian Arab Republic,Other,,0
+TCD,TD,Chad,Africa,Central Africa,0
+TEA,T4,East Asia & Pacific (IDA & IBRD countries),Aggregate,,1
+TEC,T7,Europe & Central Asia (IDA & IBRD countries),Aggregate,,1
+TGO,TG,Togo,Africa,West Africa,0
+THA,TH,Thailand,Other,,0
+TJK,TJ,Tajikistan,Other,,0
+TKM,TM,Turkmenistan,Other,,0
+TLA,T2,Latin America & the Caribbean (IDA & IBRD countries),Aggregate,,1
+TLS,TL,Timor-Leste,Other,,0
+TMN,T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",Aggregate,,1
+TON,TO,Tonga,Other,,0
+TSA,T5,South Asia (IDA & IBRD),Aggregate,,1
+TSS,T6,Sub-Saharan Africa (IDA & IBRD countries),Aggregate,,1
+TTO,TT,Trinidad and Tobago,Other,,0
+TUN,TN,Tunisia,Africa,North Africa,0
+TUR,TR,Turkiye,Other,,0
+TUV,TV,Tuvalu,Other,,0
+TZA,TZ,Tanzania,Africa,East Africa,0
+UGA,UG,Uganda,Africa,East Africa,0
+UKR,UA,Ukraine,Other,,0
+URY,UY,Uruguay,Other,,0
+USA,US,United States,USA,,0
+UZB,UZ,Uzbekistan,Other,,0
+VCT,VC,St. Vincent and the Grenadines,Other,,0
+VEN,VE,"Venezuela, RB",Other,,0
+VIR,VI,Virgin Islands (U.S.),Other,,0
+VNM,VN,Viet Nam,Other,,0
+VUT,VU,Vanuatu,Other,,0
+WLD,1W,World,Benchmark,,1
+WSM,WS,Samoa,Other,,0
+XKX,XK,Kosovo,Other,,0
+YEM,YE,"Yemen, Rep.",Other,,0
+ZAF,ZA,South Africa,Africa,Southern Africa,0
+ZMB,ZM,Zambia,Africa,East Africa,0
+ZWE,ZW,Zimbabwe,Africa,East Africa,0

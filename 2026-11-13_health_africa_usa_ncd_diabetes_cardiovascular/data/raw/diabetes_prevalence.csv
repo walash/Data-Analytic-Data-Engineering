@@ -1,0 +1,526 @@
+country_id,country_name,iso3,indicator_id,indicator_name,year,value
+ZH,Africa Eastern and Southern,AFE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.45404408992017
+ZH,Africa Eastern and Southern,AFE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.58905122803024
+ZI,Africa Western and Central,AFW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.2177974374383
+ZI,Africa Western and Central,AFW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.41587371659126
+1A,Arab World,ARB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,17.2973017268651
+1A,Arab World,ARB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,11.9445447415724
+S3,Caribbean small states,CSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.9741084825892
+S3,Caribbean small states,CSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.5856762564925
+B8,Central Europe and the Baltics,CEB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.87080652268354
+B8,Central Europe and the Baltics,CEB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.48207256335255
+V2,Early-demographic dividend,EAR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.3020103575019
+V2,Early-demographic dividend,EAR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.80140777050447
+Z4,East Asia & Pacific,EAS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.8651891442221
+Z4,East Asia & Pacific,EAS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.02490678606455
+4E,East Asia & Pacific (excluding high income),EAP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.1353659963515
+4E,East Asia & Pacific (excluding high income),EAP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.07097570862458
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.1509213612865
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.06684253632877
+XC,Euro area,EMU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.56051060653856
+XC,Euro area,EMU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.67045797789449
+Z7,Europe & Central Asia,ECS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.99502480843386
+Z7,Europe & Central Asia,ECS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.54443202236628
+7E,Europe & Central Asia (excluding high income),ECA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5191770154712
+7E,Europe & Central Asia (excluding high income),ECA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.96867339247017
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.64258578933349
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.59013298809859
+EU,European Union,EUU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.562985196941
+EU,European Union,EUU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.01744173074927
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.24352998190743
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.17645115782837
+XE,Heavily indebted poor countries (HIPC),HPC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.61116701514905
+XE,Heavily indebted poor countries (HIPC),HPC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.34195003223281
+XD,High income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.72828519399888
+XD,High income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.97810346491069
+XF,IBRD only,IBD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.0827255920625
+XF,IBRD only,IBD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.77358205507259
+ZT,IDA & IBRD total,IBT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.910342158404
+ZT,IDA & IBRD total,IBT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.23114165514152
+XH,IDA blend,IDB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,14.6088008639666
+XH,IDA blend,IDB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.44517702169862
+XI,IDA only,IDX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1059570912486
+XI,IDA only,IDX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.94305580479714
+XG,IDA total,IDA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.3544735635583
+XG,IDA total,IDA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.12163285416566
+V3,Late-demographic dividend,LTE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.93062914623
+V3,Late-demographic dividend,LTE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.75082047069947
+ZJ,Latin America & Caribbean,LCN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3098941545388
+ZJ,Latin America & Caribbean,LCN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.2707067382556
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3094933128497
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.2991774997074
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3503761140369
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.2683541947253
+XL,Least developed countries: UN classification,LDC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.85618712816249
+XL,Least developed countries: UN classification,LDC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.65948999251373
+XO,Low & middle income,LMY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.0570304726836
+XO,Low & middle income,LMY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.18526604626397
+XM,Low income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.13030769158445
+XM,Low income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.99261482484382
+XN,Lower middle income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.5365290109666
+XN,Lower middle income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.40320109225212
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.136911070149
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.7225516736037
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.0769514378744
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.1083862462786
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.1073707745161
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.1138080664671
+XP,Middle income,MIC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.4411245608188
+XP,Middle income,MIC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.43028126507396
+XU,North America,NAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.0352603251899
+XU,North America,NAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.2978023991404
+OE,OECD members,OED,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5162075229361
+OE,OECD members,OED,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.08407691450804
+S4,Other small states,OSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.72961841247687
+S4,Other small states,OSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.88591980897521
+S2,Pacific island small states,PSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,17.0708090275406
+S2,Pacific island small states,PSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,13.4162047389065
+V4,Post-demographic dividend,PST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.46076364488546
+V4,Post-demographic dividend,PST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.08857587027415
+V1,Pre-demographic dividend,PRE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.34544213929058
+V1,Pre-demographic dividend,PRE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.59383384314183
+S1,Small states,SST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3574229239809
+S1,Small states,SST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.68512946756901
+8S,South Asia,SAS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.7173486503525
+8S,South Asia,SAS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.03165942802619
+T5,South Asia (IDA & IBRD),TSA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.7173486503525
+T5,South Asia (IDA & IBRD),TSA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.03165942802619
+ZG,Sub-Saharan Africa,SSF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.56067083295313
+ZG,Sub-Saharan Africa,SSF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.51823961177629
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.56019579742344
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.51722854849666
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.56067083295312
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.51823961177629
+XT,Upper middle income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3618644752643
+XT,Upper middle income,,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.45007739457124
+1W,World,WLD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.7978422879351
+1W,World,WLD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.14074847164927
+AF,Afghanistan,AFG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.7
+AF,Afghanistan,AFG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.6
+AL,Albania,ALB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.6
+AL,Albania,ALB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.8
+DZ,Algeria,DZA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,17.5
+DZ,Algeria,DZA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7
+AD,Andorra,AND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.1
+AD,Andorra,AND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.4
+AO,Angola,AGO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.9
+AO,Angola,AGO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.9
+AG,Antigua and Barbuda,ATG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.6
+AG,Antigua and Barbuda,ATG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.5
+AR,Argentina,ARG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,14
+AR,Argentina,ARG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.5
+AM,Armenia,ARM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.7
+AM,Armenia,ARM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.5
+AW,Aruba,ABW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.6
+AW,Aruba,ABW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.4
+AW,Aruba,ABW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+AU,Australia,AUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.4
+AU,Australia,AUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+AU,Australia,AUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,0
+AT,Austria,AUT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.4
+AT,Austria,AUT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+AZ,Azerbaijan,AZE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.2
+AZ,Azerbaijan,AZE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.8
+BS,"Bahamas, The",BHS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.9
+BS,"Bahamas, The",BHS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.1
+BH,Bahrain,BHR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,22.1
+BH,Bahrain,BHR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,19.5
+BH,Bahrain,BHR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,14.8
+BD,Bangladesh,BGD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.2
+BD,Bangladesh,BGD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.5
+BB,Barbados,BRB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.2
+BB,Barbados,BRB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.4
+BB,Barbados,BRB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,13.2
+BY,Belarus,BLR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.1
+BY,Belarus,BLR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8
+BE,Belgium,BEL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.9
+BE,Belgium,BEL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.8
+BZ,Belize,BLZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,14.1
+BZ,Belize,BLZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,17
+BJ,Benin,BEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1
+BJ,Benin,BEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2
+BM,Bermuda,BMU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.4
+BM,Bermuda,BMU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12
+BM,Bermuda,BMU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+BT,Bhutan,BTN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12
+BT,Bhutan,BTN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.7
+BO,Bolivia,BOL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.4
+BO,Bolivia,BOL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+BA,Bosnia and Herzegovina,BIH,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.3
+BA,Bosnia and Herzegovina,BIH,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+BW,Botswana,BWA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.6
+BW,Botswana,BWA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.8
+BR,Brazil,BRA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.6
+BR,Brazil,BRA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.1
+BN,Brunei Darussalam,BRN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.7
+BN,Brunei Darussalam,BRN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.4
+BG,Bulgaria,BGR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.4
+BG,Bulgaria,BGR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.7
+BF,Burkina Faso,BFA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.5
+BF,Burkina Faso,BFA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3
+BI,Burundi,BDI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.3
+BI,Burundi,BDI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.7
+CV,Cabo Verde,CPV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.8
+CV,Cabo Verde,CPV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.4
+KH,Cambodia,KHM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+KH,Cambodia,KHM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.9
+CM,Cameroon,CMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.9
+CM,Cameroon,CMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.1
+CM,Cameroon,CMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,0
+CA,Canada,CAN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.7
+CA,Canada,CAN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.4
+KY,Cayman Islands,CYM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.1
+KY,Cayman Islands,CYM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12
+KY,Cayman Islands,CYM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+CF,Central African Republic,CAF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.6
+CF,Central African Republic,CAF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.2
+TD,Chad,TCD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.3
+TD,Chad,TCD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.9
+CL,Chile,CHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.2
+CL,Chile,CHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.5
+CN,China,CHN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.9
+CN,China,CHN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.8
+CO,Colombia,COL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.4
+CO,Colombia,COL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.8
+KM,Comoros,COM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.8
+KM,Comoros,COM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.4
+CD,"Congo, Dem. Rep.",COD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.7
+CD,"Congo, Dem. Rep.",COD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.1
+CG,"Congo, Rep.",COG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1
+CG,"Congo, Rep.",COG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.5
+CR,Costa Rica,CRI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.8
+CR,Costa Rica,CRI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.6
+CI,Cote d'Ivoire,CIV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5
+CI,Cote d'Ivoire,CIV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.9
+HR,Croatia,HRV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5
+HR,Croatia,HRV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.2
+CU,Cuba,CUB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.4
+CU,Cuba,CUB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.4
+CW,Curacao,CUW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.4
+CY,Cyprus,CYP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10
+CY,Cyprus,CYP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.3
+CZ,Czechia,CZE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.6
+CZ,Czechia,CZE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.3
+CZ,Czechia,CZE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,11.7
+DK,Denmark,DNK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.4
+DK,Denmark,DNK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.6
+DJ,Djibouti,DJI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.5
+DJ,Djibouti,DJI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.3
+DM,Dominica,DMA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.9
+DM,Dominica,DMA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.9
+DO,Dominican Republic,DOM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,17.6
+DO,Dominican Republic,DOM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.1
+EC,Ecuador,ECU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.9
+EC,Ecuador,ECU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+EG,"Egypt, Arab Rep.",EGY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,22.4
+EG,"Egypt, Arab Rep.",EGY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,16.6
+SV,El Salvador,SLV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.7
+SV,El Salvador,SLV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.4
+GQ,Equatorial Guinea,GNQ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.2
+GQ,Equatorial Guinea,GNQ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.2
+ER,Eritrea,ERI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.4
+ER,Eritrea,ERI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.6
+EE,Estonia,EST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.9
+EE,Estonia,EST,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7
+SZ,Eswatini,SWZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.9
+SZ,Eswatini,SWZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.1
+ET,Ethiopia,ETH,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.4
+ET,Ethiopia,ETH,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.4
+FO,Faroe Islands,FRO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.3
+FJ,Fiji,FJI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,16.6
+FJ,Fiji,FJI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.9
+FI,Finland,FIN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.9
+FI,Finland,FIN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.8
+FR,France,FRA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.5
+FR,France,FRA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.4
+PF,French Polynesia,PYF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,22.8
+PF,French Polynesia,PYF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+GA,Gabon,GAB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.5
+GA,Gabon,GAB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.3
+GM,"Gambia, The",GMB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.5
+GM,"Gambia, The",GMB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2
+GE,Georgia,GEO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.7
+GE,Georgia,GEO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.8
+DE,Germany,DEU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.8
+DE,Germany,DEU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.3
+GH,Ghana,GHA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,2.7
+GH,Ghana,GHA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5
+GR,Greece,GRC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8
+GR,Greece,GRC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.1
+GL,Greenland,GRL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.3
+GD,Grenada,GRD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3
+GD,Grenada,GRD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+GD,Grenada,GRD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+GU,Guam,GUM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.3
+GU,Guam,GUM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+GT,Guatemala,GTM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.2
+GT,Guatemala,GTM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.3
+GN,Guinea,GIN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.6
+GN,Guinea,GIN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.4
+GW,Guinea-Bissau,GNB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.8
+GW,Guinea-Bissau,GNB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3
+GY,Guyana,GUY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,16.4
+GY,Guyana,GUY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,16.7
+HT,Haiti,HTI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.5
+HT,Haiti,HTI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+HN,Honduras,HND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5
+HN,Honduras,HND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.7
+HK,"Hong Kong SAR, China",HKG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.2
+HK,"Hong Kong SAR, China",HKG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.6
+HK,"Hong Kong SAR, China",HKG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+HU,Hungary,HUN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.3
+HU,Hungary,HUN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6
+IS,Iceland,ISL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.9
+IS,Iceland,ISL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.2
+IN,India,IND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5
+IN,India,IND,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9
+ID,Indonesia,IDN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.3
+ID,Indonesia,IDN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.1
+IR,"Iran, Islamic Rep.",IRN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9
+IR,"Iran, Islamic Rep.",IRN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,11.1
+IQ,Iraq,IRQ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.4
+IQ,Iraq,IRQ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.1
+IE,Ireland,IRL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.6
+IE,Ireland,IRL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.2
+IM,Isle of Man,IMN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+IL,Israel,ISR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.1
+IL,Israel,ISR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.4
+IT,Italy,ITA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.7
+IT,Italy,ITA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.1
+JM,Jamaica,JAM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.5
+JM,Jamaica,JAM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,15.7
+JP,Japan,JPN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1
+JP,Japan,JPN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+JO,Jordan,JOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.5
+JO,Jordan,JOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.1
+KZ,Kazakhstan,KAZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.8
+KZ,Kazakhstan,KAZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+KE,Kenya,KEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.1
+KE,Kenya,KEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.1
+KI,Kiribati,KIR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,24.6
+KI,Kiribati,KIR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,25.3
+KP,"Korea, Dem. People's Rep.",PRK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.9
+KP,"Korea, Dem. People's Rep.",PRK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.4
+KR,"Korea, Rep.",KOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.6
+KR,"Korea, Rep.",KOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+XK,Kosovo,XKX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.4
+KW,Kuwait,KWT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,25.6
+KW,Kuwait,KWT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,20.7
+KG,Kyrgyz Republic,KGZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.6
+KG,Kyrgyz Republic,KGZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.3
+LA,Lao PDR,LAO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.7
+LA,Lao PDR,LAO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.3
+LV,Latvia,LVA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.1
+LV,Latvia,LVA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.8
+LB,Lebanon,LBN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.3
+LB,Lebanon,LBN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,19.6
+LS,Lesotho,LSO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.2
+LS,Lesotho,LSO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.4
+LR,Liberia,LBR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.2
+LR,Liberia,LBR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.3
+LY,Libya,LBY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,15.8
+LY,Libya,LBY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,13.8
+LI,Liechtenstein,LIE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.2
+LI,Liechtenstein,LIE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.7
+LT,Lithuania,LTU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+LT,Lithuania,LTU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.8
+LU,Luxembourg,LUX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.8
+LU,Luxembourg,LUX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.5
+MO,"Macao SAR, China",MAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1
+MO,"Macao SAR, China",MAC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.2
+MG,Madagascar,MDG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.6
+MG,Madagascar,MDG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.7
+MW,Malawi,MWI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.7
+MW,Malawi,MWI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.6
+MY,Malaysia,MYS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,21.1
+MY,Malaysia,MYS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.1
+MV,Maldives,MDV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.5
+MV,Maldives,MDV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.2
+ML,Mali,MLI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.8
+ML,Mali,MLI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,1.9
+MT,Malta,MLT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10
+MT,Malta,MLT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.6
+MH,Marshall Islands,MHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,25.7
+MH,Marshall Islands,MHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,21.8
+MR,Mauritania,MRT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.2
+MR,Mauritania,MRT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.3
+MU,Mauritius,MUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.1
+MU,Mauritius,MUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,14.8
+MU,Mauritius,MUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,15
+MX,Mexico,MEX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,16.4
+MX,Mexico,MEX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,15.6
+MX,Mexico,MEX,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,14.2
+FM,"Micronesia, Fed. Sts.",FSM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19.2
+FM,"Micronesia, Fed. Sts.",FSM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,15.7
+MD,Moldova,MDA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.3
+MD,Moldova,MDA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.7
+MC,Monaco,MCO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.9
+MC,Monaco,MCO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.6
+MN,Mongolia,MNG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.3
+MN,Mongolia,MNG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.1
+ME,Montenegro,MNE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.7
+ME,Montenegro,MNE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+MA,Morocco,MAR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.9
+MA,Morocco,MAR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.8
+MZ,Mozambique,MOZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3
+MZ,Mozambique,MOZ,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.1
+MM,Myanmar,MMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.7
+MM,Myanmar,MMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.1
+NA,Namibia,NAM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.3
+NA,Namibia,NAM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.8
+NR,Naoero,NRU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,21.8
+NR,Naoero,NRU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,20.4
+NP,Nepal,NPL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.7
+NP,Nepal,NPL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.6
+NL,Netherlands,NLD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5
+NL,Netherlands,NLD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.3
+NC,New Caledonia,NCL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,22
+NC,New Caledonia,NCL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+NZ,New Zealand,NZL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.7
+NZ,New Zealand,NZL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+NI,Nicaragua,NIC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.4
+NI,Nicaragua,NIC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,11
+NE,Niger,NER,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.1
+NE,Niger,NER,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.2
+NG,Nigeria,NGA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3
+NG,Nigeria,NGA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.8
+MK,North Macedonia,MKD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.4
+MK,North Macedonia,MKD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+NO,Norway,NOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.8
+NO,Norway,NOR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.7
+OM,Oman,OMN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,17
+OM,Oman,OMN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.5
+PK,Pakistan,PAK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,31.4
+PK,Pakistan,PAK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.9
+PK,Pakistan,PAK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,11.8
+PW,Palau,PLW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19.3
+PW,Palau,PLW,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,11.1
+PA,Panama,PAN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.1
+PA,Panama,PAN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.4
+PG,Papua New Guinea,PNG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,14.1
+PG,Papua New Guinea,PNG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.6
+PG,Papua New Guinea,PNG,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,15.5
+PY,Paraguay,PRY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.4
+PY,Paraguay,PRY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.5
+PE,Peru,PER,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6.4
+PE,Peru,PER,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6
+PH,Philippines,PHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+PH,Philippines,PHL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.7
+PL,Poland,POL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.1
+PL,Poland,POL,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9
+PT,Portugal,PRT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5
+PT,Portugal,PRT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.6
+PR,Puerto Rico (US),PRI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.9
+PR,Puerto Rico (US),PRI,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,13
+QA,Qatar,QAT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,24.6
+QA,Qatar,QAT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,19.8
+RO,Romania,ROU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+RO,Romania,ROU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+RU,Russian Federation,RUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.9
+RU,Russian Federation,RUS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.7
+RW,Rwanda,RWA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,2.1
+RW,Rwanda,RWA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.1
+WS,Samoa,WSM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,25.4
+WS,Samoa,WSM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+SM,San Marino,SMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.6
+SM,San Marino,SMR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.5
+ST,Sao Tome and Principe,STP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.1
+ST,Sao Tome and Principe,STP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.5
+SA,Saudi Arabia,SAU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,23.1
+SA,Saudi Arabia,SAU,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,19.6
+SN,Senegal,SEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.8
+SN,Senegal,SEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.2
+RS,Serbia,SRB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.5
+RS,Serbia,SRB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.7
+SC,Seychelles,SYC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.3
+SC,Seychelles,SYC,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.1
+SL,Sierra Leone,SLE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.8
+SL,Sierra Leone,SLE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.2
+SG,Singapore,SGP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.4
+SG,Singapore,SGP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.5
+SK,Slovak Republic,SVK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.1
+SK,Slovak Republic,SVK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.7
+SI,Slovenia,SVN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7
+SI,Slovenia,SVN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+SB,Solomon Islands,SLB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12
+SB,Solomon Islands,SLB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,15.3
+SO,"Somalia, Fed. Rep.",SOM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.8
+SO,"Somalia, Fed. Rep.",SOM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.3
+ZA,South Africa,ZAF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.2
+ZA,South Africa,ZAF,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7
+SS,South Sudan,SSD,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.6
+ES,Spain,ESP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.7
+ES,Spain,ESP,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.3
+LK,Sri Lanka,LKA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.2
+LK,Sri Lanka,LKA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+KN,St. Kitts and Nevis,KNA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.8
+KN,St. Kitts and Nevis,KNA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.5
+KN,St. Kitts and Nevis,KNA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,12.1
+LC,St. Lucia,LCA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,11.4
+LC,St. Lucia,LCA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.4
+VC,St. Vincent and the Grenadines,VCT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.6
+VC,St. Vincent and the Grenadines,VCT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.8
+SD,Sudan,SDN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19
+SD,Sudan,SDN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.6
+SR,Suriname,SUR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.8
+SR,Suriname,SUR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,8.9
+SE,Sweden,SWE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.8
+SE,Sweden,SWE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.2
+CH,Switzerland,CHE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.3
+CH,Switzerland,CHE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.9
+SY,Syrian Arab Republic,SYR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19
+SY,Syrian Arab Republic,SYR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.9
+TJ,Tajikistan,TJK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8
+TJ,Tajikistan,TJK,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.3
+TZ,Tanzania,TZA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.8
+TZ,Tanzania,TZA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.8
+TH,Thailand,THA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.2
+TH,Thailand,THA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+TL,Timor-Leste,TLS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.2
+TL,Timor-Leste,TLS,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.5
+TG,Togo,TGO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,4.8
+TG,Togo,TGO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.3
+TO,Tonga,TON,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19.6
+TO,Tonga,TON,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.7
+TO,Tonga,TON,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,11.5
+TT,Trinidad and Tobago,TTO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,12.4
+TT,Trinidad and Tobago,TTO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.7
+TT,Trinidad and Tobago,TTO,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,14.1
+TN,Tunisia,TUN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,16
+TN,Tunisia,TUN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.5
+TR,Turkiye,TUR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,16.5
+TR,Turkiye,TUR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.9
+TM,Turkmenistan,TKM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.1
+TM,Turkmenistan,TKM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.7
+TV,Tuvalu,TUV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19
+TV,Tuvalu,TUV,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,19.2
+UG,Uganda,UGA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,2.2
+UG,Uganda,UGA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.8
+UA,Ukraine,UKR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,6
+UA,Ukraine,UKR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,2.9
+AE,United Arab Emirates,ARE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,20.7
+AE,United Arab Emirates,ARE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,18.8
+GB,United Kingdom,GBR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.4
+GB,United Kingdom,GBR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.2
+US,United States,USA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,13.7
+US,United States,USA,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.4
+UY,Uruguay,URY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.8
+UY,Uruguay,URY,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,5.7
+UZ,Uzbekistan,UZB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,7.5
+UZ,Uzbekistan,UZB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,6.4
+VU,Vanuatu,VUT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,19.7
+VU,Vanuatu,VUT,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,16.1
+VE,"Venezuela, RB",VEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,8.6
+VE,"Venezuela, RB",VEN,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,10.2
+VN,Viet Nam,VNM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,3.4
+VN,Viet Nam,VNM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,3.2
+VI,Virgin Islands (U.S.),VIR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,9.1
+VI,Virgin Islands (U.S.),VIR,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,12.1
+PS,West Bank and Gaza,PSE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,15.5
+PS,West Bank and Gaza,PSE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.2
+YE,"Yemen, Rep.",YEM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,5.5
+YE,"Yemen, Rep.",YEM,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.6
+ZM,Zambia,ZMB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,10.3
+ZM,Zambia,ZMB,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,4.8
+ZW,Zimbabwe,ZWE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,1.5
+ZW,Zimbabwe,ZWE,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,9.8

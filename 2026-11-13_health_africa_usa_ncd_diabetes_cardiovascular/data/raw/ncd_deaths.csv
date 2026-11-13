@@ -1,0 +1,456 @@
+country_id,country_name,iso3,indicator_id,indicator_name,year,value
+ZH,Africa Eastern and Southern,AFE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,36.6179767342939
+ZH,Africa Eastern and Southern,AFE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,39.7693474523757
+ZH,Africa Eastern and Southern,AFE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,39.8105694557497
+ZH,Africa Eastern and Southern,AFE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,35.3360317086407
+ZH,Africa Eastern and Southern,AFE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,29.4291032612539
+ZI,Africa Western and Central,AFW,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,31.3558093159291
+ZI,Africa Western and Central,AFW,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,31.2128307669713
+ZI,Africa Western and Central,AFW,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,30.6797455642295
+ZI,Africa Western and Central,AFW,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,28.0220783076804
+ZI,Africa Western and Central,AFW,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,25.3375548684976
+1A,Arab World,ARB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,58.1741964955719
+1A,Arab World,ARB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,61.942767467924
+1A,Arab World,ARB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.6177234806777
+1A,Arab World,ARB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,63.7855168019462
+1A,Arab World,ARB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,63.1463493723584
+S3,Caribbean small states,CSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,59.2406320835599
+S3,Caribbean small states,CSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,74.889276083957
+S3,Caribbean small states,CSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,77.2516856847612
+S3,Caribbean small states,CSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,76.3697838809751
+S3,Caribbean small states,CSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,73.6735180766992
+B8,Central Europe and the Baltics,CEB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,74.1583150376351
+B8,Central Europe and the Baltics,CEB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.1597133392405
+B8,Central Europe and the Baltics,CEB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,90.8856723692658
+B8,Central Europe and the Baltics,CEB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,91.5192758727994
+B8,Central Europe and the Baltics,CEB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,91.3294430385016
+V2,Early-demographic dividend,EAR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,52.4181894103277
+V2,Early-demographic dividend,EAR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,61.8168395341186
+V2,Early-demographic dividend,EAR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.2895642932466
+V2,Early-demographic dividend,EAR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,63.7443552904751
+V2,Early-demographic dividend,EAR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,56.2450402024874
+Z4,East Asia & Pacific,EAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,81.0759325802252
+Z4,East Asia & Pacific,EAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.7681787659649
+Z4,East Asia & Pacific,EAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,85.5377345052091
+Z4,East Asia & Pacific,EAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,83.874505877335
+Z4,East Asia & Pacific,EAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,81.8277184786942
+4E,East Asia & Pacific (excluding high income),EAP,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,80.7185487005406
+4E,East Asia & Pacific (excluding high income),EAP,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.6813597838671
+4E,East Asia & Pacific (excluding high income),EAP,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,85.7731711940985
+4E,East Asia & Pacific (excluding high income),EAP,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,84.1278423674709
+4E,East Asia & Pacific (excluding high income),EAP,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,81.9209035075702
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,80.7435109963943
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.7606172416863
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,85.8451711044882
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,84.1430959501669
+T4,East Asia & Pacific (IDA & IBRD countries),TEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,81.9960536516916
+XC,Euro area,EMU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,81.3943233393999
+XC,Euro area,EMU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,81.7519672682433
+XC,Euro area,EMU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.649683845022
+XC,Euro area,EMU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,89.9139382996617
+XC,Euro area,EMU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,90.5199384656476
+Z7,Europe & Central Asia,ECS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,73.8174518952212
+Z7,Europe & Central Asia,ECS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.3685646081633
+Z7,Europe & Central Asia,ECS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.5734955487229
+Z7,Europe & Central Asia,ECS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,89.0543215216212
+Z7,Europe & Central Asia,ECS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,88.8564567422343
+7E,Europe & Central Asia (excluding high income),ECA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,70.4182220955944
+7E,Europe & Central Asia (excluding high income),ECA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,79.2414361244248
+7E,Europe & Central Asia (excluding high income),ECA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.5811805762151
+7E,Europe & Central Asia (excluding high income),ECA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,88.4979679804785
+7E,Europe & Central Asia (excluding high income),ECA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,87.6535320417837
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,67.7061765676827
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,75.5124628092551
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.6735044071193
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,88.5189274561289
+T7,Europe & Central Asia (IDA & IBRD countries),TEC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,87.6810351534926
+EU,European Union,EUU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,79.8071123820039
+EU,European Union,EUU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,81.8763146750004
+EU,European Union,EUU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.7749646997932
+EU,European Union,EUU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,90.1596048796804
+EU,European Union,EUU,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,90.6256785366331
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,41.6448775837799
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,44.4039050863642
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,45.1534000385048
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,41.2987173711968
+F2,"Fragility, Conflict, and Violence (FCV) situations",FCV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,38.0727130154069
+XE,Heavily indebted poor countries (HIPC),HPC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,36.22181392265
+XE,Heavily indebted poor countries (HIPC),HPC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,37.9734931609397
+XE,Heavily indebted poor countries (HIPC),HPC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,38.2718789069398
+XE,Heavily indebted poor countries (HIPC),HPC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,34.4817113300625
+XE,Heavily indebted poor countries (HIPC),HPC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,29.1373608752733
+XD,High income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,76.7740576339511
+XD,High income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,79.1325635843007
+XD,High income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,88.0947092165379
+XD,High income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,87.5297565000894
+XD,High income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,87.4917880968094
+XF,IBRD only,IBD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,65.1179279826209
+XF,IBRD only,IBD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,73.0749181494084
+XF,IBRD only,IBD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,79.574748527688
+XF,IBRD only,IBD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,76.8394762765304
+XF,IBRD only,IBD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,72.7965475116338
+ZT,IDA & IBRD total,IBT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,59.9937924535759
+ZT,IDA & IBRD total,IBT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,66.0463359352066
+ZT,IDA & IBRD total,IBT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,70.7395582619993
+ZT,IDA & IBRD total,IBT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,67.3338614614185
+ZT,IDA & IBRD total,IBT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,62.8741785973216
+XH,IDA blend,IDB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,41.3206281061855
+XH,IDA blend,IDB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,41.9277398917696
+XH,IDA blend,IDB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,42.6858036314461
+XH,IDA blend,IDB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,39.2867353936943
+XH,IDA blend,IDB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,35.3630373675049
+XI,IDA only,IDX,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,43.2081492095997
+XI,IDA only,IDX,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,45.6841704421916
+XI,IDA only,IDX,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,46.2838424916295
+XI,IDA only,IDX,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,41.6889787737426
+XI,IDA only,IDX,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,36.770331598847
+XG,IDA total,IDA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,42.5295893755021
+XG,IDA total,IDA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,44.2842577469773
+XG,IDA total,IDA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,44.956628013047
+XG,IDA total,IDA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,40.7805594275809
+XG,IDA total,IDA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,36.2427299529215
+V3,Late-demographic dividend,LTE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,79.5300773160731
+V3,Late-demographic dividend,LTE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,82.7560870484278
+V3,Late-demographic dividend,LTE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.3566731925983
+V3,Late-demographic dividend,LTE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,86.169259028379
+V3,Late-demographic dividend,LTE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,84.6960040932429
+ZJ,Latin America & Caribbean,LCN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,56.6918999393763
+ZJ,Latin America & Caribbean,LCN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,62.1004246711296
+ZJ,Latin America & Caribbean,LCN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,74.8836565224827
+ZJ,Latin America & Caribbean,LCN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,74.0832209678553
+ZJ,Latin America & Caribbean,LCN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,69.1161112554371
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,55.810085155026
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,61.3242774222787
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,74.3540327469712
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,73.4648133451831
+XJ,Latin America & Caribbean (excluding high income),LAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,68.2504448937799
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,56.3923937826971
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,61.4123608007737
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,74.5651559333417
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,73.705470357047
+T2,Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,68.522523196321
+XL,Least developed countries: UN classification,LDC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,41.5405851718762
+XL,Least developed countries: UN classification,LDC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,43.9926691916731
+XL,Least developed countries: UN classification,LDC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,44.2804518810468
+XL,Least developed countries: UN classification,LDC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,39.8101025312913
+XL,Least developed countries: UN classification,LDC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,34.5070097388611
+XO,Low & middle income,LMY,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,59.6658567155271
+XO,Low & middle income,LMY,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,65.6955460323415
+XO,Low & middle income,LMY,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,69.6628980908173
+XO,Low & middle income,LMY,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,66.0549365585694
+XO,Low & middle income,LMY,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,61.238380654276
+XM,Low income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,37.978234023368
+XM,Low income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,39.8737139969488
+XM,Low income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,39.7617838296195
+XM,Low income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,36.0049955632045
+XM,Low income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,32.2414335961041
+XN,Lower middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,48.8141048164215
+XN,Lower middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,57.2142949771294
+XN,Lower middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,60.5375927041878
+XN,Lower middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,55.4464480583443
+XN,Lower middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,47.6704189999787
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,56.7873681475238
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,60.0572561733213
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,67.0542953226241
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,62.4348797269738
+ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,59.6521279683516
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,56.2638025122608
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,59.633308092041
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,66.5057519708007
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,61.9220539748798
+XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,58.9957609061626
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,56.2249870005149
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,59.5781373754279
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,66.4550205488221
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,61.8632593296569
+T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,58.9351765556008
+XP,Middle income,MIC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,61.9705766138785
+XP,Middle income,MIC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,68.6298935166741
+XP,Middle income,MIC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,73.2518648827106
+XP,Middle income,MIC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,69.7700733774826
+XP,Middle income,MIC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,64.8449033785168
+XU,North America,NAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,78.1115248220102
+XU,North America,NAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,79.4479093309708
+XU,North America,NAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,88.3157691461934
+XU,North America,NAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,87.894301911665
+XU,North America,NAC,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,88.036113771269
+OE,OECD members,OED,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,76.9633908762726
+OE,OECD members,OED,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.5609349634714
+OE,OECD members,OED,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.1386921780505
+OE,OECD members,OED,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,86.949415129012
+OE,OECD members,OED,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,86.811564334087
+S4,Other small states,OSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,65.4094650359096
+S4,Other small states,OSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,71.2730071699516
+S4,Other small states,OSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,72.5821143065689
+S4,Other small states,OSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,69.0731157224528
+S4,Other small states,OSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,64.6719083721045
+S2,Pacific island small states,PSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,69.9209097026721
+S2,Pacific island small states,PSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.2790485083877
+S2,Pacific island small states,PSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,78.7785584109899
+S2,Pacific island small states,PSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,77.8442078877236
+S2,Pacific island small states,PSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,76.2600979130762
+V4,Post-demographic dividend,PST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,79.825810048248
+V4,Post-demographic dividend,PST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,81.5893823349374
+V4,Post-demographic dividend,PST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,88.2951459146563
+V4,Post-demographic dividend,PST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,87.8586145526657
+V4,Post-demographic dividend,PST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,88.0060506443872
+V1,Pre-demographic dividend,PRE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,33.8850283890649
+V1,Pre-demographic dividend,PRE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,34.6252838365894
+V1,Pre-demographic dividend,PRE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,34.3522985362565
+V1,Pre-demographic dividend,PRE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,30.5399959667335
+V1,Pre-demographic dividend,PRE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,26.9670149825182
+S1,Small states,SST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,64.5232173719912
+S1,Small states,SST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,72.9714583450836
+S1,Small states,SST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,74.4110070015537
+S1,Small states,SST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,71.7348421295339
+S1,Small states,SST,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,67.8782458379223
+8S,South Asia,SAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,50.3411094392907
+8S,South Asia,SAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,63.5971357543928
+8S,South Asia,SAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.2334224877487
+8S,South Asia,SAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,62.4625291305571
+8S,South Asia,SAS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,53.224793510588
+T5,South Asia (IDA & IBRD),TSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,50.3411094392907
+T5,South Asia (IDA & IBRD),TSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,63.5971357543928
+T5,South Asia (IDA & IBRD),TSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.2334224877487
+T5,South Asia (IDA & IBRD),TSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,62.4625291305571
+T5,South Asia (IDA & IBRD),TSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,53.224793510588
+ZG,Sub-Saharan Africa,SSF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.4513465260939
+ZG,Sub-Saharan Africa,SSF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.1002783285349
+ZG,Sub-Saharan Africa,SSF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,35.8471225657984
+ZG,Sub-Saharan Africa,SSF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.1099645695426
+ZG,Sub-Saharan Africa,SSF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,27.6997269986267
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.4478353955658
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.0971075193386
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,35.8424395648911
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.105689885829
+ZF,Sub-Saharan Africa (excluding high income),SSA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,27.695580924304
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.4513465260939
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.1002783285349
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,35.8471225657984
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.1099645695426
+T6,Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,27.6997269986267
+XT,Upper middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,73.6146246385143
+XT,Upper middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.0236077462749
+XT,Upper middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,83.855497188302
+XT,Upper middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,82.2634529451463
+XT,Upper middle income,,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,80.0801966369578
+1W,World,WLD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,63.3727503441103
+1W,World,WLD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,68.7670083494918
+1W,World,WLD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,73.7226098469946
+1W,World,WLD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,70.860966549032
+1W,World,WLD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,66.9989891427555
+AF,Afghanistan,AFG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.2581757399119
+AF,Afghanistan,AFG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,39.8129250611588
+AF,Afghanistan,AFG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,40.674492713014
+AF,Afghanistan,AFG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,37.6741975706194
+AF,Afghanistan,AFG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,36.9191277782611
+AL,Albania,ALB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,66.8816650654335
+AL,Albania,ALB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,81.7680784888644
+AL,Albania,ALB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,93.7401909070876
+AL,Albania,ALB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,92.522320261531
+AL,Albania,ALB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,89.7998948414282
+DZ,Algeria,DZA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,73.8911228021245
+DZ,Algeria,DZA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,62.5513637496857
+DZ,Algeria,DZA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,80.1853401440179
+DZ,Algeria,DZA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,77.2797812574152
+DZ,Algeria,DZA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,75.056731781899
+AO,Angola,AGO,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,35.3015592386942
+AO,Angola,AGO,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.1245982893817
+AO,Angola,AGO,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,35.2601729043332
+AO,Angola,AGO,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,30.6735492766331
+AO,Angola,AGO,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,26.2226231011673
+AG,Antigua and Barbuda,ATG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,69.5647997186751
+AG,Antigua and Barbuda,ATG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.484280445353
+AG,Antigua and Barbuda,ATG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.2696719393383
+AG,Antigua and Barbuda,ATG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,83.2273356506449
+AG,Antigua and Barbuda,ATG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,78.8112478047453
+AR,Argentina,ARG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,60.5102125326468
+AR,Argentina,ARG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,66.0897546799166
+AR,Argentina,ARG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,76.9165260474124
+AR,Argentina,ARG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,77.8748959579501
+AR,Argentina,ARG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,79.1830647350925
+AM,Armenia,ARM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,71.9361694533847
+AM,Armenia,ARM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,70.4796661497668
+AM,Armenia,ARM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,88.2013896191352
+AM,Armenia,ARM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,90.24553905657
+AM,Armenia,ARM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,91.1005607001697
+AU,Australia,AUS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,89.6272717929647
+AU,Australia,AUS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,89.6457263600863
+AU,Australia,AUS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,88.9008879352998
+AU,Australia,AUS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,89.4393216094431
+AU,Australia,AUS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,90.3507751804588
+AT,Austria,AUT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,83.5282904653652
+AT,Austria,AUT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,84.5072627083873
+AT,Austria,AUT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,90.8942559129377
+AT,Austria,AUT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,91.8956959871732
+AT,Austria,AUT,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,91.782173395958
+AZ,Azerbaijan,AZE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,58.7616169551952
+AZ,Azerbaijan,AZE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,69.7870717365594
+AZ,Azerbaijan,AZE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.2778260432938
+AZ,Azerbaijan,AZE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,85.0348112613564
+AZ,Azerbaijan,AZE,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,83.5172472801286
+BS,"Bahamas, The",BHS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,59.8215269334684
+BS,"Bahamas, The",BHS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,73.0714352069901
+BS,"Bahamas, The",BHS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,73.0826687824584
+BS,"Bahamas, The",BHS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,79.3866316322148
+BS,"Bahamas, The",BHS,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,79.9248902641862
+BH,Bahrain,BHR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,74.3835017653742
+BH,Bahrain,BHR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.9490440900307
+BH,Bahrain,BHR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.6615873107025
+BH,Bahrain,BHR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,85.6802669407443
+BH,Bahrain,BHR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,85.2710098419569
+BD,Bangladesh,BGD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,63.0722471595286
+BD,Bangladesh,BGD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,66.363438580376
+BD,Bangladesh,BGD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,70.9174085076867
+BD,Bangladesh,BGD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,63.5352048776694
+BD,Bangladesh,BGD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,57.4816654814097
+BB,Barbados,BRB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,79.1796925751197
+BB,Barbados,BRB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,87.2369243494096
+BB,Barbados,BRB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,87.3427624629575
+BB,Barbados,BRB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,85.6091359114338
+BB,Barbados,BRB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,85.2609319291008
+BY,Belarus,BLR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,75.3320365311595
+BY,Belarus,BLR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,78.3045085199308
+BY,Belarus,BLR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,93.5224879370329
+BY,Belarus,BLR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,92.4555300592661
+BY,Belarus,BLR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,90.0097014595615
+BE,Belgium,BEL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,75.8535971254692
+BE,Belgium,BEL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,69.8805198963627
+BE,Belgium,BEL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,84.8671629067128
+BE,Belgium,BEL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,85.7784605951264
+BE,Belgium,BEL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,86.3734382012707
+BZ,Belize,BLZ,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,53.9541363893056
+BZ,Belize,BLZ,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,62.5509776744518
+BZ,Belize,BLZ,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,62.5896591589743
+BZ,Belize,BLZ,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,61.6819885996777
+BZ,Belize,BLZ,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,62.3812705894955
+BJ,Benin,BEN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,36.2332421726356
+BJ,Benin,BEN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,37.6989055795381
+BJ,Benin,BEN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.7245534730502
+BJ,Benin,BEN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,34.6662564482214
+BJ,Benin,BEN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,32.1988167433116
+BT,Bhutan,BTN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,71.6178949713212
+BT,Bhutan,BTN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,72.1140796691982
+BT,Bhutan,BTN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,70.5857874396703
+BT,Bhutan,BTN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,68.7808469530232
+BT,Bhutan,BTN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,61.4475971990151
+BO,Bolivia,BOL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,37.5459098066861
+BO,Bolivia,BOL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,44.3448446831687
+BO,Bolivia,BOL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.3219126347469
+BO,Bolivia,BOL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,65.6136602046039
+BO,Bolivia,BOL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,61.0174661568689
+BA,Bosnia and Herzegovina,BIH,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,74.4536720622518
+BA,Bosnia and Herzegovina,BIH,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,82.2966413344182
+BA,Bosnia and Herzegovina,BIH,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,95.0828457628222
+BA,Bosnia and Herzegovina,BIH,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,94.517285319556
+BA,Bosnia and Herzegovina,BIH,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,93.3720581279095
+BW,Botswana,BWA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,28.3490480240129
+BW,Botswana,BWA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,42.4992494083776
+BW,Botswana,BWA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,39.7322976461026
+BW,Botswana,BWA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,38.965697042253
+BW,Botswana,BWA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,33.473704658788
+BR,Brazil,BRA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,57.4532112176043
+BR,Brazil,BRA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,64.6729972735175
+BR,Brazil,BRA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,74.4637262966574
+BR,Brazil,BRA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,73.2709775204511
+BR,Brazil,BRA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,72.6282148499785
+BN,Brunei Darussalam,BRN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,80.7770563283158
+BN,Brunei Darussalam,BRN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,83.076209463864
+BN,Brunei Darussalam,BRN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,83.8934149346841
+BN,Brunei Darussalam,BRN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,78.9316205563014
+BN,Brunei Darussalam,BRN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,81.6907685244855
+BG,Bulgaria,BGR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,76.613619336916
+BG,Bulgaria,BGR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,87.9294604556972
+BG,Bulgaria,BGR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,95.4116219017811
+BG,Bulgaria,BGR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,95.1984845473133
+BG,Bulgaria,BGR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,94.8866147188027
+BF,Burkina Faso,BFA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,35.6163851436063
+BF,Burkina Faso,BFA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.767338958295
+BF,Burkina Faso,BFA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.1212714408879
+BF,Burkina Faso,BFA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.8202106096331
+BF,Burkina Faso,BFA,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,27.3124720740348
+BI,Burundi,BDI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,38.847359533099
+BI,Burundi,BDI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,37.5895193545548
+BI,Burundi,BDI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.8831915735238
+BI,Burundi,BDI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.8898679091363
+BI,Burundi,BDI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,28.1219371358567
+CV,Cabo Verde,CPV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,64.1200994917821
+CV,Cabo Verde,CPV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,67.1478770741955
+CV,Cabo Verde,CPV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,70.7244163607047
+CV,Cabo Verde,CPV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,65.3257829429845
+CV,Cabo Verde,CPV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,60.0958805530081
+KH,Cambodia,KHM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,63.6229213716915
+KH,Cambodia,KHM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,70.3832551131715
+KH,Cambodia,KHM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,68.951879517722
+KH,Cambodia,KHM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,64.5905795136953
+KH,Cambodia,KHM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,57.4838403465181
+CM,Cameroon,CMR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,35.7199669776104
+CM,Cameroon,CMR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,37.046424513919
+CM,Cameroon,CMR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.7779174629782
+CM,Cameroon,CMR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,33.477126437639
+CM,Cameroon,CMR,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,29.3243684314332
+CA,Canada,CAN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,86.1421655647786
+CA,Canada,CAN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,84.8871967394432
+CA,Canada,CAN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,89.2755666661903
+CA,Canada,CAN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,88.5841183222835
+CA,Canada,CAN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,88.6065925027324
+CF,Central African Republic,CAF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,22.764467261008
+CF,Central African Republic,CAF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,25.2716481603762
+CF,Central African Republic,CAF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,25.0323798183583
+CF,Central African Republic,CAF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,23.1115517059069
+CF,Central African Republic,CAF,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,20.3012508761175
+TD,Chad,TCD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,23.4756986639437
+TD,Chad,TCD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,24.2221572291951
+TD,Chad,TCD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,23.9958599103051
+TD,Chad,TCD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,22.2273430186864
+TD,Chad,TCD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,20.7112201442775
+CL,Chile,CHL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,73.238409378537
+CL,Chile,CHL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,73.1264108681838
+CL,Chile,CHL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,83.2853008667027
+CL,Chile,CHL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,84.8745521801575
+CL,Chile,CHL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,83.5669362505673
+CN,China,CHN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,90.6830294831708
+CN,China,CHN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,90.1883860083351
+CN,China,CHN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,90.2259809789681
+CN,China,CHN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,89.0364229405747
+CN,China,CHN,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,87.3780400377353
+CO,Colombia,COL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,57.6695609968946
+CO,Colombia,COL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,63.8185601561318
+CO,Colombia,COL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,75.7106161691159
+CO,Colombia,COL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,73.6124766157962
+CO,Colombia,COL,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,68.9096304584431
+KM,Comoros,COM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,49.6982137530303
+KM,Comoros,COM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,54.2548740204214
+KM,Comoros,COM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,52.5619249769885
+KM,Comoros,COM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,51.2162082332385
+KM,Comoros,COM,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,45.868121540234
+CD,"Congo, Dem. Rep.",COD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.5598414835297
+CD,"Congo, Dem. Rep.",COD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,35.0002661664639
+CD,"Congo, Dem. Rep.",COD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,34.0715643837097
+CD,"Congo, Dem. Rep.",COD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,31.3317039645789
+CD,"Congo, Dem. Rep.",COD,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,27.634119233823
+CG,"Congo, Rep.",COG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,34.0124223199848
+CG,"Congo, Rep.",COG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,35.2662583551051
+CG,"Congo, Rep.",COG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.0071118969785
+CG,"Congo, Rep.",COG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,34.400172022136
+CG,"Congo, Rep.",COG,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,35.2560242354477
+CR,Costa Rica,CRI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,66.8531126594543
+CR,Costa Rica,CRI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,77.6433710666881
+CR,Costa Rica,CRI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,82.0594445028992
+CR,Costa Rica,CRI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,81.0356460333976
+CR,Costa Rica,CRI,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,81.0462115234287
+CI,Cote d'Ivoire,CIV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,35.670179468665
+CI,Cote d'Ivoire,CIV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,36.0973763290178
+CI,Cote d'Ivoire,CIV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,36.3173658451069
+CI,Cote d'Ivoire,CIV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,32.4448341442218
+CI,Cote d'Ivoire,CIV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,25.4307235790162
+HR,Croatia,HRV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,80.4526629211494
+HR,Croatia,HRV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,86.4350490668806
+HR,Croatia,HRV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,93.4946691096097
+HR,Croatia,HRV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,92.6864072006955
+HR,Croatia,HRV,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,92.7646101852643
+CU,Cuba,CUB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2021,61.0519651555228
+CU,Cuba,CUB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2020,85.236258111713
+CU,Cuba,CUB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2019,83.2032281869373
+CU,Cuba,CUB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2015,83.685271880308
+CU,Cuba,CUB,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,85.0250939348856

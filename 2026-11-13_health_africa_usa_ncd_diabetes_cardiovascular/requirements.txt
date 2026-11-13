@@ -1,0 +1,32 @@
+# Python dependencies for the Africa vs USA NCD (diabetes & CVD) pipeline.
+#
+# NOTE: Apache Airflow is intentionally NOT listed here. Airflow has a large,
+# tightly-constrained dependency tree and must be installed separately using
+# its official constraints file, e.g.:
+#   pip install "apache-airflow==2.8.1" \
+#     --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.1/constraints-3.11.txt"
+# or run via the official apache/airflow Docker image with dags/ mounted.
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+sqlalchemy==2.0.23
+
+# Ingestion
+requests==2.31.0
+retry==0.9.2
+
+# Configuration
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Visualisation & notebooks
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+jupyter==1.0.0
+nbformat==5.9.2
+
+# Quality
+flake8==7.0.0
+pytest==7.4.3

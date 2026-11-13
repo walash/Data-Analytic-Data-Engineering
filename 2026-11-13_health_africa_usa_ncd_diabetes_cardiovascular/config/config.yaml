@@ -1,0 +1,69 @@
+# =============================================================================
+# NCD Burden (Diabetes & Cardiovascular Disease) - Africa vs USA
+# Central pipeline configuration. All paths are relative to the project root.
+# The World Bank Indicators API is public: no API keys or secrets are required.
+# =============================================================================
+
+project:
+  name: africa_usa_ncd_diabetes_cardiovascular
+  description: >
+    End-to-end ETL pipeline measuring the burden of non-communicable diseases
+    (diabetes prevalence, NCD share of deaths and premature NCD mortality)
+    across African countries compared with the United States.
+
+worldbank:
+  base_url: https://api.worldbank.org/v2/country/all/indicator
+  format: json
+  per_page: 500
+  mrv: 10                     # most recent values (years) per country
+  indicators:
+    diabetes_prevalence:
+      code: SH.STA.DIAB.ZS
+      description: Diabetes prevalence (% of population ages 20 to 79)
+      url: https://api.worldbank.org/v2/country/all/indicator/SH.STA.DIAB.ZS?format=json&per_page=500&mrv=10
+    ncd_deaths:
+      code: SH.DTH.NCOM.ZS
+      description: Cause of death, by non-communicable diseases (% of total)
+      url: https://api.worldbank.org/v2/country/all/indicator/SH.DTH.NCOM.ZS?format=json&per_page=500&mrv=10
+    ncd_mortality_30_70:
+      code: SH.DYN.NCOM.ZS
+      description: >
+        Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)
+      url: https://api.worldbank.org/v2/country/all/indicator/SH.DYN.NCOM.ZS?format=json&per_page=500&mrv=10
+
+reference_sources:
+  who_ncd_portal: https://www.who.int/data/gho/data/themes/noncommunicable-diseases
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database: data/ncd_health.db
+  report_dir: data/reports
+  sql_queries: sql/queries.sql
+
+pipeline:
+  log_level: INFO
+  request_timeout_seconds: 60
+  max_retries: 4
+  retry_delay_seconds: 2
+  retry_backoff: 2
+  max_pages: 20               # safety cap on API pagination
+  min_year: 2000
+  max_valid_percentage: 100.0
+
+regions:
+  usa_iso3: USA
+  # Benchmark World Bank aggregates retained for comparison in analytics
+  benchmark_aggregates: [SSF, AFE, AFW, MEA, NAC, HIC, LIC, LMC, UMC, WLD]
+  # 54 African Union / UN-recognised African countries grouped by sub-region
+  africa_subregions:
+    North Africa: [DZA, EGY, LBY, MAR, SDN, TUN]
+    West Africa: [BEN, BFA, CPV, CIV, GMB, GHA, GIN, GNB, LBR, MLI, MRT, NER, NGA, SEN, SLE, TGO]
+    Central Africa: [AGO, CMR, CAF, TCD, COD, COG, GNQ, GAB, STP]
+    East Africa: [BDI, COM, DJI, ERI, ETH, KEN, MDG, MWI, MUS, MOZ, RWA, SYC, SOM, SSD, TZA, UGA, ZMB, ZWE]
+    Southern Africa: [BWA, SWZ, LSO, NAM, ZAF]
+  # ISO3-like codes the World Bank uses for regional / income aggregates
+  worldbank_aggregates: [AFE, AFW, ARB, CEB, CSS, EAP, EAR, EAS, ECA, ECS, EMU, EUU,
+                         FCS, HIC, HPC, IBD, IBT, IDA, IDB, IDX, INX, LAC, LCN, LDC,
+                         LIC, LMC, LMY, LTE, MEA, MIC, MNA, NAC, OED, OSS, PRE, PSS,
+                         PST, SAS, SSA, SSF, SST, TEA, TEC, TLA, TMN, TSA, TSS, UMC, WLD]

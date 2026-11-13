@@ -1,0 +1,3 @@
+indicator_key,indicator_code,indicator_name,first_year,last_year,n_observations
+diabetes_prevalence,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,2024,517
+ncd_deaths,SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",2010,2021,435
