@@ -1,0 +1,85 @@
+# =====================================================================
+# Deepwater Offshore Oil Production: Africa vs USA Gulf of Mexico
+# Project configuration (loaded by ingest.py, transform.py, load.py and
+# the Airflow DAG). Paths are relative to the project root and can be
+# overridden with the environment variables listed under `env_overrides`.
+# =====================================================================
+
+project:
+  name: "oil_gas_africa_usa_deepwater_offshore"
+  domain: "Oil and Gas"
+  geographic_focus: "Africa & USA"
+
+data_sources:
+  # Our World in Data energy dataset (full CSV, ~9 MB, all countries/years).
+  owid_energy_csv: "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv"
+  # OWID repository (codebook and documentation).
+  owid_repo: "https://github.com/owid/energy-data"
+  # World Bank Indicators API; {iso} is replaced by a ';'-joined ISO3 list.
+  worldbank_oil_rents: "https://api.worldbank.org/v2/country/{iso}/indicator/NY.GDP.PETR.RT.ZS?format=json"
+
+worldbank:
+  indicator: "NY.GDP.PETR.RT.ZS"   # Oil rents (% of GDP)
+  per_page: 1000
+  date_range: "2010:2023"
+
+# Deepwater-relevant producers. USA is used as the Gulf of Mexico proxy
+# (OWID/World Bank publish national totals, not basin-level series).
+countries:
+  NGA: {name: "Nigeria", region: "Africa", deepwater_basin: "Niger Delta / Gulf of Guinea"}
+  AGO: {name: "Angola", region: "Africa", deepwater_basin: "Lower Congo / Kwanza"}
+  GNQ: {name: "Equatorial Guinea", region: "Africa", deepwater_basin: "Rio Muni / Douala"}
+  COG: {name: "Congo", region: "Africa", deepwater_basin: "Lower Congo"}
+  GAB: {name: "Gabon", region: "Africa", deepwater_basin: "Gabon Coastal"}
+  CMR: {name: "Cameroon", region: "Africa", deepwater_basin: "Rio del Rey / Douala"}
+  GHA: {name: "Ghana", region: "Africa", deepwater_basin: "Tano (Jubilee, TEN)"}
+  USA: {name: "United States", region: "USA", deepwater_basin: "Gulf of Mexico"}
+
+years:
+  start: 2010
+  end: 2023
+
+paths:
+  raw: "data/raw"
+  processed: "data/processed"
+  reports: "data/reports"
+  database: "data/oil_production.db"
+  raw_files:
+    owid: "owid_oil_production.csv"
+    worldbank: "wb_oil_rents_raw.json"
+    merged: "oil_production_merged.csv"
+  processed_files:
+    production: "oil_production_processed.csv"
+    rents: "oil_rents_processed.csv"
+
+pipeline:
+  log_level: "INFO"
+  request_timeout: 60
+  max_retries: 4
+  retry_backoff_seconds: 2
+  # TWh/year -> kbd conversion factor used by the project specification:
+  # oil_production_kbd = oil_production_twh * 1000 / 8.76 / 24
+  kbd_divisor_hours: 8.76
+  kbd_divisor_day: 24
+  # Physical energy content of one barrel of crude (MWh/bbl, ~5.8 MMBtu).
+  mwh_per_barrel: 1.7
+
+# Environment variables that override the paths above (used by Docker).
+env_overrides:
+  config_path: "CONFIG_PATH"
+  raw_dir: "DATA_RAW_DIR"
+  processed_dir: "DATA_PROCESSED_DIR"
+  database: "DB_PATH"
+
+# ---------------------------------------------------------------------
+# API KEY PLACEHOLDERS
+# Both OWID and the World Bank API are open and require NO key.
+# These fields exist only so authenticated providers (e.g. EIA, BSEE,
+# Rystad) can be added later. Supply values via environment variables,
+# never commit real keys to git.
+# ---------------------------------------------------------------------
+api_keys:
+  worldbank: "NOT_REQUIRED"            # open API
+  owid: "NOT_REQUIRED"                 # public GitHub raw file
+  eia_api_key: "<YOUR_EIA_API_KEY_HERE>"     # optional: https://www.eia.gov/opendata/
+  bsee_api_key: "<YOUR_BSEE_API_KEY_HERE>"   # optional: Gulf of Mexico field data

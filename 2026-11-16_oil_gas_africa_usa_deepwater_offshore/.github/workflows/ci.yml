@@ -1,0 +1,53 @@
+# CI for the Deepwater Offshore Oil Production pipeline.
+# Paths assume this project folder is the repository root (or that the
+# workflow runs with working-directory set to the project folder).
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint:
+    name: Lint (flake8)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install flake8
+        run: pip install flake8==7.0.0
+      - name: Run flake8
+        run: flake8 src dags --max-line-length=110 --count --statistics
+
+  smoke-test:
+    name: Smoke test ingestion + transform + load
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install runtime dependencies
+        run: pip install pandas==2.1.4 requests==2.31.0 tenacity==8.2.3 pyyaml==6.0.1 pytest==7.4.4
+      - name: Import ingestion module
+        run: python -c "import src.ingestion.ingest"
+      - name: Ingestion dry run (config validation, no network)
+        run: python src/ingestion/ingest.py --dry-run
+      - name: Import DAG without Airflow installed
+        run: python -c "import dags.pipeline_dag as d; assert d.dag is None"
+      - name: Run transform on committed raw data
+        run: |
+          python src/transformation/transform.py
+          test -s data/processed/oil_production_processed.csv
+          test -s data/processed/oil_rents_processed.csv
+          python -c "import pandas as pd; df = pd.read_csv('data/processed/oil_production_processed.csv'); assert {'oil_production_kbd', 'region'} <= set(df.columns); assert set(df.region) == {'Africa', 'USA'}; print(df.shape)"
+      - name: Load into SQLite and run analytical queries
+        run: |
+          python src/loading/load.py
+          python -c "import sqlite3; c = sqlite3.connect('data/oil_production.db'); c.executescript(open('sql/queries.sql').read()); print(c.execute('SELECT COUNT(*) FROM oil_production').fetchone())"

@@ -1,0 +1,27 @@
+Deepwater Offshore Oil Production: Africa vs USA Gulf of Mexico
+Pipeline run date: 2026-11-16
+
+Row counts:
+  oil_production  112
+  oil_rents       112
+
+Production by region, 2023 (TWh):
+  Africa     1850.6
+  USA        9647.6
+
+Top producers, 2023 (TWh, YoY %):
+  United States           9647.6  8.27
+  Nigeria                  859.5  6.69
+  Angola                   649.0  -3.43
+  Congo                    165.6  3.64
+  Gabon                    129.6  17.14
+
+Oil rents % of GDP, 2021:
+  Congo                34.38
+  Angola               28.27
+  Gabon                15.56
+  Equatorial Guinea    14.94
+  Nigeria              6.25
+  Ghana                4.06
+  Cameroon             2.36
+  United States        0.61

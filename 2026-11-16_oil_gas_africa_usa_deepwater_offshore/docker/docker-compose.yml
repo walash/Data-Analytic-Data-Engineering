@@ -1,0 +1,40 @@
+# Run from the docker/ directory:  docker compose up --build
+# The SQLite database lives in the named volume `sqlite_data`; raw and
+# processed CSVs are bind-mounted to ../data so they are visible on the host.
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: deepwater-oil-pipeline:latest
+    container_name: deepwater_oil_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      PROJECT_ROOT: /app
+      CONFIG_PATH: /app/config/config.yaml
+      DATA_RAW_DIR: /app/data/raw
+      DATA_PROCESSED_DIR: /app/data/processed
+      DB_PATH: /app/db/oil_production.db
+    volumes:
+      - ../data/raw:/app/data/raw
+      - ../data/processed:/app/data/processed
+      - ../data/reports:/app/data/reports
+      - ../config:/app/config:ro
+      - sqlite_data:/app/db
+    restart: "no"
+
+  # Optional: inspect the database (docker compose run --rm sqlite)
+  sqlite:
+    image: keinos/sqlite3:latest
+    profiles: ["tools"]
+    volumes:
+      - sqlite_data:/db
+      - ../sql:/sql:ro
+    entrypoint: ["sqlite3", "-header", "-column", "/db/oil_production.db"]
+    depends_on:
+      - pipeline
+
+volumes:
+  sqlite_data:
+    name: deepwater_oil_sqlite_data

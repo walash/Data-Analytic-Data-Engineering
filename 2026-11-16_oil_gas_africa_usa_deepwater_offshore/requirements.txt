@@ -1,0 +1,29 @@
+# Deepwater Offshore Oil Production: Africa vs USA Gulf of Mexico
+# Python 3.11. Install with: pip install -r requirements.txt
+
+# --- Data processing & ingestion ---
+pandas==2.1.4
+requests==2.31.0
+tenacity==8.2.3
+pyyaml==6.0.1
+sqlalchemy==2.0.25
+
+# --- Visualisation & notebooks ---
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+jupyter==1.0.0
+nbformat==5.9.2
+
+# --- Quality & testing ---
+flake8==7.0.0
+pytest==7.4.4
+
+# --- Orchestration (SEPARATE INSTALL REQUIRED) ---
+# apache-airflow 2.8.1 pins SQLAlchemy<2.0, which conflicts with
+# sqlalchemy==2.0.25 above, so it is intentionally commented out here.
+# Install it in a dedicated virtualenv / scheduler image using the
+# official constraints file:
+#   pip install "apache-airflow==2.8.1" --constraint \
+#     "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.1/constraints-3.11.txt"
+# apache-airflow==2.8.1
