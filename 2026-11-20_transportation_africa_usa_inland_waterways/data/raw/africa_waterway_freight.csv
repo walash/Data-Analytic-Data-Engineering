@@ -1,0 +1,33 @@
+country,iso3,waterway,year,freight_thousand_tons,passengers_thousand,ports_count
+Nigeria,NGA,Niger River,2015,1250,3200,8
+Nigeria,NGA,Niger River,2016,1180,3100,8
+Nigeria,NGA,Niger River,2017,1320,3350,9
+Nigeria,NGA,Niger River,2018,1410,3500,9
+Nigeria,NGA,Niger River,2019,1380,3420,10
+Nigeria,NGA,Niger River,2020,1150,2800,10
+Nigeria,NGA,Niger River,2021,1290,3100,10
+Nigeria,NGA,Niger River,2022,1450,3600,11
+DR Congo,COD,Congo River,2015,2100,8500,15
+DR Congo,COD,Congo River,2016,1980,8200,15
+DR Congo,COD,Congo River,2017,2050,8350,16
+DR Congo,COD,Congo River,2018,2200,8700,16
+DR Congo,COD,Congo River,2019,2150,8600,17
+DR Congo,COD,Congo River,2020,1850,7200,17
+DR Congo,COD,Congo River,2021,2000,7800,17
+DR Congo,COD,Congo River,2022,2250,8900,18
+Egypt,EGY,Nile River,2015,3500,12000,22
+Egypt,EGY,Nile River,2016,3650,12500,22
+Egypt,EGY,Nile River,2017,3800,13000,23
+Egypt,EGY,Nile River,2018,4100,13800,23
+Egypt,EGY,Nile River,2019,4250,14200,24
+Egypt,EGY,Nile River,2020,3800,11500,24
+Egypt,EGY,Nile River,2021,4000,12800,24
+Egypt,EGY,Nile River,2022,4350,14500,25
+Ghana,GHA,Volta Lake,2015,450,1800,5
+Ghana,GHA,Volta Lake,2018,520,2100,6
+Ghana,GHA,Volta Lake,2021,580,2300,6
+Ghana,GHA,Volta Lake,2022,610,2450,7
+Mali,MLI,Niger River,2015,380,950,4
+Mali,MLI,Niger River,2018,420,1050,4
+Mali,MLI,Niger River,2021,350,880,4
+Mali,MLI,Niger River,2022,390,920,4

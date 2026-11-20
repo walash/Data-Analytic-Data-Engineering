@@ -1,0 +1,51 @@
+year,waterway,commodity,tonnage_million,direction
+2010,Mississippi River System,Coal,89.2,Downstream
+2010,Mississippi River System,Petroleum,45.6,Upstream
+2010,Mississippi River System,Grain,62.3,Downstream
+2011,Mississippi River System,Coal,85.1,Downstream
+2011,Mississippi River System,Petroleum,48.2,Upstream
+2011,Mississippi River System,Grain,65.7,Downstream
+2012,Mississippi River System,Coal,78.4,Downstream
+2012,Mississippi River System,Petroleum,52.1,Upstream
+2012,Mississippi River System,Grain,55.3,Downstream
+2013,Mississippi River System,Coal,82.6,Downstream
+2013,Mississippi River System,Petroleum,55.8,Upstream
+2013,Mississippi River System,Grain,68.9,Downstream
+2014,Mississippi River System,Coal,80.3,Downstream
+2014,Mississippi River System,Petroleum,58.4,Upstream
+2014,Mississippi River System,Grain,72.1,Downstream
+2015,Mississippi River System,Coal,75.2,Downstream
+2015,Mississippi River System,Petroleum,61.3,Upstream
+2015,Mississippi River System,Grain,70.5,Downstream
+2016,Mississippi River System,Coal,68.9,Downstream
+2016,Mississippi River System,Petroleum,63.7,Upstream
+2016,Mississippi River System,Grain,73.2,Downstream
+2017,Mississippi River System,Coal,65.4,Downstream
+2017,Mississippi River System,Petroleum,66.1,Upstream
+2017,Mississippi River System,Grain,75.8,Downstream
+2018,Mississippi River System,Coal,62.1,Downstream
+2018,Mississippi River System,Petroleum,68.9,Upstream
+2018,Mississippi River System,Grain,71.4,Downstream
+2019,Mississippi River System,Coal,58.7,Downstream
+2019,Mississippi River System,Petroleum,70.2,Upstream
+2019,Mississippi River System,Grain,68.3,Downstream
+2020,Mississippi River System,Coal,48.3,Downstream
+2020,Mississippi River System,Petroleum,65.4,Upstream
+2020,Mississippi River System,Grain,72.6,Downstream
+2021,Mississippi River System,Coal,52.1,Downstream
+2021,Mississippi River System,Petroleum,67.8,Upstream
+2021,Mississippi River System,Grain,76.2,Downstream
+2022,Mississippi River System,Coal,49.8,Downstream
+2022,Mississippi River System,Petroleum,69.3,Upstream
+2022,Mississippi River System,Grain,65.1,Downstream
+2023,Mississippi River System,Coal,46.2,Downstream
+2023,Mississippi River System,Petroleum,71.5,Upstream
+2023,Mississippi River System,Grain,67.8,Downstream
+2020,Ohio River,Coal,42.3,Downstream
+2020,Ohio River,Petroleum,18.7,Upstream
+2021,Ohio River,Coal,45.1,Downstream
+2021,Ohio River,Petroleum,19.2,Upstream
+2022,Ohio River,Coal,43.8,Downstream
+2022,Ohio River,Petroleum,20.1,Upstream
+2023,Ohio River,Coal,40.5,Downstream
+2023,Ohio River,Petroleum,21.3,Upstream

@@ -1,0 +1,19 @@
+country,iso3,iso2,region,total_waterway_km,navigable_km,navigable_share,land_area_sq_km,waterway_density,major_rivers,year
+United States,USA,US,USA,41009.0,41009.0,1.0,9147420.0,4.4831,"Mississippi, Missouri, Ohio, Columbia, Tennessee",2023
+DR Congo,COD,CD,Africa,15000.0,15000.0,1.0,2267050.0,6.6165,"Congo, Kasai, Ubangi, Lomami",2023
+Sudan,SDN,SD,Africa,4068.0,4068.0,1.0,1765048.0,2.3048,"Nile, Blue Nile, White Nile",2023
+Egypt,EGY,EG,Africa,3500.0,3500.0,1.0,995450.0,3.516,"Nile, Suez Canal",2023
+Nigeria,NGA,NG,Africa,8600.0,3000.0,0.3488,910770.0,3.2939,"Niger, Benue, Cross River",2023
+Zambia,ZMB,ZM,Africa,2250.0,2250.0,1.0,743390.0,3.0267,"Zambezi, Kafue, Luangwa",2023
+Cameroon,CMR,CM,Africa,2090.0,2090.0,1.0,472710.0,4.4213,"Benue, Wouri, Sanaga",2023
+Mali,MLI,ML,Africa,1800.0,1800.0,1.0,1220190.0,1.4752,"Niger, Senegal",2023
+Angola,AGO,AO,Africa,1300.0,1300.0,1.0,1246700.0,1.0428,"Congo, Kwanza, Cunene",2023
+Guinea,GIN,GN,Africa,1295.0,1295.0,1.0,245720.0,5.2702,"Niger, Gambia, Senegal (headwaters)",2023
+Ghana,GHA,GH,Africa,1293.0,1293.0,1.0,227540.0,5.6825,"Volta, Pra, Ankobra",2023
+Senegal,SEN,SN,Africa,1000.0,1000.0,1.0,192530.0,5.194,"Senegal, Gambia, Casamance",2023
+Cote d'Ivoire,CIV,CI,Africa,980.0,980.0,1.0,318000.0,3.0818,"Bandama, Sassandra, Comoe",2023
+Mozambique,MOZ,MZ,Africa,460.0,460.0,1.0,786380.0,0.585,"Zambezi, Limpopo",2023
+Ethiopia,ETH,ET,Africa,0.0,0.0,,1128571.0,0.0,Blue Nile (limited),2023
+Kenya,KEN,KE,Africa,0.0,0.0,,569140.0,0.0,"Tana, Athi (seasonal)",2023
+South Africa,ZAF,ZA,Africa,0.0,0.0,,1213090.0,0.0,"Orange, Limpopo (seasonal)",2023
+Tanzania,TZA,TZ,Africa,0.0,0.0,,885800.0,0.0,"Rufiji, Ruvuma (seasonal)",2023

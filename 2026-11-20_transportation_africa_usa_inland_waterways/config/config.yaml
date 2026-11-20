@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------------------
+# Inland Waterways Transportation: Africa & USA - pipeline configuration
+# All paths are relative to the project root. Environment variables
+# DATA_DIR, DB_PATH and LOG_LEVEL override the values below at runtime.
+# No API keys are required: the World Bank Open Data API is public.
+# ---------------------------------------------------------------------------
+
+api:
+  world_bank_base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 1000
+  date_range: "2000:2023"
+  timeout: 30          # seconds per HTTP request
+  retries: 3           # attempts before giving up
+  backoff_factor: 2    # exponential backoff base (2s, 4s, 8s)
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  db_path: "data/waterways.db"
+
+countries:
+  - US   # United States
+  - NG   # Nigeria
+  - CD   # DR Congo
+  - EG   # Egypt
+  - ZA   # South Africa
+  - GH   # Ghana
+  - ET   # Ethiopia
+  - KE   # Kenya
+  - CM   # Cameroon
+  - SN   # Senegal
+  - CI   # Cote d'Ivoire
+  - TZ   # Tanzania
+  - MZ   # Mozambique
+  - AO   # Angola
+  - ML   # Mali
+  - GN   # Guinea
+  - SD   # Sudan
+  - ZM   # Zambia
+
+indicators:
+  - code: "IS.SHP.GOOD.TU"
+    name: "Container port traffic (TEU: 20 foot equivalent units)"
+    output_file: "container_port_traffic.csv"
+    value_column: "container_teu"
+  - code: "NY.GDP.MKTP.CD"
+    name: "GDP (current US$)"
+    output_file: "gdp_data.csv"
+    value_column: "gdp_usd"
+  - code: "SP.POP.TOTL"
+    name: "Population, total"
+    output_file: "population.csv"
+    value_column: "population"
+  - code: "IS.SHP.GCNW.XQ"
+    name: "Liner shipping connectivity index (maximum value in 2004 = 100)"
+    output_file: "freight_transport.csv"
+    value_column: "freight_million_ton_km"
+
+static_sources:
+  usace_waterborne_commerce: "https://www.iwr.usace.army.mil/Missions/Navigation/Waterborne-Commerce-Statistics/"
+  afdb_transport: "https://www.afdb.org/en/topics-and-sectors/sectors/transport"
+  unctad_maritime_review: "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport"
+  un_desa_population: "https://population.un.org/wpp/"
+
+pipeline:
+  name: "inland_waterways_pipeline"
+  schedule: "@weekly"
+  log_level: "INFO"

@@ -1,0 +1,19 @@
+country,iso3,total_waterway_km,navigable_km,major_rivers,year
+United States,USA,41009,41009,"Mississippi, Missouri, Ohio, Columbia, Tennessee",2023
+Nigeria,NGA,8600,3000,"Niger, Benue, Cross River",2023
+DR Congo,COD,15000,15000,"Congo, Kasai, Ubangi, Lomami",2023
+Egypt,EGY,3500,3500,"Nile, Suez Canal",2023
+South Africa,ZAF,0,0,"Orange, Limpopo (seasonal)",2023
+Ghana,GHA,1293,1293,"Volta, Pra, Ankobra",2023
+Ethiopia,ETH,0,0,Blue Nile (limited),2023
+Kenya,KEN,0,0,"Tana, Athi (seasonal)",2023
+Cameroon,CMR,2090,2090,"Benue, Wouri, Sanaga",2023
+Senegal,SEN,1000,1000,"Senegal, Gambia, Casamance",2023
+Cote d'Ivoire,CIV,980,980,"Bandama, Sassandra, Comoe",2023
+Tanzania,TZA,0,0,"Rufiji, Ruvuma (seasonal)",2023
+Mozambique,MOZ,460,460,"Zambezi, Limpopo",2023
+Angola,AGO,1300,1300,"Congo, Kwanza, Cunene",2023
+Mali,MLI,1800,1800,"Niger, Senegal",2023
+Guinea,GIN,1295,1295,"Niger, Gambia, Senegal (headwaters)",2023
+Sudan,SDN,4068,4068,"Nile, Blue Nile, White Nile",2023
+Zambia,ZMB,2250,2250,"Zambezi, Kafue, Luangwa",2023

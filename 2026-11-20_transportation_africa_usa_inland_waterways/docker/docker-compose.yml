@@ -1,0 +1,52 @@
+version: '3.8'
+
+# Run from the docker/ directory:  docker compose up --build
+# pipeline : ingest -> transform -> load into the shared SQLite volume
+# db       : lightweight Python container that opens the SQLite warehouse
+#            and prints table row counts once the pipeline has finished
+
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: inland-waterways-pipeline:latest
+    container_name: inland_waterways_pipeline
+    environment:
+      DB_PATH: /app/data/waterways.db
+      DATA_DIR: /app/data
+      LOG_LEVEL: INFO
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"
+
+  db:
+    image: python:3.11-slim
+    container_name: inland_waterways_db
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    environment:
+      DB_PATH: /data/waterways.db
+      DATA_DIR: /data
+      LOG_LEVEL: INFO
+    volumes:
+      - ../data:/data
+    working_dir: /data
+    command:
+      - python
+      - -c
+      - |
+        import os, sqlite3
+        conn = sqlite3.connect(os.environ["DB_PATH"])
+        tables = [r[0] for r in conn.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'")]
+        for t in tables:
+            print(f"{t:<26}{conn.execute(f'SELECT COUNT(*) FROM {t}').fetchone()[0]:>8}")
+        conn.close()
+    restart: "no"

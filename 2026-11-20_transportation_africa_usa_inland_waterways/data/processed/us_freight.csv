@@ -1,0 +1,51 @@
+year,waterway,commodity,direction,tonnage_million,freight_thousand_tons,country,iso3,region,decade
+2010,Mississippi River System,Coal,Downstream,89.2,89200.0,United States,USA,USA,2010s
+2011,Mississippi River System,Coal,Downstream,85.1,85100.0,United States,USA,USA,2010s
+2012,Mississippi River System,Coal,Downstream,78.4,78400.0,United States,USA,USA,2010s
+2013,Mississippi River System,Coal,Downstream,82.6,82600.0,United States,USA,USA,2010s
+2014,Mississippi River System,Coal,Downstream,80.3,80300.0,United States,USA,USA,2010s
+2015,Mississippi River System,Coal,Downstream,75.2,75200.0,United States,USA,USA,2010s
+2016,Mississippi River System,Coal,Downstream,68.9,68900.0,United States,USA,USA,2010s
+2017,Mississippi River System,Coal,Downstream,65.4,65400.00000000001,United States,USA,USA,2010s
+2018,Mississippi River System,Coal,Downstream,62.1,62100.0,United States,USA,USA,2010s
+2019,Mississippi River System,Coal,Downstream,58.7,58700.0,United States,USA,USA,2010s
+2020,Mississippi River System,Coal,Downstream,48.3,48300.0,United States,USA,USA,2020s
+2021,Mississippi River System,Coal,Downstream,52.1,52100.0,United States,USA,USA,2020s
+2022,Mississippi River System,Coal,Downstream,49.8,49800.0,United States,USA,USA,2020s
+2023,Mississippi River System,Coal,Downstream,46.2,46200.0,United States,USA,USA,2020s
+2010,Mississippi River System,Grain,Downstream,62.3,62300.0,United States,USA,USA,2010s
+2011,Mississippi River System,Grain,Downstream,65.7,65700.0,United States,USA,USA,2010s
+2012,Mississippi River System,Grain,Downstream,55.3,55300.0,United States,USA,USA,2010s
+2013,Mississippi River System,Grain,Downstream,68.9,68900.0,United States,USA,USA,2010s
+2014,Mississippi River System,Grain,Downstream,72.1,72100.0,United States,USA,USA,2010s
+2015,Mississippi River System,Grain,Downstream,70.5,70500.0,United States,USA,USA,2010s
+2016,Mississippi River System,Grain,Downstream,73.2,73200.0,United States,USA,USA,2010s
+2017,Mississippi River System,Grain,Downstream,75.8,75800.0,United States,USA,USA,2010s
+2018,Mississippi River System,Grain,Downstream,71.4,71400.0,United States,USA,USA,2010s
+2019,Mississippi River System,Grain,Downstream,68.3,68300.0,United States,USA,USA,2010s
+2020,Mississippi River System,Grain,Downstream,72.6,72600.0,United States,USA,USA,2020s
+2021,Mississippi River System,Grain,Downstream,76.2,76200.0,United States,USA,USA,2020s
+2022,Mississippi River System,Grain,Downstream,65.1,65099.99999999999,United States,USA,USA,2020s
+2023,Mississippi River System,Grain,Downstream,67.8,67800.0,United States,USA,USA,2020s
+2010,Mississippi River System,Petroleum,Upstream,45.6,45600.0,United States,USA,USA,2010s
+2011,Mississippi River System,Petroleum,Upstream,48.2,48200.0,United States,USA,USA,2010s
+2012,Mississippi River System,Petroleum,Upstream,52.1,52100.0,United States,USA,USA,2010s
+2013,Mississippi River System,Petroleum,Upstream,55.8,55800.0,United States,USA,USA,2010s
+2014,Mississippi River System,Petroleum,Upstream,58.4,58400.0,United States,USA,USA,2010s
+2015,Mississippi River System,Petroleum,Upstream,61.3,61300.0,United States,USA,USA,2010s
+2016,Mississippi River System,Petroleum,Upstream,63.7,63700.0,United States,USA,USA,2010s
+2017,Mississippi River System,Petroleum,Upstream,66.1,66100.0,United States,USA,USA,2010s
+2018,Mississippi River System,Petroleum,Upstream,68.9,68900.0,United States,USA,USA,2010s
+2019,Mississippi River System,Petroleum,Upstream,70.2,70200.0,United States,USA,USA,2010s
+2020,Mississippi River System,Petroleum,Upstream,65.4,65400.00000000001,United States,USA,USA,2020s
+2021,Mississippi River System,Petroleum,Upstream,67.8,67800.0,United States,USA,USA,2020s
+2022,Mississippi River System,Petroleum,Upstream,69.3,69300.0,United States,USA,USA,2020s
+2023,Mississippi River System,Petroleum,Upstream,71.5,71500.0,United States,USA,USA,2020s
+2020,Ohio River,Coal,Downstream,42.3,42300.0,United States,USA,USA,2020s
+2021,Ohio River,Coal,Downstream,45.1,45100.0,United States,USA,USA,2020s
+2022,Ohio River,Coal,Downstream,43.8,43800.0,United States,USA,USA,2020s
+2023,Ohio River,Coal,Downstream,40.5,40500.0,United States,USA,USA,2020s
+2020,Ohio River,Petroleum,Upstream,18.7,18700.0,United States,USA,USA,2020s
+2021,Ohio River,Petroleum,Upstream,19.2,19200.0,United States,USA,USA,2020s
+2022,Ohio River,Petroleum,Upstream,20.1,20100.0,United States,USA,USA,2020s
+2023,Ohio River,Petroleum,Upstream,21.3,21300.0,United States,USA,USA,2020s
