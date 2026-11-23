@@ -1,0 +1,16 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: africa-usa-skilled-worker-migration:latest
+    container_name: africa_usa_migration_pipeline
+    environment:
+      DB_PATH: /app/data/migration_analytics.db
+      LOG_LEVEL: INFO
+      CONFIG_PATH: /app/config/config.yaml
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    restart: "no"

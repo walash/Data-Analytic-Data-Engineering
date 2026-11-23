@@ -1,0 +1,49 @@
+name: CI - Africa-USA Skilled Worker Migration Pipeline
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint-and-smoke-test:
+    runs-on: ubuntu-latest
+    env:
+      PROJECT_SUBDIR: 2026-11-23_immigration_africa_usa_skilled_worker_visas
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Locate project directory (standalone repo or multi-project repository)
+        run: |
+          if [ -f "$PROJECT_SUBDIR/requirements.txt" ]; then dir="$PROJECT_SUBDIR"; else dir="."; fi
+          echo "PROJECT_DIR=$GITHUB_WORKSPACE/$dir" >> "$GITHUB_ENV"
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: "**/requirements.txt"
+
+      - name: Install dependencies (apache-airflow is excluded)
+        run: |
+          cd "$PROJECT_DIR"
+          python -m pip install --upgrade pip
+          grep -v -i "apache-airflow" requirements.txt > requirements-ci.txt
+          pip install -r requirements-ci.txt
+
+      - name: Lint src/ with flake8
+        run: cd "$PROJECT_DIR" && flake8 src/ --max-line-length=120 --count --show-source --statistics
+
+      - name: Compile all Python sources
+        run: cd "$PROJECT_DIR" && python -m py_compile src/ingestion/ingest.py src/transformation/transform.py src/loading/load.py dags/pipeline_dag.py
+
+      - name: Smoke test - ingestion dry run (config + URL validation, no network)
+        run: cd "$PROJECT_DIR" && python src/ingestion/ingest.py --dry-run
+
+      - name: Smoke test - transform and load committed raw data
+        run: |
+          cd "$PROJECT_DIR"
+          python src/transformation/transform.py
+          python src/loading/load.py --report
+          python -c "import sqlite3; c = sqlite3.connect('data/migration_analytics.db'); n = c.execute('SELECT COUNT(*) FROM migration_indicators').fetchone()[0]; assert n > 0, n; print('migration_indicators rows:', n)"

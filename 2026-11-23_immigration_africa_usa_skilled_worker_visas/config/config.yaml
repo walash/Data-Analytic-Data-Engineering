@@ -1,0 +1,85 @@
+# ---------------------------------------------------------------------------
+# Africa-USA Skilled Worker Visa Flows - pipeline configuration
+# All paths are relative to the project root unless absolute.
+# Environment variables DB_PATH, LOG_LEVEL and CONFIG_PATH override values here.
+# ---------------------------------------------------------------------------
+
+world_bank_api:
+  base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 1000
+  timeout_seconds: 30
+  max_retries: 3
+  backoff_multiplier: 2      # exponential backoff: 2s, 4s, 8s ...
+  backoff_max_seconds: 30
+  indicators:
+    net_migration:
+      code: "SM.POP.NETM"
+      description: "Net migration (immigrants minus emigrants)"
+      raw_file: "wb_net_migration.json"
+    remittances_pct_gdp:
+      code: "BX.TRF.PWKR.DT.GD.ZS"
+      description: "Personal remittances, received (% of GDP)"
+      raw_file: "wb_remittances_pct_gdp.json"
+    remittances_usd:
+      code: "BX.TRF.PWKR.CD.DT"
+      description: "Personal remittances, received (current US$)"
+      raw_file: "wb_remittances_usd.json"
+    gdp_per_capita:
+      code: "NY.GDP.PCAP.CD"
+      description: "GDP per capita (current US$)"
+      raw_file: "wb_gdp_per_capita.json"
+    tertiary_enrollment:
+      code: "SE.TER.ENRR"
+      description: "School enrollment, tertiary (% gross)"
+      raw_file: "wb_tertiary_enrollment.json"
+    population:
+      code: "SP.POP.TOTL"
+      description: "Population, total"
+      raw_file: "wb_population.json"
+  usa_indicator:
+    code: "SM.POP.NETM"
+    country: "USA"
+    raw_file: "wb_usa_net_migration.json"
+
+reference_sources:
+  uscis_h1b_employer_data_hub: "https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub"
+  dhs_yearbook: "https://www.dhs.gov/immigration-statistics/yearbook"
+
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  database: "data/migration_analytics.db"
+  combined_raw_csv: "data/raw/africa_migration_indicators.csv"
+  processed_csv: "data/processed/africa_migration_processed.csv"
+  summary_csv: "data/processed/migration_summary.csv"
+  usa_csv: "data/processed/usa_net_migration.csv"
+  report_file: "data/processed/pipeline_report.md"
+
+pipeline:
+  start_year: 2011
+  end_year: 2025
+  countries:
+    - {iso3: EGY, name: "Egypt", subregion: "North Africa"}
+    - {iso3: NGA, name: "Nigeria", subregion: "West Africa"}
+    - {iso3: KEN, name: "Kenya", subregion: "East Africa"}
+    - {iso3: GHA, name: "Ghana", subregion: "West Africa"}
+    - {iso3: ETH, name: "Ethiopia", subregion: "East Africa"}
+    - {iso3: MAR, name: "Morocco", subregion: "North Africa"}
+    - {iso3: TZA, name: "Tanzania", subregion: "East Africa"}
+    - {iso3: UGA, name: "Uganda", subregion: "East Africa"}
+    - {iso3: SEN, name: "Senegal", subregion: "West Africa"}
+    - {iso3: ZAF, name: "South Africa", subregion: "Southern Africa"}
+  # Weights of the composite indices computed in src/transformation/transform.py
+  migration_intensity_weights:
+    net_migration_rate: 0.5
+    remittances_pct_gdp: 0.5
+  skilled_worker_proxy_weights:
+    tertiary_enrollment: 0.4
+    remittances_per_capita: 0.3
+    emigration_rate: 0.3
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  datefmt: "%Y-%m-%d %H:%M:%S"
