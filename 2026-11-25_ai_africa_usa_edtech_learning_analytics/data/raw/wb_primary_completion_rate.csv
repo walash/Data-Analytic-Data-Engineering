@@ -1,0 +1,101 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,80.237080416679
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,75.870809116479
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,64.6678851501234
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,69.1304469322063
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,70.981401448419
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,70.0887402010121
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,68.5260195484655
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,69.0517282328166
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,63.9062691491088
+CI,Cote d'Ivoire,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,60.3254551191519
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,75.2884678128093
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,72.2156986466489
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,70.4368165739108
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,69.4715407680741
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,66.0216269788872
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,64.9830245804076
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,68.703809542579
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,74.3193827099685
+CM,Cameroon,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,75.7092958263025
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,98.2100688782627
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,93.8413993972316
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,92.4316669556289
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,91.826074813289
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,88.7223371866174
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,86.5582045319816
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,83.7661313498518
+EG,"Egypt, Arab Rep.",SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,84.3103280366888
+ET,Ethiopia,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,54.4429654143725
+ET,Ethiopia,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,55.0561499631858
+ET,Ethiopia,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,60.9011228426355
+ET,Ethiopia,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,62.4525527223727
+ET,Ethiopia,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,51.4317405151101
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,97.5019836425781
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,93.4155248289227
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,93.8322499399433
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,88.8965895894549
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,89.296060543559
+GH,Ghana,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,94.2659750407999
+KE,Kenya,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,102.200240064297
+KE,Kenya,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,101.341661933882
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,106.370769185132
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,104.762394206542
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,98.9278773878928
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,98.1405287411357
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,94.2797508694124
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,91.7139082926889
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,89.4482407222167
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,89.8676963839556
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,93.8368562372231
+MA,Morocco,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,95.6674536644757
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,66.8181034887911
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,59.3042433145261
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,95.4018170049936
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,95.977301224131
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,84.2233360485587
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,76.0721783802394
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,67.7449990888319
+RW,Rwanda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,63.1980644451776
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,62.8559370532489
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,61.5314165000969
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,56.8702747567129
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,63.0956724973326
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,60.3359412043623
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,60.8755832493715
+SN,Senegal,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,58.1250429122667
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,77.3311793094267
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,89.3124694824219
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,74.4260315082726
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,68.4711470524733
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,64.7094759010993
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,67.5348797150181
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,67.2734642386931
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,61.0601160776836
+TZ,Tanzania,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,64.0960613008478
+UG,Uganda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,53.3121795654297
+UG,Uganda,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,55.0362396240234
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,95.743522644043
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,101.091278076172
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,100.923667907715
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,100.489051818848
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,100.092697143555
+US,United States,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,98.8321990966797
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,95.3327484577974
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,97.101965691325
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,95.2203914213668
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,92.6580245068739
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,93.0121131588576
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,92.4496153244785
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,90.274209979999
+ZA,South Africa,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,91.3366137480997
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2024,85.9607634950894
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2023,85.2029321232507
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2022,83.1984085838883
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2021,83.0338861778956
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2020,88.343367374493
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2019,86.8337629717761
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2018,87.8698591326578
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2017,87.9318891782794
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2016,88.9178597430998
+ZW,Zimbabwe,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",2015,89.236268331531

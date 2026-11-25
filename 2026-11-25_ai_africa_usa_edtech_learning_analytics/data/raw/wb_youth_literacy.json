@@ -1,0 +1,2572 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 500,
+    "total": 160,
+    "sourceid": "2",
+    "lastupdated": "2026-11-11"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2021",
+      "value": 66.8399963378906,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2019",
+      "value": 68.1179517411164,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2016",
+      "value": 62.9900016784668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2018",
+      "value": 81.8899993896484,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": 95.190867622614,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": 96.6145122385941,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": 88.1900024414062,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2022",
+      "value": 84.6900024414062,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2021",
+      "value": 79.6678826947671,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2019",
+      "value": 79.0500030517578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2016",
+      "value": 71.7900009155273,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2021",
+      "value": 91.5100021362305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2017",
+      "value": 87.7799987792969,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2015",
+      "value": 80.5782617320423,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2024",
+      "value": 81.3600006103516,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2021",
+      "value": 73.6699981689453,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2016",
+      "value": 72.9599990844727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2022",
+      "value": 89.9700012207031,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2020",
+      "value": 91.5100021362305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2018",
+      "value": 86.4899978637695,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2015",
+      "value": 88.5500030517578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2023",
+      "value": 67.4499969482422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2022",
+      "value": 75.2804219017061,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2019",
+      "value": 66.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2018",
+      "value": 65.9599990844727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2017",
+      "value": 69.4800033569336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2016",
+      "value": 64.5199966430664,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2015",
+      "value": 61.2900009155273,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2022",
+      "value": 87.0699996948242,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2020",
+      "value": 87.548390753389,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2015",
+      "value": 85.7600021362305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2024",
+      "value": 85.1500015258789,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2023",
+      "value": 89.9400024414062,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2021",
+      "value": 89.6325197413627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2016",
+      "value": 79.7799987792969,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2024",
+      "value": 97.1699981689453,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2021",
+      "value": 96.6999969482422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2019",
+      "value": 98.4100036621094,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2016",
+      "value": 96.7099990844727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2015",
+      "value": 98.9599990844727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2024",
+      "value": 77.6500015258789,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2022",
+      "value": 84.4848995233983,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2021",
+      "value": 84.1453910320871,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2020",
+      "value": 85.8567532849787,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2019",
+      "value": 84.0416067670309,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2018",
+      "value": 77.6900024414062,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2019",
+      "value": 92.5100021362305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.1524.LT.ZS",
+        "value": "Literacy rate, youth total (% of people ages 15-24)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

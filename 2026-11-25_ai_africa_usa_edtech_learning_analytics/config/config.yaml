@@ -1,0 +1,62 @@
+# Configuration for the AI-Powered EdTech & Learning Analytics pipeline
+# (Africa + USA). All paths are relative to the project root.
+
+world_bank_api:
+  base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 500
+  date_range: "2015:2025"
+  timeout: 30
+  retries: 3
+  backoff_factor: 2
+  indicators:
+    - code: "SE.PRM.CMPT.ZS"
+      name: "primary_completion_rate"
+      file: "wb_primary_completion_rate.csv"
+    - code: "SE.XPD.TOTL.GD.ZS"
+      name: "education_expenditure_pct_gdp"
+      file: "wb_education_expenditure.csv"
+    - code: "SE.TER.ENRR"
+      name: "tertiary_enrollment_rate"
+      file: "wb_tertiary_enrollment.csv"
+    - code: "IT.NET.USER.ZS"
+      name: "internet_users_pct"
+      file: "wb_internet_users.csv"
+    - code: "SE.ADT.1524.LT.ZS"
+      name: "youth_literacy_rate"
+      file: "wb_youth_literacy.csv"
+  countries:
+    - {code: "NG", name: "Nigeria", region: "Africa"}
+    - {code: "ZA", name: "South Africa", region: "Africa"}
+    - {code: "KE", name: "Kenya", region: "Africa"}
+    - {code: "GH", name: "Ghana", region: "Africa"}
+    - {code: "ET", name: "Ethiopia", region: "Africa"}
+    - {code: "EG", name: "Egypt", region: "Africa"}
+    - {code: "TZ", name: "Tanzania", region: "Africa"}
+    - {code: "UG", name: "Uganda", region: "Africa"}
+    - {code: "SN", name: "Senegal", region: "Africa"}
+    - {code: "CI", name: "Cote d'Ivoire", region: "Africa"}
+    - {code: "CM", name: "Cameroon", region: "Africa"}
+    - {code: "ZM", name: "Zambia", region: "Africa"}
+    - {code: "ZW", name: "Zimbabwe", region: "Africa"}
+    - {code: "RW", name: "Rwanda", region: "Africa"}
+    - {code: "MA", name: "Morocco", region: "Africa"}
+    - {code: "US", name: "United States", region: "USA"}
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  database_path: "data/education_analytics.db"
+  report_path: "data/processed/pipeline_report.txt"
+
+pipeline:
+  schedule: "0 6 * * 1,3,5"
+  batch_size: 500
+  readiness_weights:
+    internet_users_pct: 0.4
+    youth_literacy_rate: 0.3
+    tertiary_enrollment_rate: 0.3
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"

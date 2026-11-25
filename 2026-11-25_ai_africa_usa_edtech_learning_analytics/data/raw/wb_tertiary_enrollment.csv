@@ -1,0 +1,93 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,12.3354902267456
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,11.5724272130065
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,11.1134926507622
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,10.7725833415282
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,10.2664091345849
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,10.3256981639741
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,9.52488768872621
+CI,Cote d'Ivoire,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,8.89557845705252
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,16.6614294830602
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,16.0404395184936
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,16.4371527754335
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,17.1581831920239
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,15.5519566247682
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,15.0528614131463
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,14.5449548868213
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,12.9818161813936
+CM,Cameroon,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,12.7046554004596
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2025,38.0398346509947
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,37.5781274463676
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,37.9005584716797
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,36.462230682373
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,35.1185317783157
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,38.773998260498
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,33.622825887244
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,36.1230010986328
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,33.1018892935221
+EG,"Egypt, Arab Rep.",SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,31.8731307983398
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,21.330810546875
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,22.0958254757285
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,20.44559258931
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,19.2005186528071
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,18.6139938594155
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,17.3607250095097
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,15.9045597520982
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,16.2065694246062
+GH,Ghana,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,15.606270735823
+KE,Kenya,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,10.4185962462804
+KE,Kenya,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,8.67676730066979
+KE,Kenya,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,10.4975595474243
+KE,Kenya,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,11.8049232142021
+KE,Kenya,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,11.6347883294504
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,48.1839617510572
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,47.4687039298036
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,45.9400219155138
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,42.531967383806
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,39.6858047574445
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,37.7212021382481
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,35.319186358341
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,33.4735433090703
+MA,Morocco,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,32.0952579243239
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,9.41173924647801
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,8.88624308383425
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,7.41325884733851
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,7.56709586345553
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,6.3142892660234
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,6.76094647714264
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,7.34488296090452
+RW,Rwanda,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,7.57807264441764
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,15.3302400879779
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,16.0710053721835
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,15.6478973478986
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,14.6823561354842
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,13.3136624860931
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,12.60825139125
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,12.4178375059947
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,11.3494415127099
+SN,Senegal,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,10.8875992426245
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,4.01880979537964
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,5.16887784940301
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,5.32159018874409
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,3.59164319762461
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,7.18188265775187
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,2.85588898826608
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,4.27996511118124
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,4.78205361153138
+TZ,Tanzania,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,3.72893939925404
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,79.361930847168
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,84.8550872802734
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,87.5676574707031
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,87.8887100219727
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,88.2991790771484
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,88.1673889160156
+US,United States,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,88.8350524902344
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2023,23.493768799339
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2022,23.7271036201865
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2021,22.3431289991291
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2020,22.6148742572009
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2019,22.2442465104023
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2018,22.3515425184231
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2017,21.0902909603212
+ZA,South Africa,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2016,18.9292980324153
+ZW,Zimbabwe,SE.TER.ENRR,"School enrollment, tertiary (% gross)",2024,7.74912957845971

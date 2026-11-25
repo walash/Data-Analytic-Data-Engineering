@@ -1,0 +1,21 @@
+# Run from the docker/ directory:  docker compose up --build
+services:
+  edtech-pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: edtech-learning-analytics:latest
+    container_name: edtech_learning_analytics_pipeline
+    environment:
+      PYTHONUNBUFFERED: "1"
+      LOG_LEVEL: "INFO"
+      CONFIG_PATH: "/app/config/config.yaml"
+      PYTHONPATH: "/app"
+    volumes:
+      - ../data:/app/data
+      - ../config:/app/config:ro
+    command: >
+      sh -c "python src/ingestion/ingest.py &&
+             python src/transformation/transform.py &&
+             python src/loading/load.py"
+    restart: "no"

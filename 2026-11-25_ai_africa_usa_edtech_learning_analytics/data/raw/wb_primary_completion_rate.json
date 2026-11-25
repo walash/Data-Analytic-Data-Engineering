@@ -1,0 +1,2572 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 500,
+    "total": 160,
+    "sourceid": "2",
+    "lastupdated": "2026-11-11"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2024",
+      "value": 80.237080416679,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2023",
+      "value": 75.870809116479,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2022",
+      "value": 64.6678851501234,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2021",
+      "value": 69.1304469322063,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2020",
+      "value": 70.981401448419,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2019",
+      "value": 70.0887402010121,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2018",
+      "value": 68.5260195484655,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2017",
+      "value": 69.0517282328166,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2016",
+      "value": 63.9062691491088,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "countryiso3code": "CIV",
+      "date": "2015",
+      "value": 60.3254551191519,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2024",
+      "value": 75.2884678128093,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2023",
+      "value": 72.2156986466489,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2022",
+      "value": 70.4368165739108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2021",
+      "value": 69.4715407680741,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2019",
+      "value": 66.0216269788872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2018",
+      "value": 64.9830245804076,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2017",
+      "value": 68.703809542579,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2016",
+      "value": 74.3193827099685,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "countryiso3code": "CMR",
+      "date": "2015",
+      "value": 75.7092958263025,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2024",
+      "value": 98.2100688782627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": 93.8413993972316,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": 92.4316669556289,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": 91.826074813289,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": 88.7223371866174,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": 86.5582045319816,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": 83.7661313498518,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": 84.3103280366888,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2024",
+      "value": 54.4429654143725,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2023",
+      "value": 55.0561499631858,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2022",
+      "value": 60.9011228426355,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2020",
+      "value": 62.4525527223727,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "countryiso3code": "ETH",
+      "date": "2015",
+      "value": 51.4317405151101,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2024",
+      "value": 97.5019836425781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2022",
+      "value": 93.4155248289227,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2019",
+      "value": 93.8322499399433,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2018",
+      "value": 88.8965895894549,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2017",
+      "value": 89.296060543559,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "countryiso3code": "GHA",
+      "date": "2015",
+      "value": 94.2659750407999,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2016",
+      "value": 102.200240064297,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2015",
+      "value": 101.341661933882,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2024",
+      "value": 106.370769185132,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": 104.762394206542,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": 98.9278773878928,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": 98.1405287411357,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": 94.2797508694124,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": 91.7139082926889,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": 89.4482407222167,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": 89.8676963839556,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": 93.8368562372231,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": 95.6674536644757,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2024",
+      "value": 66.8181034887911,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2023",
+      "value": 59.3042433145261,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2021",
+      "value": 95.4018170049936,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2019",
+      "value": 95.977301224131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2018",
+      "value": 84.2233360485587,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2017",
+      "value": 76.0721783802394,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2016",
+      "value": 67.7449990888319,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "countryiso3code": "RWA",
+      "date": "2015",
+      "value": 63.1980644451776,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2024",
+      "value": 62.8559370532489,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2023",
+      "value": 61.5314165000969,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2022",
+      "value": 56.8702747567129,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2021",
+      "value": 63.0956724973326,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2020",
+      "value": 60.3359412043623,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2019",
+      "value": 60.8755832493715,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "countryiso3code": "SEN",
+      "date": "2015",
+      "value": 58.1250429122667,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2024",
+      "value": 77.3311793094267,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2023",
+      "value": 89.3124694824219,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2021",
+      "value": 74.4260315082726,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2020",
+      "value": 68.4711470524733,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2019",
+      "value": 64.7094759010993,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2018",
+      "value": 67.5348797150181,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2017",
+      "value": 67.2734642386931,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2016",
+      "value": 61.0601160776836,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "countryiso3code": "TZA",
+      "date": "2015",
+      "value": 64.0960613008478,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2017",
+      "value": 53.3121795654297,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2016",
+      "value": 55.0362396240234,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "countryiso3code": "UGA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2022",
+      "value": 95.743522644043,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2021",
+      "value": 101.091278076172,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": 100.923667907715,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": 100.489051818848,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": 100.092697143555,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": 98.8321990966797,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2023",
+      "value": 95.3327484577974,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 97.101965691325,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2021",
+      "value": 95.2203914213668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2020",
+      "value": 92.6580245068739,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2019",
+      "value": 93.0121131588576,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2018",
+      "value": 92.4496153244785,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2016",
+      "value": 90.274209979999,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2015",
+      "value": 91.3366137480997,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "countryiso3code": "ZMB",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2024",
+      "value": 85.9607634950894,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2023",
+      "value": 85.2029321232507,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2022",
+      "value": 83.1984085838883,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2021",
+      "value": 83.0338861778956,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2020",
+      "value": 88.343367374493,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2019",
+      "value": 86.8337629717761,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2018",
+      "value": 87.8698591326578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2017",
+      "value": 87.9318891782794,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2016",
+      "value": 88.9178597430998,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SE.PRM.CMPT.ZS",
+        "value": "Primary completion rate, total (% of relevant age group)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "countryiso3code": "ZWE",
+      "date": "2015",
+      "value": 89.236268331531,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

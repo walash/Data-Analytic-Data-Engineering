@@ -1,0 +1,48 @@
+country_id,country_name,indicator_id,indicator_name,year,value
+CI,Cote d'Ivoire,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,66.8399963378906
+CI,Cote d'Ivoire,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,68.1179517411164
+CI,Cote d'Ivoire,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,62.9900016784668
+CM,Cameroon,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2018,81.8899993896484
+EG,"Egypt, Arab Rep.",SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,95.190867622614
+EG,"Egypt, Arab Rep.",SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,96.6145122385941
+EG,"Egypt, Arab Rep.",SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2017,88.1900024414062
+ET,Ethiopia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,84.6900024414062
+ET,Ethiopia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,79.6678826947671
+ET,Ethiopia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,79.0500030517578
+ET,Ethiopia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,71.7900009155273
+GH,Ghana,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,91.5100021362305
+GH,Ghana,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2017,87.7799987792969
+GH,Ghana,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2015,80.5782617320423
+NG,Nigeria,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2024,81.3600006103516
+NG,Nigeria,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,73.6699981689453
+NG,Nigeria,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,72.9599990844727
+RW,Rwanda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,89.9700012207031
+RW,Rwanda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2020,91.5100021362305
+RW,Rwanda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2018,86.4899978637695
+RW,Rwanda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2015,88.5500030517578
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2023,67.4499969482422
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,75.2804219017061
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,66.5
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2018,65.9599990844727
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2017,69.4800033569336
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,64.5199966430664
+SN,Senegal,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2015,61.2900009155273
+TZ,Tanzania,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,87.0699996948242
+TZ,Tanzania,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2020,87.548390753389
+TZ,Tanzania,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2015,85.7600021362305
+UG,Uganda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2024,85.1500015258789
+UG,Uganda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2023,89.9400024414062
+UG,Uganda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,89.6325197413627
+UG,Uganda,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,79.7799987792969
+ZA,South Africa,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2024,97.1699981689453
+ZA,South Africa,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,96.6999969482422
+ZA,South Africa,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,98.4100036621094
+ZA,South Africa,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2016,96.7099990844727
+ZA,South Africa,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2015,98.9599990844727
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2024,77.6500015258789
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2022,84.4848995233983
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2021,84.1453910320871
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2020,85.8567532849787
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,84.0416067670309
+ZM,Zambia,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2018,77.6900024414062
+ZW,Zimbabwe,SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",2019,92.5100021362305
